@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/ZZZ-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>ZZZ visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/ZZZ-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ZZZ-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="ZZZ"><img src="/sets/ZZZ-files/icon.png">DREAMLAND</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/ZZZ-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/sets\ZZZ-files\img\2_Angel of Incense.jpg" id="2_Angel of Incense" data-flag="@X" onclick="openSidebar('2_Angel of Incense',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\32_Cavalier of Winter.jpg" id="32_Cavalier of Winter" data-flag="@X" onclick="openSidebar('32_Cavalier of Winter',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\62_The Adversary.jpg" id="62_The Adversary" data-flag="@X" onclick="openSidebar('62_The Adversary',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\92_Awaken Doom.jpg" id="92_Awaken Doom" data-flag="@X" onclick="openSidebar('92_Awaken Doom',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\122_Acidic Egg.jpg" id="122_Acidic Egg" data-flag="@X" onclick="openSidebar('122_Acidic Egg',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\3_Bauble Miser.jpg" id="3_Bauble Miser" data-flag="@X" onclick="openSidebar('3_Bauble Miser',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\33_Come Apart.jpg" id="33_Come Apart" data-flag="@X" onclick="openSidebar('33_Come Apart',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\63_Arachnid Nighthawk.jpg" id="63_Arachnid Nighthawk" data-flag="@X" onclick="openSidebar('63_Arachnid Nighthawk',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\93_Big Dreamer.jpg" id="93_Big Dreamer" data-flag="@X" onclick="openSidebar('93_Big Dreamer',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\123_Aristaeus.jpg" id="123_Aristaeus" data-flag="@X" onclick="openSidebar('123_Aristaeus',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\4_Bloody Bannerette.jpg" id="4_Bloody Bannerette" data-flag="@X" onclick="openSidebar('4_Bloody Bannerette',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\34_Commanding Stranger.jpg" id="34_Commanding Stranger" data-flag="@X" onclick="openSidebar('34_Commanding Stranger',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\64_Beautiful Corpse.jpg" id="64_Beautiful Corpse" data-flag="@X" onclick="openSidebar('64_Beautiful Corpse',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\94_Blade of the Beating Heart.jpg" id="94_Blade of the Beating Heart" data-flag="@X" onclick="openSidebar('94_Blade of the Beating Heart',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\124_Brave the Rapids.jpg" id="124_Brave the Rapids" data-flag="@X" onclick="openSidebar('124_Brave the Rapids',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\5_Burst Asunder.jpg" id="5_Burst Asunder" data-flag="@X" onclick="openSidebar('5_Burst Asunder',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\35_Consider.jpg" id="35_Consider" data-flag="@X" onclick="openSidebar('35_Consider',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\65_Burst from the Gates.jpg" id="65_Burst from the Gates" data-flag="@X" onclick="openSidebar('65_Burst from the Gates',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\95_Blood Blossom Gardener.jpg" id="95_Blood Blossom Gardener" data-flag="@X" onclick="openSidebar('95_Blood Blossom Gardener',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\125_Burst from the Crust.jpg" id="125_Burst from the Crust" data-flag="@X" onclick="openSidebar('125_Burst from the Crust',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\6_Defaced Figure.jpg" id="6_Defaced Figure" data-flag="@X" onclick="openSidebar('6_Defaced Figure',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\36_Curse of Invasion.jpg" id="36_Curse of Invasion" data-flag="@X" onclick="openSidebar('36_Curse of Invasion',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\66_Cadaver Kerfuffle.jpg" id="66_Cadaver Kerfuffle" data-flag="@X" onclick="openSidebar('66_Cadaver Kerfuffle',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\96_Blood in the Water.jpg" id="96_Blood in the Water" data-flag="@X" onclick="openSidebar('96_Blood in the Water',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\126_Click Into Place.jpg" id="126_Click Into Place" data-flag="@X" onclick="openSidebar('126_Click Into Place',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\7_Divine Acclaim.jpg" id="7_Divine Acclaim" data-flag="@X" onclick="openSidebar('7_Divine Acclaim',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\37_Deep Dark Delver.jpg" id="37_Deep Dark Delver" data-flag="@X" onclick="openSidebar('37_Deep Dark Delver',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\67_Caller of Regretful Dead.jpg" id="67_Caller of Regretful Dead" data-flag="@X" onclick="openSidebar('67_Caller of Regretful Dead',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\97_Cast to the Wastes.jpg" id="97_Cast to the Wastes" data-flag="@X" onclick="openSidebar('97_Cast to the Wastes',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\127_Crafted Crafter.jpg" id="127_Crafted Crafter" data-flag="@X" onclick="openSidebar('127_Crafted Crafter',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\8_Dreamcatcher.jpg" id="8_Dreamcatcher" data-flag="@X" onclick="openSidebar('8_Dreamcatcher',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\38_Dreamscape Artist.jpg" id="38_Dreamscape Artist" data-flag="@X" onclick="openSidebar('38_Dreamscape Artist',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\68_Celestial Sinkhole.jpg" id="68_Celestial Sinkhole" data-flag="@X" onclick="openSidebar('68_Celestial Sinkhole',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\98_Catharsis.jpg" id="98_Catharsis" data-flag="@X" onclick="openSidebar('98_Catharsis',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\128_Exploding Life.jpg" id="128_Exploding Life" data-flag="@X" onclick="openSidebar('128_Exploding Life',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\9_Duality Hierophant.jpg" id="9_Duality Hierophant" data-flag="@X" onclick="openSidebar('9_Duality Hierophant',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\39_Emerge from the Water.jpg" id="39_Emerge from the Water" data-flag="@X" onclick="openSidebar('39_Emerge from the Water',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\69_Cicada Queen.jpg" id="69_Cicada Queen" data-flag="@X" onclick="openSidebar('69_Cicada Queen',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\99_Caustic Egg.jpg" id="99_Caustic Egg" data-flag="@X" onclick="openSidebar('99_Caustic Egg',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\129_Ghost Market.jpg" id="129_Ghost Market" data-flag="@X" onclick="openSidebar('129_Ghost Market',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\10_Enter the Arena.jpg" id="10_Enter the Arena" data-flag="@X" onclick="openSidebar('10_Enter the Arena',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\40_Enantiomorphos.jpg" id="40_Enantiomorphos" data-flag="@X" onclick="openSidebar('40_Enantiomorphos',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\70_Commanding Figure.jpg" id="70_Commanding Figure" data-flag="@X" onclick="openSidebar('70_Commanding Figure',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\100_Chaotic Command.jpg" id="100_Chaotic Command" data-flag="@X" onclick="openSidebar('100_Chaotic Command',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\130_Giving Tree.jpg" id="130_Giving Tree" data-flag="@X" onclick="openSidebar('130_Giving Tree',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\11_Figure of Aries.jpg" id="11_Figure of Aries" data-flag="@X" onclick="openSidebar('11_Figure of Aries',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\41_Face to Face.jpg" id="41_Face to Face" data-flag="@X" onclick="openSidebar('41_Face to Face',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\71_Dance with Delusion.jpg" id="71_Dance with Delusion" data-flag="@X" onclick="openSidebar('71_Dance with Delusion',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\101_Charging Doom.jpg" id="101_Charging Doom" data-flag="@X" onclick="openSidebar('101_Charging Doom',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\131_Great Old Turtle.jpg" id="131_Great Old Turtle" data-flag="@X" onclick="openSidebar('131_Great Old Turtle',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\12_Golden Ratio.jpg" id="12_Golden Ratio" data-flag="@X" onclick="openSidebar('12_Golden Ratio',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\42_Far Sight.jpg" id="42_Far Sight" data-flag="@X" onclick="openSidebar('42_Far Sight',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\72_Death's Shadow.jpg" id="72_Deaths Shadow" data-flag="@X" onclick="openSidebar('72_Deaths Shadow',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\102_Clown of Many Cards.jpg" id="102_Clown of Many Cards" data-flag="@X" onclick="openSidebar('102_Clown of Many Cards',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\132_Hanswurst of Many Hands.jpg" id="132_Hanswurst of Many Hands" data-flag="@X" onclick="openSidebar('132_Hanswurst of Many Hands',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\13_Haunt of the Hanging Tree.jpg" id="13_Haunt of the Hanging Tree" data-flag="@X" onclick="openSidebar('13_Haunt of the Hanging Tree',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\43_Figure of the Crescent Moon.jpg" id="43_Figure of the Crescent Moon" data-flag="@X" onclick="openSidebar('43_Figure of the Crescent Moon',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\73_Doliente De Los Muertos.jpg" id="73_Doliente De Los Muertos" data-flag="@X" onclick="openSidebar('73_Doliente De Los Muertos',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\103_Cosmic Connection.jpg" id="103_Cosmic Connection" data-flag="@X" onclick="openSidebar('103_Cosmic Connection',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\133_Head of the Household.jpg" id="133_Head of the Household" data-flag="@X" onclick="openSidebar('133_Head of the Household',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\14_Hope Against Hope.jpg" id="14_Hope Against Hope" data-flag="@X" onclick="openSidebar('14_Hope Against Hope',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\44_Godstone.jpg" id="44_Godstone" data-flag="@X" onclick="openSidebar('44_Godstone',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\74_Doomed Descent.jpg" id="74_Doomed Descent" data-flag="@X" onclick="openSidebar('74_Doomed Descent',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\104_Dandy Fae.jpg" id="104_Dandy Fae" data-flag="@X" onclick="openSidebar('104_Dandy Fae',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\134_Lotus Sutra.jpg" id="134_Lotus Sutra" data-flag="@X" onclick="openSidebar('134_Lotus Sutra',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\15_Into the Void.jpg" id="15_Into the Void" data-flag="@X" onclick="openSidebar('15_Into the Void',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\45_Half Life.jpg" id="45_Half Life" data-flag="@X" onclick="openSidebar('45_Half Life',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\75_A Favor for a Favor.jpg" id="75_A Favor for a Favor" data-flag="@X" onclick="openSidebar('75_A Favor for a Favor',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\105_The Demiurge.jpg" id="105_The Demiurge" data-flag="@X" onclick="openSidebar('105_The Demiurge',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\135_Mother Nature.jpg" id="135_Mother Nature" data-flag="@X" onclick="openSidebar('135_Mother Nature',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\16_Multitudinous Masses.jpg" id="16_Multitudinous Masses" data-flag="@X" onclick="openSidebar('16_Multitudinous Masses',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\46_Marvelous Mechanisms.jpg" id="46_Marvelous Mechanisms" data-flag="@X" onclick="openSidebar('46_Marvelous Mechanisms',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\76_Id.jpg" id="76_Id" data-flag="@X" onclick="openSidebar('76_Id',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\106_Draw From the Earth.jpg" id="106_Draw From the Earth" data-flag="@X" onclick="openSidebar('106_Draw From the Earth',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\136_New Age Messiah.jpg" id="136_New Age Messiah" data-flag="@X" onclick="openSidebar('136_New Age Messiah',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\17_Mythologize.jpg" id="17_Mythologize" data-flag="@X" onclick="openSidebar('17_Mythologize',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\47_A Moment's Rest.jpg" id="47_A Moments Rest" data-flag="@X" onclick="openSidebar('47_A Moments Rest',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\77_Imago.jpg" id="77_Imago" data-flag="@X" onclick="openSidebar('77_Imago',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\107_Forbidden Fancy.jpg" id="107_Forbidden Fancy" data-flag="@X" onclick="openSidebar('107_Forbidden Fancy',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\137_Once Upon a Time.jpg" id="137_Once Upon a Time" data-flag="@X" onclick="openSidebar('137_Once Upon a Time',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\18_Pearly Gateway.jpg" id="18_Pearly Gateway" data-flag="@X" onclick="openSidebar('18_Pearly Gateway',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\48_Overmaster.jpg" id="48_Overmaster" data-flag="@X" onclick="openSidebar('48_Overmaster',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\78_Insider Info.jpg" id="78_Insider Info" data-flag="@X" onclick="openSidebar('78_Insider Info',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\108_Go Crazy.jpg" id="108_Go Crazy" data-flag="@X" onclick="openSidebar('108_Go Crazy',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\138_Pull Under.jpg" id="138_Pull Under" data-flag="@X" onclick="openSidebar('138_Pull Under',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\19_Propitiate.jpg" id="19_Propitiate" data-flag="@X" onclick="openSidebar('19_Propitiate',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\49_Palagic Nightmare.jpg" id="49_Palagic Nightmare" data-flag="@X" onclick="openSidebar('49_Palagic Nightmare',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\79_La Bella Morte.jpg" id="79_La Bella Morte" data-flag="@X" onclick="openSidebar('79_La Bella Morte',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\109_Lady in Red.jpg" id="109_Lady in Red" data-flag="@X" onclick="openSidebar('109_Lady in Red',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\139_Reach for the Sky.jpg" id="139_Reach for the Sky" data-flag="@X" onclick="openSidebar('139_Reach for the Sky',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\20_Sent to Far Off Places.jpg" id="20_Sent to Far Off Places" data-flag="@X" onclick="openSidebar('20_Sent to Far Off Places',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\50_Performer of Many Parts.jpg" id="50_Performer of Many Parts" data-flag="@X" onclick="openSidebar('50_Performer of Many Parts',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\80_Life or Death.jpg" id="80_Life or Death" data-flag="@X" onclick="openSidebar('80_Life or Death',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\110_Let the Rivers Run Red.jpg" id="110_Let the Rivers Run Red" data-flag="@X" onclick="openSidebar('110_Let the Rivers Run Red',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\140_Sapiovore.jpg" id="140_Sapiovore" data-flag="@X" onclick="openSidebar('140_Sapiovore',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\21_Seraph of Sorrows.jpg" id="21_Seraph of Sorrows" data-flag="@X" onclick="openSidebar('21_Seraph of Sorrows',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\51_Recall.jpg" id="51_Recall" data-flag="@X" onclick="openSidebar('51_Recall',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\81_Looming Doom.jpg" id="81_Looming Doom" data-flag="@X" onclick="openSidebar('81_Looming Doom',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\111_Lightning Bolt.jpg" id="111_Lightning Bolt" data-flag="@X" onclick="openSidebar('111_Lightning Bolt',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\141_Schooling.jpg" id="141_Schooling" data-flag="@X" onclick="openSidebar('141_Schooling',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\22_Shape of the Moon.jpg" id="22_Shape of the Moon" data-flag="@X" onclick="openSidebar('22_Shape of the Moon',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\52_Sail To Distant Shores.jpg" id="52_Sail To Distant Shores" data-flag="@X" onclick="openSidebar('52_Sail To Distant Shores',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\82_Manque.jpg" id="82_Manque" data-flag="@X" onclick="openSidebar('82_Manque',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\112_Lionize.jpg" id="112_Lionize" data-flag="@X" onclick="openSidebar('112_Lionize',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\142_Searching the Streams.jpg" id="142_Searching the Streams" data-flag="@X" onclick="openSidebar('142_Searching the Streams',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\23_Shepherd of Sea and Sky.jpg" id="23_Shepherd of Sea and Sky" data-flag="@X" onclick="openSidebar('23_Shepherd of Sea and Sky',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\53_The Shadow Man.jpg" id="53_The Shadow Man" data-flag="@X" onclick="openSidebar('53_The Shadow Man',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\83_Mindbending Vista.jpg" id="83_Mindbending Vista" data-flag="@X" onclick="openSidebar('83_Mindbending Vista',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\113_Lunge After.jpg" id="113_Lunge After" data-flag="@X" onclick="openSidebar('113_Lunge After',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\143_Skybridge Serpent.jpg" id="143_Skybridge Serpent" data-flag="@X" onclick="openSidebar('143_Skybridge Serpent',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\24_Sky High Angel.jpg" id="24_Sky High Angel" data-flag="@X" onclick="openSidebar('24_Sky High Angel',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\54_Shape in the Depths.jpg" id="54_Shape in the Depths" data-flag="@X" onclick="openSidebar('54_Shape in the Depths',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\84_Mindscaping.jpg" id="84_Mindscaping" data-flag="@X" onclick="openSidebar('84_Mindscaping',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\114_Maddened By the Revelation.jpg" id="114_Maddened By the Revelation" data-flag="@X" onclick="openSidebar('114_Maddened By the Revelation',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\144_Strange Egg.jpg" id="144_Strange Egg" data-flag="@X" onclick="openSidebar('144_Strange Egg',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\25_Spiritual Journey.jpg" id="25_Spiritual Journey" data-flag="@X" onclick="openSidebar('25_Spiritual Journey',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\55_Smear Across the Dreamscape.jpg" id="55_Smear Across the Dreamscape" data-flag="@X" onclick="openSidebar('55_Smear Across the Dreamscape',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\85_Pull Beneath the Waves.jpg" id="85_Pull Beneath the Waves" data-flag="@X" onclick="openSidebar('85_Pull Beneath the Waves',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\115_Nebulize.jpg" id="115_Nebulize" data-flag="@X" onclick="openSidebar('115_Nebulize',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\145_Summoning Stones.jpg" id="145_Summoning Stones" data-flag="@X" onclick="openSidebar('145_Summoning Stones',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\26_Stellar Egg.jpg" id="26_Stellar Egg" data-flag="@X" onclick="openSidebar('26_Stellar Egg',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\56_Spiral Out.jpg" id="56_Spiral Out" data-flag="@X" onclick="openSidebar('56_Spiral Out',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\86_Queen of Hearts.jpg" id="86_Queen of Hearts" data-flag="@X" onclick="openSidebar('86_Queen of Hearts',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\116_No Quarter.jpg" id="116_No Quarter" data-flag="@X" onclick="openSidebar('116_No Quarter',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\146_Take a Walk on the Wild Side.jpg" id="146_Take a Walk on the Wild Side" data-flag="@X" onclick="openSidebar('146_Take a Walk on the Wild Side',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\27_Sunsewer.jpg" id="27_Sunsewer" data-flag="@X" onclick="openSidebar('27_Sunsewer',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\57_Thirst for Companionship.jpg" id="57_Thirst for Companionship" data-flag="@X" onclick="openSidebar('57_Thirst for Companionship',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\87_Reborn from Ashes.jpg" id="87_Reborn from Ashes" data-flag="@X" onclick="openSidebar('87_Reborn from Ashes',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\117_Opulent Queen.jpg" id="117_Opulent Queen" data-flag="@X" onclick="openSidebar('117_Opulent Queen',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\147_Torg, Titan of Time's Ravage.jpg" id="147_Torg, Titan of Times Ravage" data-flag="@X" onclick="openSidebar('147_Torg, Titan of Times Ravage',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\28_Swords to Plowshares.jpg" id="28_Swords to Plowshares" data-flag="@X" onclick="openSidebar('28_Swords to Plowshares',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\58_Ticking Time Piece.jpg" id="58_Ticking Time Piece" data-flag="@X" onclick="openSidebar('58_Ticking Time Piece',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\88_Shrouded by Night.jpg" id="88_Shrouded by Night" data-flag="@X" onclick="openSidebar('88_Shrouded by Night',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\118_Pale Rider.jpg" id="118_Pale Rider" data-flag="@X" onclick="openSidebar('118_Pale Rider',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\148_Towering Titan.jpg" id="148_Towering Titan" data-flag="@X" onclick="openSidebar('148_Towering Titan',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\29_A Thousand Days' Sunrise.jpg" id="29_A Thousand Days Sunrise" data-flag="@X" onclick="openSidebar('29_A Thousand Days Sunrise',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\59_Trashcaster Mage.jpg" id="59_Trashcaster Mage" data-flag="@X" onclick="openSidebar('59_Trashcaster Mage',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\89_Traumatic Experience.jpg" id="89_Traumatic Experience" data-flag="@X" onclick="openSidebar('89_Traumatic Experience',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\119_Portent of Doom.jpg" id="119_Portent of Doom" data-flag="@X" onclick="openSidebar('119_Portent of Doom',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\149_Un œuf.jpg" id="149_Un œuf" data-flag="@X" onclick="openSidebar('149_Un œuf',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\30_Turn to Salt.jpg" id="30_Turn to Salt" data-flag="@X" onclick="openSidebar('30_Turn to Salt',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\60_Vizier of Three Faces.jpg" id="60_Vizier of Three Faces" data-flag="@X" onclick="openSidebar('60_Vizier of Three Faces',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\90_Underworld Unleashed.jpg" id="90_Underworld Unleashed" data-flag="@X" onclick="openSidebar('90_Underworld Unleashed',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\120_Rattle to the Bone.jpg" id="120_Rattle to the Bone" data-flag="@X" onclick="openSidebar('120_Rattle to the Bone',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\150_Waking Nightmare.jpg" id="150_Waking Nightmare" data-flag="@X" onclick="openSidebar('150_Waking Nightmare',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\31_Watching Warden.jpg" id="31_Watching Warden" data-flag="@X" onclick="openSidebar('31_Watching Warden',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\61_World Domination.jpg" id="61_World Domination" data-flag="@X" onclick="openSidebar('61_World Domination',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\91_Unnaturalize.jpg" id="91_Unnaturalize" data-flag="@X" onclick="openSidebar('91_Unnaturalize',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\121_Red Sea.jpg" id="121_Red Sea" data-flag="@X" onclick="openSidebar('121_Red Sea',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\151_Wild Encounters.jpg" id="151_Wild Encounters" data-flag="@X" onclick="openSidebar('151_Wild Encounters',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\152_Cloud Nine.jpg" id="152_Cloud Nine" data-flag="@X" onclick="openSidebar('152_Cloud Nine',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\154_Flood of Visions.jpg" id="154_Flood of Visions" data-flag="@X" onclick="openSidebar('154_Flood of Visions',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\156_Decorum Macabre.jpg" id="156_Decorum Macabre" data-flag="@X" onclick="openSidebar('156_Decorum Macabre',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\158_Carved Elder.jpg" id="158_Carved Elder" data-flag="@X" onclick="openSidebar('158_Carved Elder',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\160_Hopeblossom.jpg" id="160_Hopeblossom" data-flag="@X" onclick="openSidebar('160_Hopeblossom',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\153_Divine Machine.jpg" id="153_Divine Machine" data-flag="@X" onclick="openSidebar('153_Divine Machine',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\155_Take a Hike.jpg" id="155_Take a Hike" data-flag="@X" onclick="openSidebar('155_Take a Hike',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\157_The Fiend.jpg" id="157_The Fiend" data-flag="@X" onclick="openSidebar('157_The Fiend',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\159_Unleash the Beast.jpg" id="159_Unleash the Beast" data-flag="@X" onclick="openSidebar('159_Unleash the Beast',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\161_Mysterious Benefactor.jpg" id="161_Mysterious Benefactor" data-flag="@X" onclick="openSidebar('161_Mysterious Benefactor',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\162_Star-Crossed Lovers.jpg" id="162_Star-Crossed Lovers" data-flag="@X" onclick="openSidebar('162_Star-Crossed Lovers',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\164_Inexplicable Scenario.jpg" id="164_Inexplicable Scenario" data-flag="@X" onclick="openSidebar('164_Inexplicable Scenario',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\166_Megalophobia.jpg" id="166_Megalophobia" data-flag="@X" onclick="openSidebar('166_Megalophobia',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\168_The Ego.jpg" id="168_The Ego" data-flag="@X" onclick="openSidebar('168_The Ego',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\170_Cobbled Copy.jpg" id="170_Cobbled Copy" data-flag="@X" onclick="openSidebar('170_Cobbled Copy',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\163_Tornado of Souls.jpg" id="163_Tornado of Souls" data-flag="@X" onclick="openSidebar('163_Tornado of Souls',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\165_Stream of Consciousness.jpg" id="165_Stream of Consciousness" data-flag="@X" onclick="openSidebar('165_Stream of Consciousness',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\167_Skyfishing.jpg" id="167_Skyfishing" data-flag="@X" onclick="openSidebar('167_Skyfishing',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\169_Seven Thunder Scion.jpg" id="169_Seven Thunder Scion" data-flag="@X" onclick="openSidebar('169_Seven Thunder Scion',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\171_Seashore Shell Seller.jpg" id="171_Seashore Shell Seller" data-flag="@X" onclick="openSidebar('171_Seashore Shell Seller',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\1_Worldwalker.jpg" id="1_Worldwalker" data-flag="@X" onclick="openSidebar('1_Worldwalker',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\172_Brass Knight.jpg" id="172_Brass Knight" data-flag="@X" onclick="openSidebar('172_Brass Knight',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\173_Chromatic Curio.jpg" id="173_Chromatic Curio" data-flag="@X" onclick="openSidebar('173_Chromatic Curio',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\174_Doomsday Clock.jpg" id="174_Doomsday Clock" data-flag="@X" onclick="openSidebar('174_Doomsday Clock',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\175_Emerald Vim.jpg" id="175_Emerald Vim" data-flag="@X" onclick="openSidebar('175_Emerald Vim',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\176_Onyx Vim.jpg" id="176_Onyx Vim" data-flag="@X" onclick="openSidebar('176_Onyx Vim',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\177_Opal Vim.jpg" id="177_Opal Vim" data-flag="@X" onclick="openSidebar('177_Opal Vim',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\178_Puppet Ruler.jpg" id="178_Puppet Ruler" data-flag="@X" onclick="openSidebar('178_Puppet Ruler',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\179_Ruby Vim.jpg" id="179_Ruby Vim" data-flag="@X" onclick="openSidebar('179_Ruby Vim',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\180_Sapphire Vim.jpg" id="180_Sapphire Vim" data-flag="@X" onclick="openSidebar('180_Sapphire Vim',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\190_Great Horizon.jpg" id="190_Great Horizon" data-flag="@X" onclick="openSidebar('190_Great Horizon',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\192_Great Nightscape.jpg" id="192_Great Nightscape" data-flag="@X" onclick="openSidebar('192_Great Nightscape',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\187_Great Flows.jpg" id="187_Great Flows" data-flag="@X" onclick="openSidebar('187_Great Flows',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\185_Great Expanse.jpg" id="185_Great Expanse" data-flag="@X" onclick="openSidebar('185_Great Expanse',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\193_Great Tree.jpg" id="193_Great Tree" data-flag="@X" onclick="openSidebar('193_Great Tree',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\188_Great Gap.jpg" id="188_Great Gap" data-flag="@X" onclick="openSidebar('188_Great Gap',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\191_Great Lake.jpg" id="191_Great Lake" data-flag="@X" onclick="openSidebar('191_Great Lake',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\189_Great Gully.jpg" id="189_Great Gully" data-flag="@X" onclick="openSidebar('189_Great Gully',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\184_Great Desert.jpg" id="184_Great Desert" data-flag="@X" onclick="openSidebar('184_Great Desert',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\186_Great Falls.jpg" id="186_Great Falls" data-flag="@X" onclick="openSidebar('186_Great Falls',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\181_Bosk.jpg" id="181_Bosk" data-flag="@X" onclick="openSidebar('181_Bosk',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\182_Cistern.jpg" id="182_Cistern" data-flag="@X" onclick="openSidebar('182_Cistern',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\183_End of the Rainbow.jpg" id="183_End of the Rainbow" data-flag="@X" onclick="openSidebar('183_End of the Rainbow',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\194_Horizon.jpg" id="194_Horizon" data-flag="@X" onclick="openSidebar('194_Horizon',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\195_Mine.jpg" id="195_Mine" data-flag="@X" onclick="openSidebar('195_Mine',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\196_Prismatic Vista.jpg" id="196_Prismatic Vista" data-flag="@X" onclick="openSidebar('196_Prismatic Vista',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\197_Ravine.jpg" id="197_Ravine" data-flag="@X" onclick="openSidebar('197_Ravine',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\198_Reef.jpg" id="198_Reef" data-flag="@X" onclick="openSidebar('198_Reef',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\199_Ruins.jpg" id="199_Ruins" data-flag="@X" onclick="openSidebar('199_Ruins',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\200_Sanctuary.jpg" id="200_Sanctuary" data-flag="@X" onclick="openSidebar('200_Sanctuary',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\201_Shanty.jpg" id="201_Shanty" data-flag="@X" onclick="openSidebar('201_Shanty',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\202_Stormfront.jpg" id="202_Stormfront" data-flag="@X" onclick="openSidebar('202_Stormfront',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\203_Wasteland.jpg" id="203_Wasteland" data-flag="@X" onclick="openSidebar('203_Wasteland',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\204_Where The Dead Gods Lay.jpg" id="204_Where The Dead Gods Lay" data-flag="@X" onclick="openSidebar('204_Where The Dead Gods Lay',false)"></div>
+				<div class="container"><img alt="/sets\ZZZ-files\img\205_Wilderness.jpg" id="205_Wilderness" data-flag="@X" onclick="openSidebar('205_Wilderness',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+			let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+			let random_card = card_list_arrayified[i];
+
+			const url = new URL('card', window.location.origin);
+			const params = {
+				set: random_card.set,
+				num: random_card.number,
+				name: random_card.card_name
+			}
+			for (const key in params) {
+				url.searchParams.append(key, params[key]);
+			}
+
+			window.location.href = url;
+		}
+	</script>
+</body>
+</html>
