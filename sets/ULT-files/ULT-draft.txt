@@ -1,0 +1,1150 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Harley Quinn, Crime Queen",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Clown Villain",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/46_Harley Quinn, Crime Queen.jpg"
+			}
+		},
+		{
+			"name": "Madeline, Summit Chaser",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/62_Madeline, Summit Chaser.jpg"
+			}
+		},
+		{
+			"name": "Ghiaccio and White Album",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/16_Ghiaccio and White Album.jpg"
+			}
+		},
+		{
+			"name": "Shadow of Evil",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Socery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/35_Shadow of Evil.jpg"
+			}
+		},
+		{
+			"name": "Clicker",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus Zombie",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/59_Clicker.jpg"
+			}
+		},
+		{
+			"name": "Art the Clown",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Clown",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/21_Art the Clown.jpg"
+			}
+		},
+		{
+			"name": "Nyarlethotep",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/31_Nyarlethotep.jpg"
+			}
+		},
+		{
+			"name": "Deal with the Devil",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/23_Deal with the Devil.jpg"
+			}
+		},
+		{
+			"name": "Abraham Lincoln",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/70_Abraham Lincoln.jpg"
+			}
+		},
+		{
+			"name": "Zoro, Three Sword Fighter",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/65_Zoro, Three Sword Fighter.jpg"
+			}
+		},
+		{
+			"name": "Master Belch",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}",
+			"type": "Legendary Creature — Ooze",
+			"collector_number": "28",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/28_Master Belch_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/28_Master Belch_front.jpg"
+			}
+		},
+		{
+			"name": "GLaDOS",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/78_GLaDOS.jpg"
+			}
+		},
+		{
+			"name": "Freddy Krueger, Dream Demon",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Nightmare",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/25_Freddy Krueger, Dream Demon.jpg"
+			}
+		},
+		{
+			"name": "Pyramid Head",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Legendary Creature — Nightmare",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/79_Pyramid Head.jpg"
+			}
+		},
+		{
+			"name": "Billy the Puppet",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Artifact Creature — Toy",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/68_Billy the Puppet.jpg"
+			}
+		},
+		{
+			"name": "Giorno Giovanna",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Vampire Rogue",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/71_Giorno Giovanna.jpg"
+			}
+		},
+		{
+			"name": "The Administrator",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Human Elder",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/73_The Administrator.jpg"
+			}
+		},
+		{
+			"name": "NiGHTS, Playful Nightmaren",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Nightmare Clown",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/19_NiGHTS, Playful Nightmaren.jpg"
+			}
+		},
+		{
+			"name": "Sanji, Impassioned Cook",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/10_Sanji, Impassioned Cook.jpg"
+			}
+		},
+		{
+			"name": "Dogma",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Legendary Creature — Angel Avatar",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/3_Dogma.jpg"
+			}
+		},
+		{
+			"name": "Combine Unit",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/2_Combine Unit.jpg"
+			}
+		},
+		{
+			"name": "Lady Gaga, Fame Monster",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Performer",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/6_Lady Gaga, Fame Monster.jpg"
+			}
+		},
+		{
+			"name": "Starman",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Alien",
+			"collector_number": "11",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/11_Starman_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/11_Starman_front.jpg"
+			}
+		},
+		{
+			"name": "The Master Sword",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/7_The Master Sword.jpg"
+			}
+		},
+		{
+			"name": "Pearl, the Renegade",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Gem Rebel",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/9_Pearl, the Renegade.jpg"
+			}
+		},
+		{
+			"name": "Solid Snake",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/20_Solid Snake.jpg"
+			}
+		},
+		{
+			"name": "Cardboard Box",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/81_Cardboard Box.jpg"
+			}
+		},
+		{
+			"name": "Inspect the Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/18_Inspect the Sphinx_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/18_Inspect the Sphinx_front.jpg"
+			}
+		},
+		{
+			"name": "Face the Shadow",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/15_Face the Shadow.jpg"
+			}
+		},
+		{
+			"name": "The T-850 Terminator",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/36_The T-850 Terminator.jpg"
+			}
+		},
+		{
+			"name": "Majora's Mask",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/67_Majora's Mask.jpg"
+			}
+		},
+		{
+			"name": "Reverse Bear Trap",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/32_Reverse Bear Trap.jpg"
+			}
+		},
+		{
+			"name": "Tim Wright",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "72",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/72_Tim Wright_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/72_Tim Wright_front.jpg"
+			}
+		},
+		{
+			"name": "Behind the Mask",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/22_Behind the Mask.jpg"
+			}
+		},
+		{
+			"name": "Mel, the Last Human",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/48_Mel, the Last Human.jpg"
+			}
+		},
+		{
+			"name": "Dovakhin's Command",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/60_Dovakhin's Command.jpg"
+			}
+		},
+		{
+			"name": "The Rise of Skynet",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/33_The Rise of Skynet.jpg"
+			}
+		},
+		{
+			"name": "Lost and Found",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/61_Lost and Found.jpg"
+			}
+		},
+		{
+			"name": "Death",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Enchantment Creature — Incarnation",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/24_Death.jpg"
+			}
+		},
+		{
+			"name": "Michael Myers",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Legendary Enchantment Creature — Human",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/29_Michael Myers.jpg"
+			}
+		},
+		{
+			"name": "V1",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/54_V1.jpg"
+			}
+		},
+		{
+			"name": "Smash Cut",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/52_Smash Cut.jpg"
+			}
+		},
+		{
+			"name": "Simon Henriksson",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/51_Simon Henriksson.jpg"
+			}
+		},
+		{
+			"name": "Happy Happy Attacky",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/45_Happy Happy Attacky_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/45_Happy Happy Attacky_front.jpg"
+			}
+		},
+		{
+			"name": "+RICOSHOT",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/38_+RICOSHOT.jpg"
+			}
+		},
+		{
+			"name": "Asura Strike",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/39_Asura Strike.jpg"
+			}
+		},
+		{
+			"name": "Enter the Gungeon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/41_Enter the Gungeon.jpg"
+			}
+		},
+		{
+			"name": "Deal with The Doctor",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/40_Deal with The Doctor.jpg"
+			}
+		},
+		{
+			"name": "The Ukelele",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/53_The Ukelele.jpg"
+			}
+		},
+		{
+			"name": "Judgement Boy",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/27_Judgement Boy.jpg"
+			}
+		},
+		{
+			"name": "We Don't Go to Ravenholm",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/55_We Don't Go to Ravenholm.jpg"
+			}
+		},
+		{
+			"name": "Ghast",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat Spirit",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/42_Ghast.jpg"
+			}
+		},
+		{
+			"name": "Gordon Freeman",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Rebel Scientist",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/44_Gordon Freeman.jpg"
+			}
+		},
+		{
+			"name": "Mount Rushmore",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/49_Mount Rushmore.jpg"
+			}
+		},
+		{
+			"name": "Ari, Human Sympathiser",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Ape Scientist",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/58_Ari, Human Sympathiser.jpg"
+			}
+		},
+		{
+			"name": "Rescuing Paula",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "64",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/64_Rescuing Paula_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/64_Rescuing Paula_front.jpg"
+			}
+		},
+		{
+			"name": "Apocalyptic View",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/57_Apocalyptic View.jpg"
+			}
+		},
+		{
+			"name": "Mooshroom",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus Ox",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/63_Mooshroom.jpg"
+			}
+		},
+		{
+			"name": "Off the Hook",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Octopus Performer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/8_Off the Hook.jpg"
+			}
+		},
+		{
+			"name": "Scoop",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/34_Scoop.jpg"
+			}
+		},
+		{
+			"name": "Mettaton",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Artifact Creature — Robot Performer",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/74_Mettaton.jpg"
+			}
+		},
+		{
+			"name": "Silver the Hedgehog",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Hedgehog",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/66_Silver the Hedgehog.jpg"
+			}
+		},
+		{
+			"name": "Joker, Phantom Thief",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/69_Joker, Phantom Thief.jpg"
+			}
+		},
+		{
+			"name": "Yano, Rap Artist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Porcupine",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/56_Yano, Rap Artist.jpg"
+			}
+		},
+		{
+			"name": "The Eiffel Tower",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/14_The Eiffel Tower.jpg"
+			}
+		},
+		{
+			"name": "AK-47",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/80_AK-47.jpg"
+			}
+		},
+		{
+			"name": "William Afton",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "37",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/37_William Afton_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/37_William Afton_front.jpg"
+			}
+		},
+		{
+			"name": "ZeroRanger, Endless Fighter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Artifact Creature — Robot Warrior",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/76_ZeroRanger, Endless Fighter.jpg"
+			}
+		},
+		{
+			"name": "The Delorean",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/82_The Delorean.jpg"
+			}
+		},
+		{
+			"name": "G-Man's Proposition",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/26_G-Man's Proposition.jpg"
+			}
+		},
+		{
+			"name": "Jesus Christ",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human God",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/5_Jesus Christ.jpg"
+			}
+		},
+		{
+			"name": "Darth Vader",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Human Sith",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/77_Darth Vader.jpg"
+			}
+		},
+		{
+			"name": "Scaramouche the Merciless",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Artifact Creature — Robot Bard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/75_Scaramouche the Merciless.jpg"
+			}
+		},
+		{
+			"name": "Armor of Ice",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/1_Armor of Ice.jpg"
+			}
+		},
+		{
+			"name": "The Ice Climbers",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/17_The Ice Climbers.jpg"
+			}
+		},
+		{
+			"name": "Doc Brown",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/13_Doc Brown.jpg"
+			}
+		},
+		{
+			"name": "Jacket, Midnight Animal",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/47_Jacket, Midnight Animal.jpg"
+			}
+		},
+		{
+			"name": "Mr. L, Man of Mystery",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/30_Mr. L, Man of Mystery.jpg"
+			}
+		},
+		{
+			"name": "The Gungeon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/83_The Gungeon.jpg"
+			}
+		},
+		{
+			"name": "Luigi's Mansion",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/84_Luigi's Mansion.jpg"
+			}
+		},
+		{
+			"name": "Red",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/50_Red.jpg"
+			}
+		},
+		{
+			"name": "Blue",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/12_Blue.jpg"
+			}
+		},
+		{
+			"name": "Hatsune Miku, Digital Diva",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/4_Hatsune Miku, Digital Diva.jpg"
+			}
+		},
+		{
+			"name": "Glimmer of Gold",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/43_Glimmer of Gold.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Harley Quinn, Crime Queen
+	2 Madeline, Summit Chaser
+	2 Ghiaccio and White Album
+	2 Shadow of Evil
+	2 Clicker
+	2 Art the Clown
+	2 Nyarlethotep
+	2 Deal with the Devil
+	2 Abraham Lincoln
+	2 Zoro, Three Sword Fighter
+	2 Master Belch
+	2 GLaDOS
+	2 Freddy Krueger, Dream Demon
+	2 Pyramid Head
+	2 Billy the Puppet
+	2 Giorno Giovanna
+	2 The Administrator
+	2 NiGHTS, Playful Nightmaren
+	2 Sanji, Impassioned Cook
+	2 Dogma
+	2 Combine Unit
+	2 Lady Gaga, Fame Monster
+	2 Starman
+	2 The Master Sword
+	2 Pearl, the Renegade
+	2 Solid Snake
+	2 Cardboard Box
+	2 Inspect the Sphinx
+	2 Face the Shadow
+	2 The T-850 Terminator
+	1 Majora's Mask
+	2 Reverse Bear Trap
+	2 Tim Wright
+	2 Behind the Mask
+	2 Mel, the Last Human
+	2 Dovakhin's Command
+	2 The Rise of Skynet
+	2 Lost and Found
+	2 Death
+	2 Michael Myers
+	2 V1
+	2 Smash Cut
+	2 Simon Henriksson
+	2 Happy Happy Attacky
+	2 +RICOSHOT
+	2 Asura Strike
+	2 Enter the Gungeon
+	2 Deal with The Doctor
+	2 The Ukelele
+	2 Judgement Boy
+	2 We Don't Go to Ravenholm
+	2 Ghast
+	2 Gordon Freeman
+	2 Mount Rushmore
+	2 Ari, Human Sympathiser
+	2 Rescuing Paula
+	2 Apocalyptic View
+	2 Mooshroom
+	2 Off the Hook
+	2 Scoop
+	2 Mettaton
+	2 Silver the Hedgehog
+	2 Joker, Phantom Thief
+	2 Yano, Rap Artist
+	2 The Eiffel Tower
+	2 AK-47
+	2 William Afton
+	2 ZeroRanger, Endless Fighter
+	2 The Delorean
+	2 G-Man's Proposition
+	2 Jesus Christ
+	2 Darth Vader
+	2 Scaramouche the Merciless
+	2 Armor of Ice
+	2 The Ice Climbers
+	2 Doc Brown
+	2 Jacket, Midnight Animal
+	2 Mr. L, Man of Mystery
+	2 The Gungeon
+	2 Luigi's Mansion
+	2 Red
+	2 Blue
+	2 Hatsune Miku, Digital Diva
+	2 Glimmer of Gold
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Harley Quinn, Crime Queen
+	2 Madeline, Summit Chaser
+	2 Ghiaccio and White Album
+	2 Shadow of Evil
+	2 Clicker
+	2 Art the Clown
+	2 Nyarlethotep
+	2 Deal with the Devil
+	2 Abraham Lincoln
+	2 Zoro, Three Sword Fighter
+	2 Master Belch
+	2 GLaDOS
+	2 Freddy Krueger, Dream Demon
+	2 Pyramid Head
+	2 Billy the Puppet
+	2 Giorno Giovanna
+	2 The Administrator
+	2 NiGHTS, Playful Nightmaren
+	2 Sanji, Impassioned Cook
+	2 Dogma
+	2 Combine Unit
+	2 Lady Gaga, Fame Monster
+	2 Starman
+	2 The Master Sword
+	2 Pearl, the Renegade
+	2 Solid Snake
+	2 Cardboard Box
+	2 Inspect the Sphinx
+	2 Face the Shadow
+	2 The T-850 Terminator
+	1 Majora's Mask
+	2 Reverse Bear Trap
+	2 Tim Wright
+	2 Behind the Mask
+	2 Mel, the Last Human
+	2 Dovakhin's Command
+	2 The Rise of Skynet
+	2 Lost and Found
+	2 Death
+	2 Michael Myers
+	2 V1
+	2 Smash Cut
+	2 Simon Henriksson
+	2 Happy Happy Attacky
+	2 +RICOSHOT
+	2 Asura Strike
+	2 Enter the Gungeon
+	2 Deal with The Doctor
+	2 The Ukelele
+	2 Judgement Boy
+	2 We Don't Go to Ravenholm
+	2 Ghast
+	2 Gordon Freeman
+	2 Mount Rushmore
+	2 Ari, Human Sympathiser
+	2 Rescuing Paula
+	2 Apocalyptic View
+	2 Mooshroom
+	2 Off the Hook
+	2 Scoop
+	2 Mettaton
+	2 Silver the Hedgehog
+	2 Joker, Phantom Thief
+	2 Yano, Rap Artist
+	2 The Eiffel Tower
+	2 AK-47
+	2 William Afton
+	2 ZeroRanger, Endless Fighter
+	2 The Delorean
+	2 G-Man's Proposition
+	2 Jesus Christ
+	2 Darth Vader
+	2 Scaramouche the Merciless
+	2 Armor of Ice
+	2 The Ice Climbers
+	2 Doc Brown
+	2 Jacket, Midnight Animal
+	2 Mr. L, Man of Mystery
+	2 The Gungeon
+	2 Luigi's Mansion
+	2 Red
+	2 Blue
+	2 Hatsune Miku, Digital Diva
+	2 Glimmer of Gold
+[wildcard(1)]
+	7 Harley Quinn, Crime Queen
+	7 Madeline, Summit Chaser
+	7 Ghiaccio and White Album
+	7 Shadow of Evil
+	7 Clicker
+	7 Art the Clown
+	7 Nyarlethotep
+	7 Deal with the Devil
+	7 Abraham Lincoln
+	7 Zoro, Three Sword Fighter
+	7 Master Belch
+	7 GLaDOS
+	7 Freddy Krueger, Dream Demon
+	7 Pyramid Head
+	7 Billy the Puppet
+	7 Giorno Giovanna
+	7 The Administrator
+	7 NiGHTS, Playful Nightmaren
+	7 Sanji, Impassioned Cook
+	7 Dogma
+	7 Combine Unit
+	7 Lady Gaga, Fame Monster
+	7 Starman
+	7 The Master Sword
+	7 Pearl, the Renegade
+	7 Solid Snake
+	7 Cardboard Box
+	7 Inspect the Sphinx
+	7 Face the Shadow
+	7 The T-850 Terminator
+	4 Majora's Mask
+	7 Reverse Bear Trap
+	7 Tim Wright
+	7 Behind the Mask
+	7 Mel, the Last Human
+	7 Dovakhin's Command
+	7 The Rise of Skynet
+	7 Lost and Found
+	7 Death
+	7 Michael Myers
+	7 V1
+	7 Smash Cut
+	7 Simon Henriksson
+	7 Happy Happy Attacky
+	7 +RICOSHOT
+	7 Asura Strike
+	7 Enter the Gungeon
+	7 Deal with The Doctor
+	7 The Ukelele
+	7 Judgement Boy
+	7 We Don't Go to Ravenholm
+	7 Ghast
+	7 Gordon Freeman
+	7 Mount Rushmore
+	7 Ari, Human Sympathiser
+	7 Rescuing Paula
+	7 Apocalyptic View
+	7 Mooshroom
+	7 Off the Hook
+	7 Scoop
+	7 Mettaton
+	7 Silver the Hedgehog
+	7 Joker, Phantom Thief
+	7 Yano, Rap Artist
+	7 The Eiffel Tower
+	7 AK-47
+	7 William Afton
+	7 ZeroRanger, Endless Fighter
+	7 The Delorean
+	7 G-Man's Proposition
+	7 Jesus Christ
+	7 Darth Vader
+	7 Scaramouche the Merciless
+	7 Armor of Ice
+	7 The Ice Climbers
+	7 Doc Brown
+	7 Jacket, Midnight Animal
+	7 Mr. L, Man of Mystery
+	7 The Gungeon
+	7 Luigi's Mansion
+	7 Red
+	7 Blue
+	7 Hatsune Miku, Digital Diva
+	7 Glimmer of Gold
