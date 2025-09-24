@@ -1,4 +1,404 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Itachi's Genjutsu added.
+Our Little Horror Story added.
+This Town Ain't Big Enough added.
+Onyxia, Broodmother added.
+Predator Elite added.
+Orochimaru added.
+Victor Frankenstein added.
+The Flash, Barry Allen added.
+James' Judgement added.
+Princess Zelda added.
+Gaara of the Red Sand added.
+Save Soul added.
+Starman Jr. added.
+Rasengan added.
+Big Ben added.
+Lady Bow added.
+Reconsider added.
+Leone Abbachio added.
+The Birth of Frankenstein added.
+Madotsuki, Dream Traveller added.
+Mann Co. Propaganda added.
+Portal Gun added.
+Chell, Slippery Subject added.
+In Onyxia's Clutches added.
+Deathwing added.
+Kabuto's War Plan added.
+Catwoman, Selina Kyle added.
+Nami, Straw Hat Navigator added.
+RICOSHOT added.
+Surreal Encounter added.
+Needles Kane added.
+Tenten, Toolmaster added.
+Poison Ivy added.
+George Washington added.
+Kermit added.
+Grievous Assault added.
+Mapping the Grand Line added.
+Hidden in the Leaves added.
+Chidori added.
+Slender's Forest added.
+Vibranium Shield added.
+The Eiffel Tower added.
+Hulkbuster Armor added.
+SCP-294, Infinite Vendor added.
+Into the Dreamworld added.
+Slenderman added.
+Mimi, Cutesy Housekeep added.
+The Riddler added.
+Time to Choose added.
+General Grievous added.
+Gol D. Roger added.
+SAVE Point added.
+Peridot added.
+Class Struggle added.
+Wracked With Grief added.
+Lapis Lazuli added.
+Doofenshmirtz Tower added.
+Funny Valentine added.
+The Blunderdome added.
+Silent Hill added.
+The Spy added.
+
+Shadow of Evil removed.
+Pyramid Head removed.
+Starman removed.
++RICOSHOT removed.
+G-Man's Proposition removed.
+Armor of Ice removed.
+
+Harley Quinn, Crime Queen
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, put a +1/+1 counter on each creature you control that's a Clown or Hyena. This ability triggers only once each turn. => Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn.
+
+Madeline, Summit Chaser
+
+Ghiaccio and White Album
+
+Clicker
+
+Art the Clown
+
+Nyarlethotep
+
+Deal with the Devil
+cost: {2}{B} => {1}{B}
+rules_text: Mill three cards. An opponent chooses one card from among them to cost 1 life, another to cost 2 life, and a third to cost 3 life. You may put any number of those cards into your hand by paying their associated costs.
+Flashback—{4}{B}, Sacrifice a creature. => Mill three cards. An opponent chooses one card from among them to cost 1 life, another to cost 2 life, and a third to cost 3 life. You may put any number of those cards into your hand by paying the associated life cost.
+
+Abraham Lincoln
+rules_text: [i]POTUS[/i] — When Abraham Lincoln enters, you become the monarch.
+[i]Emancipation Proclamation[/i] — At the beginning of your end step, if you're the monarch, create a Homeward Path token.
+Partner with AK-47 [i](When this enters, target player may put an AK-47 into their hand from their library, then shuffle.)[/i] => [i]POTUS[/i] — When Abraham Lincoln enters, you take the lead.
+[i]Emancipation Proclamation[/i] — At the beginning of your end step, if you're in the lead, create a Homeward Path token.
+pt: 3/3 => 3/4
+
+Zoro, Three Sword Fighter
+rules_text: Trample, ward {3}
+When Zoro, Three Sword Fighter enters, you may put a finality counter on him. If you do, return up to three target permanent cards from your graveyard to your hand.
+Whenever you tap a permanent for mana, add {G}{G}. Spend this mana only to cast Equipment spells or to activate equip abilities. => Ward {3}
+When Zoro, Three Sword Fighter enters, you may put a finality counter on him. If you do, return up to three target permanent cards from your graveyard to your hand.
+Whenever you tap a permanent for mana, add {G}{G}. Spend this mana only to cast Equipment spells or to activate equip abilities.
+
+Master Belch
+
+GLaDOS
+rules_text: Ward {3}
+[i]Portal Testing [/i]— At the beginning of your end step, exile up to one other creature you control, then return it to the battlefield.
+[i]Specimen Disposal[/i] — Whenever a creature you control enters from exile, you may sacrifice it. If you do, draw a card. => Reach
+Ward—{3}, Pay 3 life.
+[i]Portal Testing [/i]— At the beginning of your end step, exile up to one other target creature you control, then return it to the battlefield.
+
+Freddy Krueger, Dream Demon
+rules_text: Menace
+Whenever Freddy Krueger enters, destroy up to one target tapped creature.
+Whenever you commit a crime, Freddy Krueger connives. This ability triggers only once each turn. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => Menace
+Whenever Freddy Krueger enters, destroy up to one target tapped creature.
+Whenever you commit a crime, Freddy Krueger connives. This ability triggers only once each turn.
+
+Billy the Puppet
+cost: {4}{B}{R} => {3}{R}{W}{B}
+
+Giorno Giovanna
+type: Legendary Creature — Human Vampire Rogue => Legendary Creature — Human Rogue
+rules_text: Whenever another creature you control dies, target opponent loses 1 life and you gain 1 life. If this is the third time this ability has resolved this turn, return target artifact or non-Aura enchantment card from your graveyard to the battlefield with a finality counter on it. It's a 3/3 creature in addition to its other types. => Whenever another creature you control dies, target opponent loses 1 life and you gain 1 life. If this is the third time this ability has resolved this turn, return target artifact or non-Aura enchantment card from your graveyard to the battlefield. It's a 3/3 creature in addition to its other types.
+
+The Administrator
+rules_text: When The Administrator enters, create The Intelligence, a legendary artifact with “{T}: Add {U}{R}. You can't spend this mana to cast creature spells.”
+Whenever you cast a noncreature spell, create a 1/1 blue and red Mercenary creature token. 
+{T}: If you control exactly nine other creatures, those creatures get +9/+9 until end of turn. => When The Administrator enters, create The Intelligence, a legendary artifact with “{T}: Add {U}{R}. Spend this mana only to cast noncreature spells”
+Whenever you cast a noncreature spell, create a 1/1 blue and red Mercenary creature token with haste.
+
+NiGHTS, Playful Nightmaren
+cost: {2}{U} => {1}{U}
+rules_text: Flash
+Flying
+When NiGHTS enters, choose two. You may choose the same mode more than once.
+• Return another target creature you control to its owner's hand.
+• NiGHTS connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => Flying
+When NiGHTS enters, return target tapped creature to its owner's hand. If you controlled it, NiGHTS connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+
+Sanji, Impassioned Cook
+rules_text: Multikicker—Tap an untapped creature you control.
+Double strike
+When Sanji, Impassioned Cook enters, create a Food token for each time it was kicked.
+Whenever you gain life, put a +1/+1 counter on each creature you control. => Multikicker—Tap an untapped creature you control.
+When Sanji, Impassioned Cook enters, create a Food token, then create another for each time he was kicked.
+Whenever you gain life, put a +1/+1 counter on each creature you control.
+pt: 3/6 => 6/6
+
+Dogma
+pt: 4/4 => 4/3
+
+Combine Unit
+
+Lady Gaga, Fame Monster
+rules_text: [i]World Famous[/i] — When Lady Gaga enters, you become the monarch.
+Whenever you draw a card, amass following 1. [i](Create a +1/+1 counter on an Army you control. It's also a following. If you don't control an Army, create a 0/0 black following Army creature token first.)[/i] => [i]World Famous[/i] — When Lady Gaga enters, you take the lead. [i](It's the monarch.)[/i]
+Whenever you draw a card, amass following 1. [i](Put a +1/+1 counter on an Army you control. It's also a following. If you don't control an Army, create a 0/0 black following Army creature token first.)[/i]
+
+The Master Sword
+rules_text: When The Master Sword enters, exile target creature an opponent controls and put seven time counters on it. If it doesn't have suspend, it gains suspend.
+Equipped creature has double strike and hexproof from black.
+Equip legendary {4} => When The Master Sword enters, exile target creature an opponent controls and put seven time counters on it. If it doesn't have suspend, it gains suspend.
+Equipped creature has double strike.
+Equip legendary {4}
+
+Pearl, the Renegade
+
+Solid Snake
+cost: {2}{U} => {1}{U}
+rules_text: When Solid Snake enters or is turned face up, attach up to one target Aura or Equipment you control to it.
+[i]Infiltration[/i] — Whenever one or more modified creatures you control deal combat damage to a player, draw a card for each of those creatures, then discard a card for each of those creatures.
+Disguise {1}{U} => When Solid Snake is turned face up, put a +1/+1 counter on him.
+Whenever one or more modified creatures you control deal combat damage to a player, draw a card for each of those creatures, then discard that many cards.
+Disguise {1}{U}
+pt: 2/2 => 1/2
+
+Cardboard Box
+rules_text: Equipped creature gets +1/+1.
+{3}, {T}: Exile equipped creature, then cloak it and attach Cardboard Box to it.
+Equip {1} => Equipped creature gets +1/+1.
+{3}, {T}: Exile equipped creature, then cloak it. Attach Cardboard Box to it.
+Equip {1}
+
+Inspect the Sphinx
+rules_text: Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control without a +1/+1 counter on it.
+Sacrifice Inspect the Sphinx: Draw two cards. Activate this ability only if you control at least four modified creatures [i](Equipment, Auras you control, and counters are modifications.)[/i] => Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control without a counter on it.
+Sacrifice Inspect the Sphinx: Draw two cards. Activate this ability only if you control at least four modified creatures
+
+Face the Shadow
+
+The T-850 Terminator
+rules_text: Menace
+Ward—Discard a card
+When The T-850 Terminator enters or is turned face up, you may put an Equipment card from your hand onto the battlefield. If you do, lose life equal to its mana value, then attach it to The T-850 Terminator.
+Disguise {4}{B} => Menace
+Ward—Discard a card.
+When The T-850 Terminator enters or is turned face up, you may put an Equipment card from your hand onto the battlefield. If you do, lose life equal to its mana value, then attach it to The T-850 Terminator.
+Disguise {4}{B}
+
+Majora's Mask
+rules_text: When Majora's Mask enters, attach it to target creature with mana value 3 or less. You gain control of that creature for as long as Majora's Mask remains attached to it.
+Equipped creature has flying, menace, and “Whenever this creature attacks, it connives.”
+Equip {4} => When Majora's Mask enters, attach it to target creature with mana value 3 or less. You gain control of that creature for as long as Majora's Mask remains attached to it.
+Equipped creature has flying and “Whenever this creature attacks, it connives.”
+Equip {4}
+
+Reverse Bear Trap
+
+Tim Wright
+rules_text: When Tim enters, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+{4}{W}{B}: Create a white Aura enchantment token named Mask attached to Tim. The token has enchant permanent and umbra armor. Transform Tim. [i](If Tim would be destroyed, instead remove all damage from it and destroy his mask.)[/i] => When Tim enters, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+{4}{W}{B}: Create a white Aura enchantment token named Mask attached to Tim. The token has enchant permanent and umbra armor. Transform Tim. [i](If Tim would be destroyed, instead remove all damage from him and destroy his mask.)[/i]
+
+Behind the Mask
+rules_text: Choose one —
+• Look at target player's hand. Choose a nonland, noncreature card from among them. That player discards that card.
+• Destroy target face down creature.
+Entwine—Sacrifice a creature [i](Choose both if you pay the entwine cost.)[/i] => Choose one —
+• Look at target player's hand. Choose a nonland, noncreature card from among them. That player discards that card.
+• Destroy target face down creature.
+
+Mel, the Last Human
+rules_text: Haste
+Whenever Mel deals combat damage to a player, cloak the top card of that player's library. For as long as it remains face down, you may spend mana of any type to turn it face up.
+Disguise {R}{R} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i] => Haste
+Whenever Mel deals combat damage to a player, cloak the top card of that player's library. For as long as it remains face down, you may spend mana of any type to turn it face up.
+Disguise {R}{R}
+
+Dovakhin's Command
+
+The Rise of Skynet
+
+Lost and Found
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, mill three cards.
+{1}, Sacrifice Lost and Found: Return target card from your graveyard to your hand. => [i]Landfall[/i] — Whenever a land you control enters, mill two cards.
+{1}, Sacrifice Lost and Found: Return target card from your graveyard to your hand.
+
+Death
+
+Michael Myers
+
+V1
+rules_text: [i]BLOOD IS FUEL[/i] — As an additional cost to cast spells that target creatures you control, you may sacrifice any number of other artifacts. That spell costs {2} less to cast for each of those artifacts.
+[i]HELL IS FULL[/i] — Whenever a creature dies, you may exile it and create a Blood token. Do this only once each turn. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i] => [i]BLOOD IS FUEL[/i] — As an additional cost to cast spells that target creatures you control, you may sacrifice any number of other artifacts. That spell costs {2} less to cast for each of artifact sacrificed this way.
+[i]HELL IS FULL[/i] — Whenever a creature dies, you may exile it and create a Blood token. Do this only once each turn.
+
+Smash Cut
+
+Simon Henriksson
+rules_text: Double strike, trample
+At the beginning of your upkeep, target opponent creates a 3/2 red Nightmare creature token. => Double strike, trample
+Ward—Pay 3 life.
+At the beginning of your upkeep, target opponent creates a 3/2 red Nightmare creature token.
+
+Happy Happy Attacky
+
+Asura Strike
+
+Enter the Gungeon
+cost: {3}{R} => {4}{R}
+rules_text: When Enter the Gungeon enters, it deals 2 damage to each creature.
+At the beginning of your upkeep, reveal the top five cards of your library and choose an Aura or Equipment card from among them at random. Exile that card and put the rest on the bottom of your library in a random order. You may play the exiled card this turn. => When Enter the Gungeon enters, it deals 2 damage to any number of targets.
+At the beginning of your upkeep, reveal the top five cards of your library and choose an Aura or Equipment card from among them at random. Exile that card and put the rest on the bottom of your library in a random order. You may play the exiled card this turn.
+
+Deal with The Doctor
+
+The Ukelele
+
+Judgement Boy
+rules_text: Flying
+When Judgement Boy enters, choose Love or Money —
+• Love — Create a 1/1 white Human creature token. Put a lifelink counter on it.
+• Money — Sacrifice any number of creatures, then draw that many cards. => Flying
+When Judgement Boy enters, choose Love or Money —
+• Love — Create a 1/1 white Human creature token.
+• Money — Sacrifice any number of creatures, then draw that many cards.
+
+We Don't Go to Ravenholm
+type: Sorcery => Enchantment
+cost: {R}{R} => {1}{R}
+rules_text: Create a 2/2 black Zombie creature token. If this spell was cast from your graveyard, create X of those tokens instead.
+Zombies you control gain haste and trample until end of turn.
+Flashback—{X}{R}{R}{R}, Sacrifice X lands => [i]Landfall[/i] — Whenever a land you control enters, you may pay 1 life. If you do, create a 2/2 black Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Ghast
+
+Gordon Freeman
+rules_text: When Gordon Freeman enters, create an Equipment artifact named Crowbar. It has “Equipped creature gets +3/+0” and equip {3}.
+[i]Valiant[/i] — Whenever Gordon Freeman becomes the target of a spell or ability, as you cast your next spell from your hand this turn, it gains cascade. This ability triggers only once each turn. => Ward—Pay 3 life
+[i]Right Man, Wrong Place[/i] — Whenever Gordon Freeman becomes the target of a spell or ability you control, as you cast your next spell from your hand this turn, it gains cascade. This ability triggers only once each turn.
+pt: 2/4 => 3/3
+
+Mount Rushmore
+cost: {3}{R}{R} => {1}{G}
+rules_text: When Mount Rushmore enters, target opponent becomes the monarch and you exile cards from the top of your library until you exile four creature cards. For the rest of the game, as long as you're the monarch, you may play the exiled creature cards. They're legendary Nobles in addition to their other types.
+Nobles you control get +2/+0 and have haste. => As an additional cost to cast this spell, exile four legendary creature cards from your graveyard.
+When Mount Rushmore enters, you take the lead.
+{T}: Add one mana of any color.
+
+Ari, Human Sympathiser
+rules_text: When Ari enters, target Human you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Modified creatures you control get +1/+1. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Ari enters, target Human you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Modified creatures you control get +1/+1.
+
+Rescuing Paula
+
+Apocalyptic View
+
+Mooshroom
+rules_text: {1}, Exile a card from your graveyard: Put a spore counter on Mooshroom.
+Remove three spore counters from Mooshroom: Put a +1/+1 counter on each creature you control. => Squad {3} [i](As an additional cost to cast this spell, you may pay {3} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+At the beginning of your upkeep, put a spore counter on Mooshroom.
+Remove three spore counters from among permanents you control: Put a +1/+1 counter on each creature you control.
+
+Off the Hook
+rules_text: [i]World Famous[/i] — When Off the Hook enters, you become the monarch.
+If one or more tokens would be created under your control while you're the monarch, twice that many of those tokens are created instead. => [i]World Famous[/i] — When Off the Hook enters, you take the lead.
+If one or more tokens would be created under your control while you're in the lead, twice that many of those tokens are created instead.
+
+Scoop
+
+Mettaton
+rules_text: [i]World Famous[/i] — When Mettaton enters, you become the monarch.
+[i]Sky-High Ratings[/i] — Whenever you draw a card, put a +1/+1 counter on Mettaton.
+Remove a +1/+1 counter from Mettaton: Create a tapped Treasure token. => [i]World Famous[/i] — When Mettaton enters, you take the lead. [i](It's the monarch.)[/i]
+[i]Sky-High Ratings[/i] — Whenever you cast a noncreature spell, put a +1/+1 counter on Mettaton.
+pt: 2/2 => 2/3
+
+Silver the Hedgehog
+cost: {1}{W}{U} => {2}{W}{U}
+rules_text: If a creature entering would cause a triggered ability of a permanent you control to trigger, if that creature entered from exile or was cast from exile, that ability triggers an additional time.
+{W}{U}: Exile target creature you control and put three time counters on it. If it doesn't have suspend, it gains suspend. => If another creature entering would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+{W}{U}: Exile target creature you control and put two time counters on it. If it doesn't have suspend, it gains suspend.
+
+Joker, Phantom Thief
+rules_text: Whenever you commit a crime, gain control of target artifact or creature without a stolen heart counter on it. Gain control of that permanent until end of turn and put a stolen heart counter on it. Untap it. It gains haste until end of turn. Do this only once each turn. => Whenever you commit a crime, gain control of target artifact or creature without a stolen heart counter on it. Put a stolen heart counter on it. Untap it. It gains haste until end of turn. Do this only once each turn.
+
+Yano, Rap Artist
+type: Legendary Creature — Porcupine => Legendary Creature — Porcupine Performer
+
+AK-47
+
+William Afton
+
+ZeroRanger, Endless Fighter
+rules_text: Mobilize 1; First strike, haste
+If you would create a creature token, you may instead create a 2/1 red and white Robot Warrior artifact creature token. [i](Tokens created by replacing a mobilize token still enter tapped and attacking and are still sacrificed at end of turn.)[/i] => Mobilize 1; First strike, haste [i](Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)[/i]
+If you would create a creature token, you may instead create a 2/1 red and white Robot Warrior artifact creature token. [i](Tokens created by replacing a mobilize token still enter tapped and attacking and are still sacrificed at end of turn.)[/i]
+
+The Delorean
+
+Jesus Christ
+
+Darth Vader
+rules_text: First strike, deathtouch, menace
+When Darth Vader enters, destroy up to one target legendary creature.
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they discard a card or sacrifice a nonland permanent. => First strike, deathtouch, menace
+Ward—Discard a card.
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+
+Scaramouche the Merciless
+rules_text: You may play lands from your graveyard. If you play a land this way, it enters with a finality counter on it.
+Whenever a land you control enters, you may put three +1/+1 counters on it. If you do, it becomes a 0/0 Golem artifact creature with haste that's still a land.
+Golems you control have menace and vigilance. => You may play lands from your graveyard. If you play a land this way, it enters with a finality counter and three +1/+1 counters on it. It's a 0/0 Golem artifact creature with haste that's still a land.
+Golems you control have menace and vigilance.
+
+The Ice Climbers
+
+Doc Brown
+
+Jacket, Midnight Animal
+
+Mr. L, Man of Mystery
+
+The Gungeon
+
+Luigi's Mansion
+
+Red
+
+Blue
+
+Hatsune Miku, Digital Diva
+rules_text: [i]World is Mine — [/i]When Hatsune Miku enters, you become the monarch.
+Whenever another creature or artifact you control enters, put a +1/+1 counter on Hatsune Miku. If you're the monarch, put a +1/+1 counter on target creature you control instead. => [i]World is Mine — [/i]When Hatsune Miku enters, you take the lead. [i](It's the monarch.)[/i]
+Whenever another creature or artifact you control enters, put a +1/+1 counter on Hatsune Miku. If you're in the lead, put a +1/+1 counter on target creature you control instead.
+
+Glimmer of Gold
+rules_text: When Glimmer of Gold enters, create four Treasure tokens.
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and may spend mana of any type to do so. => When Glimmer of Gold enters, create four Treasure tokens.
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

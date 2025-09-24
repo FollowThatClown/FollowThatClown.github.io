@@ -1,7 +1,7 @@
 ﻿{
     "name": "Ultimate Showdown Of Ultimate Destiny",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "cube",
     "unpreviewed": "card back",
@@ -2760,6 +2760,5 @@
             "alias": "",
             "notes": ""
         }
-    ],
-    "version": 3
+    ]
 }
