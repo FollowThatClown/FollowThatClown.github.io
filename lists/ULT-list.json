@@ -1,508 +1,616 @@
 ﻿[
     {
         "card_name": "Combine Unit",
-        "number": 1,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Blue",
-        "number": 17,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Art the Clown",
-        "number": 35,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Asura Strike",
-        "number": 59,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Apocalyptic View",
-        "number": 84,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Dogma",
         "number": 2,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Chell, Slippery Subject",
-        "number": 18,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Behind the Mask",
-        "number": 36,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Class Struggle",
-        "number": 60,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Ari, Human Sympathiser",
-        "number": 85,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Hatsune Miku, Digital Diva",
-        "number": 3,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Doc Brown",
-        "number": 19,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "The Birth of Frankenstein",
-        "number": 37,
-        "shape": "saga",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Deal with The Doctor",
-        "number": 61,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Clicker",
-        "number": 86,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Jesus Christ",
-        "number": 4,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "The Eiffel Tower",
-        "number": 20,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Catwoman, Selina Kyle",
-        "number": 38,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Enter the Gungeon",
-        "number": 62,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Dovakhin's Command",
-        "number": 87,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Lady Bow",
-        "number": 5,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Face the Shadow",
+        "card_name": "Andi, Unlikely Smuggler",
         "number": 21,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Chidori",
-        "number": 39,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Ghast",
-        "number": 63,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "George Washington",
-        "number": 88,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Lady Gaga, Fame Monster",
-        "number": 6,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Ghiaccio and White Album",
-        "number": 22,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Deal with the Devil",
-        "number": 40,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Glimmer of Gold",
-        "number": 64,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Grievous Assault",
-        "number": 89,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "The Master Sword",
-        "number": 7,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "The Ice Climbers",
-        "number": 23,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Death",
-        "number": 41,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Gordon Freeman",
-        "number": 65,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Hidden in the Leaves",
-        "number": 90,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Off the Hook",
-        "number": 8,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Inspect the Sphinx",
-        "number": 24,
-        "shape": "modal double faced",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Freddy Krueger, Dream Demon",
-        "number": 42,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Happy Happy Attacky",
-        "number": 66,
-        "shape": "modal double faced",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Kermit",
-        "number": 91,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Pearl, the Renegade",
-        "number": 9,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Lapis Lazuli",
-        "number": 25,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "In Onyxia's Clutches",
+        "card_name": "A.M",
         "number": 43,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Harley Quinn, Crime Queen",
-        "number": 67,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Lost and Found",
-        "number": 92,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Princess Zelda",
-        "number": 10,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Leone Abbachio",
-        "number": 26,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Itachi's Genjutsu",
-        "number": 44,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Into the Dreamworld",
-        "number": 68,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Madeline, Summit Chaser",
-        "number": 93,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Rasengan",
-        "number": 11,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Mann Co. Propaganda",
-        "number": 27,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "James' Judgement",
-        "number": 45,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Jacket, Midnight Animal",
-        "number": 69,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Mapping the Grand Line",
-        "number": 94,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Sanji, Impassioned Cook",
-        "number": 12,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "NiGHTS, Playful Nightmaren",
-        "number": 28,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Judgement Boy",
-        "number": 46,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Madotsuki, Dream Traveller",
-        "number": 70,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Mooshroom",
-        "number": 95,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "SAVE Point",
-        "number": 13,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Portal Gun",
-        "number": 29,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Kabuto's War Plan",
-        "number": 47,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Mel, the Last Human",
-        "number": 71,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Mount Rushmore",
-        "number": 96,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Save Soul",
-        "number": 14,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Reconsider",
-        "number": 30,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Master Belch",
-        "number": 48,
-        "shape": "transform double faced",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Nami, Straw Hat Navigator",
-        "number": 72,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Peridot",
-        "number": 97,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Starman Jr.",
-        "number": 15,
-        "shape": "transform double faced",
-        "set": "ULT"
-    },
-    {
-        "card_name": "The Riddler",
-        "number": 31,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Michael Myers",
-        "number": 49,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Needles Kane",
+        "card_name": "Asura Strike",
         "number": 73,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Poison Ivy",
-        "number": 98,
+        "card_name": "Ari, Human Sympathiser",
+        "number": 101,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Tenten, Toolmaster",
-        "number": 16,
+        "card_name": "Dogma",
+        "number": 3,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Solid Snake",
-        "number": 32,
+        "card_name": "Blue",
+        "number": 22,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Mr. L, Man of Mystery",
-        "number": 50,
+        "card_name": "Art the Clown",
+        "number": 44,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Red",
+        "card_name": "Class Struggle",
         "number": 74,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Rescuing Paula",
-        "number": 99,
+        "card_name": "Clicker",
+        "number": 102,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Hatsune Miku, Digital Diva",
+        "number": 4,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Chell, Slippery Subject",
+        "number": 23,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Behind the Mask",
+        "number": 45,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Deal with The Doctor",
+        "number": 75,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Combine Occupation",
+        "number": 103,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Jesus Christ",
+        "number": 5,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Destroyed Android",
+        "number": 24,
         "shape": "transform double faced",
         "set": "ULT"
+    },
+    {
+        "card_name": "The Birth of Frankenstein",
+        "number": 46,
+        "shape": "saga",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Enter the Gungeon",
+        "number": 76,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Dovakhin's Command",
+        "number": 104,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Lady Bow",
+        "number": 6,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Doc Brown",
+        "number": 25,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Captured Deathcard",
+        "number": 47,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Ghast",
+        "number": 77,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "George Washington",
+        "number": 105,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Lady Gaga, Fame Monster",
+        "number": 7,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "The Eiffel Tower",
+        "number": 26,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Catwoman, Selina Kyle",
+        "number": 48,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Glimmer of Gold",
+        "number": 78,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Grievous Assault",
+        "number": 106,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Lamball",
+        "number": 8,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Face the Shadow",
+        "number": 27,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Chidori",
+        "number": 49,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Gordon Freeman",
+        "number": 79,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Hidden in the Leaves",
+        "number": 107,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "The Master Sword",
+        "number": 9,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Ghiaccio and White Album",
+        "number": 28,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Deal with the Devil",
+        "number": 50,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Happy Happy Attacky",
+        "number": 80,
+        "shape": "modal double faced",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Kermit",
+        "number": 108,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Off the Hook",
+        "number": 10,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Guinevere's Fefurbishment",
+        "number": 29,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Death",
+        "number": 51,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Harley Quinn, Crime Queen",
+        "number": 81,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Lost and Found",
+        "number": 109,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Pearl, the Renegade",
+        "number": 11,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "The Ice Climbers",
+        "number": 30,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Evil Reborn",
+        "number": 52,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Into the Dreamworld",
+        "number": 82,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Madeline, Summit Chaser",
+        "number": 110,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Princess Zelda",
+        "number": 12,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Inspect the Sphinx",
+        "number": 31,
+        "shape": "modal double faced",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Freddy Krueger, Dream Demon",
+        "number": 53,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Jacket, Midnight Animal",
+        "number": 83,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mapping the Grand Line",
+        "number": 111,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Rasengan",
+        "number": 13,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Lapis Lazuli",
+        "number": 32,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "In Onyxia's Clutches",
+        "number": 54,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Madotsuki, Dream Traveller",
+        "number": 84,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mooshroom",
+        "number": 112,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Sanji, Impassioned Cook",
+        "number": 14,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Larcin, Invisible Agent",
+        "number": 33,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Itachi's Genjutsu",
+        "number": 55,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mel, the Last Human",
+        "number": 85,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mount Rushmore",
+        "number": 113,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "SAVE Point",
+        "number": 15,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Leone Abbachio",
+        "number": 34,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Jack, the Pumpkin King",
+        "number": 56,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Nami, Straw Hat Navigator",
+        "number": 86,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Peridot",
+        "number": 114,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Save Soul",
+        "number": 16,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mann Co. Propaganda",
+        "number": 35,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "James' Judgement",
+        "number": 57,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Needles Kane",
+        "number": 87,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Poison Ivy",
+        "number": 115,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Starman Jr.",
+        "number": 17,
+        "shape": "transform double faced",
+        "set": "ULT"
+    },
+    {
+        "card_name": "NiGHTS, Playful Nightmaren",
+        "number": 36,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Judgement Boy",
+        "number": 58,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Red",
+        "number": 88,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Rescuing Paula",
+        "number": 116,
+        "shape": "transform double faced",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Tenten, Toolmaster",
+        "number": 18,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Portal Gun",
+        "number": 37,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Kabuto's War Plan",
+        "number": 59,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "RICOSHOT",
+        "number": 89,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Sahar, Masterful Duelist",
+        "number": 117,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Thread Storm",
+        "number": 19,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Reconsider",
+        "number": 38,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Master Belch",
+        "number": 60,
+        "shape": "transform double faced",
+        "set": "ULT"
+    },
+    {
+        "card_name": "The Shotgun King",
+        "number": 90,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Squire, Recon Specialist",
+        "number": 118,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Who You Gonna Call",
+        "number": 20,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "The Riddler",
+        "number": 39,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Michael Myers",
+        "number": 61,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Simon Henriksson",
+        "number": 91,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Zoro, Three Sword Fighter",
+        "number": 119,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Solid Snake",
+        "number": 40,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mr. L, Man of Mystery",
+        "number": 62,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Sizz",
+        "number": 92,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "The Spy",
-        "number": 33,
+        "number": 41,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Nyarlethotep",
-        "number": 51,
+        "card_name": "Nasty End",
+        "number": 63,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "RICOSHOT",
-        "number": 75,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
-        "card_name": "Zoro, Three Sword Fighter",
-        "number": 100,
+        "card_name": "Smash Cut",
+        "number": 93,
         "shape": "normal",
         "set": "ULT"
     },
@@ -510,20 +618,23 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "This Town Ain't Big Enough",
-        "number": 34,
+        "number": 42,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Our Little Horror Story",
-        "number": 52,
+        "card_name": "Nyarlethotep",
+        "number": 64,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Simon Henriksson",
-        "number": 76,
+        "card_name": "Spark Bolt With Trigger",
+        "number": 94,
         "shape": "normal",
         "set": "ULT"
     },
@@ -538,13 +649,13 @@
     },
     {
         "card_name": "Reverse Bear Trap",
-        "number": 53,
+        "number": 65,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Smash Cut",
-        "number": 77,
+        "card_name": "Surreal Encounter",
+        "number": 95,
         "shape": "normal",
         "set": "ULT"
     },
@@ -559,13 +670,55 @@
     },
     {
         "card_name": "The Rise of Skynet",
-        "number": 54,
+        "number": 66,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Surreal Encounter",
-        "number": 78,
+        "card_name": "The Ukelele",
+        "number": 96,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sasori, Human Puppeteer",
+        "number": 67,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "V1",
+        "number": 97,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Satan",
+        "number": 68,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "We Don't Go to Ravenholm",
+        "number": 98,
         "shape": "normal",
         "set": "ULT"
     },
@@ -580,13 +733,13 @@
     },
     {
         "card_name": "Scoop",
-        "number": 55,
+        "number": 69,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "The Ukelele",
-        "number": 79,
+        "card_name": "Wracked With Grief",
+        "number": 99,
         "shape": "normal",
         "set": "ULT"
     },
@@ -601,13 +754,13 @@
     },
     {
         "card_name": "The T-850 Terminator",
-        "number": 56,
+        "number": 70,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "V1",
-        "number": 80,
+        "card_name": "Yano, Rap Artist",
+        "number": 100,
         "shape": "normal",
         "set": "ULT"
     },
@@ -622,15 +775,12 @@
     },
     {
         "card_name": "Time to Choose",
-        "number": 57,
+        "number": 71,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "We Don't Go to Ravenholm",
-        "number": 81,
-        "shape": "normal",
-        "set": "ULT"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -643,33 +793,12 @@
     },
     {
         "card_name": "William Afton",
-        "number": 58,
+        "number": 72,
         "shape": "transform double faced",
         "set": "ULT"
     },
     {
-        "card_name": "Wracked With Grief",
-        "number": 82,
-        "shape": "normal",
-        "set": "ULT"
-    },
-    {
         "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Yano, Rap Artist",
-        "number": 83,
-        "shape": "normal",
-        "set": "ULT"
     },
     {
         "card_name": "e"
@@ -689,32 +818,32 @@
     "a->gold",
     {
         "card_name": "Silver the Hedgehog",
-        "number": 101,
+        "number": 120,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Majora's Mask",
-        "number": 102,
+        "number": 121,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Joker, Phantom Thief",
-        "number": 104,
+        "number": 123,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Abraham Lincoln",
-        "number": 105,
+        "number": 124,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Mimi, Cutesy Housekeep",
-        "number": 106,
-        "shape": "transform double faced",
+        "card_name": "Barristan, Man-at-Arms",
+        "number": 126,
+        "shape": "normal",
         "set": "ULT"
     },
     {
@@ -722,7 +851,7 @@
     },
     {
         "card_name": "Slenderman",
-        "number": 103,
+        "number": 122,
         "shape": "normal",
         "set": "ULT"
     },
@@ -730,10 +859,16 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "War On Christmas",
+        "number": 125,
+        "shape": "battle split",
+        "set": "ULT"
     },
     {
-        "card_name": "e"
+        "card_name": "Mimi, Cutesy Housekeep",
+        "number": 127,
+        "shape": "transform double faced",
+        "set": "ULT"
     },
     {
         "card_name": "er"
@@ -752,52 +887,55 @@
     },
     {
         "card_name": "Giorno Giovanna",
-        "number": 107,
+        "number": 128,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "The Administrator",
-        "number": 109,
+        "number": 130,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "Scaramouche the Merciless",
-        "number": 111,
+        "card_name": "Luigi",
+        "number": 132,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Gaara of the Red Sand",
-        "number": 112,
+        "number": 134,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Victor Frankenstein",
-        "number": 114,
+        "number": 136,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Tim Wright",
-        "number": 108,
+        "number": 129,
         "shape": "transform double faced",
         "set": "ULT"
     },
     {
         "card_name": "Mettaton",
-        "number": 110,
+        "number": 131,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "e"
+        "card_name": "Scaramouche the Merciless",
+        "number": 133,
+        "shape": "normal",
+        "set": "ULT"
     },
     {
         "card_name": "ZeroRanger, Endless Fighter",
-        "number": 113,
+        "number": 135,
         "shape": "normal",
         "set": "ULT"
     },
@@ -821,27 +959,45 @@
     },
     {
         "card_name": "GLaDOS",
-        "number": 121,
+        "number": 144,
         "shape": "transform double faced",
         "set": "ULT"
     },
     {
         "card_name": "Darth Vader",
-        "number": 116,
+        "number": 138,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Deathwing",
-        "number": 117,
+        "number": 139,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Gol D. Roger",
-        "number": 122,
+        "number": 145,
         "shape": "transform double faced",
         "set": "ULT"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The French Revolution",
+        "number": 141,
+        "shape": "modal double faced",
+        "set": "ULT"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -863,31 +1019,31 @@
     },
     {
         "card_name": "Billy the Puppet",
-        "number": 115,
+        "number": 137,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Predator Elite",
-        "number": 125,
+        "number": 148,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "General Grievous",
-        "number": 120,
+        "number": 143,
         "shape": "transform double faced",
         "set": "ULT"
     },
     {
         "card_name": "The Flash, Barry Allen",
-        "number": 118,
+        "number": 140,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Orochimaru",
-        "number": 124,
+        "number": 147,
         "shape": "normal",
         "set": "ULT"
     },
@@ -899,13 +1055,13 @@
     },
     {
         "card_name": "Onyxia, Broodmother",
-        "number": 123,
+        "number": 146,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Funny Valentine",
-        "number": 119,
+        "number": 142,
         "shape": "modal double faced",
         "set": "ULT"
     },
@@ -926,55 +1082,64 @@
     },
     "a->colorless",
     {
+        "card_name": "The Pink Panther",
+        "number": 1,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
         "card_name": "AK-47",
-        "number": 126,
+        "number": 149,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Big Ben",
-        "number": 127,
+        "number": 150,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Cardboard Box",
-        "number": 128,
+        "number": 151,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Chapel",
+        "number": 152,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "The Delorean",
-        "number": 129,
+        "number": 153,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Hulkbuster Armor",
-        "number": 130,
+        "number": 154,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "The Package",
+        "number": 155,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "SCP-294, Infinite Vendor",
-        "number": 131,
+        "number": 156,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Vibranium Shield",
-        "number": 132,
+        "number": 157,
         "shape": "normal",
         "set": "ULT"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -993,19 +1158,43 @@
     },
     {
         "card_name": "The Blunderdome",
-        "number": 133,
+        "number": 158,
         "shape": "normal",
         "set": "ULT"
     },
     {
         "card_name": "Doofenshmirtz Tower",
-        "number": 134,
+        "number": 160,
         "shape": "normal",
         "set": "ULT"
+    },
+    {
+        "card_name": "Caelid",
+        "number": 159,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mount Celeste",
+        "number": 165,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Queen's Gardens",
+        "number": 167,
+        "shape": "normal",
+        "set": "ULT"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "The Gungeon",
-        "number": 135,
+        "number": 161,
         "shape": "normal",
         "set": "ULT"
     },
@@ -1031,37 +1220,110 @@
         "card_name": "er"
     },
     {
-        "card_name": "Silent Hill",
-        "number": 137,
+        "card_name": "Halloween Town",
+        "number": 162,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "e"
+        "card_name": "Snake Mountain",
+        "number": 170,
+        "shape": "normal",
+        "set": "ULT"
     },
     {
         "card_name": "Luigi's Mansion",
-        "number": 136,
+        "number": 163,
         "shape": "normal",
         "set": "ULT"
     },
     {
-        "card_name": "e"
+        "card_name": "Mount Ebott",
+        "number": 166,
+        "shape": "normal",
+        "set": "ULT"
     },
     {
-        "card_name": "e"
+        "card_name": "The Motherlobe",
+        "number": 164,
+        "shape": "normal",
+        "set": "ULT"
     },
     {
-        "card_name": "e"
+        "card_name": "Silent Hill",
+        "number": 168,
+        "shape": "normal",
+        "set": "ULT"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Slender's Forest",
-        "number": 138,
+        "number": 169,
         "shape": "normal",
         "set": "ULT"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "The Lead",
+        "number": 1,
+        "shape": "token",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Sand Token",
+        "number": 2,
+        "shape": "token",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Brobot",
+        "number": 5,
+        "shape": "token",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Clue Token",
+        "number": 6,
+        "shape": "token",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mask Token",
+        "number": 3,
+        "shape": "token",
+        "set": "ULT"
+    },
+    {
+        "card_name": "Mercenary Token",
+        "number": 4,
+        "shape": "token",
+        "set": "ULT"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

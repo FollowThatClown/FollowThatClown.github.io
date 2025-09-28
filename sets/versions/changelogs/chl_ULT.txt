@@ -1,4 +1,219 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Evil Reborn added.
+Combine Occupation added.
+Halloween Town added.
+Clue Token added.
+Sand Token added.
+Mask Token added.
+Mercenary Token added.
+The Lead added.
+Who You Gonna Call added.
+Jack, the Pumpkin King added.
+Andi, Unlikely Smuggler added.
+Guinevere's Fefurbishment added.
+Destroyed Android added.
+A.M added.
+Satan added.
+Spark Bolt With Trigger added.
+War On Christmas added.
+Caelid added.
+Barristan, Man-at-Arms added.
+Sahar, Masterful Duelist added.
+Nasty End added.
+Mount Celeste added.
+Mount Ebott added.
+Queen's Gardens added.
+Snake Mountain added.
+The Motherlobe added.
+Lamball added.
+Sizz added.
+Larcin, Invisible Agent added.
+Squire, Recon Specialist added.
+The French Revolution added.
+The Package added.
+The Shotgun King added.
+Brobot added.
+The Pink Panther added.
+Thread Storm added.
+Captured Deathcard added.
+Chapel added.
+Luigi added.
+Sasori, Human Puppeteer added.
+
+Our Little Horror Story removed.
+Apocalyptic View removed.
+
+Itachi's Genjutsu
+rules_text: Whenever one or more nontoken creatures you control deal combat damage to a player, create a 1/1 black Bird creature token with flying.
+At the beginning of your end step, you may sacrifice a creature. If you do, target creature connives. => Whenever one or more nontoken creatures you control deal combat damage to a player, create a 1/1 black Bird creature token with flying.
+At the beginning of your end step, you may sacrifice a creature. If you do, target creature you control connives.
+
+Clicker
+
+Deal with the Devil
+cost: {1}{B} => {B}{B}
+
+Abraham Lincoln
+rules_text: [i]POTUS[/i] — When Abraham Lincoln enters, you take the lead.
+[i]Emancipation Proclamation[/i] — At the beginning of your end step, if you're in the lead, create a Homeward Path token. => [i]POTUS[/i] — When Abraham Lincoln enters, you take the lead. [i](It's the monarch.)[/i]
+[i]Emancipation Proclamation[/i] — At the beginning of your end step, if you're in the lead, create a Homeward Path token.
+
+Onyxia, Broodmother
+rules_text: Flying, lifelink
+When you cast Onyxia, create five 2/1 red Dragon creature tokens with “This creature can't block.” [i](They can't fly.)[/i]
+Whenever Onyxia or another creature you control dies, draw a card. => Flying
+When you cast Onyxia, create five 2/1 red Dragon creature tokens. [i](They can't fly.)[/i]
+Whenever another creature you control dies, you draw a card.
+
+James' Judgement
+cost: {1}{B}{B} => {2}{B}{B}
+rules_text: This spell costs {B} less to cast if you've committed a crime this turn.
+As an additional cost to cast this spell, sacrifice a creature.
+Destroy up to two target creatures. => This spell costs {2} less to cast if you've committed a crime this turn.
+As an additional cost to cast this spell, sacrifice a creature.
+Destroy up to two target creatures.
+
+Lady Gaga, Fame Monster
+pt: 2/2 => 2/3
+
+Lady Bow
+cost: {X}{X}{W} => {X}{W}
+rules_text: Flying, lifelink
+[i]Outta Sight[/i] — When Lady Bow enters, repeat the following process X times. Exile target creature you control, then return it to the battlefield. => Flying, lifelink
+[i]Outta Sight[/i] — When Lady Bow enters, repeat the following process X times. Exile a creature you control, then return it to the battlefield. [i](You may choose the same creature, or a different one.)[/i]
+
+Leone Abbachio
+rules_text: When Leone Abbachio enters, if he isn't a token, create a token that's a copy of him, except the copy's name is Moody Blues.
+Whenever Leone Abbachio deals combat damage to a player, exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy this turn. => When Leone Abbachio enters, if he isn't a token, create a token that's a copy of him, except the copy's name is Moody Blues.
+Whenever Leone Abbachio deals combat damage to a player, exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+
+Solid Snake
+pt: 1/2 => 2/1
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+
+Madotsuki, Dream Traveller
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you may discard a card. If you do, cloak the top card of your library.
+Whenever you turn another face-down creature face up, put a +1/+1 counter on it. It becomes a Nightmare in addition to its other types. => [i]Landfall[/i] — Whenever a land you control enters, you may discard a card. If you do, cloak the top card of your library.
+Whenever you turn another face-down creature face up, put two +1/+1 counters on it. It becomes a Nightmare in addition to its other types.
+
+The T-850 Terminator
+pt: 5/5 => 5/6
+
+Behind the Mask
+rules_text: Choose one —
+• Look at target player's hand. Choose a nonland, noncreature card from among them. That player discards that card.
+• Destroy target face down creature. => This spell can't be countered.
+Choose one —
+• Look at target player's hand. Choose a nonland, noncreature card from among them. That player discards that card.
+• Destroy target face down creature.
+
+Mel, the Last Human
+rules_text: Haste
+Whenever Mel deals combat damage to a player, cloak the top card of that player's library. For as long as it remains face down, you may spend mana of any type to turn it face up.
+Disguise {R}{R} => Haste
+Whenever Mel deals combat damage to a player, cloak the top card of target opponent's library. For as long as it remains face down, you may spend mana of any type to turn it face up.
+Disguise {R}{R}
+
+The Rise of Skynet
+rules_text: When The Rise of Skynet enters, destroy all creatures.
+At the beginning of your upkeep, you lose 2 life and cloak the top card of your library.
+Whenever you turn a face-down creature face up, put a +1/+1 counter on it. It becomes an artifact in addition to its other types. => When The Rise of Skynet enters, destroy all creatures.
+At the beginning of your upkeep, you lose 2 life and cloak the top card of your library.
+Whenever you turn a face-down creature face up, put two +1/+1 counters on it. It becomes an artifact in addition to its other types.
+
+Simon Henriksson
+rules_text: Double strike, trample
+Ward—Pay 3 life.
+At the beginning of your upkeep, target opponent creates a 3/2 red Nightmare creature token. => Ward—Pay 3 life.
+During your turn, Simon Henrikssonhas double strike and trample.
+At the beginning of your upkeep, target opponent creates a 3/2 red Nightmare creature token.
+
+Needles Kane
+rules_text: When Needles Kane enters, create Sweet Tooth, a legendary 5/4 Vehicle artifact token with crew 6 and “Whenever this creature attacks, target opponent sacrifices two permanents unless they have you draw two cards.” => When Needles Kane enters, create Sweet Tooth, a legendary 5/4 Vehicle artifact token with crew 6 and “Whenever this creature attacks, target opponent sacrifices four permanents unless they have you draw four cards.”
+
+Mount Rushmore
+rules_text: As an additional cost to cast this spell, exile four legendary creature cards from your graveyard.
+When Mount Rushmore enters, you take the lead.
+{T}: Add one mana of any color. => As an additional cost to cast this spell, exile four legendary creature cards from your graveyard.
+When Mount Rushmore enters, you take the lead. [i](It's the monarch.)[/i]
+{T}: Add one mana of any color.
+
+George Washington
+pt: 2/3 => 3/3
+
+Kermit
+type: Legendary Artifact Creature — Toy => Legendary Artifact Creature — Toy Frog
+
+Grievous Assault
+rules_text: Choose target creature you control. It gets +2/+4 until end of turn if it's modified. Then it deals damage equal to its power to each of up to two other target creatures. => Choose target creature you control. It gets +2/+4 until end of turn if it's modified. Then it fights up to two other target creatures. [i](At the same time.)[/i]
+
+Ari, Human Sympathiser
+rules_text: When Ari enters, target Human you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Modified creatures you control get +1/+1. => When Ari enters, target Human you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Modified creatures you control get +1/+0.
+
+AK-47
+cost: {4} => {5}
+rules_text: When AK-47 enters, it deals 2 damage to any number of targets.
+Equipped creature has double strike
+Equip {3} => When AK-47 enters, it deals 2 damage to any number of targets.
+Equipped creature has double strike.
+Equip {4}
+
+William Afton
+rules_text: [i]Grand Opening[/i] — Whenever a land you control enters, you lose 1 life and create a 1/1 white Human creature token.
+Disturb—{2}{B}, Sacrifice five creatures. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => [i]Grand Opening[/i] — Whenever a land you control enters, you lose 1 life and create a 1/1 white Human creature token.
+{2}{B}, Sacrifice five creatures: Return William Afton to the battlefield transformed.
+
+Darth Vader
+rules_text: First strike, deathtouch, menace
+Ward—Discard a card.
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they discard a card or sacrifice a nonland permanent. => First strike, deathtouch, menace
+When Darth Vader enters, destroy target legendary creature.
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+pt: 6/4 => 6/3
+
+Wracked With Grief
+rules_text: Choose a creature card in your graveyard, then an opponent chooses one [i](You get the effect.)[/i]
+• [i]Cling On[/i] — Return the chosen creature card from your graveyard to the battlefield. It's a Nightmare in addition to its other types.
+• [i]Move Ahead[/i] — You discard your hand, then draw six cards. => Choose a creature card in your graveyard, then an opponent chooses one [i](You get the effect.)[/i]
+• [i]Cling To the Past[/i] — Return the chosen creature card from your graveyard to the battlefield. It's a Nightmare in addition to its other types.
+• [i]Move On[/i] — You discard your hand, then draw six cards.
+
+Glimmer of Gold
+rules_text: When Glimmer of Gold enters, create four Treasure tokens.
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it => When Glimmer of Gold enters, create three Treasure tokens.
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it
+
+Funny Valentine
+
+Luigi's Mansion
+
+Silent Hill
+
+The Blunderdome
+
+The Gungeon
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Itachi's Genjutsu added.
