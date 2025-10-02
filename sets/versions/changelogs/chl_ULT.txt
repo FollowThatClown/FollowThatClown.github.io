@@ -1,4 +1,196 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Who You Gonna Call? added.
+Spike Spiegel, On The Run added.
+Ein, Data Dog added.
+Grass Grows, Birds Fly... added.
+Jessica Rabbit added.
+Mobster Kingpin added.
+Rex added.
+Let's Rock! added.
+Odile, the Researcher added.
+The Mountain Of Smiling Bodies added.
+Path to the Holy Mountain added.
+Oscar the Grouch added.
+Boss Rush added.
+Fated Legacy added.
+Pyramid Head added.
+Ishmael, Shield of Zwei West added.
+Fell Bullet added.
+The TMNT added.
+Mach Speed added.
+Let's Go Practice Medicine added.
+Gunsmith Bitch added.
+Dante's Awakening added.
+Chronos, Titan of Time added.
+Magical Girl Transformation added.
+Patricide added.
+Terrible, Terrible Damage added.
+A Poison Tree added.
+Respawn At The Fire added.
+A Moon Star Is Born! added.
+Death Defiance added.
+La Vita Nuova added.
+The Mole added.
+Sailor Pluto added.
+Saphira, Hunted Fledgling added.
+Punch Tanaka, Petty Thug added.
+Invincibility added.
+Pata-Pata-Patapon! added.
+Sergeant Leland Coyle added.
+Abhorrent Oculus added.
+Gelus's Death Note added.
+Leoben Conoy added.
+Simon O'Neill added.
+John Cavil added.
+Soul Calibur added.
+Absolutely Safe Capsule added.
+Porky, Emperor of Nowhere added.
+
+Who You Gonna Call removed.
+
+Harley Quinn, Crime Queen
+pt: 1/1 => 1/2
+
+Clicker
+rules_text: Whenever a player casts a spell, put a +1/+1 counter on Clicker.
+At the beginning of your upkeep, remove three +1/+1 counters from Clicker. If you do, create two 2/2 black Zombie creature tokens. => Whenever a player casts a spell, put a +1/+1 counter on Clicker.
+At the beginning of your upkeep, you may remove three +1/+1 counters from Clicker. If you do, create two 2/2 black Zombie creature tokens.
+
+Predator Elite
+rules_text: [i]Advanced Tech[/i] — When Predator Elite enters, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+As long as Predator Elite is modified, it has double strike. [i](Equipment, Auras you control, and counters are modifications.)[/i] => [i]Advanced Tech[/i] — When Predator Elite enters, search your library for any number of artifact cards, shuffle, then put those cards on top of your library in a random order.
+As long as Predator Elite is modified, it has double strike. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Big Ben
+rules_text: Whenever you draw a card, you gain 1 life and put a time counter on Big Ben. Then if Big Ben has twelve time counters on it, exile it and take an extra turn after this one.
+[i]Construct[/i] — Disguise {3}
+[i]Unveil[/i] — When Big Ben is turned face up, you take the lead. => Whenever you draw a card, you gain 1 life and put a time counter on Big Ben. Then if Big Ben has twelve time counters on it, exile it and take an extra turn after this one.
+[i]Construct[/i] — Disguise {3}
+[i]Unveil[/i] — When Big Ben is turned face up, you take the lead. [i](It's the monarch.)[/i]
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+
+The T-850 Terminator
+rules_text: Menace
+Ward—Discard a card.
+When The T-850 Terminator enters or is turned face up, you may put an Equipment card from your hand onto the battlefield. If you do, lose life equal to its mana value, then attach it to The T-850 Terminator.
+Disguise {4}{B} => Menace
+Suspend 5—{1}{B} [i](Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+Whenever a creature you control dies, if this card is suspended, time travel.
+pt: 5/6 => 7/7
+
+Reverse Bear Trap
+rules_text: Vanishing 3
+When Reverse Bear Trap enters, attach it to target creature.
+Whenever you commit a crime, remove a time counter from Reverse Bear Trap.
+When Reverse Bear Trap leaves the battlefield, destroy equipped creature. If you control that creature, draw two cards. => Vanishing 4
+When Reverse Bear Trap enters, attach it to target creature.
+Whenever you commit a crime, remove a time counter from Reverse Bear Trap.
+When Reverse Bear Trap leaves the battlefield, destroy equipped creature.
+
+Behind the Mask
+cost: {B} => {1}{B}
+rules_text: This spell can't be countered.
+Choose one —
+• Look at target player's hand. Choose a nonland, noncreature card from among them. That player discards that card.
+• Destroy target face down creature. => Choose one —
+• Look at target player's hand. Choose a nonland, noncreature card from among them. That player discards that card.
+• Cloak the top card of your library. [i](To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+Mel, the Last Human
+rules_text: Haste
+Whenever Mel deals combat damage to a player, cloak the top card of target opponent's library. For as long as it remains face down, you may spend mana of any type to turn it face up.
+Disguise {R}{R} => Haste
+Whenever Mel deals combat damage to a player, cloak the top card of target opponent's library. For as long as it remains face down, you may spend mana of any type to turn it face up.
+Disguise {2}{R}
+pt: 3/2 => 3/3
+
+Simon Henriksson
+rules_text: Ward—Pay 3 life.
+During your turn, Simon Henrikssonhas double strike and trample.
+At the beginning of your upkeep, target opponent creates a 3/2 red Nightmare creature token. => Ward—Pay 3 life.
+During your turn, Simon Henriksson has double strike and trample.
+At the beginning of your upkeep, target opponent creates a 3/2 red Nightmare creature token.
+
+AK-47
+cost: {5} => {2}
+rules_text: When AK-47 enters, it deals 2 damage to any number of targets.
+Equipped creature has double strike.
+Equip {4} => When AK-47 enters, it deals 1 damage to any number of targets.
+Equipped creature has double strike.
+Equip {4}
+
+Into the Dreamworld
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you may discard a card. If you do, Target creature you control explores, then it explores again. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, you may discard a card. If you do, target creature you control explores, then it explores again. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)[/i]
+
+William Afton
+rules_text: [i]Grand Opening[/i] — Whenever a land you control enters, you lose 1 life and create a 1/1 white Human creature token.
+{2}{B}, Sacrifice five creatures: Return William Afton to the battlefield transformed. => Lifelink
+Disturb—{B}, Sacrifice five creatures. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+pt: 2/3 => 3/3
+
+The Delorean
+rules_text: Ward {88} [i](That's eighty eight.)[/i]
+When The Delorean enters, scry 3, then exile the top three cards of your library. For each of those cards, put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend. 
+Whenever The Delorean attacks, time travel.
+Crew 3 => Ward {88} [i](That's eighty eight.)[/i]
+When The Delorean enters, scry 3, then exile the top three cards of your library. For each of those cards, put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend. 
+Whenever The Delorean attacks. time travel.
+Crew 3
+
+Time to Choose
+rules_text: As Time to Choose enters, choose one —
+• Step Into the Portal[i] —[/i] Whenever a creature you control deals combat damage to a player, you may draw three cards and lose 3 life.
+• Unwinnable Battle[i] — [/i]When Time to Choose enters, return target creature card from your graveyard to the battlefield with a lifelink counter on it, then exile Time to Choose. => [i]Step Into the Portal[/i] — Whenever a creature you control deals combat damage to a player, you may draw three cards and lose 3 life.
+[i]Unwinnable Battle[/i] — {4}{B}{B}, Discard Time to Choose:[i] R[/i]eturn target creature card from your graveyard to the battlefield with a lifelink counter on it.
+
+Class Struggle
+type: Instant => Enchantment — Aura
+rules_text: Kicker {3}
+Target opponent cloaks the top card of their library. If this spell was kicked, you cloak the top card of your library instead.
+Until end of turn, target creature you control gets +3/+3 and gains trample. It fights up to one target creature an opponent controls. [i](It can't be the cloaked card.)[/i] => Enchant creature
+When Class Struggle enters, target opponent may cloak a card from their hand.
+Enchanted creature gets +3/+2 and has trample and “Ward—Sacrifice a permanent.”
+
+Doc Brown
+rules_text: When Doc Brown enters, search your library for an artifact card, exile it, then shuffle. Put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend.
+Whenever you cast a noncreature spell, you may time travel. Do this only once each turn. => When Doc Brown enters, search your library for an artifact card, exile it, then shuffle. Put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend.
+Whenever you cast a noncreature spell, time travel. [i](For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)[/i]
+
+Jacket, Midnight Animal
+pt: 2/1 => 2/2
+
+Mask Token
+rules_text: Enchant creature
+Umbra Armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Umbra Armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Jack, the Pumpkin King
+cost: {B} => {2}{B}
+rules_text:  => Menace
+[i]Kidnap the Sandy Claws[/i] — Whenever Jack deals combat damage to a player, if you've committed a crime this turn, you take the lead. [i](It's the monarch.)[/i]
+pt:  => 3/2
+
+Destroyed Android
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Evil Reborn added.
