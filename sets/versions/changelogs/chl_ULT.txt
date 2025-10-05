@@ -1,4 +1,373 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Vanessa, Security Guard added.
+Secret Lair added.
+TAXLAND added.
+TAXLAND added.
+TAXLAND added.
+TAXLAND added.
+TAXLAND added.
+UTILITY LAND added.
+Who You Gonna Call added.
+Circus Baby added.
+TAXLAND added.
+TAXLAND added.
+UTILITY LAND added.
+5C LAND added.
+5C LAND added.
+5C LAND added.
+UTILITY LAND added.
+Jambie the Genie added.
+Atomic Punch added.
+Canio, Doomed Pierrot added.
+Purification in Progress added.
+Mama Mewon added.
+Little Gift-Giving Who added.
+Atlas added.
+P-Body added.
+Objection! added.
+Lil' Hunter, Left for Dead added.
+Indiana Jones, Delver of Ruins added.
+The Giant Rat added.
+Yung Venuz, God of Gunz added.
+Vigilante Justice added.
+Batman added.
+Ishikawa Goemon XIII added.
+Daisuke Jigen added.
+Lupin the Third added.
+Wee Mewon added.
+The Machine added.
+Dehydrate added.
+Swarmer added.
+Rat added.
+Soldier added.
+Gigi, Gremlin of Justice added.
+Neil, Lemon Demon added.
+The Nurse added.
+Just Because You Could... added.
+Toolbox added.
+The Tempfugitron added.
+The Nowhere King added.
+City Scanner added.
+Bearer of the Second Key added.
+Zinogre added.
+Smell Fear added.
+BFG 9000 added.
+Oozle Lineage added.
+Esprit De Corps added.
+Rotten Plot added.
+We Are Number One added.
+Robbie Rotten added.
+Endurance, Embodied Past added.
+Sunflower added.
+Crazy Dave added.
+Loot Bug added.
+Quad Damage added.
+Shrek added.
+Solomon Grundy added.
+Static Cerberus added.
+Territorial Biter added.
+The Statue Of Liberty added.
+Protoss Hallucination added.
+Juri Han added.
+Akhundelar added.
+Marisa Kirisame added.
+Yuuka Kazami added.
+
+Onyxia, Broodmother removed.
+Princess Zelda removed.
+In Onyxia's Clutches removed.
+Kermit removed.
+The Riddler removed.
+Who You Gonna Call? removed.
+Jessica Rabbit removed.
+Ishmael, Shield of Zwei West removed.
+Mach Speed removed.
+Let's Go Practice Medicine removed.
+
+GLaDOS
+rules_text: Reach
+Ward—{3}, Pay 3 life.
+[i]Portal Testing [/i]— At the beginning of your end step, exile up to one other target creature you control, then return it to the battlefield. => Ward—{3}, Pay 3 life.
+[i]Portal Testing [/i]— At the beginning of your end step, exile up to one other target creature you control, then return it to the battlefield.
+
+Predator Elite
+
+Combine Unit
+rules_text: Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Combine Unit enters with your choice of a first strike counter, a vigilance counter, or a lifelink counter. => Squad {3} [i](As an additional cost to cast this spell, you may pay {3} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Modified creatures you control get +1/+1. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+I — Return up to two target creature cards from your graveyard to your hand.
+II, III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+I — Return up to two target creature cards from your graveyard to your hand.
+II, III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+
+Inspect the Sphinx
+rules_text: Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control without a counter on it.
+Sacrifice Inspect the Sphinx: Draw two cards. Activate this ability only if you control at least four modified creatures => Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control. Do this only once each turn.
+{10}, Sacrifice Inspect the Sphinx: Draw two cards. This ability costs {X} less to activate, where X is the highest power among modified creatures you control.
+
+The T-850 Terminator
+rules_text: Menace
+Suspend 5—{1}{B} [i](Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+Whenever a creature you control dies, if this card is suspended, time travel. => Menace
+Ward—Discard a card.
+Suspend 5—{2}{B}
+When you suspend The T-850 Terminator, destroy target creature.
+
+Off the Hook
+rules_text: [i]World Famous[/i] — When Off the Hook enters, you take the lead.
+If one or more tokens would be created under your control while you're in the lead, twice that many of those tokens are created instead. => [i]World Famous[/i] — When Off the Hook enters, you take the lead. [i](It's the monarch.)[/i]
+[i]Fashion Show[/i] — If you would draw a card, you may instead reveal the top seven cards of your library, put an Aura or Equipment card from among them into your hand, then shuffle.
+
+General Grievous
+rules_text: When General Grievous enters, return up to four target Aura and/or Equipment cards from graveyards to the battlefield under your control, then equip up to four Auras and/or Equipment you control to him. => When General Grievous enters, mill four cards, then return up to four Aura and/or Equipment cards from your graveyard to the battlefield.
+Equipment you control has “Equip {0}. Activate only once each turn.”
+
+Gol D. Roger
+
+Darth Vader
+rules_text: First strike, deathtouch, menace
+When Darth Vader enters, destroy target legendary creature.
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they discard a card or sacrifice a nonland permanent. => First strike, deathtouch, menace
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+[i]Into the Death Star[/i] — When Darth Vader dies, each opponent sacrifices a creature.
+
+Class Struggle
+
+Funny Valentine
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {W}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {U}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {U}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {U}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {B}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {B}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {B}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {G}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+Ein, Data Dog
+rules_text: {T}: Add one mana of any color.
+Disguise {5}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Ein is turned face up, return any number of non-Dog creature and/or land cards from among them to your hand. => {T}: Add one mana of any color.
+Disguise {5}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Ein is turned face up, return up to five target non-Dog creature and/or land cards from your graveyard to your hand.
+
+War On Christmas
+rules_text: [i](You protect this and opponents attack it.)[/i]
+When War On Christmas enters, exile the top four cards of target opponent's library. You may play them for as long as you control this battle, and may spend mana of any type to cast those spells.
+You may play an additional land card you don't own each turn. => [i](You protect this and opponents attack it.)[/i]
+When War On Christmas enters, exile the top five cards of target opponent's library. You may play them for as long as you control this battle, and may spend mana of any type to cast those spells.
+You may play an additional land card you don't own each turn.
+
+The French Revolution
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {U}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+Pyramid Head
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {W}{U}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {B}{R}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {R}{G}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+Gunsmith Bitch
+rules_text: [+1]: Reveal the top seven cards of your library. You may put an Aura or Equipment card from among them into your hand. Shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment, except they aren't legendary. Attach them attached to target creature you control. => [+1]: Reveal the top seven cards of your library. You may put an Aura or Equipment card from among them into your hand. Shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control.
+special_text: [+1]: Reveal the top seven cards of your library. You may put an Aura or Equipment card from among them into your hand. Shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment, except they aren't legendary. Attach them attached to target creature you control. => [+1]: Reveal the top seven cards of your library. You may put an Aura or Equipment card from among them into your hand. Shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control.
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {U}{R}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {G}{U}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+I — Return target nonland permanent with mana value 2 or less to its owner's hand.
+II, III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+I — Return target nonland permanent with mana value 2 or less to its owner's hand.
+II, III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+
+The Mole
+type: Creature — Sculpture Soldier => Artifact Creature — Sculpture Soldier
+
+
+type: Legendary Creature — Human Clown Villain => 
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+Leoben Conoy
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {W}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+Porky, Emperor of Nowhere
+rules_text: Provoke [i](Whenever this creature attacks, you may have target creature defending player controls untap and block it if able. Spankety, spankety!)[/i]
+When Porky enters, cloak target creature card in a graveyard.
+If Porky would die, instead exile him with three time counters on him. He gains suspend. => Provoke [i](Whenever this creature attacks, you may have target creature defending player controls untap and block it if able. Spankety, spankety!)[/i]
+When Porky enters, cloak target creature card in a graveyard. It enters with a finality counter.
+If Porky would die, instead exile him with three time counters on him. He gains suspend.
+
+Punch Tanaka, Petty Thug
+rules_text: [i]Called Shot — [/i]At the beginning of your end step, choose one —
+• Punch Tanaka gains double strike until your next end step.
+• Until your next end step, whenever damage is dealt to Punch Tanaka, he deals that much damage to any target. => [i]Called Shot — [/i]At the beginning of your end step, choose one. Punch Tanaka gains your choice until your next end step —
+• Double strike
+• “Whenever damage is dealt to this, it deals that much damage to any target.”
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {W}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => Artifact
+cost: {R} => 
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+type: Legendary Creature — Human Clown Villain => Artifact
+cost: {R} => 
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Who You Gonna Call? added.
