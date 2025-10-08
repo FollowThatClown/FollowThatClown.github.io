@@ -1,4 +1,232 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Kuzan, Rebel Admiral added.
+Rotten Scheme added.
+Kermit added.
+Sal Viento added.
+Soul Edge added.
+Every Single Power Ranger added.
+Enoch, Tyrannical Guardian added.
+Nox, Mad Xelor added.
+Time Dilation added.
+88 Miles Per Hour added.
+Exit Beacon added.
+The Little Prince added.
+Guidance of Moonlight added.
+The Roaring Knight added.
+Shard added.
+Daedream added.
+Charlie, Queen Of Shadows added.
+The Lamb added.
+Kevin, Great And Mighty added.
+Slay The Spire added.
+Quicksnapper Byrd added.
+Neow, Ancient Of Resurrection added.
+Shrine Ruins added.
+Isunia added.
+Johnny Joestar added.
+The Buried City added.
+Chessboard Revolution added.
+Perry, a Platypus added.
+Liurnia Lakebed added.
+
+Death removed.
+Michael Myers removed.
+Vibranium Shield removed.
+Hulkbuster Armor removed.
+TAXLAND removed.
+TAXLAND removed.
+TAXLAND removed.
+TAXLAND removed.
+TAXLAND removed.
+UTILITY LAND removed.
+5C LAND removed.
+5C LAND removed.
+UTILITY LAND removed.
+The Machine removed.
+Rotten Plot removed.
+Crazy Dave removed.
+
+Billy the Puppet
+rules_text: Whenever you commit a crime, an opponent chooses one they haven't chosen yet. This ability triggers only once each turn.
+• That opponent sacrifices two creatures.
+• That opponent discards two cards.
+• That opponent loses 4 life.
+Sacrifice Billy: Create two 2/2 blue and white Detective creature tokens. => Whenever you commit a crime, an opponent chooses one they haven't chosen yet. This ability triggers only once each turn.
+• That opponent sacrifices two creatures.
+• That opponent discards two cards.
+• That opponent loses 4 life.
+Sacrifice Billy: Create three 2/2 blue and white Detective creature tokens.
+pt: 2/2 => 1/1
+
+Starman Jr.
+
+Rasengan
+cost: {W} => {3}{W}
+rules_text: As an additional cost to cast this spell, return an unblocked attacking creature you control to its owner's hand or pay {3}.
+Shuffle target artifact, enchantment, or tapped creature into its owner's library. => Spell Ninjutsu {W} [i](You may cast this spell from your hand by paying {W} and returning an unblocked attacking creature you control to its owner's hand.)[/i]
+Shuffle target artifact, enchantment, or tapped creature into its owner's library.
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+I — Return up to two target creature cards from your graveyard to your hand.
+II, III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+I — Return up to two target creature cards from your graveyard to your hand.
+II, III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+
+The T-850 Terminator
+cost: {5}{B} => {4}{B}
+rules_text: Menace
+Ward—Discard a card.
+Suspend 5—{2}{B}
+When you suspend The T-850 Terminator, destroy target creature. => Menace
+Suspend 5—{1}{B}
+When you suspend The T-850 Terminator, destroy target creature with mana value 3 or less.
+pt: 7/7 => 5/5
+
+Majora's Mask
+rules_text: When Majora's Mask enters, attach it to target creature with mana value 3 or less. You gain control of that creature for as long as Majora's Mask remains attached to it.
+Equipped creature has flying and “Whenever this creature attacks, it connives.”
+Equip {4} => When Majora's Mask enters, attach it to target creature with mana value 3 or less. You gain control of that creature for as long as Majora's Mask remains attached to it.
+Equipped creature gets +2/+2 and has flying and “Whenever this creature attacks, it connives.” [i](It can't attack the turn you gain control of it.)[/i]
+Equip {4}
+
+Tim Wright
+cost: {1}{W}{B} => {2}{W}{B}
+pt: 1/4 => 2/5
+
+Dovakhin's Command
+rules_text: Choose two —
+• Return target Aura or Equipment card from your graveyard to your hand.
+• Destroy target creature with flying.
+• Exile target player's graveyard.
+• Destroy target artifact. => Choose two —
+• Return target artifact or enchantment card from your graveyard to your hand.
+• Destroy target artifact or enchantment.
+• Destroy target creature with flying.
+• Exile target player's graveyard.
+
+Chidori
+rules_text: As an additional cost to cast this spell, return an unblocked attacking creature you control to its owner's hand or pay {3}.
+Destroy target creature. => Spell Ninjutsu {B} [i](You may cast this spell from your hand by paying {B} and returning an unblocked attacking creature you control to its owner's hand.)[/i]
+Destroy target creature.
+
+The Delorean
+rules_text: Ward {88} [i](That's eighty eight.)[/i]
+When The Delorean enters, scry 3, then exile the top three cards of your library. For each of those cards, put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend. 
+Whenever The Delorean attacks. time travel.
+Crew 3 => Ward {88} [i](That's eighty eight.)[/i]
+When The Delorean enters, scry 3, then exile the top three cards of your library. For each of those cards, put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend. 
+Whenever The Delorean attacks, time travel.
+Crew 3
+
+General Grievous
+rules_text: When General Grievous enters, mill four cards, then return up to four Aura and/or Equipment cards from your graveyard to the battlefield.
+Equipment you control has “Equip {0}. Activate only once each turn.” => Trample
+When General Grievous enters, mill four cards, then return up to four Aura and/or Equipment cards from your graveyard to the battlefield.
+Equipment you control has “Equip {0}. Activate only once each turn.”
+
+Peridot
+cost: {1}{G} => {2}{G}
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {W}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+Guinevere's Fefurbishment
+rules_text: When Guinevere's Fefurbishment enters, return target artifact card from your graveyard to the battlefield. If it isn't a creature, put three +1/+1 counters on it and it becomes a 0/0 artifact creature.
+Whenever you attack, target modified creature you control can't be blocked this turn. => When Guinevere's Fefurbishment enters, return target artifact card from your graveyard to the battlefield. If it isn't a creature, put three +1/+1 counters on it and it becomes a 0/0 artifact creature.
+Whenever you attack, target modified creature you control can't be blocked this turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Destroyed Android
+rules_text: Defender, ward {2}
+Craft with five noncreatures {4}{U}{U} [i]({4}{U}{U}, Exile this artifact, Exile the five from among other permanents you control and/or cards in your graveyard: Return this card transformed under its owner's control. Craft only as a sorcery.)[/i] => Defender
+Craft with five noncreatures {4}{U}{U} [i]({4}{U}{U}, Exile this artifact, Exile the five from among other permanents you control and/or cards in your graveyard: Return this card transformed under its owner's control. Craft only as a sorcery.)[/i]
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {3}{G}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+Ein, Data Dog
+rules_text: {T}: Add one mana of any color.
+Disguise {5}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Ein is turned face up, return up to five target non-Dog creature and/or land cards from your graveyard to your hand. => {T}: Add one mana of any color.
+Disguise {5}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Ein is turned face up, return up to four target non-Dog creature and/or land cards from your graveyard to your hand.
+
+TAXLAND
+type: Land — Mountain Forest => Land — Mountain Plains
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+TAXLAND enters tapped unless you pay {1}. => [i]({T}: Add {R} or {W}.)[/i]
+TAXLAND enters tapped unless you pay {1}.
+
+Mobster Kingpin
+cost: {4}{G}{G} => {2}{G}{G}
+pt: 5/7 => 3/5
+
+Oscar the Grouch
+type: Legendary Creature — Toy Citizen => Legendary Artifact Creature — Toy Citizen
+
+
+type: Legendary Creature — Human Clown Villain => 
+cost: {R} => {R}{G}
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => 
+pt: 1/2 => 
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+I — Return target nonland permanent with mana value 2 or less to its owner's hand.
+II, III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+I — Return target nonland permanent with mana value 2 or less to its owner's hand.
+II, III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+
+The Giant Rat
+rules_text: The Giant Rat can't be blocked except by three or more creatures.
+{1}{B}, Discard ! The Giant Rat: Create a 1/1 black Rat creature token with “This creature can't block.” It connives. => The Giant Rat can't be blocked except by three or more creatures.
+{1}{B}, Discard The Giant Rat: Create a 1/1 black Rat creature token with “This creature can't block.” It connives.
+
+Neil, Lemon Demon
+rules_text: Neil, Lemon Demon is lemon. [i](The color.)[/i]
+Disguise—{1}{B}, Pay 3 life [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+[i]Eighth Wonder[/i] — When Neil is turned face up, you take the lead. [i](It's the monarch.)[/i] => Disguise—{1}{B}, Pay 3 life. [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+[i]Eighth Wonder[/i] — When Neil is turned face up, you take the lead. [i](It's the monarch.)[/i]
+
+Sunflower
+rules_text: {T}: Add one mana of any color. Gain 2 life. => {T}: Add one mana of any color. You gain 2 life.
+
+Secret Lair
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Vanessa, Security Guard added.
