@@ -624,9 +624,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{B}{R}{G}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/234_Deathwing.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/235_Deathwing.png"
 			}
 		},
 		{
@@ -1186,9 +1186,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Creature — Human Sith",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/233_Darth Vader.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/234_Darth Vader.png"
 			}
 		},
 		{
@@ -2828,16 +2828,6 @@
 			}
 		},
 		{
-			"name": "Every Single Power Ranger",
-			"rarity": "special",
-			"mana_cost": "{X}{W}{U}{B}{R}{G}",
-			"type": "Battle",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/235_Every Single Power Ranger.png"
-			}
-		},
-		{
 			"name": "Enoch, Tyrannical Guardian",
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
@@ -3153,6 +3143,16 @@
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/36_Symbol Of Office.png"
 			}
+		},
+		{
+			"name": "Captain Planet",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/233_Captain Planet.png"
+			}
 		}
 	]
 
@@ -3417,7 +3417,6 @@
 	1 Sal Viento
 	1 Secret Lair
 	1 Soul Edge
-	1 Every Single Power Ranger
 	1 Enoch, Tyrannical Guardian
 	1 Nox, Mad Xelor
 	1 Time Dilation
@@ -3447,3 +3446,4 @@
 	1 Control Point
 	1 Bob-omb Battlefield
 	1 Symbol Of Office
+	1 Captain Planet
