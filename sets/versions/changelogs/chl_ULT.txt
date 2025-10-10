@@ -1,4 +1,111 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Garbage Waste Scavenger added.
+Susie, Violet Tormentor added.
+Phobos Labs added.
+Star World added.
+Control Point added.
+Bob-omb Battlefield added.
+Symbol Of Office added.
+
+TAXLAND removed.
+TAXLAND removed.
+UTILITY LAND removed.
+5C LAND removed.
+
+Itachi's Genjutsu
+rules_text: Whenever one or more nontoken creatures you control deal combat damage to a player, create a 1/1 black Bird creature token with flying.
+At the beginning of your end step, you may sacrifice a creature. If you do, target creature you control connives. => Whenever one or more nontoken creatures you control deal combat damage to a player, create a 1/1 black Bird creature token with flying.
+At the beginning of your end step, you may sacrifice a creature. If you do, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+
+Inspect the Sphinx
+rules_text: Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control. Do this only once each turn.
+{10}, Sacrifice Inspect the Sphinx: Draw two cards. This ability costs {X} less to activate, where X is the highest power among modified creatures you control. => Whenever you cast a noncreature spell, put a +1/+1 counter on target creature you control. Do this only once each turn.
+{8}, Sacrifice Inspect the Sphinx: Draw three cards. This ability costs {X} less to activate, where X is the highest power among modified creatures you control.
+
+Kabuto's War Plan
+rules_text: At the beginning of your end step, target creature connives.
+[i]Edo Tensei[/i] — {2}{B}, Exile ten cards from your graveyard: Return a creature card from among them to the battlefield. => At the beginning of your end step, target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+[i]Edo Tensei[/i] — {2}{B}, Exile ten cards from your graveyard: Return a creature card from among them to the battlefield.
+
+V1
+rules_text: [i]BLOOD IS FUEL[/i] — As an additional cost to cast spells that target creatures you control, you may sacrifice any number of other artifacts. That spell costs {2} less to cast for each of artifact sacrificed this way.
+[i]HELL IS FULL[/i] — Whenever a creature dies, you may exile it and create a Blood token. Do this only once each turn. => [i]BLOOD IS FUEL[/i] — As an additional cost to cast spells that target creatures you control, you may sacrifice any number of other artifacts. That spell costs {2} less to cast for each artifact sacrificed this way.
+[i]HELL IS FULL[/i] — Whenever a creature dies, you may exile it and create a Blood token. Do this only once each turn.
+
+Darth Vader
+rules_text: First strike, deathtouch, menace
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+[i]Into the Death Star[/i] — When Darth Vader dies, each opponent sacrifices a creature. => First strike, deathtouch, menace
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they discard a card or sacrifice a nonland permanent.
+[i]Into the Death Star[/i] — When Darth Vader dies, target player sacrifices a legendary creature.
+
+Mask Token
+rules_text: Enchant creature
+Umbra Armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Umbra Armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+
+Every Single Power Ranger
+rules_text: When Every Single Power Ranger enters, discover 7 X times. [i](To discover 7, exile cards from the top of your library until you exile a nonland card with mana value 7 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Creatures you control get +1/+1 and are Heroes in addition to their other types. => [i](You protect this and opponents attack it.)[/i]
+When Every Single Power Ranger enters, discover 6 X times. [i](To discover 6, exile cards from the top of your library until you exile a nonland card with mana value 6 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Creatures you control get +2/+0 and are Heroes in addition to their other types.
+loyalty: 7 => 4
+
+Enoch, Tyrannical Guardian
+pt: 5/2 => 5/1
+
+Guidance of Moonlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Kuzan, Rebel Admiral added.
