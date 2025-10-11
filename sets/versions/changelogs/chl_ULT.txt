@@ -1,4 +1,67 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Master Belch
+
+Dogma
+rules_text: Draft Dogma face up. Turn it face down at the end of the draft round.
+As long as Dogma is face up during the draft, you may note each monowhite card you draft.
+Flying, lifelink
+When you cast Dogma, exile up to one target creature with mana value X or less, where X is the highest number you noted for cards named Dogma. => Draft Dogma face up. Turn it face down at the end of the draft round.
+As long as Dogma is face up during the draft, you may reveal and note each monowhite card you draft.
+Flying, lifelink
+When you cast Dogma, exile up to one target creature with mana value X or less, where X is the highest number you noted for cards named Dogma.
+
+Starman Jr.
+
+Inspect the Sphinx
+
+Happy Happy Attacky
+
+Rescuing Paula
+
+Chidori
+cost: {B} => {3}{B}
+
+Red
+rules_text: Draft Red face up. Turn it face down at the end of the draft round.
+As long as Red is face up during the draft, you may note each monored card you draft.
+When you cast Red, add four {R}, then exile the top X cards of your library, where X is the highest number you noted for cards named Red. You may play them this turn. => Draft Red face up. Turn it face down at the end of the draft round.
+As long as Red is face up during the draft, you may reveal and note each monored card you draft.
+When you cast Red, add four {R}, then exile the top X cards of your library, where X is the highest number you noted for cards named Red. You may play them this turn.
+
+Blue
+rules_text: Draft Blue face up. Turn it face down at the end of the draft round.
+As long as Blue is face up during the draft, note each monoblue card you draft.
+When you cast Blue, draw three cards, then you may cast a spell with mana value X or less from your hand. X is the highest number you noted for cards named Blue. => Draft Blue face up. Turn it face down at the end of the draft round.
+As long as Blue is face up during the draft, you may reveal and note each monoblue card you draft.
+When you cast Blue, draw three cards, then you may cast a spell with mana value X or less from your hand. X is the highest number you noted for cards named Blue.
+
+Satan
+rules_text: Draft Satan face up. Turn it face down at the end of the draft round.
+As long as Satan is face up during the draft, you may note each monoblack card you draft.
+Flying, lifelink
+When you cast Satan, surveil X, where X is the highest number you noted for cards named Satan, then return up to two creature cards from your graveyard to your hand. => Draft Satan face up. Turn it face down at the end of the draft round.
+As long as Satan is face up during the draft, you may reveal and note each monoblack card you draft.
+Flying, lifelink
+When you cast Satan, surveil X, where X is the highest number you noted for cards named Satan, then return up to two creature cards from your graveyard to your hand.
+
+Absolutely Safe Capsule
+rules_text: Indestructible
+When this enters, target creature phases out until this leaves the battlefield. => Indestructible
+When this enters, target creature with mana value 5 or less phases out until this leaves the battlefield.
+
+Kermit
+rules_text: Draft Kermit face up. Turn it face down at the end of the draft round.
+As long as Kermit is face up during the draft, note each monogreen card you draft.
+When you cast Kermit, create three 1/1 Toy artifact creature tokens, then put a +1/+1 counter on each of up to X target creatures, where X is the highest number you noted for cards named Kermit. => Draft Kermit face up. Turn it face down at the end of the draft round.
+As long as Kermit is face up during the draft, reveal and note each monogreen card you draft.
+When you cast Kermit, create three 1/1 Toy artifact creature tokens, then put a +1/+1 counter on each of up to X target creatures, where X is the highest number you noted for cards named Kermit.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Captain Planet added.
