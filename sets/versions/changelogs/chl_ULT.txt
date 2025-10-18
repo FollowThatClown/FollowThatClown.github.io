@@ -1,4 +1,389 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Jambi the Genie added.
+Educate added.
+Bloody Mess added.
+Manifest added.
+Copy added.
+A Mysterious Creature added.
+Detective added.
+
+Clue Token removed.
+A.M removed.
+Jambie the Genie removed.
+
+GLaDOS
+
+Predator Elite
+
+Pearl, the Renegade
+rules_text: Double strike, vigilance
+{W}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — You may look at the top card of your library any time.
+🌹 — Once during each turn, you may cast a spell from the top of your library as long as it targets a creature you control. => Double strike, vigilance
+{1}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — You may look at the top card of your library any time.
+🌹 — Once during each turn, you may cast a spell from the top of your library as long as it targets a creature you control.
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+
+George Washington
+rules_text: When George Washington enters, search your library for up to four basic land cards. Put two of them onto the battlefield tapped under an opponent's control and the the rest onto the battlefield tapped under your control.
+[i]Declare Independence[/i] — {7}: Gain control of each land you own but don't control. Untap them. => [i]POTUS[/i] — When George Washington enters, search your library for up to four basic land cards. Put two of them onto the battlefield tapped under an opponent's control and the rest onto the battlefield tapped under your control.
+[i]Declare Independence[/i] — {7}: Gain control of each land you own but don't control. Untap them.
+
+Grievous Assault
+cost: {2}{G}{G} => {1}{G}
+rules_text: Choose target creature you control. It gets +2/+4 until end of turn if it's modified. Then it fights up to two other target creatures. [i](At the same time.)[/i] => You may have target creature you control fight target creature you don't control. When you do, if the creature you control is modified, you may have it fight a second target creature you don't control. [i](It must survive the fight with the first creature to fight the second.)[/i]
+
+Scoop
+rules_text: As an additional cost to cast this spell, discard a card.
+Target creature gets -5/-5 until end of turn. If that creature would die this turn, instead exile it, then return it to the battlefield under your control. It's an artifact. [i](It's not a creature.)[/i] => As an additional cost to cast this spell, sacrifice an artifact or discard a card.
+Destroy target creature.
+
+William Afton
+rules_text: Lifelink
+Disturb—{B}, Sacrifice five creatures. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When William Afton enters, create a 1/1 white Human creature token.
+Disturb—{B}, Sacrifice five creatures. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+pt: 3/3 => 2/2
+
+Gol D. Roger
+
+Funny Valentine
+
+The French Revolution
+
+Pyramid Head
+
+Respawn At The Fire
+rules_text: Mill four cards. When you do, choose one —
+• Return a permanent card from among them to your hand.
+• Return a legendary creature card from your graveyard to your hand. => Mill four cards, then choose one:
+• Return a permanent card from among them to your hand.
+• Return a legendary creature card from your graveyard to your hand.
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+
+Shrek
+rules_text: [i]Get Out Of My Swamp! [/i]— When Shrek enters, return all creatures with power 3 or less to their owner's hand, then each player discards a card.
+You may cast creature cards from your graveyard if they were put there from anywhere but the battlefield this turn. => Menace
+[i]Get Out Of My Swamp! [/i]— When Shrek enters, return all creatures with power 3 or less to their owner's hand.
+pt: 4/4 => 5/5
+
+Marisa Kirisame
+
+Guidance of Moonlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+
+Slay The Spire
+
+Yuuka Kazami
+
+Moody Blues
+
+Following Army
+
+Warrior
+
+The Lead
+
+Robot Warrior
+
+Page
+
+Homeward Path
+
+
+VERSION 11 CHANGELOG
+====================
+
+Tim's Unmasking added.
+Inspector Koichi Zenigata added.
+The Stranger added.
+Kaela's Grind added.
+Hollow added.
+Mystery Inc. added.
+Alien Robot added.
+Robot Warrior added.
+Blood added.
+Clue added.
+Page added.
+Food added.
+Treasure added.
+Alien Insect added.
+Alien Warrior added.
+Beast added.
+Eye added.
+Following Army added.
+Human added.
+Hyena added.
+Insect added.
+Nightmare added.
+Ooze added.
+Plant added.
+Spirit added.
+Warrior added.
+Mask added.
+Homeward Path added.
+The Intelligence added.
+The Intelligence added.
+Sweet Tooth added.
+Moody Blues added.
+
+Itachi's Genjutsu removed.
+Clicker removed.
+Zoro, Three Sword Fighter removed.
+Sanji, Impassioned Cook removed.
+Reconsider removed.
+Behind the Mask removed.
+Asura Strike removed.
+General Grievous removed.
+The TMNT removed.
+
+The Administrator
+rules_text: When The Administrator enters, create The Intelligence, a legendary artifact with “{T}: Add {U}{R}. Spend this mana only to cast noncreature spells”
+Whenever you cast a noncreature spell, create a 1/1 blue and red Mercenary creature token with haste. => When The Administrator enters, create The Intelligence, a legendary artifact with “{T}: Add {U}{R}. You can't spend this mana to cast creature spells.”
+Whenever you cast a noncreature spell, create a 1/1 blue and red Mercenary creature token with haste.
+
+The Flash, Barry Allen
+rules_text: Flash
+First strike, haste
+The Flash enters with a finality counter on him.
+When The Flash enters, take an extra turn after this one. If a triggered ability of a creature you control would trigger that turn, it triggers an additional time. => Flash
+First strike, haste
+You may cast spells as though they had flash.
+When The Flash enters, discard your hand, then draw four cards and untap four lands.
+pt: 5/5 => 4/4
+
+Lady Gaga, Fame Monster
+rules_text: [i]World Famous[/i] — When Lady Gaga enters, you take the lead. [i](It's the monarch.)[/i]
+Whenever you draw a card, amass following 1. [i](Put a +1/+1 counter on an Army you control. It's also a following. If you don't control an Army, create a 0/0 black following Army creature token first.)[/i] => [i]World Famous[/i] — When Lady Gaga enters, you take the lead. [i](It's the monarch.)[/i]
+Whenever you draw a card, you may pay {2}. If you do, amass Following 2. [i](Put two +1/+1 counters on an Army you control. It's also a Following. If you don't control an Army, create a 0/0 black Following Army creature token first.)[/i]
+pt: 2/3 => 3/3
+
+The Master Sword
+rules_text: When The Master Sword enters, exile target creature an opponent controls and put seven time counters on it. If it doesn't have suspend, it gains suspend.
+Equipped creature has double strike.
+Equip legendary {4} => When The Master Sword enters, exile target creature an opponent controls and put seven time counters on it. If it doesn't have suspend, it gains suspend.
+Equipped creature has double strike.
+Equip {4}
+
+Pearl, the Renegade
+rules_text: Double strike, vigilance
+{1}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — You may look at the top card of your library any time.
+🌹 — Once during each turn, you may cast a spell from the top of your library as long as it targets a creature you control. => Double strike, vigilance
+{W}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — You may look at the top card of your library any time.
+🌹 — Once during each turn, you may cast a spell from the top of your library as long as it targets a creature you control.
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+
+Reverse Bear Trap
+rules_text: Vanishing 4
+When Reverse Bear Trap enters, attach it to target creature.
+Whenever you commit a crime, remove a time counter from Reverse Bear Trap.
+When Reverse Bear Trap leaves the battlefield, destroy equipped creature. => Vanishing 4
+When Reverse Bear Trap enters, attach it to target creature.
+Whenever you commit a crime, remove a time counter from Reverse Bear Trap. This ability triggers only once each turn.
+When Reverse Bear Trap leaves the battlefield, destroy equipped creature.
+
+Surreal Encounter
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you may exile the top three cards of your library and choose one of them. You may play that card this turn.
+Disguise {2}{R} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, exile the top card of your library. You may play it until the end of your next turn.
+Disguise {2}{R} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+
+George Washington
+rules_text: [i]POTUS[/i] — When George Washington enters, you take the lead, then search your library for up to four basic land cards. Put two of them onto the battlefield tapped under an opponent's control and the the rest onto the battlefield under your control tapped.
+[i]Declare Independence[/i] — {6}: Gain control of each land you own but don't control. Untap them. => When George Washington enters, search your library for up to four basic land cards. Put two of them onto the battlefield tapped under an opponent's control and the the rest onto the battlefield tapped under your control.
+[i]Declare Independence[/i] — {7}: Gain control of each land you own but don't control. Untap them.
+pt: 3/3 => 2/2
+
+SCP-294, Infinite Vendor
+rules_text: At the beginning of your upkeep, sacrifice a nontoken Food. If you do, you gain 3 life.
+{T}: Reveal the top card of your library. If it's a permanent card, put it onto the battlefield. It's a Food artifact and has “{2}, {T}, Sacrifice this artifact: Gain 3 life.” [i](It's not any other card types)[/i] => At the beginning of your upkeep, sacrifice a nontoken Food. If you do, you gain 3 life.
+{T}: Mill a card. If it's a permanent card, put it onto the battlefield. It's a Food artifact and has “{2}, {T}, Sacrifice this artifact: Gain 3 life.” [i](It's not any other card types)[/i]
+
+William Afton
+
+Slenderman
+rules_text: Protection from everything
+Slenderman can't attack or block unless you control eight or more nonland permanents.
+Whenever a creature you control deals combat damage to a player, create a Clue token named Page. [i](It's an artifact with “{2}, Sacrifice this: Draw a card.”)[/i] => Ward {8}
+Slenderman can't attack or block unless you control eight or more nonland permanents.
+Whenever one or more creatures you control deal combat damage to a player, create a Clue token named Page. [i](It's an artifact with “{2}, Sacrifice this: Draw a card.”)[/i]
+
+Wracked With Grief
+rules_text: Choose a creature card in your graveyard, then an opponent chooses one [i](You get the effect.)[/i]
+• [i]Cling To the Past[/i] — Return the chosen creature card from your graveyard to the battlefield. It's a Nightmare in addition to its other types.
+• [i]Move On[/i] — You discard your hand, then draw six cards. => Choose a creature card in your graveyard. When you do, an opponent chooses one [i](You get the effect they choose.)[/i]
+• [i]Cling To the Past[/i] — Return the chosen creature card from your graveyard to the battlefield. It's a Nightmare in addition to its other types.
+• [i]Move On[/i] — Discard your hand, then draw six cards.
+
+The Ice Climbers
+rules_text: [i]Wobble[/i] — When The Ice Climbers enters, tap target creature and put three stun counters on it. You gain control of that creature for as long as it remains tapped.
+Other modified creatures you control have hexproof. => [i]Wobble[/i] — When The Ice Climbers enters, tap up to one target creature and put three stun counters on it. You gain control of that creature for as long as it remains tapped.
+Other modified creatures you control have hexproof.
+
+Fell Bullet
+cost: {5}{R}{R} => {6}{R}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Fell bullet deals 5 damage to each creature target player controls. => As an additional cost to cast this spell, sacrifice a creature.
+Fell bullet deals 6 damage to each creature target player controls.
+
+Dante's Awakening
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Up to two target creatures connive.
+II — Exile up to one target noncreature, nonland card from your graveyard. You may cast it this turn.
+III — Create a token copy of target creature, except it's a 4/4 blue Demon Horror named Mockery of Sparda. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Up to two target creatures each connive.
+II — Exile up to one target noncreature, nonland card from your graveyard. You may cast it this turn.
+III — Create a token copy of target creature, except it's a 4/4 blue Demon Horror named Mockery of Sparda.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Up to two target creatures connive.
+II — Exile up to one target noncreature, nonland card from your graveyard. You may cast it this turn.
+III — Create a token copy of target creature, except it's a 4/4 blue Demon Horror named Mockery of Sparda. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Up to two target creatures each connive.
+II — Exile up to one target noncreature, nonland card from your graveyard. You may cast it this turn.
+III — Create a token copy of target creature, except it's a 4/4 blue Demon Horror named Mockery of Sparda.
+
+Respawn At The Fire
+rules_text: Mill four cards, then choose one:
+• Return a permanent card from among them to your hand.
+• Return a legendary creature card from your graveyard to your hand. => Mill four cards. When you do, choose one —
+• Return a permanent card from among them to your hand.
+• Return a legendary creature card from your graveyard to your hand.
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+
+Absolutely Safe Capsule
+rules_text: Indestructible
+When this enters, target creature with mana value 5 or less phases out until this leaves the battlefield. => Indestructible
+When this enters, target creature with mana value 4 or less phases out until this leaves the battlefield.
+
+Swarmer
+rules_text: Flying
+When Swarmer is turned face up, create X tokens that are copies of it.
+Disguise {X}{W}{W} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i] [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i] => Flying
+When Swarmer is turned face up, create X tokens that are copies of it.
+Disguise {X}{W}{W} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+
+Robbie Rotten
+pt: 2/2 => 3/2
+
+Shrek
+pt: 5/5 => 4/4
+
+Guidance of Moonlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+
+Daedream
+type: Creature — Sheep => Creature — Nightmare Sheep
+
+Charlie, Queen Of Shadows
+rules_text: Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever Charlie deals combat damage to a player, you may pay {1}. If you do, she connives. => Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever Charlie deals combat damage to a player, you may pay {1}. If you do, she connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+
+The Buried City
+rules_text: [i]({T}: Add {G} or {R})[/i]
+The Buried City enters tapped unless you pay {1}. => [i]({T}: Add {R} or {G}.)[/i]
+The Buried City enters tapped unless you pay {1}.
+
+Control Point
+
+Mask Token
+rules_text: Enchant creature
+Umbra Armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Yuuka Kazami
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
