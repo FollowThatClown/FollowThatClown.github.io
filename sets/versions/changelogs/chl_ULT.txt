@@ -1,4 +1,142 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Venusaur added.
+Grim, Begrudging Mentor added.
+Every Single Power Ranger added.
+Jazz Jackrabbit added.
+Reconsider added.
+
+The Tempfugitron removed.
+Time Dilation removed.
+Captain Planet removed.
+Homeward Path removed.
+
+Dogma
+pt: 4/3 => 3/3
+
+Madotsuki, Dream Traveller
+cost: {2}{R} => {3}{R}
+
+Surreal Encounter
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, exile the top card of your library. You may play it until the end of your next turn.
+Disguise {2}{R} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, exile the top card of your library. You may play it until the end of your next turn.
+
+Tenten, Toolmaster
+rules_text: When Tenten enters, look at the top seven cards of your library. Put up to two Equipment cards from among them onto the battlefield and attach one of them to Tenten. Put the rest on the bottom of your library in any order. => When Tenten enters, look at the top seven cards of your library. Put up to two Aura and/or Equipment cards from among them onto the battlefield and attach one of them to Tenten. Put the rest on the bottom of your library in any order.
+
+Poison Ivy
+rules_text: You may play an additional land card each turn.
+[i]Landfall[/i] — Whenever a nontoken land you control enters, create a token that's a copy of it, except it's a 0/0 Plant creature with haste that's still a land. Put three +1/+1 counters on it. => [i]Landfall[/i] — Whenever a nontoken land you control enters, create a token that's a copy of it, except it's a 0/0 Plant creature with haste that's still a land. Put two +1/+1 counters on it.
+pt: 2/2 => 4/4
+
+Mooshroom
+pt: 0/4 => 0/3
+
+Yano, Rap Artist
+pt: 2/3 => 3/2
+
+William Afton
+rules_text: When William Afton enters, create a 1/1 white Human creature token.
+Disturb—{B}, Sacrifice five creatures. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When William Afton enters, create a 1/1 white Human creature token.
+Disturb—{2}{B}, Sacrifice five creatures. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Red
+pt: 4/4 => 3/3
+
+Satan
+pt: 3/6 => 2/6
+
+Sasori, Human Puppeteer
+rules_text: When Sasori enters, return target creature card from a graveyard to the battlefield. It's a Vehicle artifact with crew 3. [i](It's not a creature for now, but maintains its power, toughness, and abilities.)[/i] => Flash
+When Sasori enters, return target creature card from a graveyard to the battlefield. It's a Vehicle artifact with crew 3. [i](It's not a creature for now, but maintains its power, toughness, and abilities.)[/i]
+pt: 3/3 => 3/2
+
+Fated Legacy
+rules_text: Enchant creature you control
+Enchanted creature gets +3/+3 and has lifelink.
+When enchanted creature leaves the battlefield, exile this with three time counters on it.
+Suspend 3—{1}{W} => Enchant creature you control
+Enchanted creature gets +3/+0 and has vigilance.
+When enchanted creature leaves the battlefield, exile this with three time counters on it.
+Suspend 3—{1}{W}
+
+Invincibility
+rules_text: Target creature gains protection from each of your opponents until end of turn. You take the lead. [i](It's the monarch.)[/i] => Target creature gains hexproof and indestructible until end of turn. You take the lead. [i](It's the monarch.)[/i]
+
+Absolutely Safe Capsule
+cost: {1}{W} => {2}{W}
+rules_text: Indestructible
+When this enters, target creature with mana value 4 or less phases out until this leaves the battlefield. => Indestructible
+When this enters, target creature with mana value 5 or less phases out until this leaves the battlefield.
+
+Purification in Progress
+rules_text: Destroy target artifact, enchantment, or creature with power 4 or more. => Exile target artifact, enchantment, or creature with power 4 or greater.
+
+Vigilante Justice
+rules_text: Each creature card in your hand without disguise has disguise {5}.
+Face-down creatures you control have lifelink.
+The first face-down creature spell you cast each turn costs {1} less to cast for each creature you control that died this turn. => Each creature card in your hand has disguise. When you disguise a card this way, it gains “{5}: Turn this creature face up.”
+Face-down creatures you control have lifelink.
+The first face-down creature spell you cast each turn costs {1} less to cast for each creature you control that died this turn.
+
+Oozle Lineage
+pt: 3/3 => 3/2
+
+Esprit De Corps
+rules_text: Flying
+Esprit De Corp's power and toughness are each equal to twice the number of modified creatures you control plus 1. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Flying
+Esprit De Corp's power is equal to the number of other modified creatures you control plus 1. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+pt: 1+*/1+* => 1+*/2
+
+Juri Han
+rules_text: Haste
+[i][i]Landfall[/i][/i]—Whenever a land enters under your control, you may discard a card. If you do, draw a card. If you don't, Juri gets +2/+2 until end of turn. => [i][i]Landfall[/i][/i]—Whenever a land enters under your control, you may discard a card. If you do, choose one —
+• Draw a card. 
+• Juri gets +2/+2 until end of turn.
+pt: 2/1 => 2/2
+
+Akhundelar
+cost: {3}{G}{W} => {4}{G}{W}
+rules_text: Choose up to five ★ worth of modes. You may choose the same mode more than once.
+★ Create a 1/1 white Alien Warrior creature token.
+★★ Put a +1/+1 counter on each creature you control.
+★★★ Create a 5/5 white Alien Robot artifact creature token with vigilance and reach. => Choose up to five ★ worth of modes. You may choose the same mode more than once.
+★ — Create a 1/1 white Alien Warrior creature token.
+★★ — Put a +1/+1 counter on each creature you control.
+★★★ — Create a 5/5 white Alien Robot artifact creature token with vigilance and reach.
+
+Nox, Mad Xelor
+rules_text: Flying, first strike
+Whenever another creature dies, you may put a time counter on Nox. Do this only once each turn.
+Remove seven time counters from Nox: Return target creature card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. => Flying
+Whenever another creature dies, you may put a time counter on Nox. Do this only once each turn.
+Remove seven time counters from Nox: Return target creature card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.
+pt: 4/3 => 4/4
+
+88 Miles Per Hour
+rules_text: Choose one —
+• Target creature can't be blocked this turn.
+• Return target creature to its owner's hand.
+Time travel. [i](For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)[/i] => Choose one —
+• Target creature can't be blocked this turn.
+• Return target creature to its owner's hand.
+• Draw a card.
+
+Daedream
+rules_text: Flying
+Whenever another creature you control deals combat damage to a player, that players loses 1 life. => Flying
+Whenever another creature you control deals combat damage to a player, that player loses 1 life.
+
+Soul Calibur
+rules_text: When Soul Calibur enters, destroy target nonland permanent.
+Equipped creature gets +2/+2 and has vigilance and lifelink.
+Equip {3}{W}{W} => When Soul Calibur enters, destroy target nonland permanent.
+During your turn, equipped creature gets +2/+2 and has vigilance and lifelink.
+Equip {3}{W}{W}
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Flung into the Future added.
