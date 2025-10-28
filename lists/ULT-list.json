@@ -161,7 +161,7 @@
         "position": ""
     },
     {
-        "card_name": "Enter the Gungeon",
+        "card_name": "Doppio, Boss' Concierge",
         "number": 125,
         "shape": "normal",
         "set": "ULT",
@@ -196,7 +196,7 @@
         "position": ""
     },
     {
-        "card_name": "Fell Bullet",
+        "card_name": "Enter the Gungeon",
         "number": 126,
         "shape": "normal",
         "set": "ULT",
@@ -231,7 +231,7 @@
         "position": ""
     },
     {
-        "card_name": "Ghast",
+        "card_name": "Fell Bullet",
         "number": 127,
         "shape": "normal",
         "set": "ULT",
@@ -266,7 +266,7 @@
         "position": ""
     },
     {
-        "card_name": "Gigi, Gremlin of Justice",
+        "card_name": "Ghast",
         "number": 128,
         "shape": "normal",
         "set": "ULT",
@@ -301,7 +301,7 @@
         "position": ""
     },
     {
-        "card_name": "Glimmer of Gold",
+        "card_name": "Gigi, Gremlin of Justice",
         "number": 129,
         "shape": "normal",
         "set": "ULT",
@@ -336,7 +336,7 @@
         "position": ""
     },
     {
-        "card_name": "Gordon Freeman",
+        "card_name": "Glimmer of Gold",
         "number": 130,
         "shape": "normal",
         "set": "ULT",
@@ -371,7 +371,7 @@
         "position": ""
     },
     {
-        "card_name": "Grasp of Gloom",
+        "card_name": "Gordon Freeman",
         "number": 131,
         "shape": "normal",
         "set": "ULT",
@@ -406,9 +406,9 @@
         "position": ""
     },
     {
-        "card_name": "Happy Happy Attacky",
+        "card_name": "Grasp of Gloom",
         "number": 132,
-        "shape": "modal double faced",
+        "shape": "normal",
         "set": "ULT",
         "position": ""
     },
@@ -441,9 +441,9 @@
         "position": ""
     },
     {
-        "card_name": "Harley Quinn, Crime Queen",
+        "card_name": "Happy Happy Attacky",
         "number": 133,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT",
         "position": ""
     },
@@ -476,7 +476,7 @@
         "position": ""
     },
     {
-        "card_name": "Into the Dreamworld",
+        "card_name": "Harley Quinn, Crime Queen",
         "number": 134,
         "shape": "normal",
         "set": "ULT",
@@ -511,7 +511,7 @@
         "position": ""
     },
     {
-        "card_name": "Jacket, Midnight Animal",
+        "card_name": "Into the Dreamworld",
         "number": 135,
         "shape": "normal",
         "set": "ULT",
@@ -546,7 +546,7 @@
         "position": ""
     },
     {
-        "card_name": "Jambi the Genie",
+        "card_name": "Jacket, Midnight Animal",
         "number": 136,
         "shape": "normal",
         "set": "ULT",
@@ -581,7 +581,7 @@
         "position": ""
     },
     {
-        "card_name": "Johnny Joestar",
+        "card_name": "Jambi the Genie",
         "number": 137,
         "shape": "normal",
         "set": "ULT",
@@ -609,14 +609,14 @@
         "position": ""
     },
     {
-        "card_name": "John Cavil",
+        "card_name": "Jax, Gleeful Tormentor",
         "number": 99,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Juri Han",
+        "card_name": "Johnny Joestar",
         "number": 138,
         "shape": "normal",
         "set": "ULT",
@@ -644,14 +644,14 @@
         "position": ""
     },
     {
-        "card_name": "Judgement Boy",
+        "card_name": "John Cavil",
         "number": 100,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Kaela's Grind",
+        "card_name": "Juri Han",
         "number": 139,
         "shape": "normal",
         "set": "ULT",
@@ -679,14 +679,14 @@
         "position": ""
     },
     {
-        "card_name": "Kabuto's War Plan",
+        "card_name": "Judgement Boy",
         "number": 101,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Let's Rock!",
+        "card_name": "Kaela's Grind",
         "number": 140,
         "shape": "normal",
         "set": "ULT",
@@ -714,14 +714,14 @@
         "position": ""
     },
     {
-        "card_name": "The Lamb",
+        "card_name": "Kabuto's War Plan",
         "number": 102,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Madotsuki, Dream Traveller",
+        "card_name": "Let's Rock!",
         "number": 141,
         "shape": "normal",
         "set": "ULT",
@@ -749,14 +749,14 @@
         "position": ""
     },
     {
-        "card_name": "Lupin the Third",
+        "card_name": "The Lamb",
         "number": 103,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Mel, the Last Human",
+        "card_name": "Madotsuki, Dream Traveller",
         "number": 142,
         "shape": "normal",
         "set": "ULT",
@@ -784,14 +784,14 @@
         "position": ""
     },
     {
-        "card_name": "Master Belch",
+        "card_name": "Lupin the Third",
         "number": 104,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Nami, Straw Hat Navigator",
+        "card_name": "Mel, the Last Human",
         "number": 143,
         "shape": "normal",
         "set": "ULT",
@@ -819,14 +819,14 @@
         "position": ""
     },
     {
-        "card_name": "The Mole",
+        "card_name": "Master Belch",
         "number": 105,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Needles Kane",
+        "card_name": "Nami, Straw Hat Navigator",
         "number": 144,
         "shape": "normal",
         "set": "ULT",
@@ -854,14 +854,14 @@
         "position": ""
     },
     {
-        "card_name": "The Mountain Of Smiling Bodies",
+        "card_name": "The Mole",
         "number": 106,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Red",
+        "card_name": "Needles Kane",
         "number": 145,
         "shape": "normal",
         "set": "ULT",
@@ -889,14 +889,14 @@
         "position": ""
     },
     {
-        "card_name": "Mr. L, Man of Mystery",
+        "card_name": "The Mountain Of Smiling Bodies",
         "number": 107,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "RICOSHOT",
+        "card_name": "Red",
         "number": 146,
         "shape": "normal",
         "set": "ULT",
@@ -924,14 +924,14 @@
         "position": ""
     },
     {
-        "card_name": "Nasty End",
+        "card_name": "Mr. L, Man of Mystery",
         "number": 108,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "Sergeant Leland Coyle",
+        "card_name": "RICOSHOT",
         "number": 147,
         "shape": "normal",
         "set": "ULT",
@@ -959,14 +959,14 @@
         "position": ""
     },
     {
-        "card_name": "Neil, Lemon Demon",
+        "card_name": "Nasty End",
         "number": 109,
         "shape": "normal",
         "set": "ULT",
         "position": ""
     },
     {
-        "card_name": "The Shotgun King",
+        "card_name": "Sergeant Leland Coyle",
         "number": 148,
         "shape": "normal",
         "set": "ULT",
@@ -1001,7 +1001,7 @@
         "position": ""
     },
     {
-        "card_name": "Simon Henriksson",
+        "card_name": "The Shotgun King",
         "number": 149,
         "shape": "normal",
         "set": "ULT",
@@ -1036,7 +1036,7 @@
         "position": ""
     },
     {
-        "card_name": "Sizz",
+        "card_name": "Simon Henriksson",
         "number": 150,
         "shape": "normal",
         "set": "ULT",
@@ -1071,7 +1071,7 @@
         "position": ""
     },
     {
-        "card_name": "Smash Cut",
+        "card_name": "Sizz",
         "number": 151,
         "shape": "normal",
         "set": "ULT",
@@ -1106,7 +1106,7 @@
         "position": ""
     },
     {
-        "card_name": "Spark Bolt With Trigger",
+        "card_name": "Smash Cut",
         "number": 152,
         "shape": "normal",
         "set": "ULT",
@@ -1141,7 +1141,7 @@
         "position": ""
     },
     {
-        "card_name": "The Statue Of Liberty",
+        "card_name": "Spark Bolt With Trigger",
         "number": 153,
         "shape": "normal",
         "set": "ULT",
@@ -1176,7 +1176,7 @@
         "position": ""
     },
     {
-        "card_name": "Surreal Encounter",
+        "card_name": "The Statue Of Liberty",
         "number": 154,
         "shape": "normal",
         "set": "ULT",
@@ -1211,7 +1211,7 @@
         "position": ""
     },
     {
-        "card_name": "Terrible, Terrible Damage",
+        "card_name": "Surreal Encounter",
         "number": 155,
         "shape": "normal",
         "set": "ULT",
@@ -1246,7 +1246,7 @@
         "position": ""
     },
     {
-        "card_name": "The Ukelele",
+        "card_name": "Terrible, Terrible Damage",
         "number": 156,
         "shape": "normal",
         "set": "ULT",
@@ -1281,7 +1281,7 @@
         "position": ""
     },
     {
-        "card_name": "V1",
+        "card_name": "The Ukelele",
         "number": 157,
         "shape": "normal",
         "set": "ULT",
@@ -1316,7 +1316,7 @@
         "position": ""
     },
     {
-        "card_name": "Wracked With Grief",
+        "card_name": "V1",
         "number": 158,
         "shape": "normal",
         "set": "ULT",
@@ -1351,7 +1351,7 @@
         "position": ""
     },
     {
-        "card_name": "Yano, Rap Artist",
+        "card_name": "Wracked With Grief",
         "number": 159,
         "shape": "normal",
         "set": "ULT",
