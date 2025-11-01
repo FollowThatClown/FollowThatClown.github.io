@@ -1,4 +1,220 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Backlace added.
+Bill S. Preston added.
+Cloaker added.
+Zantetsuken added.
+Test of Resolve added.
+Occultist added.
+Join the Family added.
+
+Mr. L, Man of Mystery removed.
+
+Master Belch
+rules_text: Trample
+When Master Belch enters, create two 1/1 black Ooze creature tokens.
+Sacrifice another Ooze: Master Belch gains indestructible until end of turn. Tap it. => Trample
+When Master Belch enters, create two 1/1 black Ooze creature tokens.
+Sacrifice another creature: Master Belch gains indestructible until end of turn. Tap it.
+
+Starman Jr.
+rules_text: Flash
+Flying, vigilance
+[i]Teleport[/i] — When Starman Jr. enters, exile another target creature. Return it to the battlefield under its owner's control at the beginning of the next end step. => Flash
+Flying, vigilance
+[i]Teleport[/i] — When Starman Jr. enters, exile another target creature. Return it to the battlefield under its owner's control at the beginning the next end step.
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way.
+
+Madotsuki, Dream Traveller
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you may discard a card. If you do, draw a card, then cloak the top card of your library.
+Whenever you turn another face-down creature face up, put two +1/+1 counters on it. It becomes a Nightmare in addition to its other types. => [i]Landfall[/i] — Whenever a land you control enters, you may discard a card. If you do, draw a card, then cloak a card from your hand.
+Whenever you turn another face-down creature face up, put two +1/+1 counters on it. It becomes a Nightmare in addition to its other types.
+
+Hidden in the Leaves
+rules_text: When Hidden in the Leaves enters, look at the top three cards of your library. Cloak a card from among them and put the rest on the bottom of your library in a random order.
+At the beginning of your upkeep, exile up to one target face-down permanent you own. If it's a land card, return it to the battlefield. => When Hidden in the Leaves enters, look at the top four cards of your library. Cloak a card from among them and put the rest on the bottom of your library in a random order.
+At the beginning of your upkeep, exile up to one target face-down permanent you own. If it's a land card, return it to the battlefield.
+
+The Delorean
+rules_text: Ward {88} [i](That's eighty eight.)[/i]
+When The Delorean enters, scry 3, then exile the top three cards of your library. For each of those cards, put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend. 
+Whenever The Delorean attacks, time travel.
+Crew 3 => Ward {88} [i](That's eighty eight.)[/i]
+When The Delorean enters, scry 3, then exile the top three cards of your library. For each nonland card among them, put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend. 
+Whenever The Delorean attacks, time travel.
+Crew 3
+
+Gol D. Roger
+rules_text: Double strike
+[i]King of the Pirates [/i]— When Gol D. Roger enters, you take the lead. [i](It's the monarch)[/i]
+Whenever you draw a card, you may put a land card from your hand onto the battlefield. If you don't, put a +1/+1 counter on Gol D. Roger. => First strike, trample
+[i]King of the Pirates [/i]— When Gol D. Roger enters, you take the lead. [i](It's the monarch)[/i]
+Whenever you draw a card, you may put a land card from your hand onto the battlefield. If you don't, put a +1/+1 counter on Gol D. Roger.
+pt: 3/4 => 4/4
+
+Scaramouche the Merciless
+cost: {3}{B}{G} => {4}{B}{G}
+rules_text: You may play lands from your graveyard. If you play a land this way, it enters with a finality counter and three +1/+1 counters on it. It's a 0/0 Golem artifact creature with haste that's still a land.
+Golems you control have menace and vigilance. => Menace, vigilance
+You may play lands from your graveyard. If you play a land this way, it enters with a finality counter and three +1/+1 counters on it. It's a 0/0 Golem artifact creature with haste that's still a land.
+Golems you control have menace and vigilance.
+pt: 3/3 => 4/4
+
+Glimmer of Gold
+
+The Spy
+cost:  => {U}{U}{U}{U}{U}
+rules_text: [i](Nonexistent mana costs can't be paid.)[/i]
+[i]Dead Ringer[/i] — When The Spy dies, exile him and the top two cards of your library in a face-down pile, shuffle that pile, then cloak those cards. They enter tapped.
+Disguise—{3}{U}, Exile five cards from your graveyard. => [i](Nonexistent mana costs can't be paid.)[/i]
+[i]Dead Ringer[/i] — When The Spy dies, exile him and the top two cards of your library in a face-down pile, shuffle that pile, then cloak those cards. They enter tapped.
+Disguise—{2}{U}, Exile five cards from your graveyard.
+
+Andi, Unlikely Smuggler
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+[i]Rescue the Princess[/i] — {4}{U}: Put two +1/+1 counters on Andi. Search your library for an artifact creature card [i](don't reveal it)[/i], cloak it, then shuffle. Activate only once. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+[i]Rescue the Princess[/i] — {3}{U}: Put a +1/+1 counter on Andi. Search your library for an artifact creature card [i](don't reveal it)[/i], cloak it, then shuffle. Activate only once.
+
+Sizz
+rules_text: Sizz deals 2 damage to each creature target player controls. => Sizz deals 2 damage to each creature target player controls.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+
+Luigi
+cost: {4}{B}{G} => {3}{B}{G}
+rules_text: At the beginning of each player's end step, they may return a creature card from their graveyard to the battlefield with a finality counter on it. It's a Spirit in addition to its other types.
+Whenever Luigi attacks, he deals damage equal to his power to up to one target Spirit. => At the beginning of each player's end step, they may return a creature card from their graveyard to the battlefield with a finality counter on it. It's a Spirit in addition to its other types and has flying.
+Whenever Luigi attacks, he deals damage equal to his power to up to one target Spirit.
+
+Pyramid Head
+cost: {3}{R}{W}{B} => {2}{R}{W}{B}
+pt: 4/6 => 4/4
+
+Fell Bullet
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Fell bullet deals 6 damage to each creature target player controls. => As an additional cost to cast this spell, sacrifice a creature.
+Fell Bullet deals 6 damage to each creature target player controls.
+
+Magical Girl Transformation
+rules_text: Look at the top four cards of your library. Cloak one of them. Put the rest on the bottom of your library in a random order. [i](To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)[/i] => Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.
+You may cloak a card from your hand. [i](To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+
+Batman
+cost: {W}{U}{B} => {1}{W}{U}{B}
+rules_text: Flying, first strike, lifelink
+Disguise {2}{W}{U}{B} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Batman is turned face up, draw two cards.
+If a creature dealt damage by Batman this turn would die, put it on the bottom of its owner's library instead. => Flying, first strike, lifelink, ward {2}
+Disguise {2}{W}{U}{B} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Batman is turned face up, draw two cards.
+If a creature dealt damage by Batman this turn would die, put it on the bottom of its owner's library instead.
+
+The Nurse
+cost: {2}{W} => {1}{W}{W}
+rules_text: Flying
+[i]Spencer's Last Breath[/i] — When The Nurse enters, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step. => Flying
+[i]Spencer's Last Breath[/i] — When The Nurse enters, exile another target nonland permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+Juri Han
+rules_text: [i][i]Landfall[/i][/i]—Whenever a land enters under your control, you may discard a card. If you do, choose one —
+• Draw a card. 
+• Juri gets +2/+1 until end of turn. => [i][i]Landfall[/i][/i]—Whenever a land enters under your control, choose one —
+• Discard a card, then draw a card. 
+• Juri gets +2/+1 until end of turn.
+
+Kermit
+cost: {3}{G}{G}{G} => {4}{G}{G}{G}
+
+Guidance of Moonlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+
+Perry, a Platypus
+rules_text: Ward {2}
+As long as Perry isn't modified, he's a 1/1 Platypus and isn't legendary. [i](He loses his other types. Equipment, Auras you control, and counters are modifications.)[/i] => Ward {2}
+As long as Perry isn't modified, he's a 1/1 Platypus and isn't legendary. [i](He loses his other types. Equipment, Auras you control, and counters are modifications.)[/i]
+Disguise {G}{U}
+
+Mask Token
+rules_text: Enchant creature
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Bloody Mess
+rules_text: You draw two cards and lose 2 life.
+Flashback—{2}{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Repeat the following process three times. Each opponent discards a card unless they sacrifice a nonland permanent or pays 3 life.
+
+Mask
+rules_text: Enchant creature
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Lupin the Third
+cost: {B}{B} => {3}{R}{R}
+rules_text: Disguise {1}{B} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+Whenever Lupin the Third is turned face up, deals combat damage to a player, or you commit a crime, create a Treasure token. This ability triggers only once each turn. => Disguise {3}{R} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Lupin the Third enters or is turned face up, target creature can't block this turn.
+[i]Landfall[/i] — Whenever a land enters under your control, target creature can't block this turn.
+pt: 2/2 => 3/3
+
+Daisuke Jigen
+cost: {3}{R}{R} => {B}{B}
+rules_text: Disguise {4}{R} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Daisuke Jigen enters or is turned face up, it deals damage equal to its power to target creature. If you've cast a noncreature spell this turn, it deals damage equal to twice its power instead. => Disguise {1}{B} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Daisuke Jigen enters or is turned face up, he deals 1 damage to target player. If he was turned face up, he deals 3 damage instead. If a creature you control died this turn, that damage can be dealt to any target instead.
+pt: 3/4 => 3/2
+
+Ishikawa Goemon XIII
+rules_text: Disguise {4}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Ishikawa Goemon XIII enters or is turned face up, put two +1/+1 counter on it.
+[i]Landfall[/i] — Whenever a land enters under your control, you may remove a +1/+1 counter from Ishikawa Goemon XIII. If you do, destroy target artifact. => Disguise {4}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Ishikawa Goemon XIII enters or is turned face up, create Zantetsuken, a legendary Equipment artifact token with “Equipped creature gets +3/+3” and equip {3}. If Goemon was turned face up, attach it to him.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 No changes.
