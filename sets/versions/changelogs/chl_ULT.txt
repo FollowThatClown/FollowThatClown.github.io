@@ -1,4 +1,46 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+Mask Token removed.
+
+Endurance, Embodied Past
+rules_text: Endurance's power and toughness are each equal to the number of permanent cards in your graveyard plus 1. => Endurance's power is equal to one plus the number of permanent cards in your graveyard.
+
+
+VERSION 20 CHANGELOG
+====================
+
+
+Victor Frankenstein removed.
+ZeroRanger, Endless Fighter removed.
+Captured Deathcard removed.
+The Mole removed.
+Punch Tanaka, Petty Thug removed.
+Neow, Ancient Of Resurrection removed.
+Rotten Scheme removed.
+
+Larcin, Invisible Agent
+rules_text: Disguise {1}{U} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Larcin, Invisible Agent enters or is turned face up, it and face down creatures you control can't be blocked this turn. => Disguise {1}{U} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Larcin, Invisible Agent enters or is turned face up, target creature can't be blocked this turn. If Larcin was turned face up, up to one second target creature can't be blocked this turn.
+pt: 2/3 => 3/2
+
+Squire, Recon Specialist
+rules_text: Squire can't be blocked by creatures with power 2 or less
+Disguise {4}{G}
+When Squire or another creature you control is turned face up, it explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Disguise {4}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Squire enters or is turned face up, target creature you control explores. If he was turned face up, up to one second target creature explores.
+
+Cloaker
+rules_text: Disguise {1}{B}
+When this creature is turned face up, cloak the top card of your library. It enters tapped.
+Whenever this creature deals combat damage to a player, cloak it. It enters tapped. => Disguise {1}{B}
+When this creature is turned face up, cloak the top card of your library. It enters tapped.
+Whenever this creature deals combat damage to a player, exile it, then cloak it. It enters tapped.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Backlace added.
