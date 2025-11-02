@@ -1,4 +1,32 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Bill S Preston added.
+
+Bill S. Preston removed.
+
+Backlace
+rules_text: Enchanted creature has prowess, prowess, and prowess. [i](Whenever you cast a noncreature spell, it gets +3/+3 until end of turn.)[/i]
+Equip {2} => When Backlace enters, exile target noncreature, nonland card from your graveyard. For as long as it remains exiled, you may play it during your turn.
+Enchanted creature has prowess, prowess, and prowess. [i](Whenever you cast a noncreature spell, it gets +3/+3 until end of turn.)[/i]
+Equip {4}
+
+88 Miles Per Hour
+rules_text: Choose one —
+• Target creature can't be blocked this turn.
+• Return target creature to its owner's hand.
+• Draw a card. => Choose one —
+• Target creature can't be blocked this turn.
+• Return target creature to its owner's hand.
+Time travel [i](For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)[/i]
+
+Mask
+rules_text: Enchant creature
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Join the Bat Family added.
