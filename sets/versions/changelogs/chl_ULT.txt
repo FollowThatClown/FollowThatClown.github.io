@@ -1,4 +1,90 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Mask Up added.
+Jurrac Giganoto added.
+Torture For Information added.
+Custom Wand added.
+
+Kabuto's War Plan removed.
+Gelus's Death Note removed.
+Mama Mewon removed.
+Bloody Mess removed.
+
+Pearl, the Renegade
+rules_text: Double strike, vigilance
+{1}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — You may look at the top card of your library any time.
+🌹 — Once during each turn, you may cast a spell from the top of your library as long as it targets a creature you control. => Double strike, vigilance
+{1}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — You may look at the top card of your library any time.
+🌹 — Once during each turn, you may cast a spell from the top of your library as long as it's an Equipment or targets a creature you control.
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counter on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way.
+
+The Rise of Skynet
+rules_text: When The Rise of Skynet enters, destroy all creatures.
+At the beginning of your upkeep, you lose 2 life and cloak the top card of your library.
+Whenever you turn a face-down creature face up, put two +1/+1 counters on it. It becomes an artifact in addition to its other types. => When The Rise of Skynet enters, destroy all nonartifact creatures.
+At the beginning of your upkeep, you may pay 2 life. If you do, cloak the top card of your library.
+Whenever you turn a face-down creature face up, put two +1/+1 counters on it. It becomes a Robot artifact in addition to its other types.
+
+Ghast
+rules_text: Flying
+[i]Fireball Tennis[/i] — When Ghast enters, it deals 3 damage to target player unless they discard a card. When they discard a card, they copy this ability, except the copy deals 1 more damage. They may choose new targets for the copy. => Flying
+[i]Fireball Tennis[/i] — When Ghast enters, choose target player. Ghast deals 3 damage to them or target creature they control unless that player discards a card. When they discard a card this way, they copy this ability, except the copy deals 1 more damage. They may choose new targets for the copy.
+
+Tenten, Toolmaster
+rules_text: When Tenten enters, reveal cards from the top of your library until you reveal two Aura and/or Equipment cards. Put one of them onto the battlefield and the other into your hand. Put the other cards revealed this way on the bottom of your library in any order. => When Tenten enters, look at the top ten cards of your library. Put an Aura or Equipment card from among them onto the battlefield. Put another card from among them into your hand. Shuffle.
+
+AK-47
+type: Artifact => Artifact — Equipment
+
+Peridot
+pt: 2/2 => 2/3
+
+Satan
+rules_text: Draft Satan face up. Turn it face down at the end of the draft round.
+As long as Satan is face up during the draft, you may reveal and note each monoblack card you draft.
+Flying
+When you cast Satan, surveil X, where X is the highest number you noted for cards named Satan, then return up to two creature cards from your graveyard to your hand. => Draft Satan face up. Turn it face down at the end of the draft round.
+As long as Satan is face up during the draft, you may reveal and note each monoblack card you draft.
+Flying
+When you cast Satan, surveil X, where X is the highest number you noted for cards named Satan, then return two creature cards from your graveyard to your hand.
+
+Jambi the Genie
+pt: 2/1 => 2/2
+
+Pata-Pata-Patapon!
+cost: {3}{W} => {2}{W}
+
+BFG 9000
+cost: {4} => {3}
+rules_text: When BFG 9000 enters, BFG 9000 deals 4 damage to target player and 1 damage to each creature that player controls.
+Equipped creature gets +2/+2.
+Equip {3} => When BFG 9000 enters, BFG 9000 deals 3 damage to target player and 1 damage to each creature that player controls.
+Equipped creature gets +3/+0.
+Equip {2}
+
+Yuuka Kazami
+pt: 6/5 => 5/6
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Bill S Preston added.
