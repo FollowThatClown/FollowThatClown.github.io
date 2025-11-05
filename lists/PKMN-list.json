@@ -1,0 +1,978 @@
+﻿[
+    {
+        "card_name": "Aurorus",
+        "number": 1,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Abandon",
+        "number": 21,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Carnivine",
+        "number": 41,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Accelgor",
+        "number": 60,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Bulbasaur",
+        "number": 80,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Boltund",
+        "number": 2,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Acrobatics",
+        "number": 22,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Channeler",
+        "number": 42,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Arcanine",
+        "number": 61,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Decorate",
+        "number": 81,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Capture",
+        "number": 3,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Araquanid",
+        "number": 23,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Drapion",
+        "number": 43,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Boomburst",
+        "number": 62,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Double Team",
+        "number": 82,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Celebrate",
+        "number": 4,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Ball Toss",
+        "number": 24,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Gastly",
+        "number": 44,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Bulk Up",
+        "number": 63,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Exeggutor",
+        "number": 83,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Cinccino",
+        "number": 5,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Beautifly",
+        "number": 25,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Ghoulish Discovery",
+        "number": 45,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Centiskorch",
+        "number": 64,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Gogoat",
+        "number": 84,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Drifblim",
+        "number": 6,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Chimecho",
+        "number": 26,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Hex Maniac",
+        "number": 46,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Charmander",
+        "number": 65,
+        "shape": "transform double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Journey Across the Region",
+        "number": 85,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Flamigo",
+        "number": 7,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Disarming Voice",
+        "number": 27,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Intimidate",
+        "number": 47,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Elekid",
+        "number": 66,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Lilligant",
+        "number": 86,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Golurk",
+        "number": 8,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Froslass",
+        "number": 28,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Lick",
+        "number": 48,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Giovanni's Scheme",
+        "number": 67,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Lurantis",
+        "number": 87,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "HM02 \u2014 Fly",
+        "number": 9,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Go Fishing",
+        "number": 29,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Litwick",
+        "number": 49,
+        "shape": "transform double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Heatmor",
+        "number": 68,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Outlevel",
+        "number": 88,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Palossand",
+        "number": 10,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Hypno",
+        "number": 30,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Moonlight",
+        "number": 50,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Lass",
+        "number": 69,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Petal Dance",
+        "number": 89,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Pidgey",
+        "number": 11,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Legendary Encounter",
+        "number": 31,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Mr. Mime",
+        "number": 51,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Love Ball",
+        "number": 70,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Picnicker",
+        "number": 90,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Pokemon Breeder",
+        "number": 12,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Meowstic",
+        "number": 32,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Outmatch",
+        "number": 52,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Magma Grunt",
+        "number": 71,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Prepare for Battle",
+        "number": 91,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Pokemon Center Lady",
+        "number": 13,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Noctowl",
+        "number": 33,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Pangoro",
+        "number": 53,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Mudsdale",
+        "number": 72,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Safari Ball",
+        "number": 92,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Protect the Clutch",
+        "number": 14,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Pokepuffs",
+        "number": 34,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Plasma Grunt",
+        "number": 54,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Power-Up Punch",
+        "number": 73,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Sewaddle",
+        "number": 93,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Shielded by the Supernatural",
+        "number": 15,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Sailor",
+        "number": 35,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Scary Face",
+        "number": 55,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Pyroar",
+        "number": 74,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Sunflora",
+        "number": 94,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Skitty",
+        "number": 16,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Squirtle",
+        "number": 36,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Seviper",
+        "number": 56,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Scoop Up",
+        "number": 75,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Swalot",
+        "number": 95,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Tailwind",
+        "number": 17,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Steelix",
+        "number": 37,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Sludge Bomb",
+        "number": 57,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Spinda",
+        "number": 76,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Take Down",
+        "number": 96,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Whimsical Encounter",
+        "number": 18,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Vanillite",
+        "number": 38,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Spirited Away",
+        "number": 58,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Trainer's Presence",
+        "number": 77,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Tangrowth",
+        "number": 97,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Wing Attack",
+        "number": 19,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Water Bubble",
+        "number": 39,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Team Rocket Upstart",
+        "number": 59,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Tyrogue",
+        "number": 78,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Trevenant",
+        "number": 98,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Wrapped Up",
+        "number": 20,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Whirlpool",
+        "number": 40,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Will-O-Wisp",
+        "number": 79,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Zangoose",
+        "number": 99,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Falkner, Flying Leader",
+        "number": 100,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Greninja",
+        "number": 101,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Rocket Grunt",
+        "number": 102,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Aron",
+        "number": 103,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Professor Elm",
+        "number": 104,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Allister, Ghost Leader",
+        "number": 105,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Klefki",
+        "number": 106,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Atticus, Toxic Fashionista",
+        "number": 107,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Infernape",
+        "number": 108,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Ralts",
+        "number": 109,
+        "shape": "modal double faced",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Frostscape",
+        "number": 112,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Nightscape",
+        "number": 115,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Roaring Stadium",
+        "number": 116,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Misty Valley",
+        "number": 114,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Tranquil Park",
+        "number": 118,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Foreboding Skies",
+        "number": 111,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Fierce Stormfront",
+        "number": 110,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Urban Wetland",
+        "number": 119,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Highest Heights",
+        "number": 113,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Sandy Shoal",
+        "number": 117,
+        "shape": "normal",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Poke Ball",
+        "number": 6,
+        "shape": "token",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Bird",
+        "number": 1,
+        "shape": "token",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Mouse",
+        "number": 2,
+        "shape": "token",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Spirit",
+        "number": 3,
+        "shape": "token",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Beast",
+        "number": 4,
+        "shape": "token",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "Insect",
+        "number": 5,
+        "shape": "token",
+        "set": "PKMN",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

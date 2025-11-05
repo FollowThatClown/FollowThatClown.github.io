@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/PKMN-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>PKMN visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/PKMN-files/logo.png" />
+	<img class="preload-hidden" src="/sets/PKMN-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ULT-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ZZZ-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="PKMN"><img src="/sets/PKMN-files/icon.png">PKMN</a>
+	
+		<a class="set-bar inactive" href="ULT"><img src="/sets/ULT-files/icon.png">Ultimate Showdown Of Ultimate Destiny</a>
+	
+		<a class="set-bar inactive" href="ZZZ"><img src="/sets/ZZZ-files/icon.png">DREAMLAND</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/PKMN-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\1_Aurorus.png" id="1_Aurorus" data-flag="@X" onclick="openSidebar('1_Aurorus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\21_Abandon.png" id="21_Abandon" data-flag="@X" onclick="openSidebar('21_Abandon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\41_Carnivine.png" id="41_Carnivine" data-flag="@X" onclick="openSidebar('41_Carnivine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\60_Accelgor.png" id="60_Accelgor" data-flag="@X" onclick="openSidebar('60_Accelgor',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\80_Bulbasaur_back.png" alt="/sets\PKMN-files\img\80_Bulbasaur_front.png" id="80_Bulbasaur" data-flag="@XD" onclick="openSidebar('80_Bulbasaur',false)"><button class="flip-btn" onclick="imgFlip('80_Bulbasaur')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\2_Boltund.png" id="2_Boltund" data-flag="@X" onclick="openSidebar('2_Boltund',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\22_Acrobatics.png" id="22_Acrobatics" data-flag="@X" onclick="openSidebar('22_Acrobatics',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\42_Channeler.png" id="42_Channeler" data-flag="@X" onclick="openSidebar('42_Channeler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\61_Arcanine.png" id="61_Arcanine" data-flag="@X" onclick="openSidebar('61_Arcanine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\81_Decorate.png" id="81_Decorate" data-flag="@X" onclick="openSidebar('81_Decorate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\3_Capture.png" id="3_Capture" data-flag="@X" onclick="openSidebar('3_Capture',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\23_Araquanid.png" id="23_Araquanid" data-flag="@X" onclick="openSidebar('23_Araquanid',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\43_Drapion.png" id="43_Drapion" data-flag="@X" onclick="openSidebar('43_Drapion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\62_Boomburst.png" id="62_Boomburst" data-flag="@X" onclick="openSidebar('62_Boomburst',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\82_Double Team.png" id="82_Double Team" data-flag="@X" onclick="openSidebar('82_Double Team',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\4_Celebrate.png" id="4_Celebrate" data-flag="@X" onclick="openSidebar('4_Celebrate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\24_Ball Toss.png" id="24_Ball Toss" data-flag="@X" onclick="openSidebar('24_Ball Toss',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\44_Gastly_back.png" alt="/sets\PKMN-files\img\44_Gastly_front.png" id="44_Gastly" data-flag="@XD" onclick="openSidebar('44_Gastly',false)"><button class="flip-btn" onclick="imgFlip('44_Gastly')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\63_Bulk Up.png" id="63_Bulk Up" data-flag="@X" onclick="openSidebar('63_Bulk Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\83_Exeggutor.png" id="83_Exeggutor" data-flag="@X" onclick="openSidebar('83_Exeggutor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\5_Cinccino.png" id="5_Cinccino" data-flag="@X" onclick="openSidebar('5_Cinccino',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\25_Beautifly.png" id="25_Beautifly" data-flag="@X" onclick="openSidebar('25_Beautifly',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\45_Ghoulish Discovery.png" id="45_Ghoulish Discovery" data-flag="@X" onclick="openSidebar('45_Ghoulish Discovery',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\64_Centiskorch.png" id="64_Centiskorch" data-flag="@X" onclick="openSidebar('64_Centiskorch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\84_Gogoat.png" id="84_Gogoat" data-flag="@X" onclick="openSidebar('84_Gogoat',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\6_Drifblim.png" id="6_Drifblim" data-flag="@X" onclick="openSidebar('6_Drifblim',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\26_Chimecho.png" id="26_Chimecho" data-flag="@X" onclick="openSidebar('26_Chimecho',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\46_Hex Maniac.png" id="46_Hex Maniac" data-flag="@X" onclick="openSidebar('46_Hex Maniac',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\65_Charmander_back.png" alt="/sets\PKMN-files\img\65_Charmander_front.png" id="65_Charmander" data-flag="@XD" onclick="openSidebar('65_Charmander',false)"><button class="flip-btn" onclick="imgFlip('65_Charmander')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\85_Journey Across the Region.png" id="85_Journey Across the Region" data-flag="@X" onclick="openSidebar('85_Journey Across the Region',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\7_Flamigo.png" id="7_Flamigo" data-flag="@X" onclick="openSidebar('7_Flamigo',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\27_Disarming Voice.png" id="27_Disarming Voice" data-flag="@X" onclick="openSidebar('27_Disarming Voice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\47_Intimidate.png" id="47_Intimidate" data-flag="@X" onclick="openSidebar('47_Intimidate',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\66_Elekid_back.png" alt="/sets\PKMN-files\img\66_Elekid_front.png" id="66_Elekid" data-flag="@XD" onclick="openSidebar('66_Elekid',false)"><button class="flip-btn" onclick="imgFlip('66_Elekid')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\86_Lilligant.png" id="86_Lilligant" data-flag="@X" onclick="openSidebar('86_Lilligant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\8_Golurk.png" id="8_Golurk" data-flag="@X" onclick="openSidebar('8_Golurk',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\28_Froslass.png" id="28_Froslass" data-flag="@X" onclick="openSidebar('28_Froslass',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\48_Lick.png" id="48_Lick" data-flag="@X" onclick="openSidebar('48_Lick',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\67_Giovanni's Scheme.png" id="67_Giovannis Scheme" data-flag="@X" onclick="openSidebar('67_Giovannis Scheme',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\87_Lurantis.png" id="87_Lurantis" data-flag="@X" onclick="openSidebar('87_Lurantis',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\9_HM02 — Fly.png" id="9_HM02 — Fly" data-flag="@X" onclick="openSidebar('9_HM02 — Fly',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\29_Go Fishing.png" id="29_Go Fishing" data-flag="@X" onclick="openSidebar('29_Go Fishing',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\49_Litwick_back.png" alt="/sets\PKMN-files\img\49_Litwick_front.png" id="49_Litwick" data-flag="@XD" onclick="openSidebar('49_Litwick',false)"><button class="flip-btn" onclick="imgFlip('49_Litwick')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\68_Heatmor.png" id="68_Heatmor" data-flag="@X" onclick="openSidebar('68_Heatmor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\88_Outlevel.png" id="88_Outlevel" data-flag="@X" onclick="openSidebar('88_Outlevel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\10_Palossand.png" id="10_Palossand" data-flag="@X" onclick="openSidebar('10_Palossand',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\30_Hypno.png" id="30_Hypno" data-flag="@X" onclick="openSidebar('30_Hypno',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\50_Moonlight.png" id="50_Moonlight" data-flag="@X" onclick="openSidebar('50_Moonlight',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\69_Lass.png" id="69_Lass" data-flag="@X" onclick="openSidebar('69_Lass',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\89_Petal Dance.png" id="89_Petal Dance" data-flag="@X" onclick="openSidebar('89_Petal Dance',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\11_Pidgey_back.png" alt="/sets\PKMN-files\img\11_Pidgey_front.png" id="11_Pidgey" data-flag="@XD" onclick="openSidebar('11_Pidgey',false)"><button class="flip-btn" onclick="imgFlip('11_Pidgey')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\31_Legendary Encounter.png" id="31_Legendary Encounter" data-flag="@X" onclick="openSidebar('31_Legendary Encounter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\51_Mr. Mime.png" id="51_Mr. Mime" data-flag="@X" onclick="openSidebar('51_Mr. Mime',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\70_Love Ball.png" id="70_Love Ball" data-flag="@X" onclick="openSidebar('70_Love Ball',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\90_Picnicker.png" id="90_Picnicker" data-flag="@X" onclick="openSidebar('90_Picnicker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\12_Pokemon Breeder.png" id="12_Pokemon Breeder" data-flag="@X" onclick="openSidebar('12_Pokemon Breeder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\32_Meowstic.png" id="32_Meowstic" data-flag="@X" onclick="openSidebar('32_Meowstic',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\52_Outmatch.png" id="52_Outmatch" data-flag="@X" onclick="openSidebar('52_Outmatch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\71_Magma Grunt.png" id="71_Magma Grunt" data-flag="@X" onclick="openSidebar('71_Magma Grunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\91_Prepare for Battle.png" id="91_Prepare for Battle" data-flag="@X" onclick="openSidebar('91_Prepare for Battle',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\13_Pokemon Center Lady.png" id="13_Pokemon Center Lady" data-flag="@X" onclick="openSidebar('13_Pokemon Center Lady',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\33_Noctowl.png" id="33_Noctowl" data-flag="@X" onclick="openSidebar('33_Noctowl',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\53_Pangoro.png" id="53_Pangoro" data-flag="@X" onclick="openSidebar('53_Pangoro',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\72_Mudsdale.png" id="72_Mudsdale" data-flag="@X" onclick="openSidebar('72_Mudsdale',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\92_Safari Ball.png" id="92_Safari Ball" data-flag="@X" onclick="openSidebar('92_Safari Ball',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\14_Protect the Clutch.png" id="14_Protect the Clutch" data-flag="@X" onclick="openSidebar('14_Protect the Clutch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\34_Pokepuffs.png" id="34_Pokepuffs" data-flag="@X" onclick="openSidebar('34_Pokepuffs',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\54_Plasma Grunt.png" id="54_Plasma Grunt" data-flag="@X" onclick="openSidebar('54_Plasma Grunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\73_Power-Up Punch.png" id="73_Power-Up Punch" data-flag="@X" onclick="openSidebar('73_Power-Up Punch',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\93_Sewaddle_back.png" alt="/sets\PKMN-files\img\93_Sewaddle_front.png" id="93_Sewaddle" data-flag="@XD" onclick="openSidebar('93_Sewaddle',false)"><button class="flip-btn" onclick="imgFlip('93_Sewaddle')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\15_Shielded by the Supernatural.png" id="15_Shielded by the Supernatural" data-flag="@X" onclick="openSidebar('15_Shielded by the Supernatural',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\35_Sailor.png" id="35_Sailor" data-flag="@X" onclick="openSidebar('35_Sailor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\55_Scary Face.png" id="55_Scary Face" data-flag="@X" onclick="openSidebar('55_Scary Face',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\74_Pyroar.png" id="74_Pyroar" data-flag="@X" onclick="openSidebar('74_Pyroar',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\94_Sunflora.png" id="94_Sunflora" data-flag="@X" onclick="openSidebar('94_Sunflora',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\16_Skitty.png" id="16_Skitty" data-flag="@X" onclick="openSidebar('16_Skitty',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\36_Squirtle_back.png" alt="/sets\PKMN-files\img\36_Squirtle_front.png" id="36_Squirtle" data-flag="@XD" onclick="openSidebar('36_Squirtle',false)"><button class="flip-btn" onclick="imgFlip('36_Squirtle')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\56_Seviper.png" id="56_Seviper" data-flag="@X" onclick="openSidebar('56_Seviper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\75_Scoop Up.png" id="75_Scoop Up" data-flag="@X" onclick="openSidebar('75_Scoop Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\95_Swalot.png" id="95_Swalot" data-flag="@X" onclick="openSidebar('95_Swalot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\17_Tailwind.png" id="17_Tailwind" data-flag="@X" onclick="openSidebar('17_Tailwind',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\37_Steelix.png" id="37_Steelix" data-flag="@X" onclick="openSidebar('37_Steelix',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\57_Sludge Bomb.png" id="57_Sludge Bomb" data-flag="@X" onclick="openSidebar('57_Sludge Bomb',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\76_Spinda.png" id="76_Spinda" data-flag="@X" onclick="openSidebar('76_Spinda',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\96_Take Down.png" id="96_Take Down" data-flag="@X" onclick="openSidebar('96_Take Down',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\18_Whimsical Encounter.png" id="18_Whimsical Encounter" data-flag="@X" onclick="openSidebar('18_Whimsical Encounter',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\38_Vanillite_back.png" alt="/sets\PKMN-files\img\38_Vanillite_front.png" id="38_Vanillite" data-flag="@XD" onclick="openSidebar('38_Vanillite',false)"><button class="flip-btn" onclick="imgFlip('38_Vanillite')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\58_Spirited Away.png" id="58_Spirited Away" data-flag="@X" onclick="openSidebar('58_Spirited Away',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\77_Trainer's Presence.png" id="77_Trainers Presence" data-flag="@X" onclick="openSidebar('77_Trainers Presence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\97_Tangrowth.png" id="97_Tangrowth" data-flag="@X" onclick="openSidebar('97_Tangrowth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\19_Wing Attack.png" id="19_Wing Attack" data-flag="@X" onclick="openSidebar('19_Wing Attack',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\39_Water Bubble.png" id="39_Water Bubble" data-flag="@X" onclick="openSidebar('39_Water Bubble',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\59_Team Rocket Upstart.png" id="59_Team Rocket Upstart" data-flag="@X" onclick="openSidebar('59_Team Rocket Upstart',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\78_Tyrogue.png" id="78_Tyrogue" data-flag="@X" onclick="openSidebar('78_Tyrogue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\98_Trevenant.png" id="98_Trevenant" data-flag="@X" onclick="openSidebar('98_Trevenant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\20_Wrapped Up.png" id="20_Wrapped Up" data-flag="@X" onclick="openSidebar('20_Wrapped Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\40_Whirlpool.png" id="40_Whirlpool" data-flag="@X" onclick="openSidebar('40_Whirlpool',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\79_Will-O-Wisp.png" id="79_Will-O-Wisp" data-flag="@X" onclick="openSidebar('79_Will-O-Wisp',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\99_Zangoose.png" id="99_Zangoose" data-flag="@X" onclick="openSidebar('99_Zangoose',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\100_Falkner, Flying Leader.png" id="100_Falkner, Flying Leader" data-flag="@X" onclick="openSidebar('100_Falkner, Flying Leader',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\101_Greninja.png" id="101_Greninja" data-flag="@X" onclick="openSidebar('101_Greninja',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\102_Rocket Grunt.png" id="102_Rocket Grunt" data-flag="@X" onclick="openSidebar('102_Rocket Grunt',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\103_Aron_back.png" alt="/sets\PKMN-files\img\103_Aron_front.png" id="103_Aron" data-flag="@XD" onclick="openSidebar('103_Aron',false)"><button class="flip-btn" onclick="imgFlip('103_Aron')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\104_Professor Elm.png" id="104_Professor Elm" data-flag="@X" onclick="openSidebar('104_Professor Elm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\105_Allister, Ghost Leader.png" id="105_Allister, Ghost Leader" data-flag="@X" onclick="openSidebar('105_Allister, Ghost Leader',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\106_Klefki.png" id="106_Klefki" data-flag="@X" onclick="openSidebar('106_Klefki',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\107_Atticus, Toxic Fashionista.png" id="107_Atticus, Toxic Fashionista" data-flag="@X" onclick="openSidebar('107_Atticus, Toxic Fashionista',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\108_Infernape.png" id="108_Infernape" data-flag="@X" onclick="openSidebar('108_Infernape',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\PKMN-files\img\109_Ralts_back.png" alt="/sets\PKMN-files\img\109_Ralts_front.png" id="109_Ralts" data-flag="@XD" onclick="openSidebar('109_Ralts',false)"><button class="flip-btn" onclick="imgFlip('109_Ralts')"></button></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\112_Frostscape.png" id="112_Frostscape" data-flag="@X" onclick="openSidebar('112_Frostscape',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\115_Nightscape.png" id="115_Nightscape" data-flag="@X" onclick="openSidebar('115_Nightscape',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\116_Roaring Stadium.png" id="116_Roaring Stadium" data-flag="@X" onclick="openSidebar('116_Roaring Stadium',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\114_Misty Valley.png" id="114_Misty Valley" data-flag="@X" onclick="openSidebar('114_Misty Valley',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\118_Tranquil Park.png" id="118_Tranquil Park" data-flag="@X" onclick="openSidebar('118_Tranquil Park',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\111_Foreboding Skies.png" id="111_Foreboding Skies" data-flag="@X" onclick="openSidebar('111_Foreboding Skies',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\110_Fierce Stormfront.png" id="110_Fierce Stormfront" data-flag="@X" onclick="openSidebar('110_Fierce Stormfront',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\119_Urban Wetland.png" id="119_Urban Wetland" data-flag="@X" onclick="openSidebar('119_Urban Wetland',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\113_Highest Heights.png" id="113_Highest Heights" data-flag="@X" onclick="openSidebar('113_Highest Heights',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\117_Sandy Shoal.png" id="117_Sandy Shoal" data-flag="@X" onclick="openSidebar('117_Sandy Shoal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\6t_Poke Ball.png" id="6t_Poke Ball" data-flag="@X" onclick="openSidebar('6t_Poke Ball',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\1t_Bird.png" id="1t_Bird" data-flag="@X" onclick="openSidebar('1t_Bird',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\2t_Mouse.png" id="2t_Mouse" data-flag="@X" onclick="openSidebar('2t_Mouse',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\3t_Spirit.png" id="3t_Spirit" data-flag="@X" onclick="openSidebar('3t_Spirit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\4t_Beast.png" id="4t_Beast" data-flag="@X" onclick="openSidebar('4t_Beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\PKMN-files\img\5t_Insect.png" id="5t_Insect" data-flag="@X" onclick="openSidebar('5t_Insect',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
