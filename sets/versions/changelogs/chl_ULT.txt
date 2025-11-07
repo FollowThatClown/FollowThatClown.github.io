@@ -1,4 +1,75 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+The Eyelander added.
+Pochita, Chainsaw Devil added.
+
+
+Harley Quinn, Crime Queen
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+1 until end of turn. This ability triggers only once each turn. => Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+0 until end of turn. This ability triggers only once each turn.
+
+Mask Up
+rules_text: X can't be zero.
+When Mask Up enters, cloak the top X cards of your library.
+Whenever a creature you control deals combat damage to a player you, may pay 1 life. If you do, draw a card. => X can't be zero if you cast this spell.
+When Mask Up enters, cloak the top X cards of your library.
+Whenever a creature you control deals combat damage to a player, you may pay 1 life. If you do, create a Treasure token.
+
+Catwoman, Selina Kyle
+rules_text: At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it. At the beginning of the next end step, if that card remains exiled, create a 1/1 black Cat creature token. => At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it. At the beginning of the next end step, if that card remains exiled, create a 1/1 black Cat creature token with lifelink.
+
+The Spy
+rules_text: [i](Nonexistent mana costs can't be paid.)[/i]
+[i]Dead Ringer[/i] — When The Spy dies, exile him and the top two cards of your library in a face-down pile, shuffle that pile, then cloak those cards. They enter tapped.
+Disguise—{2}{U}, Exile five cards from your graveyard. => [i]Dead Ringer[/i] — When The Spy dies, exile him and the top two cards of your library in a face-down pile, shuffle that pile, then cloak those cards. They enter tapped.
+Disguise—{2}{U}, Exile five cards from your graveyard.
+
+Gunsmith Bitch
+rules_text: [+1]: Reveal the top seven cards of your library. You may put an Aura or Equipment card from among them into your hand. Shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control. => [+1]: Reveal cards from the top of your library until you reveal an Aura or Equipment card, put it into your hand, then shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control.
+special_text: [+1]: Reveal the top seven cards of your library. You may put an Aura or Equipment card from among them into your hand. Shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control. => [+1]: Reveal cards from the top of your library until you reveal an Aura or Equipment card, put it into your hand, then shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control.
+
+Vigilante Justice
+rules_text: Creature cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have lifelink.
+The first face-down creature spell you cast each turn costs {1} less to cast for each creature you control that died this turn. => Creature cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have lifelink.
+The first face-down creature spell you cast each turn costs {3} less to cast if a creature you controlled died this turn.
+
+Nox, Mad Xelor
+rules_text: Flying
+Whenever another creature dies, you may put a time counter on Nox. Do this only once each turn.
+Remove six time counters from Nox: Return target creature card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. => Flying
+Whenever another creature dies, put a time counter on Nox. This ability triggers only once each turn.
+Remove six time counters from Nox: Return target creature card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.
+
+Jax, Gleeful Tormentor
+type: Legendary Creature — Rabbit => Legendary Creature — Avatar Rabbit
+
+Occultist
+pt: 1/1 => 1/2
+
+Join the Bat Family
+rules_text: Creature cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have vigilance.
+The first face-down creature spell you cast each turn costs {1} less to cast for each card you've drawn this turn beyond the first. => Creature cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have vigilance.
+The first face-down creature spell you cast each turn costs {3} less to cast if you've drawn two or more cards this turn.
+pt: 4/5 => 
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Mask Up added.
