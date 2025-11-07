@@ -1,4 +1,107 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Villainous Triumph added.
+Lopunny added.
+Mega Lopunny added.
+Vespiquen added.
+Hypnosis added.
+Enter the Mirror World added.
+Magcargo added.
+Mega Banette added.
+Banette added.
+Mega Glalie added.
+Mega added.
+Mega added.
+Aerodactyl added.
+Heracross added.
+Glalie added.
+
+Trainer's Presence removed.
+
+Froslass
+rules_text: Kicker {2}{U}[b]
+Flying
+[/b]When Froslass enters, if it was kicked, create a Frozen Role token attached to up to one target creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature has defender.)[/i] => [b]Flying
+{2}{U}, [/b]Discard Froslass: Tap target creature. Create a Frozen role token attached to it. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature has defender.)[/i]
+
+Gastly
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+[b]Flying[/b]
+I — Each player sacrifices a creature.
+II, III — Each player loses 1 life.
+IV — What!? Gastly is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+[b]Flying[/b]
+I — Each player sacrifices a creature.
+II, III — Each player loses 1 life.
+IV — What!? Gastly is evolving! [i](Exile this. You may cast it transformed later.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+[b]Flying[/b]
+I — Each player sacrifices a creature.
+II, III — Each player loses 1 life.
+IV — What!? Gastly is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+[b]Flying[/b]
+I — Each player sacrifices a creature.
+II, III — Each player loses 1 life.
+IV — What!? Gastly is evolving! [i](Exile this. You may cast it transformed later.)[/i]
+
+Boomburst
+rules_text: Destroy target artifact or land.
+[b]Cycling[/b] {1}{R}
+When you cycle Boomburst, thrive. [i](Give any number of permanents you control another counter they already have.)[/i] => Destroy target artifact or land.
+Cycling {1}{R}
+When you cycle Boomburst, thrive. [i](Give any number of permanents you control another counter they already have.)[/i]
+
+Accelgor
+rules_text: [b]Haste, first strike[/b]
+[i]Unburden[/i] — {2}{R}, Discard a card: Draw a card and put a +1/+1 counter on Accelgor. Activate only once and only as a sorcery. => [b]First strike, haste[/b]
+[i]Unburden[/i] — {2}{R}, Discard a card: Draw a card and put a +1/+1 counter on Accelgor. Activate only once and only as a sorcery.
+
+Mudsdale
+rules_text: [b]Trample, haste
+[i][/b]High Horsepower — [/i]When Mudsdale enters, it gets [b]first strike[/b] until end of turn.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => [b]Trample, haste
+[i][/b]High Horsepower — [/i]When Mudsdale enters, it gets [b]first strike[/b] until end of turn.
+Basic landcycling [b][/b]{2}
+
+Lilligant
+rules_text: [i]Growth[/i] — Whenever Lilligant becomes the target of a spell, if it has no counters on it, put a +1/+1 counter on it. => {2}{G}: Create a 1/1 green Plant creature token and put a +1/+1 counter on Lilligant. Activate only once.
+pt: 3/2 => 2/3
+
+Lurantis
+pt: 4/3 => 3/4
+
+Tangrowth
+rules_text: [i]Regenerator[/i] — When Tangrowth enters, you gain 3 life.
+Basic landcycling {2} => [i]Regenerator[/i] — When Tangrowth enters, choose one —
+• You gain 3 life.
+• Create a 1/1 green Plant creature token.
+pt: 4/4 => 3/3
+
+Araquanid
+rules_text: Araquanid enters with two +1/+1 counters on it.
+[i]Liquidation[/i] — When Araquanid enters, you may remove two +1/+1 counters from it. If you do, return target creature to its owner's hand. => Araquanid enters with two +1/+1 counters on it.
+When Araquanid enters, you may remove two +1/+1 counters from it. If you do, return target creature to its owner's hand.
+
+Exeggutor
+rules_text: [b]Reach[/b]
+When Exeggutor enters, if it isn't a token, create an Egg token. [i](It's a kindred Egg artifacts with “{1}, {T}, Sacrifice this: Populate. Activate only as a sorcery.” To populate, create a token that's a copy of a creature token you control.)[/i]
+[b]Forestcycling {2}[/b] => [b]Reach[/b]
+When Exeggutor enters, if it isn't a token, create an Egg token. [i](It's a kindred Egg artifacts with “{1}, {T}, Sacrifice this: Populate. Activate only as a sorcery.” To populate, create a token that's a copy of a creature token you control.)[/i]
+Basic landcycling {2}
+
+Atticus, Toxic Fashionista
+type: Creature — Human => Legendary Creature — Human
+
+Petal Dance
+rules_text: When Petal Dance enters, search your library for a basic land card, put it onto the battlefield, then shuffle.
+[b]Cycling {1}{G}[/b]
+When you cycle Petal Dance, thrive. [i](Give any number of permanents you control another counter they already have.)[/i] => When Petal Dance enters, search your library for a basic land card, put it onto the battlefield, then shuffle.
+Cycling [b]{1}{G}[/b]
+When you cycle Petal Dance, thrive. [i](Give any number of permanents you control another counter they already have.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
