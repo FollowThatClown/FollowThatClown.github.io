@@ -1,4 +1,59 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+The Ukelele removed.
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+II, III — Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+II, III — Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way.
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+II, III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+II, III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+
+Guidance of Moonlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+II, III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+II, III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+
+
+VERSION 25 CHANGELOG
 ====================
 
 The Eyelander added.
