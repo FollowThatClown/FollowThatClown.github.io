@@ -1,4 +1,39 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+The Repentant King added.
+Samsara added.
+
+Spiritual Journeyman removed.
+Punaravitti, Reborn Hermit removed.
+
+Angel of Incense
+rules_text: Flying, vigilance, lifelink
+Once during each of your turns, you may play a nonland permanent card with mana value 2 or less from your graveyard. Creatures you play this way enter with a finality counter. => Flying, vigilance
+Once during each of your turns, you may play a nonland permanent card with mana value 2 or less from your graveyard. Creatures you play this way enter with a finality counter.
+pt: 3/2 => 3/3
+
+The Fiend
+pt: 5/4 => 4/4
+
+Take a Walk on the Wild Side
+rules_text: Put four +1/+1 counters on each creature you control.
+Suspend 4—{2}{G}
+When you suspend Take a Walk on the Wild Side, you gain 2 life and create a 2/2 green Wolf creature token. => Put four +1/+1 counters on each creature you control.
+Suspend 4—{2}{G}
+When you suspend Take a Walk on the Wild Side, you gain 3 life and create a 3/3 green Beast creature token.
+
+Jousting Champion
+rules_text: First strike, ward {2}
+Equipmentcycling {2}{W} [i]({2}{W}, Discard this card: Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.)[/i] => First strike
+Ward {2}
+Equipmentcycling {2}{W} [i]({2}{W}, Discard this card: Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Strange Deer
+pt: 3/3 => 3/1
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Spiritual Journeyman added.
