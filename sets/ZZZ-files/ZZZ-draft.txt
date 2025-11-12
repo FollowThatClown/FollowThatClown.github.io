@@ -495,9 +495,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/53_Enantiomorphos.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/54_Enantiomorphos.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/45_Commanding Stranger.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/46_Commanding Stranger.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/63_Long-Lost Lovers.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/64_Long-Lost Lovers.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/70_Sail To Distant Shores.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/71_Sail To Distant Shores.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/55_Face to Face.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/56_Face to Face.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Clown",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/68_Performer of Many Parts.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/69_Performer of Many Parts.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/51_Dreamscape Artist.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/52_Dreamscape Artist.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}{U}{U}",
 			"type": "Creature — Nightmare Leviathan",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/67_Palagic Nightmare.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/68_Palagic Nightmare.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/58_Figure of the Crescent Moon.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/59_Figure of the Crescent Moon.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/59_Godstone.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/60_Godstone.png"
 			}
 		},
 		{
@@ -631,13 +631,13 @@
 			}
 		},
 		{
-			"name": "The Shadow Man",
+			"name": "Thirst for Glory",
 			"rarity": "special",
-			"mana_cost": "{U}",
-			"type": "Legendary Creature — Illusion",
-			"collector_number": "71",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/71_The Shadow Man.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/75_Thirst for Glory.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/56_Far Sight.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/57_Far Sight.png"
 			}
 		},
 		{
@@ -695,19 +695,19 @@
 			"rarity": "special",
 			"mana_cost": "{X}{X}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/52_Emerge from the Water.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/53_Emerge from the Water.png"
 			}
 		},
 		{
-			"name": "Spiral Out",
+			"name": "Golden Ratio",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
-			"type": "Instant",
-			"collector_number": "75",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/75_Spiral Out.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/220_Golden Ratio.png"
 			}
 		},
 		{
@@ -1003,11 +1003,11 @@
 		{
 			"name": "Cobbled Copy",
 			"rarity": "special",
-			"mana_cost": "{G}{U}",
-			"type": "Sorcery",
-			"collector_number": "220",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/220_Cobbled Copy.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/44_Cobbled Copy.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/46_Consider.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/47_Consider.png"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{U}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/64_Marvelous Mechanisms.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/65_Marvelous Mechanisms.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Merfolk",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/50_Deep Dark Delver.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/51_Deep Dark Delver.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/44_Come Apart.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/45_Come Apart.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/57_Fascinating Vistas.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/58_Fascinating Vistas.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment — Aura Curse",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/49_Curse of Invasion.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/50_Curse of Invasion.png"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/60_Half Life.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/61_Half Life.png"
 			}
 		},
 		{
@@ -1483,7 +1483,7 @@
 		{
 			"name": "Let the Rivers Run Red",
 			"rarity": "special",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
@@ -1913,7 +1913,7 @@
 		{
 			"name": "Sapphire Vim",
 			"rarity": "special",
-			"mana_cost": "{0}",
+			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "230",
 			"image_uris": {
@@ -1965,9 +1965,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Spirit",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/61_Hiker's Spirit.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/62_Hiker's Spirit.png"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact — Treasure",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/54_Faberge Egg.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/55_Faberge Egg.png"
 			}
 		},
 		{
@@ -2175,9 +2175,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Bird Horror",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/62_Hundred-Eyed One.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/63_Hundred-Eyed One.png"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/66_Mistress of Palagic Rites.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/67_Mistress of Palagic Rites.png"
 			}
 		},
 		{
@@ -2201,13 +2201,13 @@
 			}
 		},
 		{
-			"name": "Mensis, Spirit of the Moon",
+			"name": "Mensis, Avatar of the Moon",
 			"rarity": "special",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Creature — Incarnation",
-			"collector_number": "65",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/65_Mensis, Spirit of the Moon.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/66_Mensis, Avatar of the Moon.png"
 			}
 		},
 		{
@@ -2215,19 +2215,19 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Crab Squid Mutant",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/48_Curious Crustacean.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/49_Curious Crustacean.png"
 			}
 		},
 		{
-			"name": "Wizened Rider",
+			"name": "Wise Man",
 			"rarity": "special",
-			"mana_cost": "{6}{U}",
-			"type": "Creature",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Human Wizard",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/80_Wizened Rider.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/80_Wise Man.png"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/47_Counterspell.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/48_Counterspell.png"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Siren",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/69_Preening Siren.png"
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/70_Preening Siren.png"
 			}
 		},
 		{
@@ -2626,14 +2626,14 @@
 	1 Shape in the Depths
 	1 Godstone
 	1 Cavalier of Winter
-	1 The Shadow Man
+	1 Thirst for Glory
 	1 Ticking Time Piece
 	1 Far Sight
 	1 Blood Blossom Gardener
 	1 Torg, Titan of Time's Ravage
 	1 Multitudinous Masses
 	1 Emerge from the Water
-	1 Spiral Out
+	1 Golden Ratio
 	1 Unravel
 	1 No Quarter
 	1 Shepherd of Sea and Sky
@@ -2783,9 +2783,9 @@
 	1 Hundred-Eyed One
 	1 Mistress of Palagic Rites
 	1 Body of Light
-	1 Mensis, Spirit of the Moon
+	1 Mensis, Avatar of the Moon
 	1 Curious Crustacean
-	1 Wizened Rider
+	1 Wise Man
 	1 Counterspell
 	1 Beat Back
 	1 Thousand-Handed One

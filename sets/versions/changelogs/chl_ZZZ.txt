@@ -1,4 +1,104 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Thirst for Glory added.
+Golden Ratio added.
+Mensis, Avatar of the Moon added.
+Wise Man added.
+
+The Shadow Man removed.
+Spiral Out removed.
+Mensis, Spirit of the Moon removed.
+Wizened Rider removed.
+
+The Repentant King
+rules_text: {7}, Exile The Repentant King: An opponent chooses three creature cards in your graveyard. Return one to the battlefield. The other two go on an adventure. [i](Exile them. You may play them later from exile. It works.)[/i] => {4}{W}{W}, Exile The Repentant King: Choose target creature card in your graveyard. Exile the rest, then return that card the battlefield.
+
+Acidic Egg
+
+Summoning Stones
+
+Shape in the Depths
+rules_text: Defender
+Shape in the Depths can't be blocked.
+As long as you control four or more other creatures, Shape in the Depths can attack as though it didn't have defender.
+Whenever you wander, create a tapped 3/2 blue Shark creature token. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Menace, defender
+As long as you control four or more other creatures, Shape in the Depths can attack as though it didn't have defender.
+Whenever you wander, create a 2/1 blue Shark creature token with menace. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 4/4 => 4/3
+
+Ticking Time Piece
+rules_text: Whenever one or more cards leave your graveyard, untap Ticking Time Piece.
+{3}, {T}, Discard a card: Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost. => Whenever one or more cards leave your graveyard, untap Ticking Time Piece.
+{1}, {T}, Discard a card: Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
+
+Golden Ratio
+cost: {2}{W} => {1}{G}{U}
+rules_text: Creatures you control get +1/+1.
+At the beginning of your end step, put a sequence counter on Golden Ratio, then if the number of sequence counters on it is prime, draw a card. [i](2, 3, 5, 7, 11, 13, 17, and a few others are prime.)[/i] => When Golden Ratio enters and whenever one or more cards leave your graveyard, put a sequence counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create a 0/0 green and blue Fractal creature token and put a number of +1/+1 counters on it equal to the number of sequence counters on Golden Ratio. [i](0, 1, 2, 3, 5, 8, 13, 21, 34, 55, and 89 appear in the Fibonnaci sequence.)[/i]
+
+Stellar Egg
+
+Cobbled Copy
+type: Sorcery => Instant
+cost: {G}{U} => {3}{U}{U}
+rules_text: Kicker—{1}, Exile three cards from your graveyard.
+Create a token that's a copy of target creature, except it has base power and toughness 1/1. If this spell was kicked, instead create a token that's a copy of that creature, except it enters with an additional +1/+1 counter on it. => This spell costs {2} less to cast if a card left your graveyard this turn.
+Create a token that's a copy of target creature, except it enters with an additional +1/+1 counter on it.
+
+Hopeblossom
+
+Trashcaster Mage
+rules_text: As an additional cost to cast this spell, return a permanent you control to its owner's hand.
+When Trashcaster Mage enters, target instant or sorcery card in your graveyard gains jump-start until end of turn. [i](You may cast this it by discarding a card in addition to paying its other costs. Then exile that card.)[/i] => As an additional cost to cast this spell, return a non-Wizard permanent you control to its owner's hand.
+When Trashcaster Mage enters, target instant or sorcery card in your graveyard gains jump-start until end of turn. [i](You may cast this it by discarding a card in addition to paying its other costs. Then exile that card.)[/i]
+
+Caustic Egg
+
+Blood in the Water
+rules_text: Creatures you control have haste.
+Whenever you wander, create a 3/2 blue Shark creature token. Sacrifice it at the beginning of the next end step. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Creatures you control have haste.
+Whenever you wander, create a 2/1 blue Shark creature token with menace. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Let the Rivers Run Red
+cost: {1}{R} => {R}{R}
+
+Chromatic Curio
+rules_text: When Chromatic Curio enters or leaves, add {C}{C}.
+{2}, {T}: Add two mana in any combination of colors.
+{2}, {T}, Sacrifice Chromatic Curio: Draw a card. => When Chromatic Curio enters, add {C}{C}.
+{2}, {T}: Add two mana in any combination of colors.
+{1}, {T}, Sacrifice Chromatic Curio: Draw a card.
+
+Where The Dead Gods Lay
+rules_text: {T}: Add {C}.
+{3}, {T}, Exile two lands you control: Draw two cards. => {T}: Add {C}.
+{4}, {T}, Exile two lands you control: Draw two cards.
+
+Brass Knight
+rules_text: Double strike, ward {2}
+Brass Knight's toughness is equal to the number of artifacts you control plus the number of enchantments you control, and its power is equal to that number plus one. => First strike, ward {3}
+Brass Knight's toughness is equal to the number of artifacts you control plus the number of enchantments you control, and its power is equal to that number plus one.
+
+Sapphire Vim
+cost: {0} => {1}
+
+Castle of Alabaster
+rules_text: Draft Castle of Alabaster face up.
+As you draft a card, you may remove it from the draft and note one of its colors.
+{T}: Add one mana of any color. Activate this ability only if you've noted five colors for cards named Castle of Alabaster. => Draft Castle of Alabaster face up.
+As you draft a card, you may remove it from the draft and note one of its colors.
+{T}: Add one mana of any color you noted for cards named Castle of Alabaster.
+
+Body of Light
+rules_text: Flying, vigilance, ward {1}
+Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Flying, vigilance
+Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+
+Head Collector
+
+
+VERSION 3 CHANGELOG
 ====================
 
 The Repentant King added.
