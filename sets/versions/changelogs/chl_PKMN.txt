@@ -1,4 +1,149 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Hilda and Hilbert added.
+Calem and Serena added.
+
+
+Love Ball
+rules_text: When Love Ball enters, discard a card, then draw a card.
+{2}, {T}, Sacrifice Love Ball: Reveal the top five cards of your library and put a non-Human creature from among them into your hand. Put the rest on the bottom in a random order. => When Love Ball enters, discard a card, then draw a card.
+{2}, {T}, Sacrifice Love Ball: Reveal the top five cards of your library and put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.
+
+Capture
+rules_text: When Capture enters, exile target non-Human creature an opponent controls with mana value 4 or less until Capture leaves.
+Sacrifice Capture: Create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top five cards of your library. Put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.”)[/i] => When Capture enters, exile target non-Human creature an opponent controls with mana value 4 or less until Capture leaves.
+Sacrifice Capture: Create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.”)[/i]
+
+Pokemon Center Lady
+rules_text: [b]Lifelink[/b]
+Whenever an enchantment you control enters, Pokemon Center Lady gets +1/+1 until end of turn.
+{3}{W}: Untap target creature you control. Destroy up to one target Aura attached to it. => Whenever an enchantment you control enters, Pokemon Center Lady gets +1/+1 until end of turn.
+{3}{W}: Untap target creature you control. Destroy up to one target Aura attached to it.
+pt: 3/2 => 2/3
+
+Aurorus
+rules_text: [b]Vigilance, ward {2}[/b]
+[i]Refrigerate[/i] — {1}{W}, Discard Aurorus: Create a Frozen Role token attached to target creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature has defender.)[/i] => [b]Vigilance, ward {2}[/b]
+[i]Aurora Beam[/i] — {1}{W}, Discard Aurorus: Create a Frozen Role token attached to target creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature has defender.)[/i]
+
+Pidgey
+
+Squirtle
+
+Whirlpool
+rules_text: Counter up to one target spell unless its controller pays {2}. If that spell is countered this way, shuffle it into its owner's library instead of putting it into its owner's graveyard.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Counter up to one target spell unless its controller pays {2}. If that spell is countered this way, shuffle it into its owner's library instead of putting it into its owner's graveyard.
+Cycling {2}
+
+Vanillite
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Tap up to one target creature. Put two stun counters on it.
+II, III — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+IV — What!? Vanillite is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Tap up to one target creature. Put two stun counters on it.
+II, III — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+IV — What!? Vanillite is evolving! [i](Exile this. You may cast it transformed later.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Tap up to one target creature. Put two stun counters on it.
+II, III — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+IV — What!? Vanillite is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Tap up to one target creature. Put two stun counters on it.
+II, III — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+IV — What!? Vanillite is evolving! [i](Exile this. You may cast it transformed later.)[/i]
+
+Ball Toss
+rules_text: Create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top five cards of your library. Put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.”)[/i]
+Thrive. [i](Give any number of permanents you control another counter they already have.)[/i] => Create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.”)[/i]
+Thrive. [i](Give any number of permanents you control another counter they already have.)[/i]
+
+Abandon
+cost: {3}{U} => {4}{U}
+rules_text: This spell costs {3} less to cast if it targets a permanent with mana value 1 or less.
+The owner of target nonland permanent puts it on their choice of the top or bottom of their library. => The owner of target creature puts it on their choice of the top or bottom of their library.
+{U}, Discard Abandon: Create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.”)[/i]
+
+Team Rocket Upstart
+type: Creature — Human => Creature — Human Rogue
+
+Sewaddle
+
+Villainous Triumph
+cost: {3}{R} => {4}{R}
+rules_text: This spell costs {2} less to cast if you've committed a crime this turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+Creatures you control get +2/+0 and gain [b]first strike[/b] until end of turn. => This spell costs {2} less to cast if you've committed a crime this turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+Creatures you control get +3/+0 and gain [b]first strike[/b] until end of turn.
+
+Scoop Up
+rules_text: When Scoop Up enters, gain control of target non-Human creature with mana value 2 or less until end of turn. Untap that creature. It gains haste until end of turn.
+{4}{R}, Sacrifice Scoop Up: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery. => When Scoop Up enters, gain control of target creature with mana value 2 or less until end of turn. Untap it. It gains haste until end of turn.
+{1}{R}, Sacrifice Scoop Up: Create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.”)[/i]
+
+Will-O-Wisp
+rules_text: Create a Burned role token attached to target creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature can't block.)[/i]
+Create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top five cards of your library. Put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.”)[/i] => Create a Burned role token attached to up to one target creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature can't block.)[/i]
+Create a Poke Ball token. [i](An artifact with “{2}, {T}, Sacrifice this: Reveal the top five cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.”)[/i]
+
+Elekid
+
+Charmander
+
+Double Team
+rules_text: This spell costs {2} less to cast if both targets share a creature type.
+Two target creatures you control each get +2/+2 until end of turn. => This spell costs {2} less to cast if both targets have the same name.
+Two target creatures you control each get +2/+2 until end of turn.
+
+Bulbasaur
+
+Exeggutor
+rules_text: [b]Reach[/b]
+When Exeggutor enters, if it isn't a token, create an Egg token. [i](It's a kindred Egg artifacts with “{1}, {T}, Sacrifice this: Populate. Activate only as a sorcery.” To populate, create a token that's a copy of a creature token you control.)[/i]
+Basic landcycling {2} => [b]Reach[/b]
+When Exeggutor enters, if it isn't a token, create an Egg token. [i](It's a kindred Egg artifact with “{1}, {T}, Sacrifice this: Populate. Activate only as a sorcery.” To populate, create a token that's a copy of a creature token you control.)[/i]
+Basic landcycling {2}
+
+Safari Ball
+rules_text: When Safari Ball enters, create a 2/2 green Beast creature token.
+{2}, {T}, Sacrifice Safari Ball: Reveal the top five cards of your library and put a non-Human creature from among them into your hand. Put the rest on the bottom in a random order. => When Safari Ball enters, create a 2/2 green Beast creature token.
+{2}, {T}, Sacrifice Safari Ball: Reveal the top five cards of your library and put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.
+
+HM02 — Fly
+rules_text: Enchant creature
+When HM02 — Fly enters, create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top five cards of your library. Put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.”)[/i]
+Enchanted creature has [b]defender[/b] and [b]flying.[/b] => Enchant creature
+When HM02 — Fly enters, create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.”)[/i]
+Enchanted creature has [b]defender[/b] and [b]flying.[/b]
+
+Rocket Grunt
+type: Creature — Human => Creature — Human Rogue
+cost: {B}{R} => {1}{B}{R}
+rules_text: [b]Menace
+[/b]Whenever you commit a crime, create a Treasure token. This ability triggers only once each turn.
+{3}{B}{R}: Put two +1/+1 counters on Rocket Grunt. => [b]Menace
+[/b]Whenever you commit a crime, create a Treasure token. This ability triggers only once each turn.
+{4}{B}{R}: Put two +1/+1 counters on Rocket Grunt.
+pt: 2/1 => 3/2
+
+Petal Dance
+rules_text: When Petal Dance enters, search your library for a basic land card, put it onto the battlefield, then shuffle.
+Cycling [b]{1}{G}[/b]
+When you cycle Petal Dance, thrive. [i](Give any number of permanents you control another counter they already have.)[/i] => Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Cycling [b]{1}{G}[/b]
+When you cycle Petal Dance, thrive. [i](Give any number of permanents you control another counter they already have.)[/i]
+
+Go Fishing
+rules_text: Mill four cards. Return a non-Human creature card from among them to your hand. => Create a Poke Ball token. [i](It's an artifact with “{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.”)[/i]
+Draw a card.
+
+Poke Ball
+
+Jessie and James
+type: Legendary Creature — Human => Legendary Creature — Human Rogue
+
+Looker
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Celebi added.

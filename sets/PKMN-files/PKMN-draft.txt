@@ -304,7 +304,7 @@
 		{
 			"name": "Abandon",
 			"rarity": "special",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
@@ -419,7 +419,7 @@
 			"name": "Team Rocket Upstart",
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human",
+			"type": "Creature — Human Rogue",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/65_Team Rocket Upstart.png"
@@ -525,7 +525,7 @@
 		{
 			"name": "Villainous Triumph",
 			"rarity": "special",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
@@ -963,8 +963,8 @@
 		{
 			"name": "Rocket Grunt",
 			"rarity": "special",
-			"mana_cost": "{B}{R}",
-			"type": "Creature — Human",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Rogue",
 			"collector_number": "113",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/113_Rocket Grunt.png"
@@ -975,9 +975,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "118",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/118_Atticus, Toxic Fashionista.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/120_Atticus, Toxic Fashionista.png"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Ape Warrior",
-			"collector_number": "119",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/119_Infernape.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/121_Infernape.png"
 			}
 		},
 		{
@@ -1005,16 +1005,16 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment Creature — Faerie Saga",
-			"collector_number": "120",
+			"collector_number": "122",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/120_Ralts_back.png"
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/122_Ralts_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/120_Ralts_front.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/122_Ralts_front.png"
 			}
 		},
 		{
@@ -1022,9 +1022,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Artifact Creature — Faerie Construct",
-			"collector_number": "117",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/117_Klefki.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/119_Klefki.png"
 			}
 		},
 		{
@@ -1032,9 +1032,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "128",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/128_Sandy Shoal.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/130_Sandy Shoal.png"
 			}
 		},
 		{
@@ -1042,9 +1042,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "122",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/122_Foreboding Skies.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/124_Foreboding Skies.png"
 			}
 		},
 		{
@@ -1052,9 +1052,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "123",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/123_Frostscape.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/125_Frostscape.png"
 			}
 		},
 		{
@@ -1082,9 +1082,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "129",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/129_Tranquil Park.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/131_Tranquil Park.png"
 			}
 		},
 		{
@@ -1152,9 +1152,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "126",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/126_Nightscape.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/128_Nightscape.png"
 			}
 		},
 		{
@@ -1162,9 +1162,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "127",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/127_Roaring Stadium.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/129_Roaring Stadium.png"
 			}
 		},
 		{
@@ -1172,9 +1172,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "124",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/124_Highest Heights.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/126_Highest Heights.png"
 			}
 		},
 		{
@@ -1182,9 +1182,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "121",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/121_Fierce Stormfront.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/123_Fierce Stormfront.png"
 			}
 		},
 		{
@@ -1192,9 +1192,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "125",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/125_Misty Valley.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/127_Misty Valley.png"
 			}
 		},
 		{
@@ -1202,9 +1202,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "130",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/130_Urban Wetland.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/132_Urban Wetland.png"
 			}
 		},
 		{
@@ -1398,7 +1398,7 @@
 			"name": "Jessie and James",
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Human",
+			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/53_Jessie and James.png"
@@ -1449,6 +1449,26 @@
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/16_Regigas.png"
+			}
+		},
+		{
+			"name": "Hilda and Hilbert",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/117_Hilda and Hilbert.png"
+			}
+		},
+		{
+			"name": "Calem and Serena",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/118_Calem and Serena.png"
 			}
 		}
 	]
@@ -1584,3 +1604,5 @@
 	1 Looker
 	1 Gholdengo
 	1 Regigas
+	1 Hilda and Hilbert
+	1 Calem and Serena
