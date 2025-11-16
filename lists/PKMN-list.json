@@ -112,7 +112,7 @@
         "position": ""
     },
     {
-        "card_name": "Ball Toss",
+        "card_name": "Astonish",
         "number": 26,
         "shape": "normal",
         "set": "PKMN",
@@ -147,7 +147,7 @@
         "position": ""
     },
     {
-        "card_name": "Beautifly",
+        "card_name": "Ball Toss",
         "number": 27,
         "shape": "normal",
         "set": "PKMN",
@@ -182,7 +182,7 @@
         "position": ""
     },
     {
-        "card_name": "Chimecho",
+        "card_name": "Beautifly",
         "number": 28,
         "shape": "normal",
         "set": "PKMN",
@@ -217,7 +217,7 @@
         "position": ""
     },
     {
-        "card_name": "Disarming Voice",
+        "card_name": "Chimecho",
         "number": 29,
         "shape": "normal",
         "set": "PKMN",
@@ -252,7 +252,7 @@
         "position": ""
     },
     {
-        "card_name": "Froslass",
+        "card_name": "Disarming Voice",
         "number": 30,
         "shape": "normal",
         "set": "PKMN",
@@ -287,7 +287,7 @@
         "position": ""
     },
     {
-        "card_name": "Go Fishing",
+        "card_name": "Froslass",
         "number": 31,
         "shape": "normal",
         "set": "PKMN",
@@ -322,7 +322,7 @@
         "position": ""
     },
     {
-        "card_name": "Hypno",
+        "card_name": "Go Fishing",
         "number": 32,
         "shape": "normal",
         "set": "PKMN",
@@ -357,7 +357,7 @@
         "position": ""
     },
     {
-        "card_name": "Legendary Encounter",
+        "card_name": "Hypno",
         "number": 33,
         "shape": "normal",
         "set": "PKMN",
@@ -497,9 +497,9 @@
         "position": ""
     },
     {
-        "card_name": "Pokepuffs",
+        "card_name": "Popplio",
         "number": 37,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "PKMN",
         "position": ""
     },
@@ -532,9 +532,9 @@
         "position": ""
     },
     {
-        "card_name": "Popplio",
+        "card_name": "Rare Candy",
         "number": 38,
-        "shape": "modal double faced",
+        "shape": "normal",
         "set": "PKMN",
         "position": ""
     },
@@ -1005,7 +1005,7 @@
     "a->token",
     {
         "card_name": "Poke Ball",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "PKMN",
         "position": ""
@@ -1046,7 +1046,11 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Plant",
+        "number": 6,
+        "shape": "token",
+        "set": "PKMN",
+        "position": ""
     },
     {
         "card_name": "e"

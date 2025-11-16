@@ -189,9 +189,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Insect",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/27_Beautifly.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/28_Beautifly.png"
 			}
 		},
 		{
@@ -229,9 +229,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/30_Froslass.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/31_Froslass.png"
 			}
 		},
 		{
@@ -276,9 +276,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/26_Ball Toss.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/27_Ball Toss.png"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 		{
 			"name": "Abandon",
 			"rarity": "special",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
@@ -709,7 +709,7 @@
 		{
 			"name": "Double Team",
 			"rarity": "special",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "92",
 			"image_uris": {
@@ -904,16 +904,6 @@
 			}
 		},
 		{
-			"name": "Legendary Encounter",
-			"rarity": "special",
-			"mana_cost": "{1}{U}",
-			"type": "Enchantment",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/33_Legendary Encounter.png"
-			}
-		},
-		{
 			"name": "Boltund",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
@@ -1072,9 +1062,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Beast",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/32_Hypno.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/33_Hypno.png"
 			}
 		},
 		{
@@ -1092,9 +1082,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/28_Chimecho.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/29_Chimecho.png"
 			}
 		},
 		{
@@ -1105,16 +1095,6 @@
 			"collector_number": "99",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/99_Petal Dance.png"
-			}
-		},
-		{
-			"name": "Pokepuffs",
-			"rarity": "special",
-			"mana_cost": "{U}",
-			"type": "Artifact",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/37_Pokepuffs.png"
 			}
 		},
 		{
@@ -1132,9 +1112,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/31_Go Fishing.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/32_Go Fishing.png"
 			}
 		},
 		{
@@ -1252,9 +1232,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/29_Disarming Voice.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/30_Disarming Voice.png"
 			}
 		},
 		{
@@ -1302,9 +1282,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Poke Ball",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/6_Poke Ball.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/7_Poke Ball.png"
 			}
 		},
 		{
@@ -1409,16 +1389,16 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment Creature — Saga Seal",
-			"collector_number": "38",
+			"collector_number": "37",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/38_Popplio_back.png"
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/37_Popplio_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/38_Popplio_front.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/37_Popplio_front.png"
 			}
 		},
 		{
@@ -1435,7 +1415,7 @@
 			"name": "Gholdengo",
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Artifact Creature — Golem",
+			"type": "Artifact Creature — Spirit Golem",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/8_Gholdengo.png"
@@ -1469,6 +1449,36 @@
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/118_Calem and Serena.png"
+			}
+		},
+		{
+			"name": "Astonish",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/26_Astonish.png"
+			}
+		},
+		{
+			"name": "Rare Candy",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/38_Rare Candy.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/6_Plant.png"
 			}
 		}
 	]
@@ -1558,7 +1568,6 @@
 	1 Journey Across the Region
 	1 Safari Ball
 	1 Greninja
-	1 Legendary Encounter
 	1 Boltund
 	1 HM02 — Fly
 	1 Professor Elm
@@ -1577,7 +1586,6 @@
 	1 Tranquil Park
 	1 Chimecho
 	1 Petal Dance
-	1 Pokepuffs
 	1 Whimsical Encounter
 	1 Go Fishing
 	1 Pangoro
@@ -1606,3 +1614,5 @@
 	1 Regigas
 	1 Hilda and Hilbert
 	1 Calem and Serena
+	1 Astonish
+	1 Rare Candy
