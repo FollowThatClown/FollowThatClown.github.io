@@ -1,4 +1,187 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Spirit Away added.
+Snatch added.
+Chespin added.
+Choice Band added.
+Choice Specs added.
+Choice Scarf added.
+PokeDex added.
+Badge Collection added.
+
+Spirited Away removed.
+Aron removed.
+Scary Face removed.
+Hilda and Hilbert removed.
+Calem and Serena removed.
+
+Aurorus
+
+Pidgey
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[b]Flying[/b]
+I, II, III — You gain 1 life.
+IV — What!? Pidgey is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[b]Flying[/b]
+I, II, III — You gain 1 life.
+IV — What!? Pidgey is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[b]Flying[/b]
+I, II, III — You gain 1 life.
+IV — What!? Pidgey is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[b]Flying[/b]
+I, II, III — You gain 1 life.
+IV — What!? Pidgey is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+
+Squirtle
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Surveil 1.
+IV — What!? Squirtle is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Surveil 1.
+IV — What!? Squirtle is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Surveil 1.
+IV — What!? Squirtle is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Surveil 1.
+IV — What!? Squirtle is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+
+Abandon
+rules_text: This spell costs {2} less to cast it's an opponent's turn and you've cast a spell this turn.
+The owner of target creature puts it on their choice of the top or bottom of their library. => [i][b]Trickster[/b][/i] — This spell costs {2} less to cast it's an opponent's turn and you've cast a spell this turn.
+The owner of target creature puts it on their choice of the top or bottom of their library.
+
+Lick
+type: Enchantment => Enchantment — Aura
+rules_text: When Lick enters, target player discards two cards.
+At the beginning of your upkeep, each opponent loses 1 life. => Enchant creature
+When Lick enters, target player discards two cards.
+Whenever enchanted creature attacks, each opponent loses 1 life.
+
+Plasma Grunt
+rules_text: Plasma Grunt with a +1/+1 counter on it.
+When Plasma Grunt enters, if you've committed a crime this turn, you may remove a +1/+1 counter from it. If you do, look at target player's hand, choose a non-Human creature card from it, and exile that card. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => When Plasma Grunt enters, choose one —
+• Put a +1/+1 counter on it.
+• If you've committed a crime this turn, look at target player's hand. You may choose a non-Human creature card from it. Exile the chosen card. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+Litwick
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Each player mills two cards.
+II, III — Exile up to one target card from a graveyard.
+IV — What!? Litwick is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Each player mills two cards.
+II, III — Exile up to one target card from a graveyard.
+IV — What!? Litwick is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Each player mills two cards.
+II, III — Exile up to one target card from a graveyard.
+IV — What!? Litwick is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Each player mills two cards.
+II, III — Exile up to one target card from a graveyard.
+IV — What!? Litwick is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+
+Outmatch
+rules_text: This spell costs {2} less to cast if you control a modified creature. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Destroy target creature.
+Surveil 2. => This spell costs {2} less to cast if you control a modified creature. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Destroy target creature. You gain 3 life.
+
+Sewaddle
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 green Plant creature token.
+III — What!? Sewaddle is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [b]What!? Sewaddle is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I, II — Create a 1/1 green Plant creature token.
+III — Put a +1/+1 counter on up to two other target creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 green Plant creature token.
+III — What!? Sewaddle is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [b]What!? Sewaddle is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I, II — Create a 1/1 green Plant creature token.
+III — Put a +1/+1 counter on up to two other target creatures you control.
+
+Sludge Bomb
+rules_text: Target creature gets -1/-1 until end of turn. Create a Poisoned Role token attached to it. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets -1/-1 and has “At the beginning of your upkeep, sacrifice this unless you pay 1 life.”)[/i] => Create a Poisoned role token attached to target creature you control. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature gets -1/-1 and has “At the beginning of your upkeep, sacrifice this unless you pay 1 life.”)[/i]
+Target creature gets -3/-3 until end of turn.
+
+Elekid
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I, II, III — Add {R}. You can't spend this mana to cast creature spells.
+IV — What!? Elekid is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I, II, III — Add {R}. You can't spend this mana to cast creature spells.
+IV — What!? Elekid is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I, II, III — Add {R}. You can't spend this mana to cast creature spells.
+IV — What!? Elekid is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I, II, III — Add {R}. You can't spend this mana to cast creature spells.
+IV — What!? Elekid is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+
+Magma Grunt
+rules_text: Magma Grunt enters with a +1/+1 counter on it.
+When Magma Grunt enters, if you've committed a crime this turn, you may remove a +1/+1 counter from Magma Grunt. If you do, until end of turn, target land you control becomes a 3/3 creature with first strike and haste that's still a land. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => When Magma Grunt enters, choose one —
+• Put a +1/+1 counter on it.
+• If you've committed a crime this turn, target land you control becomes a 3/3 creature with first strike and haste that's still a land. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+pt: 3/2 => 2/3
+
+Charmander
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Charmander deals 2 damage to target player.
+II, III — You may discard a nonland card. If you do, draw a card.
+IV — What!? Charmander is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Charmander deals 2 damage to target player.
+II, III — You may discard a nonland card. If you do, draw a card.
+IV — What!? Charmander is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Charmander deals 2 damage to target player.
+II, III — You may discard a nonland card. If you do, draw a card.
+IV — What!? Charmander is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Charmander deals 2 damage to target player.
+II, III — You may discard a nonland card. If you do, draw a card.
+IV — What!? Charmander is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+
+Atticus, Toxic Fashionista
+pt: 2/2 => 1/2
+
+Ralts
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I, II, III — Draw a card, then discard a card. You gain 1 life.
+IV — What!? Ralts is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [b]What!? Ralts is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Surveil 3.
+II, III, IV — Draw a card, then discard a card. You gain 1 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I, II, III — Draw a card, then discard a card. You gain 1 life.
+IV — What!? Ralts is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [b]What!? Ralts is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Surveil 3.
+II, III, IV — Draw a card, then discard a card. You gain 1 life.
+
+Whimsical Encounter
+rules_text: Create two 1/1 white Spirit creature tokens with flying and “This creature can't block.” => Create two 1/1 white Spirit creature tokens with flying and “This creature can't block non-Spirit creatures.”
+
+Spirit
+rules_text: Flying
+This creature can't block. => Flying
+This creature can't block non-Spirit creatures.
+
+Popplio
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Put a +1/+1 counter on up to one other target creature you control.
+IV — What!? Popplio is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Put a +1/+1 counter on up to one other target creature you control.
+IV — What!? Popplio is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Put a +1/+1 counter on up to one other target creature you control.
+IV — What!? Popplio is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Put a +1/+1 counter on up to one other target creature you control.
+IV — What!? Popplio is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
