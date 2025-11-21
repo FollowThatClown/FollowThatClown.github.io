@@ -1,4 +1,37 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Lumbering Prophet added.
+Head Full of Sky added.
+Spineless Lion added.
+Bioscape added.
+Three Doomed Souls added.
+
+Castle of Alabaster removed.
+
+Seraph of Sorrows
+rules_text: Flying, vigilance, lifelink
+Whenever Seraph of Sorrows enters or you cast a spell with mana value 5 or greater, return target nonland permanent card with mana value 4 or less from your graveyard to your hand.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flying, vigilance, lifelink
+Whenever Seraph of Sorrows enters or you cast another spell with mana value 5 or greater, return target nonland permanent card with mana value 4 or less from your graveyard to your hand.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Sky High Angel
+rules_text: Flying, vigilance
+When Sky High Angel enters, exile up to one target permanent. Its controller draws two cards and gains 2 life. If {W}{U}{B}{R}{G} was spent to cast this spell, instead you draw two cards and gain 2 life. => Flying, vigilance
+When Sky High Angel enters, exile up to one target permanent. If {W}{U}{B}{R}{G} was spent to cast this spell, you draw two cards and gain 2 life. Otherwise, that permanent's controller draws two cards and gains 2 life.
+
+Mindless Scarecrow
+rules_text: Reach
+{5}{G}, {T}: Harness Mindless Scarecrow [i](Once harnessed, its 🧠 ability is active.)[/i]
+🧠 — You may play any number of additional land cards each turn.
+🧠 — Whenever you wander, draw a card. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Reach
+{4}{G}{G}, {T}: Harness Mindless Scarecrow [i](Once harnessed, its 🧠 ability is active.)[/i]
+🧠 — You may play any number of additional land cards each turn.
+🧠 — Whenever you wander, draw a card. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 
