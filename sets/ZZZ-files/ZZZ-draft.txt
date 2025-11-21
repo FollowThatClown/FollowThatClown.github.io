@@ -1,0 +1,2821 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Catharsis",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/132_Catharsis.png"
+			}
+		},
+		{
+			"name": "Forbidden Fancy",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/142_Forbidden Fancy.png"
+			}
+		},
+		{
+			"name": "Waking Nightmare",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Nightmare",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/199_Waking Nightmare.png"
+			}
+		},
+		{
+			"name": "Watching Warden",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Nightmare",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/41_Watching Warden.png"
+			}
+		},
+		{
+			"name": "Chaotic Command",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/134_Chaotic Command.png"
+			}
+		},
+		{
+			"name": "Big Dreamer",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Faerie",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/126_Big Dreamer.png"
+			}
+		},
+		{
+			"name": "Opulent Queen",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Illusion Noble",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/155_Opulent Queen.png"
+			}
+		},
+		{
+			"name": "Rattle to the Bone",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/158_Rattle to the Bone.png"
+			}
+		},
+		{
+			"name": "The Repentant King",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/27_The Repentant King.png"
+			}
+		},
+		{
+			"name": "Pale Rider",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Skeleton Knight",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/156_Pale Rider.png"
+			}
+		},
+		{
+			"name": "Charging Doom",
+			"rarity": "special",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Nightmare Samurai",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/135_Charging Doom.png"
+			}
+		},
+		{
+			"name": "The Demiurge",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}{R}{R}",
+			"type": "Legendary Creature — Illusion God",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/140_The Demiurge.png"
+			}
+		},
+		{
+			"name": "Lionize",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/149_Lionize.png"
+			}
+		},
+		{
+			"name": "Clown of Many Cards",
+			"rarity": "special",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Clown",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/136_Clown of Many Cards.png"
+			}
+		},
+		{
+			"name": "Lady in Red",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/145_Lady in Red.png"
+			}
+		},
+		{
+			"name": "Dandy Fae",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Faerie Druid",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/139_Dandy Fae.png"
+			}
+		},
+		{
+			"name": "Lightning Bolt",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/148_Lightning Bolt.png"
+			}
+		},
+		{
+			"name": "Cast to the Wastes",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/131_Cast to the Wastes.png"
+			}
+		},
+		{
+			"name": "Portent of Doom",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Skeleton Knight",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/157_Portent of Doom.png"
+			}
+		},
+		{
+			"name": "Exploding Life",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/170_Exploding Life.png"
+			}
+		},
+		{
+			"name": "Un œuf",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Artifact — Food",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/197_Un œuf.png"
+			}
+		},
+		{
+			"name": "Towering Titan",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/195_Towering Titan.png"
+			}
+		},
+		{
+			"name": "Tree of Life",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/196_Tree of Life.png"
+			}
+		},
+		{
+			"name": "Searching the Streams",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/187_Searching the Streams.png"
+			}
+		},
+		{
+			"name": "Acidic Egg",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Food",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/162_Acidic Egg.png"
+			}
+		},
+		{
+			"name": "Summoning Stones",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/191_Summoning Stones.png"
+			}
+		},
+		{
+			"name": "Hanswurst of Many Hands",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Clown",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/174_Hanswurst of Many Hands.png"
+			}
+		},
+		{
+			"name": "Crafted Crafter",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Sculpture",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/167_Crafted Crafter.png"
+			}
+		},
+		{
+			"name": "Great Old Turtle",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/173_Great Old Turtle.png"
+			}
+		},
+		{
+			"name": "Aristaeus",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Insect God",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/163_Aristaeus.png"
+			}
+		},
+		{
+			"name": "Mother Nature",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/179_Mother Nature.png"
+			}
+		},
+		{
+			"name": "Burst from the Crust",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/165_Burst from the Crust.png"
+			}
+		},
+		{
+			"name": "Click Into Place",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/166_Click Into Place.png"
+			}
+		},
+		{
+			"name": "Sent to Far Off Places",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/28_Sent to Far Off Places.png"
+			}
+		},
+		{
+			"name": "Mythologize",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/23_Mythologize.png"
+			}
+		},
+		{
+			"name": "Shape of the Moon",
+			"rarity": "special",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Creature — Incarnation",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/30_Shape of the Moon.png"
+			}
+		},
+		{
+			"name": "Dreamcatcher",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/12_Dreamcatcher.png"
+			}
+		},
+		{
+			"name": "A Thousand Days' Sunrise",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/36_A Thousand Days' Sunrise.png"
+			}
+		},
+		{
+			"name": "Pearly Gateway",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wall",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/25_Pearly Gateway.png"
+			}
+		},
+		{
+			"name": "Enter the Arena",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/13_Enter the Arena.png"
+			}
+		},
+		{
+			"name": "Blade of the Beating Heart",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/127_Blade of the Beating Heart.png"
+			}
+		},
+		{
+			"name": "Seraph of Sorrows",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/29_Seraph of Sorrows.png"
+			}
+		},
+		{
+			"name": "Bloody Bannerette",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Flagbearer Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/6_Bloody Bannerette.png"
+			}
+		},
+		{
+			"name": "Angel of Incense",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/2_Angel of Incense.png"
+			}
+		},
+		{
+			"name": "Burst Asunder",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/7_Burst Asunder.png"
+			}
+		},
+		{
+			"name": "Turn to Salt",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/39_Turn to Salt.png"
+			}
+		},
+		{
+			"name": "Figure of Aries",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Satyr",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/14_Figure of Aries.png"
+			}
+		},
+		{
+			"name": "Sky High Angel",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/32_Sky High Angel.png"
+			}
+		},
+		{
+			"name": "Brave the Rapids",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/164_Brave the Rapids.png"
+			}
+		},
+		{
+			"name": "Enantiomorphos",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/54_Enantiomorphos.png"
+			}
+		},
+		{
+			"name": "Commanding Stranger",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/46_Commanding Stranger.png"
+			}
+		},
+		{
+			"name": "Sifter of Thoughts Forgotten",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/73_Sifter of Thoughts Forgotten.png"
+			}
+		},
+		{
+			"name": "Long-Lost Lovers",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/64_Long-Lost Lovers.png"
+			}
+		},
+		{
+			"name": "Sail To Distant Shores",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/71_Sail To Distant Shores.png"
+			}
+		},
+		{
+			"name": "Face to Face",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/56_Face to Face.png"
+			}
+		},
+		{
+			"name": "Smear Over the Dreamscape",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/74_Smear Over the Dreamscape.png"
+			}
+		},
+		{
+			"name": "Performer of Many Parts",
+			"rarity": "special",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Clown",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/69_Performer of Many Parts.png"
+			}
+		},
+		{
+			"name": "Dreamscape Artist",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/52_Dreamscape Artist.png"
+			}
+		},
+		{
+			"name": "Palagic Nightmare",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Creature — Nightmare Leviathan",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/68_Palagic Nightmare.png"
+			}
+		},
+		{
+			"name": "Figure of the Crescent Moon",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/59_Figure of the Crescent Moon.png"
+			}
+		},
+		{
+			"name": "Shape in the Depths",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Shark",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/72_Shape in the Depths.png"
+			}
+		},
+		{
+			"name": "Godstone",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/60_Godstone.png"
+			}
+		},
+		{
+			"name": "Cavalier of Winter",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Creature — Elemental Knight",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/43_Cavalier of Winter.png"
+			}
+		},
+		{
+			"name": "Thirst for Glory",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/75_Thirst for Glory.png"
+			}
+		},
+		{
+			"name": "Ticking Time Piece",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/76_Ticking Time Piece.png"
+			}
+		},
+		{
+			"name": "Far Sight",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/57_Far Sight.png"
+			}
+		},
+		{
+			"name": "Blood Blossom Gardener",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Druid",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/129_Blood Blossom Gardener.png"
+			}
+		},
+		{
+			"name": "Torg, Titan of Time's Ravage",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Elder Giant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/194_Torg, Titan of Time's Ravage.png"
+			}
+		},
+		{
+			"name": "Multitudinous Masses",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/22_Multitudinous Masses.png"
+			}
+		},
+		{
+			"name": "Emerge from the Water",
+			"rarity": "special",
+			"mana_cost": "{X}{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/53_Emerge from the Water.png"
+			}
+		},
+		{
+			"name": "Golden Ratio",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/220_Golden Ratio.png"
+			}
+		},
+		{
+			"name": "Unravel",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/40_Unravel.png"
+			}
+		},
+		{
+			"name": "No Quarter",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/154_No Quarter.png"
+			}
+		},
+		{
+			"name": "Shepherd of Sea and Sky",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/31_Shepherd of Sea and Sky.png"
+			}
+		},
+		{
+			"name": "Sapiovore",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Lhurgoyf",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/185_Sapiovore.png"
+			}
+		},
+		{
+			"name": "Draw From the Earth",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/141_Draw From the Earth.png"
+			}
+		},
+		{
+			"name": "Stellar Egg",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Food",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/33_Stellar Egg.png"
+			}
+		},
+		{
+			"name": "Skybridge Serpent",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/189_Skybridge Serpent.png"
+			}
+		},
+		{
+			"name": "The Adversary",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/82_The Adversary.png"
+			}
+		},
+		{
+			"name": "Beautiful Corpse",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/86_Beautiful Corpse.png"
+			}
+		},
+		{
+			"name": "Cadaver Kerfuffle",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/88_Cadaver Kerfuffle.png"
+			}
+		},
+		{
+			"name": "Commanding Figure",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/93_Commanding Figure.png"
+			}
+		},
+		{
+			"name": "Dance with Delusion",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/95_Dance with Delusion.png"
+			}
+		},
+		{
+			"name": "Doliente De Los Muertos",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/99_Doliente De Los Muertos.png"
+			}
+		},
+		{
+			"name": "A Favor for a Favor",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/103_A Favor for a Favor.png"
+			}
+		},
+		{
+			"name": "Id",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Shade",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/105_Id.png"
+			}
+		},
+		{
+			"name": "Imago",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect Nightmare Noble",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/106_Imago.png"
+			}
+		},
+		{
+			"name": "Insider Info",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/107_Insider Info.png"
+			}
+		},
+		{
+			"name": "Life or Death",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/109_Life or Death.png"
+			}
+		},
+		{
+			"name": "Looming Doom",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/110_Looming Doom.png"
+			}
+		},
+		{
+			"name": "Manque",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Planeswalker — Manque",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/111_Manque.png"
+			}
+		},
+		{
+			"name": "Mindbending Vista",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/112_Mindbending Vista.png"
+			}
+		},
+		{
+			"name": "Mindscaping",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/113_Mindscaping.png"
+			}
+		},
+		{
+			"name": "Queen of Hearts",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/115_Queen of Hearts.png"
+			}
+		},
+		{
+			"name": "Caller of Regretful Dead",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/89_Caller of Regretful Dead.png"
+			}
+		},
+		{
+			"name": "Shrouded by Night",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/118_Shrouded by Night.png"
+			}
+		},
+		{
+			"name": "Traumatic Experience",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/119_Traumatic Experience.png"
+			}
+		},
+		{
+			"name": "Underworld Unleashed",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/120_Underworld Unleashed.png"
+			}
+		},
+		{
+			"name": "Carved Elder",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{G}{G}",
+			"type": "Creature — Treefolk Sculpture",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/208_Carved Elder.png"
+			}
+		},
+		{
+			"name": "Cloud Nine",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/202_Cloud Nine.png"
+			}
+		},
+		{
+			"name": "Cobbled Copy",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/44_Cobbled Copy.png"
+			}
+		},
+		{
+			"name": "Decorum Macabre",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/206_Decorum Macabre.png"
+			}
+		},
+		{
+			"name": "Divine Machine",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/203_Divine Machine.png"
+			}
+		},
+		{
+			"name": "The Ego",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Shade",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/218_The Ego.png"
+			}
+		},
+		{
+			"name": "The Fiend",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Devil",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/207_The Fiend.png"
+			}
+		},
+		{
+			"name": "Flood of Visions",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/204_Flood of Visions.png"
+			}
+		},
+		{
+			"name": "Hopeblossom",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/210_Hopeblossom.png"
+			}
+		},
+		{
+			"name": "Clown Cronies",
+			"rarity": "special",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Creature — Clown",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/214_Clown Cronies.png"
+			}
+		},
+		{
+			"name": "Megalophobia",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/216_Megalophobia.png"
+			}
+		},
+		{
+			"name": "Mysterious Benefactor",
+			"rarity": "special",
+			"mana_cost": "{G}{G}{W}{W}",
+			"type": "Creature — Avatar Doctor",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/211_Mysterious Benefactor.png"
+			}
+		},
+		{
+			"name": "Seashore Shell Seller",
+			"rarity": "special",
+			"mana_cost": "{G}{G}{U}{U}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/221_Seashore Shell Seller.png"
+			}
+		},
+		{
+			"name": "Seven Thunder Scion",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}{W}{W}",
+			"type": "Creature — Avatar Soldier",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/219_Seven Thunder Scion.png"
+			}
+		},
+		{
+			"name": "Skyfishing",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/217_Skyfishing.png"
+			}
+		},
+		{
+			"name": "Star-Crossed Lovers",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Knight Noble",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/212_Star-Crossed Lovers.png"
+			}
+		},
+		{
+			"name": "Stream of Consciousness",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/215_Stream of Consciousness.png"
+			}
+		},
+		{
+			"name": "Take a Hike",
+			"rarity": "special",
+			"mana_cost": "{U}{U}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/205_Take a Hike.png"
+			}
+		},
+		{
+			"name": "Tornado of Souls",
+			"rarity": "special",
+			"mana_cost": "{W}{W}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/213_Tornado of Souls.png"
+			}
+		},
+		{
+			"name": "Unleash the Beast",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/209_Unleash the Beast.png"
+			}
+		},
+		{
+			"name": "Knight of the Last Hope",
+			"rarity": "special",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/19_Knight of the Last Hope.png"
+			}
+		},
+		{
+			"name": "Sunsewer",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/34_Sunsewer.png"
+			}
+		},
+		{
+			"name": "Arachnid Nighthawk",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Spider Noble",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/84_Arachnid Nighthawk.png"
+			}
+		},
+		{
+			"name": "Consider",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/47_Consider.png"
+			}
+		},
+		{
+			"name": "Propitiate",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/26_Propitiate.png"
+			}
+		},
+		{
+			"name": "Divine Acclaim",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/10_Divine Acclaim.png"
+			}
+		},
+		{
+			"name": "Bauble Miser",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/4_Bauble Miser.png"
+			}
+		},
+		{
+			"name": "Marvelous Mechanisms",
+			"rarity": "special",
+			"mana_cost": "{6}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/65_Marvelous Mechanisms.png"
+			}
+		},
+		{
+			"name": "Deep Dark Delver",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/51_Deep Dark Delver.png"
+			}
+		},
+		{
+			"name": "Trinity Hierophant",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Avatar Cleric",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/38_Trinity Hierophant.png"
+			}
+		},
+		{
+			"name": "Come Apart",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/45_Come Apart.png"
+			}
+		},
+		{
+			"name": "Trashcaster Mage",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/77_Trashcaster Mage.png"
+			}
+		},
+		{
+			"name": "Fascinating Vistas",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/58_Fascinating Vistas.png"
+			}
+		},
+		{
+			"name": "Curse of Invasion",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/50_Curse of Invasion.png"
+			}
+		},
+		{
+			"name": "Vizier of Three Faces",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter Cleric",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/79_Vizier of Three Faces.png"
+			}
+		},
+		{
+			"name": "Half Life",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/61_Half Life.png"
+			}
+		},
+		{
+			"name": "World Domination",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/81_World Domination.png"
+			}
+		},
+		{
+			"name": "Cicada Queen",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/92_Cicada Queen.png"
+			}
+		},
+		{
+			"name": "Doomed Descent",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/100_Doomed Descent.png"
+			}
+		},
+		{
+			"name": "Unnaturalize",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/121_Unnaturalize.png"
+			}
+		},
+		{
+			"name": "Celestial Sinkhole",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/90_Celestial Sinkhole.png"
+			}
+		},
+		{
+			"name": "Burst from the Gates",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/87_Burst from the Gates.png"
+			}
+		},
+		{
+			"name": "Reborn from Ashes",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/117_Reborn from Ashes.png"
+			}
+		},
+		{
+			"name": "Disfigured Figure",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Zombie",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/9_Disfigured Figure.png"
+			}
+		},
+		{
+			"name": "Death's Shadow",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/98_Death's Shadow.png"
+			}
+		},
+		{
+			"name": "Lunge After",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/150_Lunge After.png"
+			}
+		},
+		{
+			"name": "Maddened By the Revelation",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/151_Maddened By the Revelation.png"
+			}
+		},
+		{
+			"name": "Caustic Egg",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Artifact — Food",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/133_Caustic Egg.png"
+			}
+		},
+		{
+			"name": "Blood in the Water",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/130_Blood in the Water.png"
+			}
+		},
+		{
+			"name": "La Bella Morte",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/108_La Bella Morte.png"
+			}
+		},
+		{
+			"name": "Let the Rivers Run Red",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/147_Let the Rivers Run Red.png"
+			}
+		},
+		{
+			"name": "Nebulize",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/153_Nebulize.png"
+			}
+		},
+		{
+			"name": "Go Crazy",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/143_Go Crazy.png"
+			}
+		},
+		{
+			"name": "Cosmic Brain",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/138_Cosmic Brain.png"
+			}
+		},
+		{
+			"name": "Wild Encounters",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/200_Wild Encounters.png"
+			}
+		},
+		{
+			"name": "Pull Under",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/183_Pull Under.png"
+			}
+		},
+		{
+			"name": "New Age Messiah",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/182_New Age Messiah.png"
+			}
+		},
+		{
+			"name": "Schooling",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/186_Schooling.png"
+			}
+		},
+		{
+			"name": "Lotus Sutra",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/177_Lotus Sutra.png"
+			}
+		},
+		{
+			"name": "Take a Walk on the Wild Side",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/192_Take a Walk on the Wild Side.png"
+			}
+		},
+		{
+			"name": "Chromatic Curio",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/223_Chromatic Curio.png"
+			}
+		},
+		{
+			"name": "Head of the Household",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/175_Head of the Household.png"
+			}
+		},
+		{
+			"name": "Curious Egg",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Artifact — Clue Food",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/168_Curious Egg.png"
+			}
+		},
+		{
+			"name": "Far Off Land",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/239_Far Off Land.png"
+			}
+		},
+		{
+			"name": "Prismatic Vista",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/244_Prismatic Vista.png"
+			}
+		},
+		{
+			"name": "Sanctuary",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/249_Sanctuary.png"
+			}
+		},
+		{
+			"name": "Dust Bowl",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/237_Dust Bowl.png"
+			}
+		},
+		{
+			"name": "Where The Dead Gods Lay",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/255_Where The Dead Gods Lay.png"
+			}
+		},
+		{
+			"name": "Bosk",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/232_Bosk.png"
+			}
+		},
+		{
+			"name": "Cistern",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/234_Cistern.png"
+			}
+		},
+		{
+			"name": "Horizon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/241_Horizon.png"
+			}
+		},
+		{
+			"name": "Mine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/242_Mine.png"
+			}
+		},
+		{
+			"name": "Ravine",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/245_Ravine.png"
+			}
+		},
+		{
+			"name": "Reef",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/246_Reef.png"
+			}
+		},
+		{
+			"name": "Ruins",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/248_Ruins.png"
+			}
+		},
+		{
+			"name": "Shanty",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/251_Shanty.png"
+			}
+		},
+		{
+			"name": "Stormfront",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/253_Stormfront.png"
+			}
+		},
+		{
+			"name": "Wilderness",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/256_Wilderness.png"
+			}
+		},
+		{
+			"name": "Puppet Ruler",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Toy Noble",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/228_Puppet Ruler.png"
+			}
+		},
+		{
+			"name": "Brass Knight",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct Knight",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/222_Brass Knight.png"
+			}
+		},
+		{
+			"name": "Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{12}",
+			"type": "Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/1_Worldwalker.png"
+			}
+		},
+		{
+			"name": "Ghost Market",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/172_Ghost Market.png"
+			}
+		},
+		{
+			"name": "Doomsday Clock",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/224_Doomsday Clock.png"
+			}
+		},
+		{
+			"name": "Awaken Doom",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/125_Awaken Doom.png"
+			}
+		},
+		{
+			"name": "Beast Beneath the Waves",
+			"rarity": "special",
+			"mana_cost": "{7}{B}",
+			"type": "Creature",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/85_Beast Beneath the Waves.png"
+			}
+		},
+		{
+			"name": "Red Sea",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/160_Red Sea.png"
+			}
+		},
+		{
+			"name": "Haunt of the Hanging Tree",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/16_Haunt of the Hanging Tree.png"
+			}
+		},
+		{
+			"name": "Golden Ratio",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/15_Golden Ratio.png"
+			}
+		},
+		{
+			"name": "Into the Void",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/17_Into the Void.png"
+			}
+		},
+		{
+			"name": "Emerald Vim",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/225_Emerald Vim.png"
+			}
+		},
+		{
+			"name": "Onyx Vim",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/226_Onyx Vim.png"
+			}
+		},
+		{
+			"name": "Opal Vim",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/227_Opal Vim.png"
+			}
+		},
+		{
+			"name": "Ruby Vim",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/229_Ruby Vim.png"
+			}
+		},
+		{
+			"name": "Sapphire Vim",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/230_Sapphire Vim.png"
+			}
+		},
+		{
+			"name": "Blighted Sky Whale",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Whale",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/128_Blighted Sky Whale.png"
+			}
+		},
+		{
+			"name": "Verdant Clique",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant Warlock",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/198_Verdant Clique.png"
+			}
+		},
+		{
+			"name": "Dark Lord",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/97_Dark Lord.png"
+			}
+		},
+		{
+			"name": "Apocalypse Preacher",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/3_Apocalypse Preacher.png"
+			}
+		},
+		{
+			"name": "Hiker's Spirit",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/62_Hiker's Spirit.png"
+			}
+		},
+		{
+			"name": "A Dark and Stormy Night",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/96_A Dark and Stormy Night.png"
+			}
+		},
+		{
+			"name": "Backwoods",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/231_Backwoods.png"
+			}
+		},
+		{
+			"name": "Cityscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/235_Cityscape.png"
+			}
+		},
+		{
+			"name": "Cliffside",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/236_Cliffside.png"
+			}
+		},
+		{
+			"name": "Expanse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/238_Expanse.png"
+			}
+		},
+		{
+			"name": "Hollow",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/240_Hollow.png"
+			}
+		},
+		{
+			"name": "Peak",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/243_Peak.png"
+			}
+		},
+		{
+			"name": "Roadway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/247_Roadway.png"
+			}
+		},
+		{
+			"name": "Seaside",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/250_Seaside.png"
+			}
+		},
+		{
+			"name": "Skyline",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/252_Skyline.png"
+			}
+		},
+		{
+			"name": "Summit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/254_Summit.png"
+			}
+		},
+		{
+			"name": "All Nighter",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/83_All Nighter.png"
+			}
+		},
+		{
+			"name": "Castle of Alabaster",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/233_Castle of Alabaster.png"
+			}
+		},
+		{
+			"name": "Chaff Cutter",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Avatar Warrior",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/91_Chaff Cutter.png"
+			}
+		},
+		{
+			"name": "Reaper's Reward",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/116_Reaper's Reward.png"
+			}
+		},
+		{
+			"name": "Dreadful Visage",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/101_Dreadful Visage.png"
+			}
+		},
+		{
+			"name": "Creature of the Night",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror Citizen",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/94_Creature of the Night.png"
+			}
+		},
+		{
+			"name": "Pruning Lady",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Gorgon",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/114_Pruning Lady.png"
+			}
+		},
+		{
+			"name": "Eternal Soldier",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Specter Soldier",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/102_Eternal Soldier.png"
+			}
+		},
+		{
+			"name": "Faberge Egg",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact — Treasure",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/55_Faberge Egg.png"
+			}
+		},
+		{
+			"name": "Hundred-Eyed One",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/63_Hundred-Eyed One.png"
+			}
+		},
+		{
+			"name": "Mistress of Palagic Rites",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/67_Mistress of Palagic Rites.png"
+			}
+		},
+		{
+			"name": "Body of Light",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/42_Body of Light.png"
+			}
+		},
+		{
+			"name": "Mensis, Avatar of the Moon",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/66_Mensis, Avatar of the Moon.png"
+			}
+		},
+		{
+			"name": "Curious Crustacean",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crab Squid Mutant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/49_Curious Crustacean.png"
+			}
+		},
+		{
+			"name": "Wise Man",
+			"rarity": "special",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/80_Wise Man.png"
+			}
+		},
+		{
+			"name": "Counterspell",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/48_Counterspell.png"
+			}
+		},
+		{
+			"name": "Beat Back",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/5_Beat Back.png"
+			}
+		},
+		{
+			"name": "Thousand-Handed One",
+			"rarity": "special",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Creature — Elder Giant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/37_Thousand-Handed One.png"
+			}
+		},
+		{
+			"name": "Divine Command",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/11_Divine Command.png"
+			}
+		},
+		{
+			"name": "Devoted Sprite",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Faerie Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/8_Devoted Sprite.png"
+			}
+		},
+		{
+			"name": "Liber Resh",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/20_Liber Resh.png"
+			}
+		},
+		{
+			"name": "Jousting Champion",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/18_Jousting Champion.png"
+			}
+		},
+		{
+			"name": "Pale Horse",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Skeleton Horse",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/24_Pale Horse.png"
+			}
+		},
+		{
+			"name": "Thing of Beauty",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Angel Sculpture",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/35_Thing of Beauty.png"
+			}
+		},
+		{
+			"name": "Mind Blown",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/152_Mind Blown.png"
+			}
+		},
+		{
+			"name": "Animated Armory",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/122_Animated Armory.png"
+			}
+		},
+		{
+			"name": "Reap What You Sow",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/159_Reap What You Sow.png"
+			}
+		},
+		{
+			"name": "Strutter",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Avatar",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/161_Strutter.png"
+			}
+		},
+		{
+			"name": "Apocalyptic Petitioners",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/123_Apocalyptic Petitioners.png"
+			}
+		},
+		{
+			"name": "Avatar of Scourge",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Avatar",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/124_Avatar of Scourge.png"
+			}
+		},
+		{
+			"name": "Left Hand Deciever",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Devil Cleric",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/146_Left Hand Deciever.png"
+			}
+		},
+		{
+			"name": "Knightlight",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Knight",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/144_Knightlight.png"
+			}
+		},
+		{
+			"name": "Tilting at Windmills",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/193_Tilting at Windmills.png"
+			}
+		},
+		{
+			"name": "Mountainsplitter",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/180_Mountainsplitter.png"
+			}
+		},
+		{
+			"name": "Essentialize",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/169_Essentialize.png"
+			}
+		},
+		{
+			"name": "Samsara",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/184_Samsara.png"
+			}
+		},
+		{
+			"name": "Incense Soothsayer",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/176_Incense Soothsayer.png"
+			}
+		},
+		{
+			"name": "Strange Deer",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental Elk",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/190_Strange Deer.png"
+			}
+		},
+		{
+			"name": "Mindless Scarecrow",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/178_Mindless Scarecrow.png"
+			}
+		},
+		{
+			"name": "Skitterthing",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/188_Skitterthing.png"
+			}
+		},
+		{
+			"name": "Head Collector",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Knight",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/104_Head Collector.png"
+			}
+		},
+		{
+			"name": "Contrition By Fire",
+			"rarity": "special",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/137_Contrition By Fire.png"
+			}
+		},
+		{
+			"name": "Vanishing Ritual",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/78_Vanishing Ritual.png"
+			}
+		},
+		{
+			"name": "Neuroarcheology",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/181_Neuroarcheology.png"
+			}
+		},
+		{
+			"name": "Worldly Rider",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/201_Worldly Rider.png"
+			}
+		},
+		{
+			"name": "Preening Siren",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Siren",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/70_Preening Siren.png"
+			}
+		},
+		{
+			"name": "Memorial to Heroes Past",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/21_Memorial to Heroes Past.png"
+			}
+		},
+		{
+			"name": "Expore",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/171_Expore.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Catharsis
+	1 Forbidden Fancy
+	1 Waking Nightmare
+	1 Watching Warden
+	1 Chaotic Command
+	1 Big Dreamer
+	1 Opulent Queen
+	1 Rattle to the Bone
+	1 The Repentant King
+	1 Pale Rider
+	1 Charging Doom
+	1 The Demiurge
+	1 Lionize
+	1 Clown of Many Cards
+	1 Lady in Red
+	1 Dandy Fae
+	1 Lightning Bolt
+	1 Cast to the Wastes
+	1 Portent of Doom
+	1 Exploding Life
+	1 Un œuf
+	1 Towering Titan
+	1 Tree of Life
+	1 Searching the Streams
+	1 Acidic Egg
+	1 Summoning Stones
+	1 Hanswurst of Many Hands
+	1 Crafted Crafter
+	1 Great Old Turtle
+	1 Aristaeus
+	1 Mother Nature
+	1 Burst from the Crust
+	1 Click Into Place
+	1 Sent to Far Off Places
+	1 Mythologize
+	1 Shape of the Moon
+	1 Dreamcatcher
+	1 A Thousand Days' Sunrise
+	1 Pearly Gateway
+	1 Enter the Arena
+	1 Blade of the Beating Heart
+	1 Seraph of Sorrows
+	1 Bloody Bannerette
+	1 Angel of Incense
+	1 Burst Asunder
+	1 Turn to Salt
+	1 Figure of Aries
+	1 Sky High Angel
+	1 Brave the Rapids
+	1 Enantiomorphos
+	1 Commanding Stranger
+	1 Sifter of Thoughts Forgotten
+	1 Long-Lost Lovers
+	1 Sail To Distant Shores
+	1 Face to Face
+	1 Smear Over the Dreamscape
+	1 Performer of Many Parts
+	1 Dreamscape Artist
+	1 Palagic Nightmare
+	1 Figure of the Crescent Moon
+	1 Shape in the Depths
+	1 Godstone
+	1 Cavalier of Winter
+	1 Thirst for Glory
+	1 Ticking Time Piece
+	1 Far Sight
+	1 Blood Blossom Gardener
+	1 Torg, Titan of Time's Ravage
+	1 Multitudinous Masses
+	1 Emerge from the Water
+	1 Golden Ratio
+	1 Unravel
+	1 No Quarter
+	1 Shepherd of Sea and Sky
+	1 Sapiovore
+	1 Draw From the Earth
+	1 Stellar Egg
+	1 Skybridge Serpent
+	1 The Adversary
+	1 Beautiful Corpse
+	1 Cadaver Kerfuffle
+	1 Commanding Figure
+	1 Dance with Delusion
+	1 Doliente De Los Muertos
+	1 A Favor for a Favor
+	1 Id
+	1 Imago
+	1 Insider Info
+	1 Life or Death
+	1 Looming Doom
+	1 Manque
+	1 Mindbending Vista
+	1 Mindscaping
+	1 Queen of Hearts
+	1 Caller of Regretful Dead
+	1 Shrouded by Night
+	1 Traumatic Experience
+	1 Underworld Unleashed
+	1 Carved Elder
+	1 Cloud Nine
+	1 Cobbled Copy
+	1 Decorum Macabre
+	1 Divine Machine
+	1 The Ego
+	1 The Fiend
+	1 Flood of Visions
+	1 Hopeblossom
+	1 Clown Cronies
+	1 Megalophobia
+	1 Mysterious Benefactor
+	1 Seashore Shell Seller
+	1 Seven Thunder Scion
+	1 Skyfishing
+	1 Star-Crossed Lovers
+	1 Stream of Consciousness
+	1 Take a Hike
+	1 Tornado of Souls
+	1 Unleash the Beast
+	1 Knight of the Last Hope
+	1 Sunsewer
+	1 Arachnid Nighthawk
+	1 Consider
+	1 Propitiate
+	1 Divine Acclaim
+	1 Bauble Miser
+	1 Marvelous Mechanisms
+	1 Deep Dark Delver
+	1 Trinity Hierophant
+	1 Come Apart
+	1 Trashcaster Mage
+	1 Fascinating Vistas
+	1 Curse of Invasion
+	1 Vizier of Three Faces
+	1 Half Life
+	1 World Domination
+	1 Cicada Queen
+	1 Doomed Descent
+	1 Unnaturalize
+	1 Celestial Sinkhole
+	1 Burst from the Gates
+	1 Reborn from Ashes
+	1 Disfigured Figure
+	1 Death's Shadow
+	1 Lunge After
+	1 Maddened By the Revelation
+	1 Caustic Egg
+	1 Blood in the Water
+	1 La Bella Morte
+	1 Let the Rivers Run Red
+	1 Nebulize
+	1 Go Crazy
+	1 Cosmic Brain
+	1 Wild Encounters
+	1 Pull Under
+	1 New Age Messiah
+	1 Schooling
+	1 Lotus Sutra
+	1 Take a Walk on the Wild Side
+	1 Chromatic Curio
+	1 Head of the Household
+	1 Curious Egg
+	1 Far Off Land
+	1 Prismatic Vista
+	1 Sanctuary
+	1 Dust Bowl
+	1 Where The Dead Gods Lay
+	1 Bosk
+	1 Cistern
+	1 Horizon
+	1 Mine
+	1 Ravine
+	1 Reef
+	1 Ruins
+	1 Shanty
+	1 Stormfront
+	1 Wilderness
+	1 Puppet Ruler
+	1 Brass Knight
+	1 Worldwalker
+	1 Ghost Market
+	1 Doomsday Clock
+	1 Awaken Doom
+	1 Beast Beneath the Waves
+	1 Red Sea
+	1 Haunt of the Hanging Tree
+	1 Golden Ratio
+	1 Into the Void
+	1 Emerald Vim
+	1 Onyx Vim
+	1 Opal Vim
+	1 Ruby Vim
+	1 Sapphire Vim
+	1 Blighted Sky Whale
+	1 Verdant Clique
+	1 Dark Lord
+	1 Apocalypse Preacher
+	1 Hiker's Spirit
+	1 A Dark and Stormy Night
+	1 Backwoods
+	1 Cityscape
+	1 Cliffside
+	1 Expanse
+	1 Hollow
+	1 Peak
+	1 Roadway
+	1 Seaside
+	1 Skyline
+	1 Summit
+	1 All Nighter
+	1 Castle of Alabaster
+	1 Chaff Cutter
+	1 Reaper's Reward
+	1 Dreadful Visage
+	1 Creature of the Night
+	1 Pruning Lady
+	1 Eternal Soldier
+	1 Faberge Egg
+	1 Hundred-Eyed One
+	1 Mistress of Palagic Rites
+	1 Body of Light
+	1 Mensis, Avatar of the Moon
+	1 Curious Crustacean
+	1 Wise Man
+	1 Counterspell
+	1 Beat Back
+	1 Thousand-Handed One
+	1 Divine Command
+	1 Devoted Sprite
+	1 Liber Resh
+	1 Jousting Champion
+	1 Pale Horse
+	1 Thing of Beauty
+	1 Mind Blown
+	1 Animated Armory
+	1 Reap What You Sow
+	1 Strutter
+	1 Apocalyptic Petitioners
+	1 Avatar of Scourge
+	1 Left Hand Deciever
+	1 Knightlight
+	1 Tilting at Windmills
+	1 Mountainsplitter
+	1 Essentialize
+	1 Samsara
+	1 Incense Soothsayer
+	1 Strange Deer
+	1 Mindless Scarecrow
+	1 Skitterthing
+	1 Head Collector
+	1 Contrition By Fire
+	1 Vanishing Ritual
+	1 Neuroarcheology
+	1 Worldly Rider
+	1 Preening Siren
+	1 Memorial to Heroes Past
+	1 Expore
