@@ -1,4 +1,76 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Hitchhiker's Guide added.
+Great Desert added.
+Great Expanse added.
+Great Falls added.
+Great Flows added.
+Great Gap added.
+Great Gully added.
+Great Horizon added.
+Great Lake added.
+Great View added.
+Great Tree added.
+
+Hiker's Spirit removed.
+
+Godstone
+rules_text: When Godstone enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{1}, {T}, Sacrifice Godstone: Draw a card.
+{7}, {T}, Sacrifice Godstone: Draw seven cards. => When Godstone enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}, {T}, Sacrifice Godstone: Draw a card.
+{7}, {T}, Sacrifice Godstone: Draw seven cards.
+
+Ticking Time Piece
+rules_text: Whenever one or more cards leave your graveyard, untap Ticking Time Piece.
+{1}, {T}, Discard a card: Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost. => {2}, {T}: Target instant or sorcery card in your graveyard gains jump-start until end of turn. [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+
+Flood of Visions
+rules_text: Draw three cards, then discard two cards. Torment target player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Escape—{U}{B}, Exile five other nonland cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i] => Draw three cards, then discard two cards. Torment target player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Escape—{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Red Sea
+rules_text: Creatures you control get +X/+0, where X is the number of blood counters on Red Sea.
+Whenever you attack, you may sacrifice a creature. If you do, put a blood counter on Red Sea. => Creatures you control have haste and get +X/+0, where X is the number of blood counters on Red Sea.
+Whenever you attack, you may sacrifice an attacking creature. If you do, put a blood counter on Red Sea.
+
+Emerald Vim
+rules_text: {T}: Add {G}. Spend this mana only to cast spells with mana value 5 or greater.
+{T}, Discard a Forest card, sacrifice Emerald Vim: Draw a card. => {T}: Add {G}. Spend this mana only to cast spells with mana value 5 or greater.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Onyx Vim
+rules_text: {T}: Add {B}. Spend this mana only to cast spells with mana value 5 or greater.
+{T}, Discard a Swamp card, sacrifice Onyx Vim: Draw a card. => {T}: Add {B}. Spend this mana only to cast spells with mana value 5 or greater.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Opal Vim
+rules_text: {T}: Add {W}. Spend this mana only to cast spells with mana value 5 or greater.
+{T}, Discard a Plains card, sacrifice Opal Vim: Draw a card. => {T}: Add {W}. Spend this mana only to cast spells with mana value 5 or greater.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Ruby Vim
+rules_text: {T}: Add {R}. Spend this mana only to cast spells with mana value 5 or greater.
+{T}, Discard a Mountain card, sacrifice Ruby Vim: Draw a card. => {T}: Add {R}. Spend this mana only to cast spells with mana value 5 or greater.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Sapphire Vim
+rules_text: {T}: Add {U}. Spend this mana only to cast spells with mana value 5 or greater.
+{T}, Discard an Island card, sacrifice Sapphire Vim: Draw a card. => {T}: Add {U}. Spend this mana only to cast spells with mana value 5 or greater.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Dreadful Visage
+rules_text: As an additional cost to cast this spell, discard a card.
+Flying, trample
+When Dreadful Visage enters, each opponent discards two cards. => As an additional cost to cast this spell, discard a card.
+Flying, trample
+When Dreadful Visage dies, you draw a card and lose 1 life.
+pt: 5/5 => 5/3
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Lumbering Prophet added.
