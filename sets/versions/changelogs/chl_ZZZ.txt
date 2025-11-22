@@ -1,4 +1,115 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Dreamscape Artisan added.
+Divine Patterns added.
+Nemesis added.
+The Moon added.
+Convulsion of Nature added.
+
+Dreamscape Artist removed.
+Golden Ratio removed.
+Blighted Sky Whale removed.
+Mensis, Avatar of the Moon removed.
+Bioscape removed.
+
+Big Dreamer
+rules_text: Flying
+When Big Dreamer enters, create X Treasure tokens, where X is the number of creatures you control. => Flying
+When Big Dreamer enters, add X {R}, where X is the number of creatures you control.
+
+Lionize
+type: Enchantment => Enchantment — Aura
+rules_text: At the beginning of combat on your turn, put a non-Aura enchantment card from your hand onto the battlefield. It becomes a 5/5 Cat creature in addition to its other types and gains haste. Exile it at the beginning of the next end step.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Enchant creature
+Whenever enchanted creature attacks, put a non-Aura enchantment card from your hand onto the battlefield tapped and attacking. It becomes a 5/5 Cat creature in addition to its other types. Exile it at the beginning of the next end step.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Cast to the Wastes
+rules_text: Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+If this spell was kicked, it has cascade
+Exile target artifact or land. If a land was destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield, then shuffle. => Kicker {2}
+If this spell was kicked, it has cascade. [i](It cascades for mana value 1 or less)[/i]
+Exile target artifact or land. If a land was exiled this way, its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.
+
+Turn to Salt
+rules_text: Exile target artifact or enchantment with mana value 3 or less.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Exile target artifact or enchantment with mana value 2 or less.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Smear Over the Dreamscape
+rules_text: Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+If this spell was kicked, it has cascade.
+Counter up to one target spell unless its controller pays {2}. => Kicker {2}
+If this spell was kicked, it has cascade. [i](It cascades for mana value 1 or less)[/i]
+Counter up to one target spell unless its controller pays {2}.
+
+Torg, Titan of Time's Ravage
+rules_text: When Torg enters, sacrifice it unless it escaped.
+Whenever Torg enters the battlefield or attacks, mill three cards, then return a creature card to your hand from among the cards you put into your graveyard this way.
+Escape—{2}{G}{G}, Exile seven other cards from your graveyard. => When Torg enters, sacrifice it unless it escaped.
+Whenever Torg enters the battlefield or attacks, mill three cards, then return a creature card to your hand from among the cards you put into your graveyard this way.
+Escape—{2}{G}{G}, Exile seven other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Multitudinous Masses
+rules_text: When Multitudinous Masses enters, create a 1/1 white Cleric creature token with lifelink and a 1/1 white Warrior creature token with first strike.
+Creatures you control get +2/+1.
+Evoke {1}{W} => When Multitudinous Masses enters, create two 1/1 white Soldier creature tokens.
+Creatures you control get +2/+1.
+Evoke {1}{W}
+
+Looming Doom
+rules_text: When Looming Doom enters, torment each player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Whenever you wander, you may pay {B}. If you do, return Looming Doom from your graveyard to the battlefield tapped. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => When Looming Doom enters, you may pay 3 life. If you do, torment target player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Whenever you wander, you may pay {B}. If you do, return Looming Doom from your graveyard to the battlefield tapped. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Underworld Unleashed
+rules_text: Return target creature card from your graveyard to the battlefield.
+Suspend 4—{2}{B}
+When you suspend Underworld Unleashed, each creature gets -2/-2 until end of turn. => Return up to two target creature cards from your graveyard to the battlefield.
+Suspend 5—{2}{B}
+When you suspend Underworld Unleashed, each creature gets -2/-2 until end of turn.
+
+Doomed Descent
+rules_text: When Doomed Descent enters, target creature you control gets -13/-13 until end of turn. If that creature would die this turn, put it on the bottom of its owner's library instead.
+Whenever you wander, surveil 1. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => When Doomed Descent enters, target creature gets -13/-13 until end of turn. If that creature would die this turn, put it on the bottom of its owner's library instead.
+Whenever you wander, surveil 1. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Sapphire Vim
+cost: {1} => {0}
+
+Curious Crustacean
+rules_text: Whenever one or more cards leave your graveyard, you may surveil 2. Do this only once each turn.
+Whenever Curious Crustacean deals combat damage to a player, draw a card. => Curious Crustacean can't be blocked if a card left your graveyard this turn.
+Whenever Curious Crustacean deals combat damage to a player, draw a card.
+
+Devoted Sprite
+rules_text: Flying, lifelink
+Whenever you cast a spell with mana value 5 or greater, sacrifice it and create a 3/3 white Angel creature token with flying and vigilance. => Flying, lifelink
+Whenever you cast a spell with mana value 5 or greater, sacrifice Devoted Sprite and create a 3/3 white Angel creature token with flying and vigilance.
+
+Animated Armory
+rules_text: When Animated Armory enters, create a 1/1 white Spirit creature token with flying and attach Animated Armory to it.
+Equipped creature gets +3/+0 and has menace and “Ward—Pay 3 life.”
+Equip {3} => When Animated Armory enters, create a 1/1 white Spirit creature token with flying and attach Animated Armory to it.
+Equipped creature gets +3/+0 and has menace.
+Equip {3}
+
+Tilting at Windmills
+cost: {G} => {1}{G}
+rules_text: Until end of turn, target creature you control gets +2/+0 and must be blocked if able.
+Flashback {2}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Until end of turn, target creature you control gets +2/+2 and must be blocked if able.
+Flashback {2}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Contrition By Fire
+cost: {X}{R} => {4}{R}
+rules_text: Repeat the following process X times. Contrition By Fire deals 4 damage to target player unless they exile a card from their hand. Until the end of your next turn, you may play that card, and may spend mana of any type to cast those spells. => Repeat the following process three times. Contrition By Fire deals 4 damage to target player unless they exile a card from their hand. Until the end of your next turn, you may play that card, and may spend mana of any type to cast those spells.
+
+Preening Siren
+pt:  => 2/2
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Hitchhiker's Guide added.
