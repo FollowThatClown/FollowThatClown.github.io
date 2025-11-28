@@ -2864,9 +2864,9 @@
             "number": 140,
             "color_identity": "R",
             "cost": "{5}{R}{R}",
-            "rules_text": "First strike, menace, reach, trample\nWhen Cosmic Brain enters, it deals 5 damage to target player unless they have you draw five cards.",
+            "rules_text": "When Cosmic Brain enters, exile the top five cards of your library. An opponent chooses any number of them. You may play those cards until the end of your next turn. Cosmic Brain deals damage to that player equal to the total mana value of the cards not chosen this way.",
             "flavor_text": "[i][/i]",
-            "pt": "5/5",
+            "pt": "7/7",
             "special_text": "",
             "shape": "normal",
             "set": "ZZZ",
@@ -5137,5 +5137,5 @@
             "notes": ""
         }
     ],
-    "version": 9
+    "version": 10
 }
