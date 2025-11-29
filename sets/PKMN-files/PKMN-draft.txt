@@ -1,16 +1,6 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Love Ball",
-			"rarity": "special",
-			"mana_cost": "{R}",
-			"type": "Artifact — Poke Ball",
-			"collector_number": "77",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/77_Love Ball.png"
-			}
-		},
-		{
 			"name": "Drifblim",
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
@@ -418,11 +408,11 @@
 		{
 			"name": "Team Rocket Upstart",
 			"rarity": "special",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "65",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/65_Team Rocket Upstart.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/85_Team Rocket Upstart.png"
 			}
 		},
 		{
@@ -467,9 +457,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/64_Spirit Away.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/65_Spirit Away.png"
 			}
 		},
 		{
@@ -477,9 +467,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/62_Sludge Bomb.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/63_Sludge Bomb.png"
 			}
 		},
 		{
@@ -487,9 +477,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Scorpion",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/47_Drapion.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/48_Drapion.png"
 			}
 		},
 		{
@@ -507,9 +497,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/81_Power-Up Punch.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/80_Power-Up Punch.png"
 			}
 		},
 		{
@@ -557,9 +547,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/84_Scoop Up.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/83_Scoop Up.png"
 			}
 		},
 		{
@@ -614,9 +604,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/78_Magma Grunt.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/77_Magma Grunt.png"
 			}
 		},
 		{
@@ -624,9 +614,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Horse",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/80_Mudsdale.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/79_Mudsdale.png"
 			}
 		},
 		{
@@ -649,11 +639,11 @@
 		{
 			"name": "Spinda",
 			"rarity": "special",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Bear",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/85_Spinda.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/84_Spinda.png"
 			}
 		},
 		{
@@ -711,9 +701,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/92_Double Team.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/91_Double Team.png"
 			}
 		},
 		{
@@ -854,13 +844,13 @@
 			}
 		},
 		{
-			"name": "Decorate",
+			"name": "Flower Gift",
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Instant",
-			"collector_number": "91",
+			"type": "Enchantment — Aura",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/91_Decorate.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/93_Flower Gift.png"
 			}
 		},
 		{
@@ -868,9 +858,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/93_Exeggutor.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/92_Exeggutor.png"
 			}
 		},
 		{
@@ -1185,9 +1175,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/63_Snatch.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/64_Snatch.png"
 			}
 		},
 		{
@@ -1205,9 +1195,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/82_Pyroar.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/81_Pyroar.png"
 			}
 		},
 		{
@@ -1291,16 +1281,6 @@
 			}
 		},
 		{
-			"name": "Enter the Mirror World",
-			"rarity": "special",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/48_Enter the Mirror World.png"
-			}
-		},
-		{
 			"name": "Celebi",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
@@ -1325,9 +1305,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/79_Make it Rain.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/78_Make it Rain.png"
 			}
 		},
 		{
@@ -1335,9 +1315,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/83_Red, Pokemon Champion.png"
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/82_Red, Pokemon Champion.png"
 			}
 		},
 		{
@@ -1427,7 +1407,7 @@
 		{
 			"name": "Rare Candy",
 			"rarity": "special",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Artifact",
 			"collector_number": "38",
 			"image_uris": {
@@ -1510,11 +1490,30 @@
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/121_Badge Collection.png"
 			}
+		},
+		{
+			"name": "Skull Grunt",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/62_Skull Grunt.png"
+			}
+		},
+		{
+			"name": "Dragalge",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/47_Dragalge.png"
+			}
 		}
 	]
 
 [cube(15)]
-	1 Love Ball
 	1 Drifblim
 	1 Golurk
 	1 Protect the Clutch
@@ -1593,7 +1592,7 @@
 	1 Zangoose
 	1 Gogoat
 	1 Picnicker
-	1 Decorate
+	1 Flower Gift
 	1 Exeggutor
 	1 Journey Across the Region
 	1 Safari Ball
@@ -1630,7 +1629,6 @@
 	1 Pyroar
 	1 Disarming Voice
 	1 Flamigo
-	1 Enter the Mirror World
 	1 Celebi
 	1 Tropius
 	1 Make it Rain
@@ -1649,3 +1647,5 @@
 	1 Choice Scarf
 	1 PokeDex
 	1 Badge Collection
+	1 Skull Grunt
+	1 Dragalge

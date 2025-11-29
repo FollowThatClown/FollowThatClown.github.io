@@ -1,4 +1,251 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Flower Gift added.
+Skull Grunt added.
+Dragalge added.
+
+Love Ball removed.
+Decorate removed.
+Enter the Mirror World removed.
+
+Golurk
+rules_text: [b]Vigilance[/b]
+[b][i]Haunted[/i][/b] — Whenever Golurk attacks, if the number of Spirits you control plus the number of creature cards in your graveyard is seven or greater, target creature you control gains [b]indestructible[/b] until end of turn. => [b]Vigilance[/b]
+[b][i]Haunted[/i][/b] — Whenever Golurk attacks, if the number of Spirits you control plus the number of creature cards in your graveyard is six or greater, target creature you control gains [b]indestructible[/b] until end of turn.
+
+Shielded by the Supernatural
+rules_text: Target creature gets +2/+2 until end of turn. 
+[i][b]Haunted[/b][/i] — If the number of Spirits you control plus the number of creature cards in your graveyard is seven or greater, that creature gains [b]hexproof [/b]and [b]indestructible [/b]until end of turn. => Target creature gets +2/+2 until end of turn. 
+[i][b]Haunted[/b][/i] — If the number of Spirits you control plus the number of creature cards in your graveyard is six or greater, that creature gains [b]hexproof [/b]and [b]indestructible [/b]until end of turn.
+
+Palossand
+rules_text: [b]Defender[/b]
+[i][b]Haunted[/b][/i] — {3}{W}: Until end of turn, Palossand assigns combat damage equal to its toughness rather than its power and can attack as though it didn't have defender. Activate this ability only if the number of Spirits you control plus the number of creature cards in your graveyard is seven or greater. => [b]Defender[/b]
+[i][b]Haunted[/b][/i] — {3}{W}: Until end of turn, Palossand assigns combat damage equal to its toughness rather than its power and can attack as though it didn't have defender. Activate this ability only if the number of Spirits you control plus the number of creature cards in your graveyard is six or greater.
+
+Aurorus
+
+Pidgey
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[b]Flying[/b]
+I, II, III — You gain 1 life.
+IV — What!? Pidgey is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Pidgey is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+[b]Flying[/b]
+I — Surveil 1.
+II, III, IV — You gain 1 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[b]Flying[/b]
+I, II, III — You gain 1 life.
+IV — What!? Pidgey is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Pidgey is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+[b]Flying[/b]
+I — Surveil 1.
+II, III, IV — You gain 1 life.
+
+Squirtle
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Surveil 1.
+IV — What!? Squirtle is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Squirtle is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Draw two cards, then discard a card.
+II, III, IV — Surveil 1.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Surveil 1.
+IV — What!? Squirtle is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Squirtle is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Draw two cards, then discard a card.
+II, III, IV — Surveil 1.
+
+Sailor
+rules_text: [b]Vigilance
+[/b]The first creature spell you cast from exile each turn costs {U} [i](or {1})[/i] less to cast. => [b]Vigilance
+{T}[/b]: Add {U}. Spend this mana only to cast spells from exile.
+
+Vanillite
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Tap up to one target creature. Put two stun counters on it.
+II, III — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+IV — What!? Vanillite is evolving! [i](Exile this. You may cast it transformed later.)[/i] => [b]What!? Vanillite is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Tap up to one target creature. Put two stun counters on it.
+II, III, IV — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Tap up to one target creature. Put two stun counters on it.
+II, III — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+IV — What!? Vanillite is evolving! [i](Exile this. You may cast it transformed later.)[/i] => [b]What!? Vanillite is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Tap up to one target creature. Put two stun counters on it.
+II, III, IV — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+
+Abandon
+rules_text: [i][b]Trickster[/b][/i] — This spell costs {2} less to cast it's an opponent's turn and you've cast a spell this turn.
+The owner of target creature puts it on their choice of the top or bottom of their library. => [i][b]Trickster[/b][/i] — This spell costs {2} less to cast it's an opponent's turn and you've cast another spell this turn.
+The owner of target creature puts it on their choice of the top or bottom of their library.
+
+Hex Maniac
+rules_text: [i][b]Haunted [/b][/i]— When Hex Maniac enters, surveil 1. If the number of Spirits you control plus the number of creature cards in your graveyard is seven or greater, instead you lose 1 life and draw a card. => [i][b]Haunted [/b][/i]— When Hex Maniac enters, surveil 1. If the number of Spirits you control plus the number of creature cards in your graveyard is six or greater, instead you lose 1 life and draw a card.
+
+Gastly
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+[b]Flying[/b]
+I — Each player sacrifices a creature.
+II, III — Each player loses 1 life.
+IV — What!? Gastly is evolving! [i](Exile this. You may cast it transformed later.)[/i] => [b]What!? Ghastly is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+[b]Flying[/b]
+I — Target player discards a card.
+II, III, IV — Each player loses 1 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+[b]Flying[/b]
+I — Each player sacrifices a creature.
+II, III — Each player loses 1 life.
+IV — What!? Gastly is evolving! [i](Exile this. You may cast it transformed later.)[/i] => [b]What!? Ghastly is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+[b]Flying[/b]
+I — Target player discards a card.
+II, III, IV — Each player loses 1 life.
+
+Channeler
+rules_text: [b]Lifelink[/b]
+[i][b]Haunted[/b][/i] — When Channeler dies, if number of Spirits you control plus the number of creature cards in your graveyard is seven or greater, return target non-Human creature card from your graveyard to your hand. [i](This ability counts Channeler as a card in your graveyard.)[/i] => [b]Lifelink[/b]
+[i][b]Haunted[/b][/i] — When Channeler dies, if number of Spirits you control plus the number of creature cards in your graveyard is six or greater, return target non-Human creature card from your graveyard to your hand. [i](This ability counts Channeler as a card in your graveyard.)[/i]
+
+Litwick
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Each player mills two cards.
+II, III — Exile up to one target card from a graveyard.
+IV — What!? Litwick is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Litwick is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Each player mills two cards.
+II, III, IV — Until end of turn, whenever one or more creatures you control deal combat damage to a player, exile target card from their graveyard
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Each player mills two cards.
+II, III — Exile up to one target card from a graveyard.
+IV — What!? Litwick is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Litwick is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Each player mills two cards.
+II, III, IV — Until end of turn, whenever one or more creatures you control deal combat damage to a player, exile target card from their graveyard
+
+Team Rocket Upstart
+cost: {1}{B} => {1}{R}
+rules_text: [b]Flash[/b]
+Whenever you commit a crime, Team Rocket Upstart gets +2/+0 until end of turn. This ability triggers only once each turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => Whenever you commit a crime, Team Rocket Upstart gains [b]menace[/b] until end of turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+pt: 1/3 => 3/1
+
+Drapion
+rules_text: [b]Deathtouch[/b]
+[b]Ward—Pay 3 life[/b].
+Whenever Drapion attacks, if it's modified, target opponent loses 3 life and you gain 3 life. => [b]Deathtouch[/b]
+[b]Ward—Pay 3 life[/b].
+Whenever Drapion attacks, if it's modified, target opponent loses 2 life and you gain 2 life.
+pt: 3/6 => 4/6
+
+Ghoulish Discovery
+rules_text: You draw three cards and lose 3 life.
+[i][b]Haunted [/b][/i]— Then discard a card unless the number of Spirits you control plus the number of creature cards in your graveyard is seven or greater. => You draw three cards and lose 3 life.
+[i][b]Haunted [/b][/i]— Then discard a card unless the number of Spirits you control plus the number of creature cards in your graveyard is six or greater.
+
+Elekid
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I, II, III — Add {R}. You can't spend this mana to cast creature spells.
+IV — What!? Elekid is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Elekid is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I, II, III — Add {R}. You can't spend this mana to cast creature spells.
+IV — Elekid deals 2 damage to target player.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I, II, III — Add {R}. You can't spend this mana to cast creature spells.
+IV — What!? Elekid is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Elekid is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I, II, III — Add {R}. You can't spend this mana to cast creature spells.
+IV — Elekid deals 2 damage to target player.
+
+Charmander
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Charmander deals 2 damage to target player.
+II, III — You may discard a nonland card. If you do, draw a card.
+IV — What!? Charmander is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Charmander is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Charmander deals 2 damage to target player.
+II, III, IV — You may discard a nonland card. If you do, draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Charmander deals 2 damage to target player.
+II, III — You may discard a nonland card. If you do, draw a card.
+IV — What!? Charmander is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Charmander is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Charmander deals 2 damage to target player.
+II, III, IV — You may discard a nonland card. If you do, draw a card.
+
+Spinda
+cost: {1}{R} => {2}{R}
+pt: 2/3 => 3/4
+
+Bulbasaur
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Put a +1/+1 counter on up to one other target creature you control.
+II, III — Add {G}.
+IV — What!? Bulbasaur is evolving! [i](Exile this. You may cast it transformed later.)[/i] => [b]What!? Bulbasaur is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Put a +1/+1 counter on target creature you control.
+II, III, IV — Add {G}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Put a +1/+1 counter on up to one other target creature you control.
+II, III — Add {G}.
+IV — What!? Bulbasaur is evolving! [i](Exile this. You may cast it transformed later.)[/i] => [b]What!? Bulbasaur is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Put a +1/+1 counter on target creature you control.
+II, III, IV — Add {G}.
+
+Tangrowth
+rules_text: [i]Regenerator[/i] — When Tangrowth enters, choose one —
+• You gain 3 life.
+• Create a 1/1 green Plant creature token. => When Tangrowth enters, choose one —
+• You gain 3 life.
+• Create a 1/1 green Plant creature token.
+• Put a +1/+1 counter on Tangrowth.
+
+Safari Ball
+rules_text: When Safari Ball enters, create a 2/2 green Beast creature token.
+{2}, {T}, Sacrifice Safari Ball: Reveal the top five cards of your library and put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order. => When Safari Ball enters, create a 2/2 green Beast creature token.
+{2}, {T}, Sacrifice Safari Ball: Reveal the top six cards of your library and put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.
+
+Klefki
+rules_text: [b]Flash[/b]
+[b]Flying[/b]
+[i]Prankster[/i] — Whenever an enchantment you control enters, you draw a card and Klefki deals 1 damage to target opponent. => [b]Flash[/b]
+[b]Flying[/b]
+[i]Prankster[/i] — Whenever an enchantment you control enters, Klefki deals 1 damage to target opponent. If that enchantment is an Aura, draw a card.
+
+Zubat
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+[b]Flying[/b]
+I, II, III — You may pay 1 life. If you do, create a 1/1 black Bat creature token with flying.
+IV — What!? Zubat is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [b]What!? Zubat is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+[b]Flying[/b]
+I, II, III, IV — You may pay 1 life. If you do, create a 1/1 black Bat creature token with [b]flying.[/b]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+[b]Flying[/b]
+I, II, III — You may pay 1 life. If you do, create a 1/1 black Bat creature token with flying.
+IV — What!? Zubat is evolving! [i](Exile this. You may cast it later transformed.)[/i] => [b]What!? Zubat is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+[b]Flying[/b]
+I, II, III, IV — You may pay 1 life. If you do, create a 1/1 black Bat creature token with [b]flying.[/b]
+
+Popplio
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Put a +1/+1 counter on up to one other target creature you control.
+IV — What!? Popplio is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Popplio is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Draw two cards, then discard a card.
+II, III, IV — Put a +1/+1 counter on up to one other target creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Exile at IV.)[/i]
+I — Draw two cards, then discard a card.
+II, III — Put a +1/+1 counter on up to one other target creature you control.
+IV — What!? Popplio is evolving! [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i] => [b]What!? Popplio is evolving![/b] [i](As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)[/i]
+I — Draw two cards, then discard a card.
+II, III, IV — Put a +1/+1 counter on up to one other target creature you control.
+
+Rare Candy
+cost: {U} => {1}{U}
+rules_text: When Rare Candy enters, put a +1/+1 counter on up to one target creature you control.
+{T}: Add {U}. Spend this mana only to cast spells from exile. => When Rare Candy enters, thrive. [i](Give any number of permanents you control another counter they already have.)[/i]
+{T}: Add {C}.
+{T}: Add {U}{U}. Spend this mana only to cast spells from exile.
+
+Badge Collection
+rules_text: {T}: Add {C}.
+{2}, {T}: Add two mana in any combination of colors. => {T}: Add {C}.
+{2}, {T}: Add two mana in any combination of colors.
+A deck can have up to eight cards named Badge Collection.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Spirit Away added.
