@@ -1,4 +1,42 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Political Advantage added.
+Sultan's Stork added.
+Sovereign of the Veil added.
+Raining Spawn added.
+Dark Ritual added.
+Sovereign of Nightmares added.
+Skullclasp added.
+Science Marches On added.
+Rider in Wild Woods added.
+Statue of Civilizations Past added.
+Attack Of The Fifty Foot Thing added.
+Sea Burial Place added.
+Shadow Puppet Show added.
+Living Room added.
+Silver Spirit Guide added.
+Silver Frog added.
+Errand Buoy added.
+Boiled Crab added.
+Twisted Tea Party added.
+Color Explosion added.
+
+
+Acidic Egg
+
+Seashore Shell Seller
+rules_text: Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+Whenever one or more cards leave your graveyard, draw a card and put a +1/+1 counter on Seashore Shell Seller. => Ward {3}
+Whenever one or more cards leave your graveyard, draw a card and put a +1/+1 counter on Seashore Shell Seller.
+
+Essentialize
+rules_text: Enchant noncreature permanent
+Enchanted permanent is a land with “{1}, {T}: Add one mana of any color.” [i](It loses all other abilities.)[/i] => Enchant noncreature permanent
+Enchanted permanent is a land with “{1}, {T}: Add one mana of any color.” [i](It loses all other types and abilities.)[/i]
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
