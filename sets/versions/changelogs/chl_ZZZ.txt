@@ -1,4 +1,29 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Go for a Walk added.
+
+Fascinating Vistas removed.
+
+Deep Dark Delver
+rules_text: Deep Dark Delver gets +2/+0 for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Vigilance
+Deep Dark Delver gets +2/+0 for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 0/4 => 0/3
+
+Divine Patterns
+rules_text: Creatures you control get +X/+X, where X is one plus the number of sequence counters on Divine Patterns.
+At the beginning of your end step, put a sequence counter on Golden Ratio, then if the number of sequence counters on it is prime, draw a card. [i](2, 3, 5, 7, 11, 13, 17, and a few others are prime.)[/i] => Creatures you control get +1/+1.
+Whenever you attack with two or more creatures, put a sequence counter on Divine Patterns, then if the number of sequence counters on it is prime, draw a card. [i](2, 3, 5, 7, 11, 13, 17, and a few others are prime.)[/i]
+
+Devoted Sprite
+
+Sultan's Stork
+rules_text: Flying
+When Sultan's Stork enters, search your library for a card with mana value 1, reveal it, put it into your hand, then shuffle. => Flying
+When Sultan's Stork enters, search your library for a card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Political Advantage added.
