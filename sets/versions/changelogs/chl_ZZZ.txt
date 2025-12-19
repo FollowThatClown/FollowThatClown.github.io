@@ -1,4 +1,84 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Card Castle added.
+The Time of Monsters added.
+God's Hand added.
+Storge added.
+Angel of the Long Road added.
+Cats on Cats on Cats added.
+Blood Bloom added.
+Gilded Lilycorn added.
+Thanatos added.
+Fluffle Kerfuffle added.
+Shepherd of the Flock added.
+Shining Swan added.
+
+Thousand-Handed One removed.
+Attack Of The Fifty Foot Thing removed.
+
+Seraph of Sorrows
+rules_text: Flying, vigilance, lifelink
+Whenever Seraph of Sorrows enters or you cast another spell with mana value 5 or greater, return target nonland permanent card with mana value 4 or less from your graveyard to your hand.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flying, vigilance, lifelink
+Whenever Seraph of Sorrows enters or you cast another spell with mana value 5 or greater, return target permanent card with mana value 3 or less from your graveyard to your hand.
+Evoke {1}{W}
+
+Angel of Incense
+rules_text: Flying, vigilance
+Once during each of your turns, you may play a nonland permanent card with mana value 2 or less from your graveyard. Creatures you play this way enter with a finality counter. => Flying
+Once during each of your turns, you may play a nonland permanent card with mana value 2 or less from your graveyard. Creatures you play this way enter with a finality counter.
+
+Sky High Angel
+rules_text: Flying, vigilance
+When Sky High Angel enters, exile up to one target permanent. If {W}{U}{B}{R}{G} was spent to cast this spell, you draw two cards and gain 2 life. Otherwise, that permanent's controller draws two cards and gains 2 life. => Flying, vigilance
+When Sky High Angel enters, exile up to one target permanent. If {W}{U}{B}{R}{G} was spent to cast this spell, draw a card. Otherwise, that permanent's controller draws a card.
+
+Sail To Distant Shores
+rules_text: This spell costs {2} less to cast for each time you've wandered this turn [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i] => This spell costs {2} less to cast for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]
+
+Multitudinous Masses
+rules_text: When Multitudinous Masses enters, create two 1/1 white Soldier creature tokens.
+Creatures you control get +2/+1.
+Evoke {1}{W} => When Multitudinous Masses enters, create two 1/1 white Soldier creature tokens with flying.
+Creatures you control get +2/+1.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Dreadful Visage
+
+Devoted Sprite
+
+Animated Armory
+
+Reap What You Sow
+
+Incense Soothsayer
+
+Skitterthing
+rules_text: Trample, vigilance
+Resurrect—{2}{G}{G}, Discard a card. [i](You may cast this from your graveyard. If you do, it enters with a finality counter.)[/i] => Trample
+Resurrect—{1}{G}{G}, Discard a card. [i](You may cast this from your graveyard. If you do, it enters with a finality counter.)[/i]
+
+Vanishing Ritual
+rules_text: This spell costs {3} less to cast if it targets a permanent you control.
+Choose two target nonland permanents. For each of those permanents, its owner puts it on their choice of the top or bottom of their library. => This spell costs {3} less to cast if it targets a permanent you control.
+Choose two target nonland permanents. For each of those permanents, its owner puts it on their choice of the top or bottom of their library. [i](In any order.)[/i]
+
+Worldly Rider
+
+Silver Spirit Guide
+rules_text: Ward {C}{C}
+Nonbasic lands lose all land types and abilities, and gain “{T}: Add {C}.”
+Exile Silver Spirit Guide from your hand: Add {C}. Activate only during your turn. => Ward {C}{C}{C}
+Nonbasic lands lose all land types and abilities, and gain “{T}: Add {C}.”
+Exile Silver Spirit Guide from your hand: Add {C}. Activate only during your turn.
+
+Twisted Tea Party
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Go for a Walk added.
