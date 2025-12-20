@@ -1103,7 +1103,7 @@
 		{
 			"name": "Seven Thunder Scion",
 			"rarity": "special",
-			"mana_cost": "{1}{R}{R}{W}{W}",
+			"mana_cost": "{R}{R}{W}{W}",
 			"type": "Creature — Avatar Soldier",
 			"collector_number": "238",
 			"image_uris": {
@@ -1333,7 +1333,7 @@
 		{
 			"name": "World Domination",
 			"rarity": "special",
-			"mana_cost": "{4}{U}{U}{U}{U}",
+			"mana_cost": "{6}{U}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
@@ -2233,7 +2233,7 @@
 		{
 			"name": "Card Castle",
 			"rarity": "special",
-			"mana_cost": "{5}{W}{W}{W}",
+			"mana_cost": "{4}{W}{W}{W}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "12",
 			"image_uris": {
@@ -2998,6 +2998,36 @@
 			"collector_number": "248",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/248_Shining Swan.png"
+			}
+		},
+		{
+			"name": "Eat Me",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/3_Eat Me.png"
+			}
+		},
+		{
+			"name": "Drink Me",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/2_Drink Me.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ZZZ-files/img/1_Illusion.png"
 			}
 		}
 	]

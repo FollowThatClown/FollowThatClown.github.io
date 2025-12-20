@@ -1,4 +1,37 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Eat Me added.
+Drink Me added.
+Illusion added.
+
+
+Palagic Nightmare
+rules_text: Delve
+Once during each turn, you may play an instant or sorcery card exiled by Palagic Nightmare.
+{2}{U}, Exile Palagic Nightmare: Shuffle your hand and graveyard into your library, then draw seven cards. Activate only if there are no instant or sorcery cards exiled by Palagic Nightmare. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Once during each turn, you may play an instant or sorcery card exiled by Palagic Nightmare.
+{1}{U}, Exile Palagic Nightmare: Shuffle your hand and graveyard into your library, then draw seven cards. Activate only if there are no instant or sorcery cards exiled by Palagic Nightmare.
+
+Seven Thunder Scion
+cost: {1}{R}{R}{W}{W} => {R}{R}{W}{W}
+rules_text: Haste, vigilance
+Whenever another nontoken creature you control enters, create a token that's a copy of it, except it has base power and toughness 1/1. Sacrifice the token at the beginning of the next end step.
+Other creatures you control have haste. => Whenever another nontoken creature you control enters, create a token that's a copy of it, except it has base power and toughness 1/1. Sacrifice the token at the beginning of the next end step.
+Other creatures you control have haste.
+pt: 4/4 => 3/4
+
+World Domination
+cost: {4}{U}{U}{U}{U} => {6}{U}{U}{U}
+
+Beast Beneath the Waves
+
+Card Castle
+cost: {5}{W}{W}{W} => {4}{W}{W}{W}
+pt: 7/7 => 7/6
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Card Castle added.
