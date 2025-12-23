@@ -1,4 +1,345 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Vigilantism added.
+Gabriel, Apostate of Hate added.
+Mountain Climbing added.
+Bill and Ted added.
+The Fall Of Krypton added.
+The Great Wall of China added.
+Heart Locket added.
+HolyAngemon, Battle Mode added.
+Ishmael, Shield of Zwei West added.
+The Millennium Puzzle added.
+Null, Twelfth Visitor added.
+Princess Zelda added.
+Shatter the Diamond added.
+Ada Wong, Elusive Spy added.
+Astrobot added.
+Curiouser and Curiouser! added.
+Fujiko Mine added.
+Mecha Dragon, Madman's Creation added.
+Puia added.
+Seto Kaiba added.
+Shikamaru, Master Strategist added.
+Skull Kid added.
+Vsauce, Michael Here added.
+REDACTED, Trivia Host added.
+Alice Lidell added.
+Anonymous Vendetta added.
+Death added.
+Fuelweaver's Influence added.
+Hank J. Wimbleton added.
+The Lament Configuration added.
+Lord Macbeth added.
+Mental Upload added.
+The Pyramids of Giza added.
+Candyman, Jaw Breaker added.
+Choose Your Destiny added.
+Christine added.
+Cowboy Curtis added.
+Kung Fu Man added.
+Leigh, the Grinning Beast added.
+One Point Two Billion Communists added.
+Use a Gun added.
+Vorpal Blade added.
+Zero Two added.
+Desolation of Empire added.
+John Rambo #2 added.
+John Rambo added.
+Kabuto, Orochimaru's Protege added.
+Look Outside added.
+Moonscorch added.
+Mountain Climbing added.
+The Rock added.
+Russian Sleep Experiment added.
+Settling Upon Catan added.
+Shovel Knight added.
+Combat Medicine added.
+Crossover Combination added.
+Fortuitous Rescue added.
+How it Feels to Play Spy added.
+Knife Gang added.
+Lightspeed Tag-Team added.
+Mach Speed added.
+Scout added.
+Sinister Schemers added.
+You Can't Kill Me! added.
+Metal Gear EXCELSUS added.
+The Omnitrix added.
+Respawn Machine added.
+Robocop added.
+Apocrypha added.
+Castlevania, Dracula's Castle added.
+The Gates of Heaven added.
+Where The Forest Would Grow added.
+The Machine added.
+
+Vigilante Justice removed.
+Bill S Preston removed.
+
+Master Belch
+cost: {6}{B} => {5}{B}{B}
+
+Predator Elite
+pt: 3/5 => 3/6
+
+Starman Jr.
+cost: {4}{W} => {3}{W}{W}
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+II, III — Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+II, III — Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Target creature you control connives 2.
+II — Return up to two target creature cards from your graveyard to your hand.
+III — Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way.
+
+The T-850 Terminator
+cost: {4}{B} => {3}{B}{B}
+
+Tim's Unmasking
+rules_text: Choose one —
+• Look at target player's hand. Choose a nonland, noncreature card from among them. That player discards that card.
+• Cloak the top card of your library. [i](To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)[/i] => Choose one or both —
+• Target player reveals their hand. You may choose a nonland, noncreature card from among them. That player discards that card.
+• Cloak a card from your hand. [i](To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+Mel, the Last Human
+rules_text: Haste
+As long as Mel was turned face-up this turn, she can't be blocked except by creatures with haste.
+Whenever Mel deals combat damage to a player, cloak the top card of target opponent's library. For as long as it remains face down, you may spend mana of any type to turn the cloaked cards face up.
+Disguise {4}{R} => Haste
+As long as Mel was turned face-up this turn, she can't be blocked except by creatures with haste.
+Whenever Mel deals combat damage to a player, cloak the top card of target opponent's library. For as long as it remains face down, you may spend mana of any type to turn it face up.
+Disguise {4}{R}
+pt: 3/3 => 3/4
+
+Catwoman, Selina Kyle
+cost: {3}{B} => {2}{B}{B}
+rules_text: At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it. At the beginning of the next end step, if that card remains exiled, create a 1/1 black Cat creature token with lifelink. => First strike
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it. At the beginning of the next end step, if that card remains exiled, create a 1/1 black Cat creature token with lifelink.
+
+Needles Kane
+rules_text: {4}{R}: Create Sweet Tooth, a legendary 5/5 Vehicle artifact token with crew 5 and “Whenever this creature attacks, target opponent sacrifices three permanents unless they have you draw three cards.” Activate only once. => Exhaust — {4}{R}: Put a +1/+1 counter on Needles Kane. Create Sweet Tooth, a legendary 5/5 Vehicle artifact token with crew 5 and “Whenever this creature attacks, target opponent sacrifices three permanents unless they have you draw three cards.” [i](Activate each exhaust ability only once.)[/i]
+
+Ghast
+rules_text: Flying
+[i]Fireball Tennis[/i] — When Ghast enters, choose target player. Ghast deals 3 damage to them or target creature they control unless that player discards a card. When they discard a card this way, they copy this ability, except the copy deals 1 more damage. They may choose new targets for the copy. => Flying
+[i]Fireball Tennis[/i] — When Ghast enters, choose target player. Ghast deals 3 damage to them or to target creature they control unless that player discards a card. When they discard a card this way, they copy this ability, except the copy deals 1 more damage. They may choose new targets for the copy.
+
+Gordon Freeman
+rules_text: Ward—Pay 3 life
+[i]Right Man, Wrong Place[/i] — Whenever Gordon Freeman becomes the target of a spell or ability you control, as you cast your next spell from your hand this turn, it gains cascade. This ability triggers only once each turn. => First strike
+Ward—Pay 3 life.
+[i]Right Man, Wrong Place[/i] — Whenever Gordon Freeman becomes the target of a spell or ability you control, as you cast your next spell from your hand this turn, it gains cascade. This ability triggers only once each turn.
+pt: 3/3 => 4/3
+
+George Washington
+rules_text: [i]Lands of the Free[/i] — When George Washington enters, search your library for up to two basic land cards. Put one of them onto the battlefield tapped under an opponent's control and the other onto the battlefield tapped under your control.
+[i]Declare Independence[/i] — {6}: Gain control of each land you own but don't control. Untap them. => [i]Lands of the Free[/i] — When George Washington enters, search your library for two basic land cards. Put one of them onto the battlefield tapped under an opponent's control and the other onto the battlefield tapped under your control.
+[i]Declare Independence[/i] — {6}: Gain control of each land you own but don't control. Untap them.
+
+Off the Hook
+cost: {3}{W} => {2}{W}{W}
+
+Doppio, Boss' Concierge
+rules_text: [i]You Got It, Boss![/i] — Whenever you commit a crime, you may have another target creature you control gets +2/+0 until end of turn. Do this only once each turn.
+Disguise {1}{R}
+When Doppio is turned face up, look at the top card of target opponent's library. => [i]Boss's Orders[/i] — Whenever you commit a crime, you may have another target creature you control get +2/+0 until end of turn. Do this only once each turn.
+Disguise {1}{R}
+When Doppio is turned face up, look at the top card of target opponent's library.
+
+William Afton
+
+The Delorean
+rules_text: Ward {88} [i](That's eighty eight.)[/i]
+When The Delorean enters, scry 3, then exile the top three cards of your library. For each nonland card among them, put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend. 
+Whenever The Delorean attacks, time travel.
+Crew 3 => Ward {88} [i](That's eighty eight.)[/i]
+When The Delorean enters, surveil 3, then exile the top three cards of your library. For each nonland card among them, put a number of time counters on it equal to its mana value. If it doesn't have suspend, it gains suspend. 
+Whenever The Delorean attacks, time travel.
+Crew 3
+
+Jesus Christ
+pt: 4/3 => 3/4
+
+Darth Vader
+rules_text: First strike, menace
+Ward—Sacrifice a legendary creature.
+Whenever you cast a noncreature spell, you may pay 1 life. If you do, draw a card. => First strike, menace
+Ward—Sacrifice a legendary creature.
+[i]Force Choke[/i] — Whenever you cast a noncreature spell, target player loses 3 life unless they sacrifice a nonland permanent or discard a card.
+pt: 6/4 => 6/6
+
+Doc Brown
+pt: 3/2 => 3/3
+
+The Spy
+rules_text: [i]Dead Ringer[/i] — When The Spy dies, exile him and the top two cards of your library in a face-down pile, shuffle that pile, then cloak those cards. They enter tapped.
+Disguise—{2}{U}, Exile five cards from your graveyard. => [i]Dead Ringer[/i] — When The Spy dies, exile him and the top two cards of your library in a face-down pile, shuffle that pile, then cloak those cards. They enter tapped.
+Disguise—{2}{U}, Exile five cards from your graveyard. [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+
+Jack, the Pumpkin King
+rules_text: Menace
+[i]Kidnap the Sandy Claws[/i] — Whenever Jack attacks, if you've committed a crime this turn, you take the lead. [i](It's the monarch.)[/i] => [i]Terrify[/i] — Ward abilities of permanents your opponents control don't trigger.
+[i]Kidnap the Sandy Claws[/i] — Whenever Jack attacks, if you've committed a crime this turn, you take the lead. [i](It's the monarch.)[/i]
+pt: 3/2 => 3/4
+
+Andi, Unlikely Smuggler
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+[i]Rescue the Princess[/i] — {3}{U}: Put a +1/+1 counter on Andi. Search your library for an artifact creature card [i](don't reveal it)[/i], cloak it, then shuffle. Activate only once. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Exhaust — {3}{U}: Put a +1/+1 counter on Andi. Search your library for an artifact creature card [i](don't reveal it)[/i], cloak it, then shuffle. [i](Activate each exhaust ability only once.)[/i]
+
+Circus Baby
+
+Sizz
+rules_text: Sizz deals 2 damage to each creature target player controls.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i] => Sizz deals 2 damage to target player and each creature they control.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+
+Squire, Recon Specialist
+pt: 3/3 => 4/3
+
+Thread Storm
+rules_text: Put a +1/+1 counter on target creature. Modified creatures you control gain first strike until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Put a +1/+1 counter on target creature you control. Modified creatures you control gain first strike until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Boss Rush
+rules_text: You can't cast creature spells.
+At the beginning of combat on your turn, you may put a creature card from your hand onto the battlefield. It gains haste. Sacrifice it at end of combat.
+{3}{R}, Sacrifice Boss Rush: Draw a card. => You can't cast creature spells.
+At the beginning of combat on your turn, you may put a creature card from your hand onto the battlefield. It gains haste. Sacrifice it at end of combat.
+{2}{R}, Sacrifice Boss Rush: Draw a card.
+
+Pyramid Head
+pt: 4/4 => 4/5
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+II, III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+II, III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 2, then cloak the top card of your library.
+II — Return target nonland permanent with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn.
+
+Leoben Conoy
+
+The Giant Rat
+cost: {6}{B} => {4}{B}{B}{B}
+rules_text: The Giant Rat can't be blocked except by three or more creatures.
+{1}{B}, Discard The Giant Rat: Create a 1/1 black Rat creature token with “This creature can't block.” It connives. => The Giant Rat can't be blocked except by three or more creatures.
+{1}{B}, Discard The Giant Rat: Create a 1/1 black Rat creature token with “This creature can't block.” It connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Bearer of the Second Key
+rules_text: Offspring {1}{W} [i](You may pay an additional {1}{W} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Flying
+When Bearer of the Second Key dies, you gain 3 life and create a Clue token. => Offspring {1}{W} [i](You may pay an additional 1W as you cast this spell. If you do, when this enters, create a 1/1 token copy of it.)[/i]
+Flying
+When Bearer of the Second Key dies, you gain 3 life and create a Clue token.
+
+Esprit De Corps
+rules_text: Flying
+Esprit De Corp's power is equal to the number of other modified creatures you control plus 1. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Flying
+Esprit De Corp's power is equal to 1 plus the number of other modified creatures you control. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Backlace
+rules_text: When Backlace enters, exile target noncreature, nonland card from your graveyard. For as long as it remains exiled, you may play it during your turn.
+Enchanted creature has prowess, prowess, and prowess. [i](Whenever you cast a noncreature spell, it gets +3/+3 until end of turn.)[/i]
+Equip {4} => When Backlace enters, exile target noncreature, nonland card from your graveyard. For as long as it remains exiled, you may play it during your turn.
+Equipped creature has prowess, prowess, and prowess. [i](Whenever you cast a noncreature spell, equipped creature gets +3/+3 until end of turn.)[/i]
+Equip {4}
+
+Endurance, Embodied Past
+rules_text: Endurance's power is equal to one plus the number of permanent cards in your graveyard. => Endurance's power is equal to 1 plus the number of permanent cards in your graveyard.
+
+Solomon Grundy
+cost: {3}{G} => {2}{G}{G}
+
+Juri Han
+rules_text: [i][i]Landfall[/i][/i]—Whenever a land enters under your control, choose one —
+• Discard a card, then draw a card. 
+• Juri gets +2/+1 until end of turn. => [i][i]Landfall[/i] [/i]— Whenever a land enters under your control, choose one —
+• Discard a card, then draw a card. 
+• Juri gets +2/+1 until end of turn.
+
+Marisa Kirisame
+
+Garbage Waste Scavenger
+cost: {2}{G} => {1}{G}{G}
+
+Sweet Tooth
+rules_text: Whenever this creature attacks, target opponent sacrifices three permanents unless they have you draw three cards.
+Crew 6 [i](Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this creature attacks, target opponent sacrifices three permanents unless they have you draw three cards.
+Crew 6
+
+Every Single Power Ranger
+rules_text: [i](You protect this battle.)[/i]
+When Every Single Power Ranger enters, discover 6 X times. [i](To discover 6, exile cards from the top of your library until you exile a nonland card with mana value 6 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Creatures you control get +1/+1 and are Heroes in addition to their other types. => [i](You protect this battle.)[/i]
+When Every Single Power Ranger enters, reveal cards from the top of your library until you reveal X creature cards. Put those cards onto the battlefield and the rest on the bottom of your library in a random order.
+Creatures you control get +1/+1 and are Heroes in addition to their other types.
+loyalty: 4 => 5
+
+Reconsider
+rules_text: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Rebound => Surveil 1.
+Draw a card.
+Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+
+Absolutely Safe Capsule
+
+Fated Legacy
+cost: {2}{W}{W} => {3}{W}
+
+Saphira, Hunted Fledgling
+rules_text: Flying
+Soulbond
+Whenever Saphira becomes paired with another creature, put a +1/+1 counter on that creature.
+As long as this is paired with another creature, each of those creatures has flying and ward {2}. => Flying; soulbond [i](You may pair this with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]
+Whenever Saphira becomes paired with another creature, put a +1/+1 counter on that creature.
+As long as this is paired with another creature, each of those creatures has flying and ward {2}.
+
+Jax, Gleeful Tormentor
+rules_text: Whenever you commit a crime, you may have target player lose 3 life unless they sacrifice a nonland permanent or discard a card. Do this only once each turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => Whenever you commit a crime, you may have the victim lose 3 life unless they sacrifice a nonland permanent or discard a card. Do this only once each turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+Lupin the Third
+pt: 3/3 => 4/3
+
+The Eyelander
+rules_text: When The Eyelander enters, create a 1/1 blue and red Mercenary creature token with haste and attach The Eyelander to it.
+Whenever a creature dies, if the The Eyelander has fewer than five head counters on it, put one on it.
+Equipped creature gets +X/+0 and first strike, where X is the number of head counters on The Eyelander.
+Equip {3} => When The Eyelander enters, create a 1/1 blue and red Mercenary creature token with haste and attach The Eyelander to it.
+Whenever a creature dies, if the The Eyelander has fewer than five head counters on it, put one on it.
+Equipped creature gets +X/+0 and first strike, where X is the number of head counters on The Eyelander.
+Equip {4}
+
+
+type: Legendary Creature — Human Clown Villain => Land
+cost: {R} => 
+rules_text: Kicker {5}
+When Harley Quinn enters, if she was kicked, create two 2/2 red Hyena creature tokens.
+Whenever you commit a crime, creatures you control get +1/+0 until end of turn. This ability triggers only once each turn. => {R}
+pt: 1/2 => 
+
+
+VERSION 26 CHANGELOG
 ====================
 
 
