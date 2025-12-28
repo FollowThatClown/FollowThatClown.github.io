@@ -1,4 +1,72 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Fireblossom Gardener added.
+Ashen Titan added.
+Blood Bather added.
+Skullfaced Silver Tongue added.
+Hysteric Devotee added.
+
+Blood Blossom Gardener removed.
+Reborn from Ashes removed.
+Red Sea removed.
+Left Hand Deciever removed.
+Rhapsodous Devotee removed.
+
+Pale Rider
+rules_text: Whenever you cast your first spell each turn, put a +1/+1 counter on Pale Rider.
+Whenever you cast your second spell each turn, create a 1/1 white Soldier creature token.
+Whenever you cast your fourth spell each turn, create a token that's a copy of Pale Rider. => First strike
+Whenever you cast your first spell each turn, put a +1/+1 counter on Pale Rider.
+Whenever you cast your second spell each turn, create a 1/1 white Soldier creature token.
+Whenever you cast your fourth spell each turn, create a token that's a copy of Pale Rider.
+
+Lady in Red
+rules_text: When Lady in Red enters and whenever you cast your second spell each turn, create a Bad Dream token. [i](It's an enchantment with “Sacrifice this: Torment yourself. Draw a card.” To torment yourself, lose 3 life, discard a card or sacrifice a nonland permanent.)[/i] => Ward—Pay 3 life.
+Whenever you cast your second spell each turn, create a Bad Dream token. [i](It's an enchantment with “Sacrifice this: Torment yourself. Draw a card.” To torment yourself, lose 3 life, discard a card or sacrifice a nonland permanent.)[/i]
+pt: 3/2 => 4/4
+
+Cloud Nine
+cost: {1}{W}{U} => {W}{U}
+rules_text: When Cloud Nine enters, create a 1/1 white Bird creature token with flying.
+Whenever you cast a spell with mana value 5 or greater, draw a card. => Whenever you cast a spell with mana value 5 or greater, create a 1/1 white Bird creature token with flying.
+Sacrifice a creature with flying: Draw a card. Activate only as a sorcery.
+
+Beast Beneath the Waves
+type: Creature => Creature — Beast Horror
+
+Delictuous Devotee
+cost: {1}{U}{U} => {U}{U}
+rules_text: Flying
+{X}{X}{U}{U}, Sacrifice Delictuous Devotee: Reveal the top seven cards of your library. You may cast up to X instant and/or sorcery spells from among them without paying their mana cost. Put the rest on the bottom of your library in a random order. Activate only if your devotion to blue is eight or greater and only as a sorcery. => Flying
+{X}{X}{U}{U}, Sacrifice Delictuous Devotee: Reveal the top seven cards of your library. You may cast up to X instant and/or sorcery spells from among them without paying their mana cost. Put the rest on the bottom of your library in a random order. Activate only if your devotion to blue is seven or greater and only as a sorcery.
+
+Rapturous Devotee
+rules_text: Vigilance
+{3}{W}{W}, Sacrifice Rapturous Devotee: Return any number of target creature cards with total mana value 8 or less from your graveyard to the battlefield. Activate only if your devotion to white is eight or greater and only as a sorcery. => Vigilance
+{3}{W}{W}, Sacrifice Rapturous Devotee: Return any number of target creature cards with total mana value 8 or less from your graveyard to the battlefield. Activate only if your devotion to white is seven or greater and only as a sorcery.
+
+Decadent Devotee
+cost: {1}{R}{R} => {R}{R}
+rules_text: First strike
+Ward—Pay 3 life.
+{4}{R}{R}, Sacrifice Decadent Devotee: Create seven 1/1 red Vampire creature tokens with haste. Activate only if your devotion to red is eight or greater and only as a sorcery. => Ward—Pay 3 life.
+{4}{R}{R}, Sacrifice Decadent Devotee: Create seven 1/1 red Vampire creature tokens with haste. Activate only if your devotion to red is seven or greater and only as a sorcery.
+pt: 4/2 => 3/2
+
+Liberous Devotee
+rules_text: Reach
+{X}{X}{G}{G}, Sacrifice Liberous Devotee: Put up to X permanent cards from your hand onto the battlefield. Activate only if your devotion to green is eight or greater and only as a sorcery. => Reach
+{X}{X}{G}{G}, Sacrifice Liberous Devotee: Put up to X permanent cards from your hand onto the battlefield. Activate only if your devotion to green is seven or greater and only as a sorcery.
+
+
+type: Enchantment => 
+cost: {2}{R} => 
+rules_text: When Catharsis enters, create a 2/2 red Illusion creature token with prowess.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => 
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Seagraf added.
