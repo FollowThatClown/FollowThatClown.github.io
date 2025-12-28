@@ -1,4 +1,152 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Seagraf added.
+Glittering Swan added.
+Dionysian Grove added.
+Utopia added.
+The Harvest Man added.
+Court Confidant added.
+Alice added.
+Disapparition added.
+Master's Hound added.
+Shattered Reflection added.
+Troubled Child added.
+Delictuous Devotee added.
+Rhapsodous Devotee added.
+Rapturous Devotee added.
+Decadent Devotee added.
+Liberous Devotee added.
+
+Sea Burial Place removed.
+
+Dreamcatcher
+rules_text: At the beginning of your upkeep, create a 1/1 white Faerie creature token with flying and “This creature can't block.”
+{W}{U}{B}{R}{G}, {T}, Sacrifice Dreamcatcher: Until end of turn, target creature gets +4/+4 and has “Whenever this deals combat damage to a player, draw that many cards.” => At the beginning of your upkeep, create a 1/1 white Faerie creature token with flying and “This creature can't block.”
+
+Enantiomorphos
+rules_text: Flash
+You may have this enchantment enter as a copy of any nonland permanent on the battlefield.
+Evoke {U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flash
+You may have this creature enter as a copy of any nonland permanent on the battlefield.
+Evoke {U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Multitudinous Masses
+rules_text: When Multitudinous Masses enters, create two 1/1 white Soldier creature tokens with flying.
+Creatures you control get +2/+1.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When Multitudinous Masses enters, create two 1/1 white Spirit creature tokens with flying.
+Creatures you control get +2/+1.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Skybridge Serpent
+rules_text: Reach
+Skybridge Serpent enters with a shield counter on it. If {W}{U}{B}{R}{G} was spent to cast it, it also enters with a double strike counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever Skybridge Serpent deals combat damage, draw a card. => Trample, reach
+Skybridge Serpent enters with a shield counter on it. If {W}{U}{B}{R}{G} was spent to cast it, it also enters with a double strike counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+pt: 4/3 => 5/3
+
+Manque
+rules_text: Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play creature cards from your graveyard by paying {3}{B} rather than by paying their mana cost.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 2.
+[-3]: You draw three cards, discard two cards, and lose 1 life. => Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play creature cards from your graveyard by paying {3}{B} rather than by paying their mana cost.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life.
+special_text: Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play creature cards from your graveyard by paying {3}{B} rather than by paying their mana cost.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 2.
+[-3]: You draw three cards, discard two cards, and lose 1 life. => Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play creature cards from your graveyard by paying {3}{B} rather than by paying their mana cost.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life.
+
+Mysterious Benefactor
+rules_text: Flash
+Lifelink
+When Mysterious Benefactor enters, choose one —
+• Search your library for a permanent card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+• Return target permanent card with mana value 2 or less from your graveyard to the battlefield. => Lifelink
+When Mysterious Benefactor enters, you may choose one —
+• Search your library for a permanent card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+• Return target permanent card with mana value 2 or less from your graveyard to the battlefield.
+
+Nemesis
+rules_text: Whenever you lose life, discard one or more cards, or sacrifice one or more nonland permanents, Nemesis gets +1/+1 until end of turn. This ability triggers only up to three times each turn. => Whenever you lose life, discard one or more cards, or sacrifice one or more nonland permanents, Nemesis gets +1/+1 until end of turn. This ability triggers thrice each turn.
+
+A Dark and Stormy Night
+rules_text: If this spell is the first spell you've cast this game, you may cast it by discarding a Swamp rather than by paying its mana cost.
+Destroy target creature. => If this spell is the first spell you've cast this game, you may cast it by discarding a black card or a Swamp rather than by paying its mana cost.
+Destroy target creature.
+
+Reaper's Reward
+rules_text: [b]Read Ahead[/b] [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I, II — Exile up to one target card from a graveyard. You gain 3 life.
+III — An opponent chooses a creature card from your graveyard. Return it to the battlefield. It gains haste until end of turn.
+​ => [b]Read Ahead[/b] [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I, II — Exile up to two target cards from a single graveyard. You gain 3 life.
+III — An opponent chooses a creature card in your graveyard. Return it to the battlefield. It gains haste until end of turn.
+​
+special_text: [b]Read Ahead[/b] [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I, II — Exile up to one target card from a graveyard. You gain 3 life.
+III — An opponent chooses a creature card from your graveyard. Return it to the battlefield. It gains haste until end of turn.
+​ => [b]Read Ahead[/b] [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I, II — Exile up to two target cards from a single graveyard. You gain 3 life.
+III — An opponent chooses a creature card in your graveyard. Return it to the battlefield. It gains haste until end of turn.
+​
+
+Dreadful Visage
+rules_text: As an additional cost to cast this spell, discard a card.
+Flying, trample
+When Dreadful Visage dies, you draw a card and lose 1 life. => As an additional cost to cast this spell, discard a card.
+Flying, trample
+When Dreadful Visage dies, you draw a card.
+
+Apocalyptic Petitioners
+
+Contrition By Fire
+rules_text: Repeat the following process three times. Contrition By Fire deals 4 damage to target player unless they exile a card from their hand. Until the end of your next turn, you may play that card, and may spend mana of any type to cast those spells. => Repeat the following process three times. Contrition By Fire deals 3 damage to target player unless they exile a card from their hand. Until the end of your next turn, you may play that card, and may spend mana of any type to cast those spells.
+
+The Time of Monsters
+rules_text: [b]Read Ahead [/b][i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after IV.)[/i]
+I, II, III — Search your library for a creature card, reveal it, put it into your hand, then shuffle.
+IV — You may put a creature card from your hand onto the battlefield.
+​ => [b]Read Ahead [/b][i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after IV.)[/i]
+I, II, III — Search your library for a creature card, reveal it, put it into your hand, then shuffle. You gain 3 life.
+IV — You may put a creature card from your hand onto the battlefield.
+​
+special_text: [b]Read Ahead [/b][i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after IV.)[/i]
+I, II, III — Search your library for a creature card, reveal it, put it into your hand, then shuffle.
+IV — You may put a creature card from your hand onto the battlefield.
+​ => [b]Read Ahead [/b][i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after IV.)[/i]
+I, II, III — Search your library for a creature card, reveal it, put it into your hand, then shuffle. You gain 3 life.
+IV — You may put a creature card from your hand onto the battlefield.
+​
+
+Living Room
+rules_text: When Living Room enters, attach it to target land you control.
+During your turn, fortified land is a 4/4 creature with haste that's still a land.
+Fortify {4} [i]({4}: Attach to target land you control. Fortify only as a sorcery.)[/i] => When Living Room enters, attach it to up to one target land you control.
+During your turn, fortified land is a 4/4 creature with haste that's still a land.
+Fortify {4} [i]({4}: Attach to target land you control. Fortify only as a sorcery.)[/i]
+
+Silver Frog
+cost: {4}{C} => {5}
+pt: 2/2 => 2/4
+
+Angel of the Long Road
+cost: {4}{W}{B}{G} => {3}{W}{B}{G}
+pt: 6/4 => 5/4
+
+Gilded Lilycorn
+rules_text: First strike, vigilance, lifelink
+Whenever Gilded Lilycorn or another creature you control enters, create a Treasure token.
+Whenever you cast a spell with mana value 5 or greater, if no mana from lands was spent to cast it, copy it. You may choose new targets for the copy. [i](Copies of permanent spells become tokens.)[/i] => First strike, vigilance, lifelink
+Whenever Gilded Lilycorn or another creature you control enters, create a Treasure token.
+Whenever you cast a spell with mana value 5 or greater, if you didn't spend any mana from lands to cast it, copy it. You may choose new targets for the copy. [i](Copies of permanent spells become tokens.)[/i]
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Eat Me added.
