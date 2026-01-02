@@ -1,4 +1,63 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+John Rambo #2 removed.
+Mountain Climbing removed.
+
+Ghiaccio and White Album
+rules_text: When Ghiaccio enters, tap target creature an opponent controls and put three stun counters on it.
+{U}, Remove a stun counter from a creature an opponent controls: Draw a card. => When Ghiaccio enters, tap target creature an opponent controls and put three stun counters on it.
+Whenever Ghiaccio deals combat damage to a player, you may remove any number of stun counters from target permanent they control. If you do, draw that many cards.
+
+Majora's Mask
+rules_text: When Majora's Mask enters, attach it to target creature with mana value 3 or less. You gain control of that creature for as long as Majora's Mask remains attached to it.
+Equipped creature gets +2/+2 and has flying and “Whenever this creature attacks, it connives.” [i](It can't attack the turn you gain control of it.)[/i]
+Equip {4} => When Majora's Mask enters, attach it to target creature with mana value 3 or less. You gain control of that creature for as long as Majora's Mask remains attached to it. [i](It has summoning sickness.)[/i]
+Equipped creature gets +2/+2 and has flying and “Whenever this creature deals combat damage to a player, it connives 2.”
+Equip {4}
+
+Needles Kane
+rules_text: Exhaust — {4}{R}: Put a +1/+1 counter on Needles Kane. Create Sweet Tooth, a legendary 5/5 Vehicle artifact token with crew 5 and “Whenever this creature attacks, target opponent sacrifices three permanents unless they have you draw three cards.” [i](Activate each exhaust ability only once.)[/i] => Exhaust — {5}{R}: Put two +1/+1 counters on Needles Kane. Create Sweet Tooth, a legendary 5/5 Vehicle artifact token with crew 4 and “Whenever this creature attacks, target opponent sacrifices three permanents unless they have you draw three cards.” [i](Activate each exhaust ability only once.)[/i]
+
+Off the Hook
+rules_text: [i]World Famous[/i] — When Off the Hook enters, you take the lead. [i](It's the monarch.)[/i]
+[i]Fashion Show[/i] — Whenever you draw a card, you may discard a card. If you do, reveal cards from the top of your library until you reveal an Aura or Equipment card, put it into your hand, then shuffle. Do this only once each turn. => [i]World Famous[/i] — When Off the Hook enters, you take the lead. [i](It's the monarch.)[/i]
+[i]Fashion Show[/i] — If you would draw your first card each turn, you may instead reveal cards from the top of your library until you reveal an Aura or Equipment card, put it into your hand, then shuffle.
+
+Peridot
+rules_text: Whenever one or more modified creatures you control deal combat damage to a player, draw a card.
+[i]I Have Metal Powers![/i] — {3}: Put three +1/+1 counters on target artifact you control. It becomes a creature in addition to its other types. Activate this ability only once. => Whenever one or more modified creatures you control deal combat damage to a player, draw a card.
+Exhaust — {3}: Put three +1/+1 counters on target artifact or land you control. It becomes a creature in addition to its other types. [i](Activate each exhaust ability only once.)[/i]
+
+Lapis Lazuli
+rules_text: Flying
+Whenever you cast a noncreature spell, reveal the top four cards of your library. You may put an Island card from among them into your hand. Put the rest on the bottom of your library in a random order. => Flying, vigilance
+Whenever you cast a spell, you may waterbend {X}{U}{U}, where X is that spell's mana value. If you do, copy that spell, except the copy isn't legendary and you may choose new targets for it. [i](While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}. Copies of permanent spells become tokens.)[/i]
+
+Atomic Punch
+rules_text: Until end of turn, target creature that isn't a Mutant Ninja Turtle gains indestructible and gets +1/+1 for each supertype, card type, and subtype it has. => Until end of turn, target creature that isn't a Mutant Ninja Turtle gains hexproof and gets +1/+1 for each supertype, card type, and subtype it has.
+
+Sweet Tooth
+rules_text: Whenever this creature attacks, target opponent sacrifices three permanents unless they have you draw three cards.
+Crew 6 => Whenever this creature attacks, target opponent sacrifices three permanents unless they have you draw three cards.
+Crew 4
+
+Test of Resolve
+rules_text: If you've committed a crime this turn, surveil 2. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+You draw two cards and lose 2 life. => If a creature you controlled dealt combat damage to a player this turn, surveil 2.
+You draw two cards and lose 2 life.
+
+Seto Kaiba
+rules_text: [i]Kaiba Corp C.E.O[/i] — Whenever one or more modified creatures you control deal combat damage to a player, create a tapped Treasure token.
+Exhaust — {X}{X}{X}{U}{U}{U}: Create X 5/5 white Dragon creature tokens with flying. [i](Activate each exhaust ability only once.)[/i] => [i]Kaiba Corp C.E.O[/i] — Whenever one or more modified creatures you control attack, create a tapped Treasure token.
+Exhaust — {X}{X}{X}{U}{U}{U}: Create X 5/5 white Dragon creature tokens with flying. [i](Activate each exhaust ability only once.)[/i]
+
+Knife Gang
+type: Legendary Creature — Human => Creature — Human
+
+
+VERSION 28 CHANGELOG
 ====================
 
 The Queen's Court added.
