@@ -542,7 +542,7 @@
 		{
 			"name": "Mask Up",
 			"rarity": "special",
-			"mana_cost": "{X}{X}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "131",
 			"image_uris": {
@@ -3849,16 +3849,6 @@
 			}
 		},
 		{
-			"name": "John Rambo",
-			"rarity": "special",
-			"mana_cost": "{G}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/215_John Rambo.png"
-			}
-		},
-		{
 			"name": "Kabuto, Orochimaru's Protege",
 			"rarity": "special",
 			"mana_cost": "{G}{G}",
@@ -4143,6 +4133,16 @@
 			"collector_number": "321",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/321_The Machine.png"
+			}
+		},
+		{
+			"name": "John Rambo",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/215_John Rambo.png"
 			}
 		}
 	]
@@ -4478,7 +4478,6 @@
 	1 Vorpal Blade
 	1 Zero Two
 	1 Desolation of Empire
-	1 John Rambo
 	1 Kabuto, Orochimaru's Protege
 	1 Look Outside
 	1 Moonscorch
@@ -4507,3 +4506,4 @@
 	1 The Gates of Heaven
 	1 Where The Forest Would Grow
 	1 The Machine
+	1 John Rambo

@@ -1,4 +1,185 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+
+
+Pearl, the Renegade
+rules_text: Double strike, vigilance
+{1}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — You may look at the top card of your library any time.
+🌹 — Once during each turn, you may cast a spell from the top of your library as long as it's an Equipment or targets a creature you control. => Double strike, vigilance
+{1}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — {T}: Look at the top five cards of your library and exile up to one of them face down. Put the rest on the bottom of your library in a random order. For as long as that card remains exiled, you may play it if it's an Equipment or targets a creature you control.
+
+Mask Up
+cost: {X}{X}{B} => {2}{B}
+rules_text: X can't be zero if you cast this spell.
+When Mask Up enters, cloak the top X cards of your library.
+Whenever a creature you control deals combat damage to a player, you may pay 1 life. If you do, create a Treasure token. => When Mask Up enters, cloak the top card of your library, then cloak the top X cards of your library.
+Whenever a creature you control deals combat damage to a player, you may pay 1 life. If you do, create a Treasure token.
+
+Catwoman, Selina Kyle
+pt: 3/3 => 3/4
+
+George Washington
+pt: 2/3 => 2/2
+
+Destroyed Android
+rules_text: Defender
+Craft with five noncreature, nonlands {4}{U}{U} [i]({4}{U}{U}, Exile this artifact, Exile the five from among other permanents you control and/or cards in your graveyard: Return this card transformed under its owner's control. Craft only as a sorcery.)[/i] => Defender
+Craft with five noncreature, nonlands {2}{U}{U} [i]({4}{U}{U}, Exile this artifact, Exile the five from among other permanents you control and/or cards in your graveyard: Return this card transformed under its owner's control. Craft only as a sorcery.)[/i]
+
+Circus Baby
+rules_text: Whenever another creature you control dies, you may have Circus Baby connive. Do this only once each turn. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+{5}{B}, Exile five artifact and/or creature cards from your graveyard: Transform Circus Baby. => Whenever another creature you control dies, you may have Circus Baby connive. Do this only once each turn. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+{4}{B}, Exile five artifact and/or creature cards from your graveyard: Transform Circus Baby.
+pt: 0/4 => 0/5
+
+Sahar, Masterful Duelist
+rules_text: Sahar, Masterful Duelist can't be blocked by more than one creature.
+Whenever Sahar deals excess damage to a creature, put that many +1/+1 counters on it. => Sahar, Masterful Duelist can't be blocked by more than one creature.
+Whenever Sahar deals excess damage to a creature, put a +1/+1 counter on Sahar.
+pt: 4/4 => 3/4
+
+Mobster Kingpin
+pt: 3/5 => 4/4
+
+Jambi the Genie
+rules_text: Flying
+{3}{R}, Sacrifice Jambi the Genie: You may play a noncreature card you own from outside the game. Activate only as a sorcery. => Flying
+{3}{R}, Sacrifice Jambi the Genie: Exile a noncreature card you own from outside the game. Until the end of your next turn, you may play it.
+
+Jurrac Giganoto
+rules_text: Trample, haste
+Jurrac Giganoto's power is equal to the total number of creature cards you own in exile and in your graveyard. => Trample, haste
+Jurrac Giganoto gets +X/+0, where X the total number of creature cards you own in exile and in your graveyard.
+pt: */6 => 1/4
+
+Yung Venuz, God of Gunz
+rules_text: [i]Back 2 Bizniz[/i] — Whenever you commit a crime for the first time each turn, add {R}{R}. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+[i]Pop Pop[/i] — Whenever you cast your second noncreature spell each turn, if it's an instant or sorcery spell, copy it. You may choose new targets for the copy. => First strike
+[i]Back 2 Bizniz[/i] — Whenever you commit a crime for the first time each turn, add {R}{R}. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+[i]Pop Pop[/i] — {2}{R}{R}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+
+Vigilantism
+rules_text: Creature cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have lifelink.
+The first face-down creature spell you cast each turn costs {2} less to cast if a creature you controlled died this turn. => Cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have lifelink.
+The first face-down creature spell you cast each turn costs {2} less to cast if a creature you controlled died this turn.
+
+Soul Edge
+rules_text: When Soul Edge enters, attach it to target creature with mana value 3 or less. You gain control of that creature for as long as Soul Edge remains attached to it.
+Equipped creature gets +2/+2 and has lifelink and haste.
+Equip {3}{B}{R} [i]({3}{B}{R}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Soul Edge enters, attach it to target creature with mana value 3 or less and untap it. You gain control of that creature for as long as Soul Edge remains attached to it.
+Equipped creature gets +2/+2 and has menace and haste.
+Equip {3}{B}{R} [i]({3}{B}{R}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Secret Lair
+rules_text: As Secret Lair enters or is turned face up, choose three colors.
+When Secret Lair enters, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add one mana of any of the chosen colors.
+Disguise {3} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i] => When Secret Lair enters, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add one mana of any color.
+Disguise {3} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+
+Venusaur
+pt: 7/7 => 6/7
+
+Jax, Gleeful Tormentor
+pt: 3/2 => 3/3
+
+Cloaker
+rules_text: Disguise {1}{B}
+When this creature is turned face up, cloak the top card of your library. It enters tapped.
+Whenever this creature deals combat damage to a player, exile it, then cloak it. It enters tapped. => Disguise {B}
+When this creature is turned face up, cloak the top card of your library. It enters tapped.
+Whenever this creature deals combat damage to a player, exile it, then cloak it. It enters tapped.
+
+Join the Bat Family
+rules_text: Creature cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have vigilance.
+The first face-down creature spell you cast each turn costs {3} less to cast if you've drawn two or more cards this turn. => Cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have vigilance.
+The first face-down creature spell you cast each turn costs {3} less to cast if you've drawn two or more cards this turn.
+
+Anonymous Vendetta
+rules_text: Creature cards in your hand and face down creatures you control have disguise {5}.
+Face down creatures you control have menace.
+The first face down creature spell you cast each turn costs {2} less to cast if you've committed a crime this turn. => Cards in your hand and face down creatures you control have disguise {5}.
+Face-down creatures you control have menace.
+The first face down creature spell you cast each turn costs {2} less to cast if you've committed a crime this turn.
+
+The Lament Configuration
+rules_text: Whenever you commit a crime, you may sacrifice a creature. If you do, put a piece counter on The Lament Configuration and each opponent sacrifices a creature. Do this only once each turn.
+{2}{B}, Remove three piece counters from The Lament Configuration: Transform it. => Whenever The Lament Configuration enters or you commit a crime, you may sacrifice a creature. If you do, put a piece counter on The Lament Configuration and each opponent sacrifices a creature. Do this only once each turn.
+{4}{B}, Remove three piece counters from The Lament Configuration: Transform it.
+
+Choose Your Destiny
+rules_text: Creature cards in your hand and face down creatures you control have disguise {5}.
+During your turn, face-down creatures you control get +2/+0.
+The first face-down creature spell you cast each turn costs {2} less to cast if you've cast two or more spells this turn. => Cards in your hand and face down creatures you control have disguise {5}.
+During your turn, face-down creatures you control get +2/+0.
+The first face-down creature spell you cast each turn costs {2} less to cast if you've cast two or more spells this turn.
+
+Cowboy Curtis
+rules_text: Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn.
+{8}{R}{R}: Exile the top three cards of target opponent's library. They become plotted. [i](You may cast them as a sorcery on a later turn without paying their mana costs.)[/i] => Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn.
+Exhaust—{6}{R}{R}: Exile the top four cards of target opponent's library. You may play them for as long as they remain exiled, and may spend mana of any type to do so. [i](Activate each exhaust ability only once.)[/i]
+
+Look Outside
+rules_text: Creature cards in your hand and face-down creatures you control have disguise {5}.
+Creatures you control have “When this creature is turned face-up, monstrosity 2.” [i](If that creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i]
+The first face-down creature spell you cast each turn costs {2} less to cast if you've attacked with creatures with total power 6 or more this turn. => Cards in your hand and face-down creatures you control have disguise {5}.
+Creatures you control have “When this creature is turned face-up, monstrosity 2.” [i](If that creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i]
+The first face-down creature spell you cast each turn costs {2} less to cast if you've attacked with creatures with total power 6 or more this turn.
+
+The Queen's Court
+rules_text: The Queen's Court enters tapped unless you control two or more Mountains.
+{T}: Add {R}.
+{4}{R}{R}, {T}, Sacrifice The Queen's Court: You get an emblem with “Creatures you control get +2/+0.” Activate this ability only if your devotion to red is six or more. => The Queen's Court enters tapped unless you control two or more Mountains.
+{T}: Add {R}.
+{8}{R}{R}, {T}, Sacrifice The Queen's Court: You get an emblem with “Creatures you control get +2/+0.” . This ability costs {X} less to activate, where X is your devotion to red
+
+Apocrypha
+rules_text: Apocrypha enters tapped unless you control two or more Islands.
+{T}: Add {U}.
+{4}{U}{U}, {T}, Sacrifice Apocrypha: Draw three cards. You have no maximum hand size for the rest of the game. Activate this ability only if your devotion to blue is six or more. => Apocrypha enters tapped unless you control two or more Islands.
+{T}: Add {U}.
+{8}{U}{U}, {T}, Sacrifice Apocrypha: Draw three cards. You have no maximum hand size for the rest of the game. This ability costs {X} less to activate, where X is your devotion to blue.
+
+Castlevania, Dracula's Castle
+rules_text: Castlevania enters tapped unless you control two or more Swamps.
+{T}: Add {B}.
+{4}{B}{B}, {T}, Sacrifice Castlevania: Put target creature card from a graveyard onto the the battlefield under your control. Activate this ability only if your devotion to black is six or more. => Castlevania enters tapped unless you control two or more Swamps.
+{T}: Add {B}.
+{8}{B}{B}, {T}, Sacrifice Castlevania: Put target creature card from a graveyard onto the the battlefield under your control. This ability costs {X} less to activate, where X is your devotion to black.
+
+The Gates of Heaven
+rules_text: The Gates of Heaven enters tapped unless you control two or more Plains.
+{T}: Add {W}.
+{4}{W}{W}, {T}, Sacrifice The Gates of Heaven: Create a 4/4 white Angel creature tokens with flying and vigilance. Activate this ability only if your devotion to white is six or more. => The Gates of Heaven enters tapped unless you control two or more Plains.
+{T}: Add {W}.
+{8}{W}{W}, {T}, Sacrifice The Gates of Heaven: Create a 4/4 white Angel creature tokens with flying and vigilance. This ability costs {X} less to activate, where X is your devotion to white.
+
+Where The Forest Would Grow
+rules_text: Where The Forest Would Grow unless you control two or more Forests.
+{T}: Add {G}.
+{4}{G}{G}, {T}: Transform Where The Forest Would Grow. Activate only if your devotion to green is six or more. => Where The Forest Would Grow unless you control two or more Forests.
+{T}: Add {G}.
+{8}{G}{G}, {T}: Transform Where The Forest Would Grow. This ability costs {X} less to activate, where X is your devotion to green.
+
+John Rambo
+type: Legendary Creature — Human Soldier => Legendary Creature — Human Warrior
+rules_text: Reach
+Disguise {X}{2}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+As John Rambo is turned face up, put X+1/+1 counters on him.
+When John Rambo is turned face up, he deals X damage divided as you choose among any number of target creatures your opponents control. => Reach
+Disguise {X}{G}{G}{G}
+When John Rambo is turned face up, put X +1/+1 counters on him, then he deals X damage divided as you choose among any number of target creatures your opponents control.
+
+
+VERSION 29 CHANGELOG
 ====================
 
 
