@@ -542,7 +542,7 @@
 		{
 			"name": "Mask Up",
 			"rarity": "special",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{X}{X}{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "131",
 			"image_uris": {
@@ -3387,7 +3387,7 @@
 		{
 			"name": "Custom Wand",
 			"rarity": "special",
-			"mana_cost": "{2}",
+			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
 			"collector_number": "319",
 			"image_uris": {

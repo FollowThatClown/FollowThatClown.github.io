@@ -1,4 +1,62 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+
+
+Tim Wright
+rules_text: When Tim enters, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+{4}{W}{B}: Create a white Aura enchantment token named Mask attached to Tim. The token has enchant permanent and umbra armor. Transform Tim. [i](If Tim would be destroyed, instead remove all damage from him and destroy his mask.)[/i] => When Tim enters, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+{3}{W}{B}: Create a white Aura enchantment token named Mask attached to Tim. The token has enchant permanent and umbra armor. Transform Tim. [i](If Tim would be destroyed, instead remove all damage from him and destroy his mask.)[/i]
+
+Mask Up
+cost: {2}{B} => {X}{X}{2}{B}
+
+Catwoman, Selina Kyle
+rules_text: First strike
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it. At the beginning of the next end step, if that card remains exiled, create a 1/1 black Cat creature token with lifelink. => During your turn, Catwoman has first strike.
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it. At the beginning of the next end step, if that card remains exiled, create a 1/1 black Cat creature token with lifelink.
+
+V1
+rules_text: [i]BLOOD IS FUEL[/i] — Sacrifice another artifact: Add {R}. Spend this mana only to cast spells or activate abilities that target creatures you control.
+[i]HELL IS FULL[/i] — Whenever a creature dies, you may exile it and create a Blood token. Do this only once each turn. => [i]BLOOD IS FUEL[/i] — Sacrifice another artifact: Add {C}{C}. Spend this mana only to cast spells or activate abilities that target creatures you control.
+[i]HELL IS FULL[/i] — Whenever a creature dies, you may exile it and create a Blood token. Do this only once each turn.
+pt: 3/2 => 3/3
+
+Enter the Gungeon
+rules_text: When Enter the Gungeon enters, it deals 2 damage to any number of targets.
+At the beginning of your upkeep, reveal the cards from the top of your library until you reveal an Aura or Equipment card. Exile that card and put the rest on the bottom of your library in a random order. You may play the exiled card this turn. => When Enter the Gungeon enters, it deals 2 damage to any number of targets.
+At the beginning of your upkeep, reveal cards from the top of your library until you reveal an Aura or Equipment card. Exile that card and put the rest on the bottom of your library in a random order. You may play the exiled card this turn.
+
+Gordon Freeman
+rules_text: First strike
+Ward—Pay 3 life.
+[i]Right Man, Wrong Place[/i] — Whenever Gordon Freeman becomes the target of a spell or ability you control, as you cast your next spell from your hand this turn, it gains cascade. This ability triggers only once each turn. => First strike
+[i]Right Man, Wrong Place[/i] — Whenever Gordon Freeman becomes the target of a spell or ability you control, as you cast your next spell from your hand this turn, it gains cascade. This ability triggers only once each turn.
+
+Tenten, Toolmaster
+rules_text: When Tenten enters, look at the top ten cards of your library. Put an Aura or Equipment card from among them onto the battlefield. Put another card from among them into your hand. Shuffle. => Double strike
+When Tenten enters, create two Equipment artifact tokens with “Equipped creature gets +1/+1” and has equip {2}.
+Whenever you attack, you may attach target Aura or Equipment you control to target creature you control.
+
+Into the Dreamworld
+rules_text: When Into the Dreamworld enters, exile the top two cards of your library.
+You may play lands from among the cards exiled with Into the Dreamworld.
+{2}{R}, Put all cards exiled by Into the Dreamworld on the bottom of your library: Exile the top two cards of your library. => When Into the Dreamworld enters, exile the top two cards of your library.
+You may play lands from among the cards exiled with Into the Dreamworld.
+{1}{R}: Put all cards exiled by Into the Dreamworld on the bottom of your library, then exile the top two cards of your library.
+
+Bearer of the Second Key
+rules_text: Offspring {1}{W} [i](You may pay an additional 1W as you cast this spell. If you do, when this enters, create a 1/1 token copy of it.)[/i]
+Flying
+When Bearer of the Second Key dies, you gain 3 life and create a Clue token. => Offspring {1}{W} [i](You may pay an additional {1}{W} as you cast this spell. If you do, when this enters, create a 1/1 token copy of it.)[/i]
+Flying
+When Bearer of the Second Key dies, you gain 3 life and create a Clue token.
+
+Custom Wand
+cost: {2} => {3}
+
+
+VERSION 30 CHANGELOG
 ====================
 
 
