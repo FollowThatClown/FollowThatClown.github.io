@@ -1,4 +1,502 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Melon, Cutthroat Hybrid added.
+THE KEEP OF THE LEAD LORD added.
+
+Deathwing removed.
+
+Giorno Giovanna
+rules_text: Whenever another creature you control dies, target opponent loses 1 life and you gain 1 life. If this is the third time this ability has resolved this turn, return target artifact or non-Aura enchantment card from your graveyard to the battlefield. It's a 3/3 creature in addition to its other types. => Whenever another creature you control dies, target opponent loses 1 life and you gain 1 life. If this is the third time this ability has resolved this turn, return target artifact or non-Aura enchantment card from your graveyard to the battlefield. It's a 5/5 creature in addition to its other types.
+
+NiGHTS, Playful Nightmaren
+rules_text: Flying
+When NiGHTS enters, return target tapped creature to its owner's hand. If you controlled it, NiGHTS connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i] => Flying
+[i]Paraloop[/i] — When NiGHTS enters, return target tapped creature to its owner's hand. If you controlled it, NiGHTS connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+
+The Flash, Barry Allen
+rules_text: Flash
+First strike, haste
+You may cast spells as though they had flash.
+When The Flash enters, discard your hand, then draw four cards and untap four lands. => Flash
+First strike, haste
+You may cast spells as though they had flash.
+When The Flash enters, discard your hand, then draw five cards and untap five lands.
+pt: 4/4 => 5/5
+
+Lady Gaga, Fame Monster
+rules_text: [i]World Famous[/i] — When Lady Gaga enters, you take the lead. [i](It's the monarch.)[/i]
+Whenever you draw a card, you may pay {2}. If you do, amass Following 2. [i](Put two +1/+1 counters on an Army you control. It's also a Following. If you don't control an Army, create a 0/0 black Following Army creature token first.)[/i] => [i]World Famous[/i] — When Lady Gaga enters, you take the lead. [i](It's the monarch.)[/i]
+Whenever Lady Gaga attacks, you may discard a card. If you do, amass Following 2. The token enters tapped and attacking. [i](To amass Following 2, put two +1/+1 counters on an Army you control. It's also a Following. If you don't control an Army, create a 0/0 black Following Army creature token first.)[/i]
+
+The Master Sword
+rules_text: When The Master Sword enters, exile target creature an opponent controls and put seven time counters on it. If it doesn't have suspend, it gains suspend.
+Equipped creature has double strike.
+Equip {4} => When The Master Sword enters, exile up to one target artifact, enchantment, or creature with power 4 or greater.
+Equipped creature gets +2/+0 for each Aura and Equipment attached to it.
+Equip {5}
+
+Pearl, the Renegade
+rules_text: Double strike, vigilance
+{1}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — {T}: Look at the top five cards of your library and exile up to one of them face down. Put the rest on the bottom of your library in a random order. For as long as that card remains exiled, you may play it if it's an Equipment or targets a creature you control. => Double strike, vigilance
+{1}{W}, Sacrifice two lands: Harness Pearl. [i](Once harnessed, her 🌹 ability is active.)[/i]
+🌹 — {T}: Look at the top five cards of your library and exile up to one of them face down. Put the rest on the bottom of your library in a random order. For as long as that card remains exiled, you may play it if it's an Equipment or targets a creature you control. Activate only as a sorcery.
+
+Big Ben
+cost: {2} => {1}
+
+Leone Abbachio
+pt: 2/2 => 3/2
+
+The Birth of Frankenstein
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Return up to two target creature cards from your graveyard to your hand.
+II, III, IV — Target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+Target creature you control connives 2.
+Return up to two target creature cards from your graveyard to your hand.
+Discard up to two cards. Put two +1/+1 counters on target creature for each creature card discarded this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)[/i]
+I — Return up to two target creature cards from your graveyard to your hand.
+II, III, IV — Target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+​
+
+Madotsuki, Dream Traveller
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you may discard a card. If you do, draw a card, then cloak a card from your hand.
+Whenever you turn another face-down creature face up, put two +1/+1 counters on it. It becomes a Nightmare in addition to its other types. => [i]Landfall[/i] — Whenever a land you control enters, you may discard a card. If you do, draw a card, then cloak a card from your hand.
+Whenever you turn a face-down creature face up, put two +1/+1 counters on it. It becomes a Nightmare in addition to its other types.
+
+Majora's Mask
+cost: {3}{U}{B} => {U}{B}
+rules_text: When Majora's Mask enters, attach it to target creature with mana value 3 or less. You gain control of that creature for as long as Majora's Mask remains attached to it. [i](It has summoning sickness.)[/i]
+Equipped creature gets +2/+2 and has flying and “Whenever this creature deals combat damage to a player, it connives 2.”
+Equip {4} => Equipped creature has flying and “Whenever this creature attacks, it connives.”
+[i]Terrible Fate[/i] — {20}: Destroy all creatures your opponents control. For each mana in this ability's activation cost, you may exile a card from your graveyard rather than pay that mana. Activate only as a sorcery and only once.
+Equip {2}
+
+Catwoman, Selina Kyle
+rules_text: During your turn, Catwoman has first strike.
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn, and mana of any type can be spent to cast it. At the beginning of the next end step, if that card remains exiled, create a 1/1 black Cat creature token with lifelink. => Ward—Pay 3 life.
+At the beginning of your upkeep, exile the top card of target opponent's library. You may play that card this turn and spend mana of any type to do so. At the beginning of the next end step, if it remains exiled, create a 1/1 black Cat creature token with lifelink.
+pt: 3/4 => 4/4
+
+Nami, Straw Hat Navigator
+pt: 2/1 => 2/2
+
+V1
+rules_text: [i]BLOOD IS FUEL[/i] — Sacrifice another artifact: Add {C}{C}. Spend this mana only to cast spells or activate abilities that target creatures you control.
+[i]HELL IS FULL[/i] — Whenever a creature dies, you may exile it and create a Blood token. Do this only once each turn. => [i]BLOOD IS FUEL[/i] — Other artifacts you control have “{T}, Sacrifice this artifact: Add {C}{C}. Spend this mana only to cast spells or activate abilities that target creatures you control.”
+[i]HELL IS FULL[/i] — When V1 enters, you may discard two cards. If you do, draw two cards, then create a tapped Blood token for each creature card discarded this way.
+
+Simon Henriksson
+rules_text: During your turn, Simon Henriksson has first strike and trample.
+At the beginning of your upkeep, target opponent creates a 3/2 red Nightmare creature token. => During your turn, Simon Henriksson has first strike and trample.
+At the beginning of your upkeep, target opponent creates a 2/2 red Nightmare creature token.
+
+RICOSHOT
+rules_text: RICOSHOT deals 1 damage to any target. Create a Blood token. [i](It's an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)[/i]
+Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i] => RICOSHOT deals 1 damage to any target. Create a Treasure token.
+Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+
+Enter the Gungeon
+cost: {4}{R} => {2}{R}
+rules_text: When Enter the Gungeon enters, it deals 2 damage to any number of targets.
+At the beginning of your upkeep, reveal cards from the top of your library until you reveal an Aura or Equipment card. Exile that card and put the rest on the bottom of your library in a random order. You may play the exiled card this turn. => When Enter the Gungeon enters and at the beginning of your first main phase, venture into The Keep of the Lead Lord. [i](Enter the first room or advance to the next room.)[/i]
+
+Ghast
+rules_text: Flying
+[i]Fireball Tennis[/i] — When Ghast enters, choose target player. Ghast deals 3 damage to them or to target creature they control unless that player discards a card. When they discard a card this way, they copy this ability, except the copy deals 1 more damage. They may choose new targets for the copy. => Flying
+[i]Fireball Tennis[/i] — When Ghast enters, choose up to one target player. Ghast deals 3 damage to them or to target creature they control unless that player discards a card. When they discard a card this way, they copy this ability, except the copy deals 1 more damage. They may choose new targets for the copy.
+pt: 3/1 => 3/2
+
+Gordon Freeman
+
+Mount Rushmore
+cost: {1}{G} => {2}{G}
+rules_text: Mount Rushmore enters tapped.
+When Mount Rushmore enters, you may exile four legendary creature cards from your graveyard. If you do, you take the lead. [i](It's the monarch.)[/i]
+{T}: Add one mana of any color. => Mount Rushmore enters tapped.
+{T}: Add {C}{C}. Spend this mana only to cast legendary creature spells.
+[i]Construct[/i] — Disguise {3}{G} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+[i]Unveil[/i] — When Mount Rushmore is turned face up, you take the lead. [i](It's the monarch.)[/i]
+
+Tenten, Toolmaster
+rules_text: Double strike
+When Tenten enters, create two Equipment artifact tokens with “Equipped creature gets +1/+1” and has equip {2}.
+Whenever you attack, you may attach target Aura or Equipment you control to target creature you control. => When Tenten enters, create an Equipment artifact token with “Equipped creature gets +1/+1” and equip {2}. Attach it to target creature you control.
+Creatures you control have “Whenever this creature becomes the target of a spell or ability, put a +1/+1 counter on it. This ability triggers only once each turn.”
+pt: 2/2 => 1/3
+
+Off the Hook
+rules_text: [i]World Famous[/i] — When Off the Hook enters, you take the lead. [i](It's the monarch.)[/i]
+[i]Fashion Show[/i] — If you would draw your first card each turn, you may instead reveal cards from the top of your library until you reveal an Aura or Equipment card, put it into your hand, then shuffle. => [i]World Famous[/i] — When Off the Hook enters, you take the lead. [i](It's the monarch.)[/i]
+[i]Fashion Show[/i] — If you would draw your first card each turn, you may instead Search your library for an Aura or Equipment card, put it into your hand, then shuffle.
+
+Silver the Hedgehog
+pt: 2/2 => 2/3
+
+The Eiffel Tower
+cost: {1}{U} => {21}{U}
+rules_text: If you would one or more cards, instead draw that many cards plus one, then discard a card.
+[i]Construct — [/i]Disguise {2}{U}
+[i]Unveil[/i] — When The Eiffel Tower is turned face up, you take the lead. [i](It's the monarch.)[/i] => If you would one or more cards, instead you may draw that many cards plus one, then discard a card.
+[i]Construct — [/i]Disguise {2}{U}
+[i]Unveil[/i] — When The Eiffel Tower is turned face up, you take the lead. [i](It's the monarch.)[/i]
+
+SCP-294, Infinite Vendor
+rules_text: At the beginning of your upkeep, sacrifice a nontoken Food. If you do, you gain 3 life.
+{T}: Mill a card. If it's a permanent card, put it onto the battlefield. It's a Food artifact and has “{2}, {T}, Sacrifice this artifact: Gain 3 life.” [i](It's not any other card types)[/i] => At the beginning of your upkeep, sacrifice a nontoken Food. If you do, you gain 3 life.
+{T}: Mill three cards. Put a permanent card from among them onto the battlefield. It's a Food artifact and has “{2}, {T}, Sacrifice this artifact: You gain 3 life.” [i](It's not any other card types)[/i]
+
+Slenderman
+rules_text: Ward {8}
+Slenderman can't attack or block unless you control eight or more nonland permanents.
+Whenever one or more creatures you control deal combat damage to a player, create a Clue token named Page. [i](It's an artifact with “{2}, Sacrifice this: Draw a card.”)[/i] => As long as the total number of cards you own in exile and in your graveyard is less than eight, Slenderman isn't a creature.
+Whenever one or more creatures you control deal combat damage to a player, create a Page token [i](It's an artifact with “{1}, {T}, Sacrifice this: Target creature you control connives. Activate only as a sorcery.”)[/i]
+
+Scaramouche the Merciless
+cost: {4}{B}{G} => {2}{B}{G}
+rules_text: Menace, vigilance
+You may play lands from your graveyard. If you play a land this way, it enters with a finality counter and three +1/+1 counters on it. It's a 0/0 Golem artifact creature with haste that's still a land.
+Golems you control have menace and vigilance. => Ward—Pay 3 life.
+You may play land cards from your graveyard. If you play a land this way, it enters with a finality counter and three +1/+1 counters on it. It's a 0/0 Golem artifact creature with haste that's still a land.
+pt: 4/4 => 2/3
+
+Class Struggle
+rules_text: Enchant creature
+When Class Struggle enters, target opponent may cloak a card from their hand.
+Enchanted creature gets +3/+2 and has trample and “Ward—Sacrifice a permanent.” => Enchant creature
+When Class Struggle enters, target opponent may cloak a card from their hand.
+Enchanted creature gets +2/+2 and has trample and “Ward—Sacrifice a nonland permanent.”
+
+Funny Valentine
+cost: {2}{U}{R}{W} => {1}{U}{R}{W}
+rules_text: [i]D4C [/i]— Whenever you cast your first noncreature spell each turn, you may exile target nontoken creature you control. If you do, create two tokens that are copies of it, except they're not legendary. If you create a copy of Funny Valentine this way, choose one of the copies. It loses all abilities. => [i]D4C [/i]— Whenever you cast your second spell each each turn, you may exile target nontoken creature you control. If you do, create two tokens that are copies of it, except they're not legendary. If you create a copy of Funny Valentine this way, choose one of the copies. It loses all abilities.
+pt: 2/4 => 2/5
+
+Spike Spiegel, On The Run
+pt: 1/1 => 1/2
+
+Circus Baby
+pt: 0/5 => 1/4
+
+War On Christmas
+cost: {2}{R}{G} => {1}{R}{G}
+rules_text: [i](You protect this and opponents attack it.)[/i]
+When War On Christmas enters, exile the top five cards of target opponent's library. You may play them for as long as you control this battle, and may spend mana of any type to cast those spells.
+You may play an additional land card you don't own each turn. => [i](You protect this and opponents attack it.)[/i]
+When War On Christmas enters, exile the top three cards of target opponent's library. You may play them for as long as you control this battle, and may spend mana of any type to cast those spells.
+You may play an additional land card you don't own each turn.
+loyalty: 4 => 3
+
+Sasori, Human Puppeteer
+rules_text: When Sasori enters, return target creature card from a graveyard to the battlefield. It's a Vehicle artifact with crew 3. [i](It's not a creature for now, but maintains its power, toughness, and abilities.)[/i] => Deathtouch
+When Sasori enters, return target creature card from a graveyard to the battlefield. It's a Vehicle artifact with crew 3. [i](It's not a creature for now, but maintains its power, toughness, and abilities.)[/i]
+pt: 3/3 => 3/2
+
+Gunsmith Bitch
+rules_text: [+1]: Reveal cards from the top of your library until you reveal an Aura or Equipment card, put it into your hand, then shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control. => [+1]: Search your library for an Aura or Equipment card, put it into your hand, then shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control.
+special_text: [+1]: Reveal cards from the top of your library until you reveal an Aura or Equipment card, put it into your hand, then shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control. => [+1]: Search your library for an Aura or Equipment card, put it into your hand, then shuffle.
+[-2]: Exile target creature and put three time counters on it. If it doesn't have suspend, it gains suspend.
+[-7]: Create ten tokens that are copies of target Aura or Equipment you control, except they aren't legendary. They enter attached to target creature you control.
+
+Terrible, Terrible Damage
+type: Sorcery => Instant
+rules_text: Create X 2/1 black Alien Insect creature tokens with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Terrible, Terrible Damage deals X damage to up to one target creature. 
+Target player creates X 2/1 black Alien Insect creature tokens with haste. Sacrifice them at the beginning of the next end step.
+
+A Moon Star Is Born!
+cost: {2}{W}{U} => {1}{W}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card. You may cloak a card from your hand.
+Return target creature with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield and it gains haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 2, then cloak the top card of your library.
+Return target nonland permanent with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield with a +1/+1 counter on it and it gains haste this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card. You may cloak a card from your hand.
+Return target creature with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield and it gains haste until end of turn.
+
+Invincibility
+rules_text: Target creature gains hexproof and indestructible until end of turn. You take the lead. [i](It's the monarch.)[/i] => Up to one target creature you control gains hexproof and indestructible until end of turn. 
+You take the lead. [i](It's the monarch.)[/i]
+
+Atlas
+rules_text: [i]Portal In[/i] — Whenever Atlas attacks, you may return him to your hand. If you do, put a creature card with mana value 3 or less and a different name from your hand onto the battlefield tapped and attacking. => [i]Portal In[/i] — Whenever Atlas attacks, you may return him to your hand. If you do, put a creature card with mana value 3 or less and a different name from your hand onto the battlefield tapped and attacking.
+Draft Partner with P-Body [i](When you draft this, add a copy of P-Body to your draft pool.)[/i]
+
+P-Body
+rules_text: [i]Collaborative Testing[/i] — When P-Body enters, choose target instant or sorcery card in your graveyard. You may cast it this turn. If a spell cast this way would be put into your graveyard, exile it instead. => [i]Collaborative Testing[/i] — When P-Body enters, choose target instant or sorcery card in your graveyard. You may cast it this turn. If a spell cast this way would be put into your graveyard, exile it instead.
+Draft Partner with Atlas [i](When you draft this, add a copy of Atlas to your draft pool.)[/i]
+
+Toolbox
+
+The Nowhere King
+cost: {3}{B}{G} => {4}{B}{G}
+rules_text: Flying
+Ward—Pay 3 life
+At the beginning of your end step, exile two target cards from your graveyard in a face-down pile, shuffle that pile, then look at it. Cloak one of those cards and put the rest on the bottom of your library. It enters with a finality counter on it and is a Minotaur in addition to its other types. => Flying
+Whenever The Nowhere King enters or attacks, exile two target cards from your graveyard in a face-down pile, shuffle that pile, then look at it. Cloak one of those cards and put the other on the bottom of your library. The cloaked card enters with a finality counter on it and is a Minotaur in addition to its other types.
+pt: 2/4 => 4/5
+
+Backlace
+rules_text: When Backlace enters, exile target noncreature, nonland card from your graveyard. For as long as it remains exiled, you may play it during your turn.
+Equipped creature has prowess, prowess, and prowess. [i](Whenever you cast a noncreature spell, equipped creature gets +3/+3 until end of turn.)[/i]
+Equip {4} => When Backlace enters, exile target noncreature, nonland card from your graveyard. For as long as it remains exiled, you may play it.
+Equipped creature has prowess, prowess, and prowess. [i](Whenever you cast a noncreature spell, equipped creature gets +3/+3 until end of turn.)[/i]
+Equip {4}
+
+Robbie Rotten
+rules_text: Disguise {3}{U}{B} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When this creature enters or is turned face up, he connives 2. [i](Draw two cards, then discard two cards. Put a +1/+1 counter on this creature for each nonland card discarded this way.)[/i] => Disguise {3}{U}{B} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+When Robbie Rotten enters or is turned face up, he connives 3.
+
+Quad Damage
+rules_text: Choose target creature you control. Quadruple its power until end of turn and tap it. It fights target creature you don't control.
+[i]Respawn[/i] — Flashback {2}{G}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target creature you control deals damage equal to its power to target creature you don't control. Excess damage is dealt to that creature's controller instead.
+[i]Respawn[/i] — Flashback {2}{G}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Shrek
+rules_text: Menace
+[i]Get Out Of My Swamp! [/i]— When Shrek enters, return all creatures with power 3 or less to their owner's hand. => Menace
+[i]Get Out Of My Swamp! [/i]— When Shrek enters, return all creatures with mana value 3 or less to their owner's hand.
+
+Soul Edge
+rules_text: When Soul Edge enters, attach it to target creature with mana value 3 or less and untap it. You gain control of that creature for as long as Soul Edge remains attached to it.
+Equipped creature gets +2/+2 and has menace and haste.
+Equip {3}{B}{R} [i]({3}{B}{R}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Soul Edge enters, attach it to target creature with mana value 3 or less and untap it. You gain control of that creature for as long as Soul Edge remains attached to it.
+During your turn, equipped creature gets +3/+0 and has menace and haste.
+Equip {3}{B}{R}
+
+Guidance of Moonlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+II, III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+II, III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+
+Slay The Spire
+cost: {1}{G}{W}{U} => {3}{G}{W}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put two +1/+1 counters on target creature.
+III — Draw two cards, then discard two cards.
+IV — Choose one:
+• Exile target creature with power 4 or greater.
+• Exile this, then return it to the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Return target creature card from your graveyard to the battlefield.
+II — Put two +1/+1 counters on target creature.
+III — Draw two cards, then discard two cards.
+IV — Choose one:
+• Exile target creature with power 4 or greater.
+• Exile this, then return it to the battlefield.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Return target creature card from your graveyard to your hand.
+II — Put two +1/+1 counters on target creature.
+III — Draw two cards, then discard two cards.
+IV — Choose one:
+• Exile target creature with power 4 or greater.
+• Exile this, then return it to the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Return target creature card from your graveyard to the battlefield.
+II — Put two +1/+1 counters on target creature.
+III — Draw two cards, then discard two cards.
+IV — Choose one:
+• Exile target creature with power 4 or greater.
+• Exile this, then return it to the battlefield.
+
+Chessboard Revolution
+rules_text: As an additional cost to cast this spell, sacrifice a nontoken creature.
+Create six 1/1 white Soldier creature tokens. => As an additional cost to cast this spell, sacrifice a creature.
+Create three 1/1 white Soldier creature tokens. If the sacrificed creature wasn't a token, create three more.
+
+Control Point
+rules_text: {T}: Add {C}.
+{3}, {T}, Tap two untapped creatures you control, Sacrifice this: You take the lead. [i](It's the monarch.)[/i] => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Tap two untapped creatures you control, Sacrifice this: You take the lead. [i](It's the monarch.)[/i]
+
+Symbol Of Office
+rules_text: When Symbol Of Office enters, you become the lead. [i](It's the monarch.)[/i]
+Equipped creature has +2/+2 and vigilance.[i]
+[/i]Equip {3} => When Symbol Of Office enters, you become the lead. [i](It's the monarch.)[/i]
+Equipped creature has +2/+2.[i]
+[/i]Equip {3}
+
+Kaela's Grind
+rules_text: [i]Primed to Grind—[/i]During your turn, noncreature spells you cast cost {1} less to cast.
+Whenever you cast your third spell each turn, exile the top card of your library. You may play it until the end of your next turn. => [i]Primed to Grind — [/i]Noncreature spells you cast cost {1} less to cast.
+Whenever you cast your second spell each turn, exile the top card of your library. You may play it until the end of your next turn.
+
+Mystery Inc.
+rules_text: Ward {2}
+[i]Landfall[/i] — Whenever a land you control enters, cloak the top card of your library and put a menace counter on it.
+Whenever a modified creature you control attacks, investigate.
+Sacrifice three Clues: Turn target face-down creature face up. => Ward {2}
+[i]Landfall[/i] — Whenever a land you control enters, cloak the top card of your library and put a menace counter on it.
+Whenever a modified creature you control attacks, investigate, then you may sacrifice three Clues. If you do, turn target face-down creature face up.
+
+Alien Insect
+rules_text: Haste, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i] => Haste
+
+Nightmare
+pt: 3/2 => 2/2
+
+Page
+rules_text: {2}, Sacrifice this artifact: Draw a card. => {1}, {T}, Sacrifice this: Target creature you control connives. Activate only as a sorcery. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Soul Calibur
+rules_text: When Soul Calibur enters, destroy target nonland permanent.
+During your turn, equipped creature gets +2/+2 and has vigilance and lifelink.
+Equip {3}{W}{W} => When Soul Calibur enters, destroy target nonland permanent an opponent controls.
+During your turn, equipped creature gets +3/+0 and has vigilance and lifelink.
+Equip {3}{W}{W}
+
+Absolutely Safe Capsule
+rules_text: When this enters, target creature phases out until this leaves the battlefield. => When Absolutely Safe Capsule enters, target creature phases out until this leaves the battlefield.
+
+Ishikawa Goemon XIII
+pt: 4/4 => 4/5
+
+Zooble
+rules_text: When Zooble enters, put a +1/+1 counter on them.
+If one or more counters would be placed on Zooble, choose a kind of counter at random that they don't have on them from among flying, deathtouch, hexproof, reach, trample, vigilance, and +1/+1. Those counters plus an additional counter of the chosen kind are put on Zooble instead. => When Zooble enters, put a +1/+1 counter on target creature you control.
+If one or more counters would be put on Zooble, choose a kind of counter at random that they don't have on them from among flying, deathtouch, hexproof, reach, trample, vigilance, and +1/+1. Those counters plus an additional counter of the chosen kind are put on Zooble instead.
+
+The Great Wall of China
+rules_text: Defender
+[i]Construct[/i] — Disguise {3}{W}
+[i]Unveil [/i]— When The Great Wall of China is turned face up, you take the lead. [i](It's the monarch)[/i]
+When The Great Wall of China enters or is turned face up, create an X/X white Warrior creature token, where X is the number of lands you control. => Defender
+[i]Construct[/i] — Disguise {3}{W}
+[i]Unveil [/i]— When The Great Wall of China is turned face up, you take the lead.
+When The Great Wall of China enters or is turned face up, create an X/X white Warrior creature token, where X is the number of lands you control.
+
+Ishmael, Shield of Zwei West
+rules_text: Flash
+Vigilance
+[i]Your Shield[/i]—When Ishmael enters, double the toughness of target creature you control until end of turn.
+Ishmael can block an additional creature each combat. => Flash
+[i]Your Shield[/i]—When Ishmael enters, double the toughness of target creature you control until end of turn.
+
+Skull Kid
+rules_text: Modified creatures you control have menace.
+Exhaust — {1}{U}{U}: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and umbra armor. [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy the mask. Activate each exhaust ability only once.)[/i] => When Skull Kid enters, create a white Aura enchantment token named Mask attached to target permanent. The token has enchant permanent and umbra armor. [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy the mask.)[/i]
+Modified creatures you control have menace.
+
+The Omnitrix
+cost: {1} => {0}
+rules_text: Equipped creature has ward {2}.
+Whenever a creature dies, you may exile it.
+{2}: Until end of turn, equipped creature becomes a copy of a creature card exiled with The Omnitrix. Activate only once each turn.
+Equip {2} => Equipped creature has ward {2}.
+Whenever a creature dies, you may exile it.
+{2}, {T}: Until end of turn, equipped creature becomes a copy of a creature card exiled with The Omnitrix.
+Equip {2}
+
+Respawn Machine
+cost: {7} => {6}
+
+Robocop
+pt: 5/6 => 5/5
+
+Where The Forest Would Grow
+
+The Blunderdome
+rules_text: The Blunderdome enters tapped.
+{T}: Add {W} or {U}.
+{W}{U}, {T}: Return target creature you control to its owner's hand. Activate only if a creature you control left the battlefield without dying this turn, and only as a sorcery. => The Blunderdome enters tapped.
+{T}: Add {W} or {U}.
+{4}{W}{U}, {T}: Draw a card. This ability costs {2} less to activate for each creature you control that left the battlefield without dying this turn.
+
+The Gungeon
+rules_text: The Gungeon enters tapped.
+{T}: Add {B} or {R}.
+{B}{R}, {T}: The Gungeon deals 2 damage to any target that's the target of a spell or ability you control. => The Gungeon enters tapped.
+{T}: Add {B} or {R}.
+{4}{B}{R}, {T}: Draw a card. This ability costs {2} less to activate for each crime you've committed this turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+Doofenshmirtz Tower
+rules_text: Doofenshmirtz Tower enters tapped.
+{T}: Add {U} or {B}.
+{1}{U}{B}, {T}: Tap target untapped creature you control. It connives. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => Doofenshmirtz Tower enters tapped.
+{T}: Add {U} or {B}.
+{4}{U}{B}, {T}: Draw a card. For each generic mana in this ability's activation cost, you may exile two nonland cards from your graveyard rather than pay that mana.
+
+Luigi's Mansion
+rules_text: Luigi's Mansion enters tapped.
+{T}: Add {B} or {G}.
+{B}{G}, {T}: You may discard a card. Mill two cards, then mill two more if you discarded a card. => Luigi's Mansion enters tapped.
+{T}: Add {B} or {G}.
+{4}{B}{G}, {T}: Draw a card. If one or more cards left one or more graveyards this turn, this ability costs {2} less to activate for each of those graveyards.
+
+The Motherlobe
+rules_text: The Motherlobe enters tapped.
+{T}: Add {G} or {U}.
+{1}{G}{U}, {T}: Move all counters from target creature you control to another target creature, then attach all Auras and Equipment you control that were attached to the first creature to the second creature. => The Motherlobe enters tapped.
+{T}: Add {G} or {U}.
+{4}{G}{U}, {T}: Draw a card. This ability costs {2} less to activate for each kind of modification beyond the first on the creature you control with the most kinds of modifications among creatures you control. [i](The kinds of modifications are counters, Equipment, and Auras you control.)[/i]
+
+Mount Celeste
+rules_text: Mount Celeste enters tapped.
+{T}: Add {R} or {G}.
+{R}{G}, {T}: You may return a land you control to its owner's hand. Target creature you control gains haste and trample until end of turn, then gets +2/+2 until end of turn if you returned a land. Activate only as a sorcery. => Mount Celeste enters tapped.
+{T}: Add {R} or {G}.
+{4}{R}{G}, {T}: Draw a card. This ability costs {2} less to activate for each land beyond the first that has entered under your control this turn.
+
+Mount Ebott
+rules_text: Mount Ebott enters tapped.
+{T}: Add {R} or {W}.
+{R}{W}, {T}: Put a +1/+1 counter on target creature that's the target of a spell or ability you control. Untap it. => Mount Ebott enters tapped.
+{T}: Add {R} or {W}.
+{4}{R}{W}, {T}: Draw a card. This ability costs {2} less to activate for each creature you control that was the target of a spell or ability you controlled this turn.
+
+Queen's Gardens
+rules_text: Queen's Gardens enters tapped.
+{T}: Add {G} or {W}.
+{G}{W}, {T}, Remove a counter from a creature you control: Create a 1/1 green Insect creature token. => Queen's Gardens enters tapped.
+{T}: Add {G} or {W}.
+{4}{G}{W}, {T}: Draw a card. This ability costs {1} less to activate for each modified creature you control.
+
+Silent Hill
+rules_text: Silent Hill enters tapped.
+{T}: Add {W} or {B}.
+{1}{W}{B}, {T}, Sacrifice a creature: Exile two creature cards from your graveyard at random. If you exiled two cards this way, put one into your hand. => Silent Hill enters tapped.
+{T}: Add {W} or {B}.
+{4}{W}{B}, {T}: Draw a card. This ability costs {2} less to activate for each creature you've sacrificed this turn.
+
+Snake Mountain
+rules_text: Snake Mountain enters tapped.
+{T}: Add {U} or {R}.
+{U}{R}, {T}: Snake Mountain deals 1 damage to each player. The next time you cast a noncreature spell this turn, untap Snake Mountain. => Snake Mountain enters tapped.
+{T}: Add {U} or {R}.
+{4}{U}{R}, {T}: Draw a card. This ability costs {2} less to activate for each noncreature spell you've cast this turn.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 

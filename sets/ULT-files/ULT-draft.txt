@@ -102,16 +102,16 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}{B}",
 			"type": "Legendary Artifact Creature — Robot",
-			"collector_number": "289",
+			"collector_number": "288",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/289_GLaDOS_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/288_GLaDOS_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/289_GLaDOS_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/288_GLaDOS_front.png"
 			}
 		},
 		{
@@ -196,9 +196,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{R}{W}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "286",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/286_The Flash, Barry Allen.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/285_The Flash, Barry Allen.png"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 		{
 			"name": "Big Ben",
 			"rarity": "special",
-			"mana_cost": "{2}",
+			"mana_cost": "{1}",
 			"type": "Legendary Artifact",
 			"collector_number": "315",
 			"image_uris": {
@@ -445,7 +445,7 @@
 		{
 			"name": "Majora's Mask",
 			"rarity": "special",
-			"mana_cost": "{3}{U}{B}",
+			"mana_cost": "{U}{B}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "254",
 			"image_uris": {
@@ -530,13 +530,13 @@
 			}
 		},
 		{
-			"name": "Deathwing",
+			"name": "Melon, Cutthroat Hybrid",
 			"rarity": "special",
-			"mana_cost": "{6}{B}{R}{G}",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "284",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Antelope Leopard",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/284_Deathwing.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/293_Melon, Cutthroat Hybrid.png"
 			}
 		},
 		{
@@ -629,7 +629,7 @@
 		{
 			"name": "Enter the Gungeon",
 			"rarity": "special",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
 			"collector_number": "159",
 			"image_uris": {
@@ -699,7 +699,7 @@
 		{
 			"name": "Mount Rushmore",
 			"rarity": "special",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Legendary Artifact",
 			"collector_number": "227",
 			"image_uris": {
@@ -906,7 +906,7 @@
 		{
 			"name": "The Eiffel Tower",
 			"rarity": "special",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{21}{U}",
 			"type": "Legendary Artifact",
 			"collector_number": "68",
 			"image_uris": {
@@ -1022,16 +1022,16 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{G}{W}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "290",
+			"collector_number": "289",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/290_Gol D. Roger_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/289_Gol D. Roger_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/290_Gol D. Roger_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/289_Gol D. Roger_front.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 		{
 			"name": "Scaramouche the Merciless",
 			"rarity": "special",
-			"mana_cost": "{4}{B}{G}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Artifact Creature — Robot Bard",
 			"collector_number": "274",
 			"image_uris": {
@@ -1189,26 +1189,26 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Mercenary",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/28_Mercenary Token.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/29_Mercenary Token.png"
 			}
 		},
 		{
 			"name": "Funny Valentine",
 			"rarity": "special",
-			"mana_cost": "{2}{U}{R}{W}",
+			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "288",
+			"collector_number": "287",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/288_Funny Valentine_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/287_Funny Valentine_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/288_Funny Valentine_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/287_Funny Valentine_front.png"
 			}
 		},
 		{
@@ -1328,7 +1328,7 @@
 		{
 			"name": "War On Christmas",
 			"rarity": "special",
-			"mana_cost": "{2}{R}{G}",
+			"mana_cost": "{1}{R}{G}",
 			"type": "Battle",
 			"collector_number": "262",
 			"image_uris": {
@@ -1386,106 +1386,6 @@
 			}
 		},
 		{
-			"name": "Doofenshmirtz Tower",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "337",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/337_Doofenshmirtz Tower.png"
-			}
-		},
-		{
-			"name": "Luigi's Mansion",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "344",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/344_Luigi's Mansion.png"
-			}
-		},
-		{
-			"name": "Mount Celeste",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "346",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/346_Mount Celeste.png"
-			}
-		},
-		{
-			"name": "Mount Ebott",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "347",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/347_Mount Ebott.png"
-			}
-		},
-		{
-			"name": "Queen's Gardens",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "350",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/350_Queen's Gardens.png"
-			}
-		},
-		{
-			"name": "Silent Hill",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "354",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/354_Silent Hill.png"
-			}
-		},
-		{
-			"name": "Snake Mountain",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "356",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/356_Snake Mountain.png"
-			}
-		},
-		{
-			"name": "The Blunderdome",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "331",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/331_The Blunderdome.png"
-			}
-		},
-		{
-			"name": "The Gungeon",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "340",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/340_The Gungeon.png"
-			}
-		},
-		{
-			"name": "The Motherlobe",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "345",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/345_The Motherlobe.png"
-			}
-		},
-		{
 			"name": "Lamball",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
@@ -1530,16 +1430,16 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "287",
+			"collector_number": "286",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/287_The French Revolution_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/286_The French Revolution_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/287_The French Revolution_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/286_The French Revolution_front.png"
 			}
 		},
 		{
@@ -1567,9 +1467,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact — Vehicle",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/30_Brobot.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/31_Brobot.png"
 			}
 		},
 		{
@@ -1800,7 +1700,7 @@
 			"name": "Terrible, Terrible Damage",
 			"rarity": "special",
 			"mana_cost": "{X}{R}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "194",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/194_Terrible, Terrible Damage.png"
@@ -1829,7 +1729,7 @@
 		{
 			"name": "A Moon Star Is Born!",
 			"rarity": "special",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "252",
 			"image_uris": {
@@ -2071,9 +1971,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Plant Beast",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/24_Wee Mewon.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/25_Wee Mewon.png"
 			}
 		},
 		{
@@ -2101,9 +2001,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Rat",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/17_Rat.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/18_Rat.png"
 			}
 		},
 		{
@@ -2149,7 +2049,7 @@
 		{
 			"name": "The Nowhere King",
 			"rarity": "special",
-			"mana_cost": "{3}{B}{G}",
+			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Creature — Elk Horror",
 			"collector_number": "273",
 			"image_uris": {
@@ -2398,16 +2298,16 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "293",
+			"collector_number": "292",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/293_Marisa Kirisame_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT-files/img/292_Marisa Kirisame_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/293_Marisa Kirisame_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/292_Marisa Kirisame_front.png"
 			}
 		},
 		{
@@ -2495,9 +2395,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "292",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/292_Guidance of Moonlight.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/291_Guidance of Moonlight.png"
 			}
 		},
 		{
@@ -2563,7 +2463,7 @@
 		{
 			"name": "Slay The Spire",
 			"rarity": "special",
-			"mana_cost": "{1}{G}{W}{U}",
+			"mana_cost": "{3}{G}{W}{U}",
 			"type": "Legendary Enchantment — Saga",
 			"collector_number": "299",
 			"back": {
@@ -2692,9 +2592,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/10_Soldier.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/11_Soldier.png"
 			}
 		},
 		{
@@ -2869,9 +2769,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Alien Robot",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/6_Alien Robot.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/7_Alien Robot.png"
 			}
 		},
 		{
@@ -2879,9 +2779,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Alien Warrior",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/7_Alien Warrior.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/8_Alien Warrior.png"
 			}
 		},
 		{
@@ -2889,9 +2789,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/8_Human.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/9_Human.png"
 			}
 		},
 		{
@@ -2899,9 +2799,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Enchantment — Aura",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/9_Mask.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/10_Mask.png"
 			}
 		},
 		{
@@ -2909,9 +2809,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/11_Spirit.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/12_Spirit.png"
 			}
 		},
 		{
@@ -2919,9 +2819,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Human Rouge",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/12_Moody Blues.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/13_Moody Blues.png"
 			}
 		},
 		{
@@ -2929,9 +2829,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Alien Insect",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/13_Alien Insect.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/14_Alien Insect.png"
 			}
 		},
 		{
@@ -2939,9 +2839,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Eye",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/14_Eye.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/15_Eye.png"
 			}
 		},
 		{
@@ -2949,9 +2849,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Following Army",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/15_Following Army.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/16_Following Army.png"
 			}
 		},
 		{
@@ -2959,9 +2859,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Ooze",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/16_Ooze.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/17_Ooze.png"
 			}
 		},
 		{
@@ -2969,9 +2869,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Hyena",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/18_Hyena.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/19_Hyena.png"
 			}
 		},
 		{
@@ -2979,9 +2879,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Nightmare",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/19_Nightmare.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/20_Nightmare.png"
 			}
 		},
 		{
@@ -2989,9 +2889,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/20_Warrior.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/21_Warrior.png"
 			}
 		},
 		{
@@ -2999,9 +2899,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/21_Beast.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/22_Beast.png"
 			}
 		},
 		{
@@ -3009,9 +2909,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/22_Insect.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/23_Insect.png"
 			}
 		},
 		{
@@ -3019,9 +2919,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/23_Plant.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/24_Plant.png"
 			}
 		},
 		{
@@ -3029,9 +2929,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Detective",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/25_Detective.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/26_Detective.png"
 			}
 		},
 		{
@@ -3039,9 +2939,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/26_The Lead.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/27_The Lead.png"
 			}
 		},
 		{
@@ -3049,9 +2949,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Robot Warrior",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/27_Robot Warrior.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/28_Robot Warrior.png"
 			}
 		},
 		{
@@ -3059,9 +2959,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Blood",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/29_Blood.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/30_Blood.png"
 			}
 		},
 		{
@@ -3069,9 +2969,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/31_Clue.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/32_Clue.png"
 			}
 		},
 		{
@@ -3079,19 +2979,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/32_Food.png"
-			}
-		},
-		{
-			"name": "The Intelligence",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Legendary Artifact",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/33_The Intelligence.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/33_Food.png"
 			}
 		},
 		{
@@ -3105,13 +2995,23 @@
 			}
 		},
 		{
+			"name": "The Intelligence",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/35_The Intelligence.png"
+			}
+		},
+		{
 			"name": "Page",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/35_Page.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/36_Page.png"
 			}
 		},
 		{
@@ -3119,9 +3019,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact — Vehicle",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/36_Sweet Tooth.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/37_Sweet Tooth.png"
 			}
 		},
 		{
@@ -3129,9 +3029,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/37_Treasure.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/38_Treasure.png"
 			}
 		},
 		{
@@ -3189,9 +3089,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — Skeleton Druid",
-			"collector_number": "291",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/291_Grim, Begrudging Mentor.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/290_Grim, Begrudging Mentor.png"
 			}
 		},
 		{
@@ -3209,9 +3109,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{W}{U}{B}{R}{G}",
 			"type": "Battle",
-			"collector_number": "285",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/285_Every Single Power Ranger.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/284_Every Single Power Ranger.png"
 			}
 		},
 		{
@@ -3329,9 +3229,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact — Equipment",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/38_Zantetsuken.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/39_Zantetsuken.png"
 			}
 		},
 		{
@@ -4041,7 +3941,7 @@
 		{
 			"name": "The Omnitrix",
 			"rarity": "special",
-			"mana_cost": "{1}",
+			"mana_cost": "{0}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "323",
 			"image_uris": {
@@ -4051,7 +3951,7 @@
 		{
 			"name": "Respawn Machine",
 			"rarity": "special",
-			"mana_cost": "{7}",
+			"mana_cost": "{6}",
 			"type": "Artifact",
 			"collector_number": "326",
 			"image_uris": {
@@ -4144,6 +4044,116 @@
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/215_John Rambo.png"
 			}
+		},
+		{
+			"name": "THE KEEP OF THE LEAD LORD",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/6_THE KEEP OF THE LEAD LORD.png"
+			}
+		},
+		{
+			"name": "The Blunderdome",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/331_The Blunderdome.png"
+			}
+		},
+		{
+			"name": "The Gungeon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/340_The Gungeon.png"
+			}
+		},
+		{
+			"name": "Doofenshmirtz Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/337_Doofenshmirtz Tower.png"
+			}
+		},
+		{
+			"name": "Luigi's Mansion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/344_Luigi's Mansion.png"
+			}
+		},
+		{
+			"name": "The Motherlobe",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/345_The Motherlobe.png"
+			}
+		},
+		{
+			"name": "Mount Celeste",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/346_Mount Celeste.png"
+			}
+		},
+		{
+			"name": "Mount Ebott",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/347_Mount Ebott.png"
+			}
+		},
+		{
+			"name": "Queen's Gardens",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/350_Queen's Gardens.png"
+			}
+		},
+		{
+			"name": "Silent Hill",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/354_Silent Hill.png"
+			}
+		},
+		{
+			"name": "Snake Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/356_Snake Mountain.png"
+			}
 		}
 	]
 
@@ -4196,7 +4206,7 @@
 	1 Dovakhin's Command
 	1 The Rise of Skynet
 	1 Lost and Found
-	1 Deathwing
+	1 Melon, Cutthroat Hybrid
 	1 Mask Up
 	1 Catwoman, Selina Kyle
 	1 Nami, Straw Hat Navigator
@@ -4274,16 +4284,6 @@
 	1 Barristan, Man-at-Arms
 	1 Sahar, Masterful Duelist
 	1 Nasty End
-	1 Doofenshmirtz Tower
-	1 Luigi's Mansion
-	1 Mount Celeste
-	1 Mount Ebott
-	1 Queen's Gardens
-	1 Silent Hill
-	1 Snake Mountain
-	1 The Blunderdome
-	1 The Gungeon
-	1 The Motherlobe
 	1 Lamball
 	1 Sizz
 	1 Larcin, Invisible Agent
@@ -4507,3 +4507,13 @@
 	1 Where The Forest Would Grow
 	1 The Machine
 	1 John Rambo
+	1 The Blunderdome
+	1 The Gungeon
+	1 Doofenshmirtz Tower
+	1 Luigi's Mansion
+	1 The Motherlobe
+	1 Mount Celeste
+	1 Mount Ebott
+	1 Queen's Gardens
+	1 Silent Hill
+	1 Snake Mountain
