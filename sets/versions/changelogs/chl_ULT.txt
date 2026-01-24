@@ -1,4 +1,123 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+Larfleeze, Orange Lantern added.
+
+Into the Dreamworld removed.
+
+GLaDOS
+rules_text: Ward—{3}, Pay 3 life.
+[i]Portal Testing [/i]— At the beginning of your end step, exile up to one other target creature you control, then return it to the battlefield. => Defender, reach, ward {3}
+[i]Portal Testing [/i]— At the beginning of your end step, exile up to one other target creature you control, then return it to the battlefield.
+
+Predator Elite
+rules_text: Double strike, vigilance, ward {3}
+Whenever a creature dealt damage by Predator Elite this turn dies, draw a card. => Prowess
+[i]Hunting Grounds[/i] — When Predator Elite enters, you draw two cards and may play two additional land cards this turn.
+[i]Hunting Instinct[/i] — Other creatures you control have prowess.
+pt: 3/6 => 5/5
+
+Orochimaru
+rules_text: Ninjutsu—{B}{G}{U}, Pay 3 life [i]({B}{G}{U}, Pay 3 life, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Orochimaru deals combat damage to a player, draw two cards, then discard two cards.
+You may activate Orochimaru's ninjutsu ability from your graveyard. => Ninjutsu—{B}{G}{U}, Pay 3 life. [i]({B}{G}{U}, Pay 3 life, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Orochimaru deals combat damage to a player, draw two cards, then discard two cards.
+You may activate Orochimaru's ninjutsu ability from your graveyard.
+
+Majora's Mask
+rules_text: Equipped creature has flying and “Whenever this creature attacks, it connives.”
+[i]Terrible Fate[/i] — {20}: Destroy all creatures your opponents control. For each mana in this ability's activation cost, you may exile a card from your graveyard rather than pay that mana. Activate only as a sorcery and only once.
+Equip {2} => Equipped creature has flying and “Whenever this creature attacks, it connives.”
+[i]Terrible Fate[/i] — {13}{U}{B}: Destroy all creatures your opponents control. For each generic mana in this ability's activation cost, you may exile a nonland card from your graveyard rather than pay that mana. Activate only as a sorcery and only once.
+Equip {2}
+
+Melon, Cutthroat Hybrid
+type: Legendary Creature — Antelope Leopard => Legendary Creature — Antelope Cat
+pt: 2/2 => 2/3
+
+Nami, Straw Hat Navigator
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, each player creates a Treasure token. => [i]Landfall[/i] — Whenever a land you control enters, each player creates a Treasure token.
+Exhaust — {W}{U}{B}{R}{G}: Draw three cards. [i](Activate each exhaust ability only once.)[/i]
+
+The Eiffel Tower
+cost: {21}{U} => {2}{U}
+
+Time to Choose
+rules_text: Choose one —
+• [i]Step Into the Portal[/i] — Search your library for two cards and put them into your hand.
+• [i]Face an Unwinnable Battle[/i] — Return target creature card from your graveyard to the battlefield. => Choose one —
+• [i]Step Into the Portal[/i] — Search your library for two cards and put them into your hand, then shuffle.
+• [i]Face an Unwinnable Battle[/i] — Return target creature card from your graveyard to the battlefield.
+
+Blue
+pt: 3/3 => 2/2
+
+Lapis Lazuli
+rules_text: Flying, vigilance
+Whenever you cast a spell, you may waterbend {X}{U}{U}, where X is that spell's mana value. If you do, copy that spell, except the copy isn't legendary and you may choose new targets for it. [i](While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}. Copies of permanent spells become tokens.)[/i] => Flying, vigilance
+Waterbend {X}{U}, {T}: Copy target spell you control with mana value X or less, except the copy isn't legendary and you may choose new targets for it. [i](While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}. Copies of permanent spells become tokens.)[/i]
+
+A Moon Star Is Born!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card. You may cloak a card from your hand.
+Return target creature with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield and it gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw a card. You may cloak a card from your hand.
+II — Return target creature with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield and it gains haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card. You may cloak a card from your hand.
+Return target creature with mana value 2 or less to its owner's hand.
+Exile target creature you control. If it's a creature card, return it to the battlefield and it gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw a card. You may cloak a card from your hand.
+II — Return target creature with mana value 2 or less to its owner's hand.
+III — Exile target creature you control. If it's a creature card, return it to the battlefield and it gains haste until end of turn.
+
+La Vita Nuova
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — For each player, exile up to one target creature they control until this Saga leaves the battlefield.
+III — When a creature card exiled by this Saga enters this turn, put a +1/+1 counter on it and give it haste until end of turn if you control it. Otherwise, tap it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — For each player, exile up to one target creature they control until this Saga leaves the battlefield.
+III — When a creature card exiled by this Saga enters this turn, if you own it, put a +1/+1 counter on it and it gains haste. Otherwise, tap it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — For each player, exile up to one target creature they control until this Saga leaves the battlefield.
+III — When a creature card exiled by this Saga enters this turn, put a +1/+1 counter on it and give it haste until end of turn if you control it. Otherwise, tap it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — For each player, exile up to one target creature they control until this Saga leaves the battlefield.
+III — When a creature card exiled by this Saga enters this turn, if you own it, put a +1/+1 counter on it and it gains haste. Otherwise, tap it.
+​
+
+Guidance of Moonlight
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+II, III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+You gain 5 life. Shuffle your graveyard into your library.
+II, III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I — Exile another target nonland permanent. Its controller creates a 3/3 green Beast creature token.
+II — You gain 5 life. Shuffle your graveyard into your library.
+III — Search your library for an Aura or Equipment card and put it onto the battlefield attached to a creature you control, then shuffle.
+
+Mask
+rules_text: Enchant creature
+Umbra armor [i](If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Umbra armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Gabriel, Apostate of Hate
+rules_text: Flying
+Gabriel can't block as long as he has a +1/+1 counter on him.
+Undying [i](When this dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Flying
+Creatures you control have “Whenever this creature becomes the target of a spell or ability, you may put a +1/+1 counter on it and on Gabriel. Do this only once each turn.”
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Melon, Cutthroat Hybrid added.

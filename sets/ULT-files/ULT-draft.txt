@@ -533,7 +533,7 @@
 			"name": "Melon, Cutthroat Hybrid",
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}{G}",
-			"type": "Legendary Creature — Antelope Leopard",
+			"type": "Legendary Creature — Antelope Cat",
 			"collector_number": "293",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/293_Melon, Cutthroat Hybrid.png"
@@ -906,7 +906,7 @@
 		{
 			"name": "The Eiffel Tower",
 			"rarity": "special",
-			"mana_cost": "{21}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact",
 			"collector_number": "68",
 			"image_uris": {
@@ -934,13 +934,13 @@
 			}
 		},
 		{
-			"name": "Into the Dreamworld",
+			"name": "Larfleeze, Orange Lantern",
 			"rarity": "special",
-			"mana_cost": "{R}",
-			"type": "Enchantment",
-			"collector_number": "169",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Alien Wizard",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/169_Into the Dreamworld.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/175_Larfleeze, Orange Lantern.png"
 			}
 		},
 		{
@@ -1119,9 +1119,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/170_Jacket, Midnight Animal.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/169_Jacket, Midnight Animal.png"
 			}
 		},
 		{
@@ -1574,9 +1574,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Djinn",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/171_Jambi the Genie.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/170_Jambi the Genie.png"
 			}
 		},
 		{
@@ -2278,9 +2278,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/173_Juri Han.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/172_Juri Han.png"
 			}
 		},
 		{
@@ -2512,9 +2512,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/172_Johnny Joestar.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/171_Johnny Joestar.png"
 			}
 		},
 		{
@@ -2672,9 +2672,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/174_Kaela's Grind.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/173_Kaela's Grind.png"
 			}
 		},
 		{
@@ -3683,9 +3683,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/175_Kung Fu Man.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT-files/img/174_Kung Fu Man.png"
 			}
 		},
 		{
@@ -4245,7 +4245,7 @@
 	1 The Eiffel Tower
 	1 SCP-294, Infinite Vendor
 	1 AK-47
-	1 Into the Dreamworld
+	1 Larfleeze, Orange Lantern
 	1 William Afton
 	1 Slenderman
 	1 Mimi, Cutesy Housekeep
