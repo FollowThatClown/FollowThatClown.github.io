@@ -1,4 +1,456 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Animal Friend added.
+Supernumerate added.
+Stratus Angel added.
+Everythingamagoyf added.
+Unlikely Companionship added.
+Witching Hour added.
+Sky Fish added.
+Duplicitous Royal added.
+Memento Mori added.
+Fungal Fever added.
+Glistening Egg added.
+Master of Rites added.
+Dawnscape added.
+Winters Yet to Come added.
+Wizened Rider added.
+Explore added.
+Wish Away added.
+Scheming Eunuch added.
+Friends Aplenty added.
+ZZZ added.
+Possessed Porcelain added.
+Epiphany Mask added.
+Wide-Eye Mask added.
+Ominous Visage added.
+Brutal Armor added.
+Wandering Suit added.
+Haunted Skull added.
+Fighting Spirit Helm added.
+Infested Diving Suit added.
+Writhing Wig added.
+Hardened Gaze added.
+Mournful Gaze added.
+Repentant Gaze added.
+Soulful Gaze added.
+Rhapsodous Gaze added.
+Incomplete Attire added.
+Digress added.
+X-Ray added.
+Internal Invasion added.
+Ground Assault added.
+
+The Repentant King removed.
+Burst Asunder removed.
+Sky High Angel removed.
+Sapiovore removed.
+A Favor for a Favor removed.
+Shrouded by Night removed.
+Skyfishing removed.
+Trinity Hierophant removed.
+Celestial Sinkhole removed.
+Blood in the Water removed.
+Lotus Sutra removed.
+Reef removed.
+A Dark and Stormy Night removed.
+Skyline removed.
+Dreadful Visage removed.
+Wise Man removed.
+Expore removed.
+Head Full of Sky removed.
+Eat Me removed.
+Drink Me removed.
+Court Confidant removed.
+Disapparition removed.
+
+Watching Warden
+rules_text: Vigilance
+Noncreature spells cost an additional {P} to cast. [i]({P} can be paid with {1} or 2 life.)[/i] => First strike, vigilance
+Noncreature spells cost an additional {P} to cast. [i]({P} can be paid with {1} or 2 life.)[/i]
+
+Charging Doom
+pt: 3/3 => 3/4
+
+Lady in Red
+rules_text: Ward—Pay 3 life.
+Whenever you cast your second spell each turn, create a Bad Dream token. [i](It's an enchantment with “Sacrifice this: Torment yourself. Draw a card.” To torment yourself, lose 3 life, discard a card or sacrifice a nonland permanent.)[/i] => Whenever you cast your second spell each turn, create a Bad Dream token. [i](It's an enchantment with “Sacrifice this: Torment yourself. Draw a card.” To torment yourself, lose 3 life, discard a card or sacrifice a nonland permanent.)[/i]
+pt: 4/4 => 3/3
+
+Towering Titan
+rules_text: Trample
+Towering Titan's power and toughness are each equal to the number of lands you control.
+When Towering Titan enters or attacks, search your library for a card with a basic land type, put it onto the battlefield tapped, then shuffle.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Trample
+Towering Titan's power and toughness are each equal to the number of lands you control.
+When Towering Titan enters or attacks, search your library for a Forest, put it onto the battlefield tapped, then shuffle.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Hanswurst of Many Hands
+pt: 5/5 => 4/4
+
+Aristaeus
+rules_text: Trample, reach, vigilance
+Aristaeus enters with nine +1/+1 counters on it.
+If damage would be dealt to Aristaeus while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from it. [i](No matter how much damage would be dealt.)[/i]
+Remove three +1/+1 counters from Aristaeus: It gains hexproof until end of turn. => Trample, reach, vigilance
+Aristaeus enters with ten +1/+1 counters on it.
+If damage would be dealt to Aristaeus while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from it.
+Remove three +1/+1 counters from Aristaeus: It gains hexproof until end of turn.
+
+Dreamcatcher
+rules_text: At the beginning of your upkeep, create a 1/1 white Faerie creature token with flying and “This creature can't block.” => At the beginning of your upkeep, create a 1/1 blue Faerie creature token with flying.
+Faeries you control can't block.
+
+Seraph of Sorrows
+rules_text: Flying, vigilance, lifelink
+Whenever Seraph of Sorrows enters or you cast another spell with mana value 5 or greater, return target permanent card with mana value 3 or less from your graveyard to your hand.
+Evoke {1}{W} => Flying
+Whenever Seraph of Sorrows enters or you cast another spell with mana value 5 or greater, return up to one target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+Evoke {1}{W}
+
+Dreamscape Artisan
+cost: {2}{U} => {3}{U}
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you wander, create a 1/1 blue Bird Illusion creature token with flying [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Ward {2}
+Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you wander, create a 1/1 blue Bird Illusion creature token with flying. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 2/2 => 3/3
+
+Palagic Nightmare
+pt: 4/5 => 5/4
+
+Figure of the Crescent Moon
+cost: {3}{U} => {2}{U}
+pt: 2/3 => 1/3
+
+Shape in the Depths
+rules_text: Menace, defender
+As long as you control four or more other creatures, Shape in the Depths can attack as though it didn't have defender.
+Whenever you wander, create a 2/1 blue Shark creature token with menace. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Menace, defender
+As long as you control three or more other creatures, Shape in the Depths can attack as though it didn't have defender.
+Whenever you wander, create a 2/1 blue Shark creature token with menace. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Godstone
+cost: {U} => {1}{U}
+rules_text: When Godstone enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{1}, {T}, Sacrifice Godstone: Draw a card.
+{7}, {T}, Sacrifice Godstone: Draw seven cards. => When Godstone enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{T}, Sacrifice Godstone: Draw a card.
+{3}, {T}, Sacrifice Godstone: Draw two cards.
+
+Emerge from the Water
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Surveil 2.
+Exile the top X cards of your library. You may cast any number of spells with mana value X or less from among them without paying their mana cost. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Surveil 3.
+Exile the top X cards of your library. You may cast any number of spells with mana value X or less from among them without paying their mana cost.
+
+Unravel
+type: Instant => Sorcery
+rules_text: Shuffle target creature into its owner's library. Its controller may scry 3. => Shuffle target creature an opponent controls into its owner's library. Its controller may surveil 3.
+
+No Quarter
+cost: {3}{R} => {2}{R}{R}
+rules_text: When No Quarter enters, create three 1/1 white Soldier creature tokens.
+Creatures you control have unleash 1. [i](You may have those creatures enter with a +1/+1 counter on them. They can't block as long as it has a +1/+1 counter on them.)[/i] => When No Quarter enters, create two 1/1 white Soldier creature tokens. They gain first strike and haste until end of turn.
+Creatures you control have unleash 1. [i](You may have those creatures enter with a +1/+1 counter on them. They can't block as long as they have a +1/+1 counter.)[/i]
+
+Stellar Egg
+cost: {1}{W} => {W}
+
+Beautiful Corpse
+rules_text: Ward—Pay 3 life
+When Beautiful Corpse enters, search your library for any number of nonland cards with total mana value 5 or less, put them into your graveyard, then shuffle.
+Beautiful Corpse's power is equal to the number of cards in your graveyard. => Ward—Pay 3 life.
+When Beautiful Corpse enters, you may mill three cards.
+Beautiful Corpse's power is equal to the number of nonland cards in your graveyard.
+
+Id
+rules_text: At the beginning of your end step, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+At the beginning of your end step, create a Treasure token if you lost 3 or more life this turn. => At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+At the beginning of your end step, create a Treasure token if you lost 3 or more life this turn.
+pt: 3/1 => 2/3
+
+Cloud Nine
+rules_text: Whenever you cast a spell with mana value 5 or greater, create a 1/1 white Bird creature token with flying.
+Sacrifice a creature with flying: Draw a card. Activate only as a sorcery. => When Cloud Nine enters and whenever you cast a spell with mana value 5 or greater, you draw a card and gain 1 life.
+
+Hopeblossom
+rules_text: When Hopeblossom enters or leaves, you gain 1 life and draw a card.
+{3}, {T}, Sacrifice Hopeblossom: Exile target permanent you control, then return it to the battlefield. Activate only as a sorcery. => When Hopeblossom enters or leaves, you draw a card and gain 1 life.
+{3}, {T}, Sacrifice Hopeblossom: Exile target permanent you control, then return it to the battlefield. Activate only as a sorcery.
+
+Sunsewer
+rules_text: When Sunsewer enters, search your library for an artifact or enchantment card, put it into your graveyard, then shuffle.
+Whenever Sunsewer attacks, you may cast target artifact or enchantment card in your graveyard this turn. => Ward {2}
+Whenever Sunsewer attacks, you may cast target artifact or enchantment card in your graveyard by exiling three other cards from your graveyard in addition to its other costs.
+pt: 2/2 => 3/2
+
+Marvelous Mechanisms
+cost: {6}{U} => {5}{U}
+
+Deep Dark Delver
+rules_text: Vigilance
+Deep Dark Delver gets +2/+0 for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Deep Dark Delver gets +2/+0 for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 0/3 => 0/2
+
+Come Apart
+cost: {U}{U} => {2}{U}
+rules_text: Counter target spell unless its controller pays {2}. If they do, draw two cards, then discard two cards. => Counter up to one target spell unless its controller pays {3}. 
+Draw two cards, then discard two cards.
+
+Trashcaster Mage
+cost: {U} => {1}{U}
+rules_text: As an additional cost to cast this spell, return a non-Wizard permanent you control to its owner's hand.
+When Trashcaster Mage enters, target instant or sorcery card in your graveyard gains jump-start until end of turn. [i](You may cast this it by discarding a card in addition to paying its other costs. Then exile that card.)[/i] => As an additional cost to cast this spell, return a non-Wizard permanent you control to its owner's hand.
+When Trashcaster Mage enters, target instant or sorcery card in your graveyard gains jump-start until end of turn. [i](You may cast it by discarding a card in addition to paying its other costs. Then exile that card.)[/i]
+pt: 1/1 => 2/1
+
+Go for a Walk
+rules_text: Enchant creature
+When Go for a Walk enters, draw a card.
+Whenever you wander, enchanted creature gets +2/+1. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Enchant creature
+When Go for a Walk enters, draw a card.
+Whenever you wander, enchanted creature gets +2/+2 until end of turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Vizier of Three Faces
+cost: {2}{U} => {4}{U}{U}
+rules_text: Kicker {2}{U}
+You may have Vizier of Three Faces enter as a copy of any creature you control, except if it was kicked, it has “When this creature enters, if it isn't a token, create two tokens that are copies of it, except they have base power and toughness 1/1.” => Cleave {2}{U} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+You may have Vizier of Three Faces enter as a copy of any creature you control [except it has “When this creature enters, if it isn't a token, create two tokens that are copies of it with base power and toughness 1/1.”]
+
+Half Life
+cost: {3}{U} => {2}{U}
+
+Cicada Queen
+rules_text: Deathtouch
+When Cicada Queen enters, create four 1/1 black Insect creature tokens with deathtouch.
+Sacrifice another creature: Each opponent loses 1 life and you gain 1 life. Put a +1/+1 counter on Cicada Queen. => Deathtouch
+When Cicada Queen enters, create four 1/1 green Insect creature tokens with flying.
+Sacrifice another creature: Each opponent loses 1 life and you gain 1 life. Put a +1/+1 counter on Cicada Queen.
+
+Doomed Descent
+cost: {2}{B} => {1}{B}{B}
+rules_text: When Doomed Descent enters, target creature gets -13/-13 until end of turn. If that creature would die this turn, put it on the bottom of its owner's library instead.
+Whenever you wander, surveil 1. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => When Doomed Descent enters, put target creature with mana value 3 or less on the bottom of its owner's library.
+Whenever you wander, surveil 1. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Unnaturalize
+rules_text: Destroy target nonartifact, nonenchantment permanent. => This spell can't be countered.
+Destroy target nonartifact, nonenchantment permanent.
+
+Wild Encounters
+rules_text: When Wild Encounters enters, create a 3/3 green Beast creature token.
+Whenever you wander, create a 3/3 green Beast creature token. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Whenever you wander, create a 3/2 red Wolf creature token. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Schooling
+
+Take a Walk on the Wild Side
+rules_text: Put four +1/+1 counters on each creature you control.
+Suspend 4—{2}{G}
+When you suspend Take a Walk on the Wild Side, you gain 3 life and create a 3/3 green Beast creature token. => Creatures you control get +3/+3 and gain trample until end of turn.
+Suspend 4—{2}{G}
+When you suspend Take a Walk on the Wild Side, you gain 3 life and create a 3/3 green Beast creature token.
+
+Curious Egg
+rules_text: When Curious Egg enters or leaves, surveil 2.
+{2}, {T}, Sacrifice Curious Egg: You gain 3 life.
+{4}, {T}, Sacrifice Strange Egg: Draw a card. [i](You'll surveil before you draw.)[/i] => When Curious Egg enters or leaves, surveil 2.
+{2}, {T}, Sacrifice Curious Egg: You gain 3 life.
+{4}, {T}, Sacrifice Curious Egg: Draw a card. [i](You'll surveil before you draw.)[/i]
+
+Puppet Ruler
+rules_text: Indestructible
+Whenever a creature deals combat damage to you, its controller gains control of Puppet Ruler. Untap it.
+At the beginning of your end step, draw a card. => Indestructible
+Whenever a creature deals combat damage to you, its controller gains control of Puppet Ruler.
+At the beginning of your end step, draw a card.
+pt: 0/5 => 0/3
+
+Ghost Market
+rules_text: When Ghost Market enters, you gain 6 life.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on each creature you control. => When Ghost Market enters, create two 1/1 colorless Spirit creature tokens.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on each creature you control.
+
+Blood Bather
+rules_text: Haste, first strike
+Whenever Blood Bather attacks, choose one or both —
+• Sacrifice another creature. If you do, put a blood counter on Blood Bather.
+• Creatures you control get +X/+0, where X is the number of blood counters on Blood Bather. => Haste, first strike
+Whenever Blood Bather attacks, choose one or both —
+• Sacrifice another creature. If you do, put a blood counter on Blood Bather.
+• Creatures you control get +X/+0 until end of turn, where X is the number of blood counters on Blood Bather.
+pt: 3/2 => 3/1
+
+Into the Void
+cost: {4}{W}{W} => {3}{W}{W}{W}
+
+Dark Lord
+rules_text: Torment yourself: Other creatures you control get +1/+1 until end of turn. Activate only once each turn. [i](To torment yourself, lose 3 life, discard a card, or sacrifice a nonland permanent)[/i] => Whenever Dark Lord attacks, you may torment yourself. If you do, creatures you control get +1/+1 until end of turn. [i](To torment yourself, lose 3 life, discard a card, or sacrifice a nonland permanent)[/i]
+
+All Nighter
+cost: {1}{B} => {B}
+
+Faberge Egg
+rules_text: When Faberge Egg enters, gain control of target creature with mana value 3 or less for as long as you control Faberge Egg.
+When Faberge Egg leaves, draw three cards.
+{2}, {T}, Sacrifice Faberge Egg: Add three mana of any one color. => When Faberge Egg enters, gain control of target creature with mana value 3 or less until Faberge Egg leaves the battlefield.
+When Faberge Egg leaves, draw three cards.
+{2}, {T}, Sacrifice Faberge Egg: Add three mana of any one color.
+
+The Moon
+rules_text: Flying
+Ward {3}
+You can't cast more than one spell each turn.
+At the beginning of your upkeep, draw a card. => Flying, ward {2}
+You can't cast more than one spell each turn.
+At the beginning of your upkeep, draw a card.
+
+Curious Crustacean
+rules_text: Curious Crustacean can't be blocked if a card left your graveyard this turn.
+Whenever Curious Crustacean deals combat damage to a player, draw a card. => Curious Crustacean can't be blocked if a card left your graveyard this turn.
+Whenever Curious Crustacean deals combat damage to a player, draw two cards, then discard a card.
+pt: 2/3 => 3/2
+
+Beat Back
+rules_text: Choose two —
+• Return target spell to its owner's hand.
+• Your opponents can't cast spells this turn.
+• Draw a card. => Choose one or both —
+• Return target spell to its owner's hand.
+• Your opponents can't cast spells this turn.
+
+Strutter
+cost: {3}{R} => {2}{R}
+rules_text: Double strike
+When Strutter enters, you may reveal an Aura or Equipment card you own from outside the game and put it into your hand. => Double strike
+When Strutter enters, you may reveal an Aura or Equipment card you own from outside the game and exile it. You may play it until the end of your next turn.
+pt: 2/3 => 1/3
+
+Skullfaced Silver Tongue
+cost: {2}{R} => {3}{R}
+pt: 2/2 => 3/3
+
+Frogspawn
+rules_text: {2}, {T}, Sacrifice Frogspawn: Create two 1/1 green Frog creature tokens. Activate only as a sorcery.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i] => When Frogspawn enters, you gain 2 life.
+{2}, {T}, Sacrifice Frogspawn: Create two 1/1 green Frog creature tokens. Activate only as a sorcery.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+Incense Soothsayer
+rules_text: When Incense Soothsayer enters, surveil 2.
+If a spell or ability an opponent controls causes you to discard this card, put it onto the battlefield instead of putting it into your graveyard. => When Incense Soothsayer enters, you gain 4 life.
+If a spell or ability an opponent controls causes you to discard this card, put it onto the battlefield instead of putting it into your graveyard.
+pt: 3/2 => 4/2
+
+Strange Deer
+cost: {1}{G}{G} => {1}{G}
+rules_text: When Strange Deer enters, another target creature loses all abilities and is a green Elk creature with base power and toughness 3/3. Its controller draws a card. => Kicker {1}{G} [i](You may pay an additional {1}{G} as you cast this spell.)[/i]
+When Strange Deer enters, if it was kicked, another target artifact or creature becomes a green Elk creature with base power and toughness 3/3.
+pt: 3/1 => 3/3
+
+Contrition By Fire
+rules_text: Repeat the following process three times. Contrition By Fire deals 3 damage to target player unless they exile a card from their hand. Until the end of your next turn, you may play that card, and may spend mana of any type to cast those spells. => Repeat the following process three times. Contrition By Fire deals 3 damage to target player unless they exile a card from their hand. Until the end of your next turn, you may play that card, and may spend mana of any type to cast it.
+
+Vanishing Ritual
+rules_text: This spell costs {3} less to cast if it targets a permanent you control.
+Choose two target nonland permanents. For each of those permanents, its owner puts it on their choice of the top or bottom of their library. [i](In any order.)[/i] => This spell costs {3} less to cast if it targets a permanent you control.
+Choose two target nonland permanents. For each of those permanents, its owner puts it on their choice of the top or bottom of their library. [i](If you target two permanents with the same owner, they choose how they're ordered.)[/i]
+
+Neuroarcheology
+rules_text: At the beginning of your end step, you may exile target creature card from your graveyard. If you do, draw cards equal to its power, then put four cards from your hand on the bottom of your library in a random order. => At the beginning of your end step, you may exile target creature card from your graveyard. If you do, draw cards equal to its power, then put three cards from your hand on the bottom of your library in a random order.
+
+Lumbering Prophet
+type: Creature => Creature — Giant Cleric
+pt: 0/6 => 0/4
+
+Sultan's Stork
+rules_text: Flying
+When Sultan's Stork enters, search your library for a card with mana value 1 or less, reveal it, put it into your hand, then shuffle. => Flying
+When Sultan's Stork enters, exile target nonland permanent with mana value 3 or less. Its controller creates two Treasure tokens.
+pt: 2/2 => 1/2
+
+Sovereign of the Veil
+pt: 6/7 => 6/6
+
+Sovereign of Nightmares
+pt: 7/6 => 7/5
+
+Rider in Wild Woods
+pt: 3/1 => 4/1
+
+Statue of Civilizations Past
+cost: {5} => {6}
+rules_text: When Statue of Civilizations Past enters, shuffle each creature you control into its owner's library. Draw two cards for each of them.
+You have no maximum hand size.
+{T}: Add two mana of any one color. => When Statue of Civilizations Past enters, shuffle each creature you control into its owner's library. Draw two cards for each of them.
+You have no maximum hand size.
+{T}: Add five mana of any one color.
+
+Seagraf
+rules_text: Whenever one or more cards leave an opponent's graveyard, exile their graveyard.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{2}, {T}: Exile target player's graveyard. Draw a card.
+
+Shadow Puppet Show
+rules_text: When Shadow Puppet Show enters, draw X cards.
+You may reveal each card you draw from your hand as you draw it. When you reveal a creature card this way, create a token that's a copy of it, except it has “At the beginning of the end step, sacrifice this.” [i](It doesn't have haste.)[/i] => When Shadow Puppet Show enters, scry X, then draw X cards.
+You may reveal from your hand each card you draw as you draw it. When you reveal a creature card this way, create a token that's a copy of it, except it has “At the beginning of the end step, sacrifice this.”
+
+Silver Spirit Guide
+cost: {4}{C} => {5}
+
+Boiled Crab
+cost: {3} => {1}
+rules_text: Whenever you sacrifice Boiled Crab or another nontoken artifact, draw a card.
+{2}, {T}, Sacrifice Boiled Crab: You gain 3 life. => Whenever you sacrifice Boiled Crab or another nontoken permanent, target player mills three cards.
+{2}, {T}, Sacrifice Boiled Crab: You gain 3 life.
+
+Color Explosion
+rules_text: Destroy target nonland permanent. If it had mana value 5 or greater, its controller adds {W}{U}{B}{R}{G}. They don't lose this mana as steps and phases end. [i](Ever.)[/i] => Destroy target permanent. If it had mana value 5 or greater, its controller creates five Treasure tokens.
+{1}, Discard Color Explosion: Create a tapped Treasure token.
+
+God's Hand
+rules_text: Create a token that's a copy of target nonenchantment permanent you control, except it's an enchantment. [i](It loses all other permanent types.)[/i]
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i] => Create a token that's a copy of target permanent you control, except it's an enchantment. [i](It loses all other permanent types if it has them.)[/i]
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+Glittering Swan
+rules_text: Flying
+When Glittering Swan enters, create two 1/1 white Bird creature tokens with flying.
+If another permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Flying
+When Glittering Swan enters, create a 1/1 white Bird creature token with flying.
+If a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+pt: 2/2 => 1/1
+
+Alice
+rules_text: Hexproof
+When Alice enters, create Eat Me and create Drink Me, legendary colorless artifact tokens. Eat Me has “{2}, Sacrifice this: Put three +1/+1 counters on target creature. Activate only as a sorcery” and Drink Me has “{2}, Sacrifice this: Draw cards equal to the power of target creature you control, then discard three cards.” => Ward {3}
+Whenever Alice enters or attacks, create a 1/1 white Rabbit creature token. The token explores. [i](Reveal the top card of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on the Rabbit, then put the card back or put it into your graveyard.)[/i]
+Instant and sorcery cards in your graveyard have retrace.
+loyalty:  => 3
+
+Master's Hound
+pt: 5/4 => 5/5
+
+Troubled Child
+rules_text: When Troubled Child enters, create a 5/5 black Nightmare with flying.
+Whenever a Nightmare you control becomes the target of a spell or ability an opponent controls, exile the top three cards of their library and choose one of them. You may cast it without paying its mana cost. => When Troubled Child enters, create a 5/3 black Nightmare with flying.
+Whenever a Nightmare you control becomes the target of a spell or ability an opponent controls, exile the top three cards of their library and choose one of them. You may cast it without paying its mana cost.
+
+Liberous Devotee
+rules_text: Reach
+{X}{X}{G}{G}, Sacrifice Liberous Devotee: Put up to X permanent cards from your hand onto the battlefield. Activate only if your devotion to green is seven or greater and only as a sorcery. => {4}{G}{G}, Sacrifice Liberous Devotee: Put any number of permanent cards from your hand onto the battlefield. Activate only if your devotion to green is seven or greater and only as a sorcery.
+
+Twisted Tea Party
+cost: {3} => {2}
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Fireblossom Gardener added.
