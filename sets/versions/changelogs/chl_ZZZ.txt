@@ -1,4 +1,372 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+No changes.
+
+VERSION 18 CHANGELOG
+====================
+
+Fear of the Chase added.
+Omnivore added.
+Night Creeper added.
+Green Thumb added.
+Trash Golem added.
+High-Rise Blood Fiend added.
+Persistent Nightmare added.
+Great Devourer added.
+Thorn-Crowned King added.
+
+Charging Doom removed.
+Everythingamagoyf removed.
+Creature of the Night removed.
+Hardened Gaze removed.
+Mournful Gaze removed.
+Repentant Gaze removed.
+Soulful Gaze removed.
+Rhapsodous Gaze removed.
+Ground Assault removed.
+
+Animal Friend
+rules_text: Whenever you cast a spell, put a +1/+1 counter on Animal Friend. If that spell has mana value 5 or greater, put two +1/+1 counters on Animal Friend instead. This ability triggers only once each turn.
+Boast — Remove two +1/+1 counters from Animal Friend: Create a 3/3 white Unicorn creature token with lifelink. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => Whenever you cast a spell with mana value 5 or greater, create a 3/2 white Unicorn creature token.
+pt: 1/2 => 1/3
+
+Pale Rider
+rules_text: First strike
+Whenever you cast your first spell each turn, put a +1/+1 counter on Pale Rider.
+Whenever you cast your second spell each turn, create a 1/1 white Soldier creature token.
+Whenever you cast your fourth spell each turn, create a token that's a copy of Pale Rider. => First strike
+Whenever you cast a spell, if it's the first spell you've cast this turn, put a +1/+1 counter on Pale Rider. If it's the second, create a 1/1 white Soldier creature token. If it's the third, create a token that's a copy of Pale Rider.
+
+Clown of Many Cards
+rules_text: When Clown of Many Cards enters, up to one target creature you control becomes a copy of it. [i](This effect lasts indefinitely.)[/i]
+Whenever another Clown you control attacks, exile the top three cards of your library. Choose a card from among them. You may cast it without paying its mana cost. => When Clown of Many Cards enters, up to one target creature you control becomes a copy of it. [i](This effect lasts indefinitely.)[/i]
+Whenever another Clown you control attacks, exile the top three cards of your library. You may cast one of them without paying its mana cost.
+
+Towering Titan
+rules_text: Trample
+Towering Titan's power and toughness are each equal to the number of lands you control.
+When Towering Titan enters or attacks, search your library for a Forest, put it onto the battlefield tapped, then shuffle.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Trample
+Towering Titan's power and toughness are each equal to the number of lands you control.
+When Towering Titan enters or attacks, search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Mother Nature
+rules_text: As long as you control seven or fewer other lands, Mother Nature is a Forest land.” [i](She's isn't a creature and has “{T}: Add {G}.”)[/i]
+Trample, vigilance
+{T}, Exile a permanent card with mana value 2 or less from your graveyard: You may play it this turn. Creatures you play this way enter with a finality counter. => As long as you control seven or fewer other lands, Mother Nature is a Forest land.” [i](She's isn't a creature and has “{T}: Add {G}.”)[/i]
+Trample, vigilance
+{T}, You may play target permanent card with mana value 2 or less from your graveyard this turn. Creatures you play this way enter with a finality counter.
+
+Sent to Far Off Places
+rules_text: When Sent to Far Off Places enters, exile up to two target creatures until Sent to Far Off Places leaves the battlefield.
+If Sent to Far Off Places would leave the battlefield, instead put it on the bottom of its owner's library.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When Sent to Far Off Places enters, exile up to two target creatures until Sent to Far Off Places leaves the battlefield.
+If Sent to Far Off Places would leave the battlefield, exile it instead.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Shape of the Moon
+cost: {5}{W}{W}{W} => {6}{W}{W}
+rules_text: As an additional cost to cast this spell, you may sacrifice any number of artifacts and/or enchantments. This costs {2} less for each permanent sacrificed this way.
+Double strike
+Basic landcycling {2} => As an additional cost to cast this spell, you may sacrifice any number of artifacts and/or enchantments. This costs {2} less for each permanent sacrificed this way.
+Basic landcycling {2}
+pt: 3/6 => 6/6
+
+Brave the Rapids
+rules_text: Search your library for a card with a basic land type, reveal it, put it into your hand, then shuffle.
+Escape—{1}{G}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Search your library for a card with a basic land type, reveal it, put it into your hand, then shuffle.
+Escape—{1}{G}, Exile four other cards from your graveyard.
+
+Enantiomorphos
+rules_text: Flash
+You may have this creature enter as a copy of any nonland permanent on the battlefield.
+Evoke {U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flash
+You may have this creature enter as a copy of any nonland permanent on the battlefield.
+Evoke {U}
+
+Sail To Distant Shores
+rules_text: This spell costs {2} less to cast for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i] => This spell costs {2} less to cast for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+Cascade
+
+Face to Face
+rules_text: Cleave {2}{U} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Exile cards from the top of your library until you exile five nonland cards. An opponent separates those nonland cards into three piles. Keep one pile in exile, put another into your hand, and the third into your graveyard. [You may cast the exiled cards without paying their mana cost.] => Cleave {3}{U} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Exile the top seven cards of your library. An opponent separates those cards into three piles. Put one into your hand and another into your graveyard. [You may cast any number of spells from the third without paying their mana costs.]
+
+Performer of Many Parts
+
+Dreamscape Artisan
+cost: {3}{U} => {2}{U}
+rules_text: Ward {2}
+Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you wander, create a 1/1 blue Bird Illusion creature token with flying. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Ward {2}
+Whenever you wander, create a 1/1 blue Bird Illusion creature token with flying. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 3/3 => 1/4
+
+Palagic Nightmare
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Once during each turn, you may play an instant or sorcery card exiled by Palagic Nightmare.
+{1}{U}, Exile Palagic Nightmare: Shuffle your hand and graveyard into your library, then draw seven cards. Activate only if there are no instant or sorcery cards exiled by Palagic Nightmare. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Once during each turn, you may play an instant or sorcery card exiled by Palagic Nightmare.
+{3}{U}, Exile Palagic Nightmare: Take an extra turn after this one. Activate only if there are no instant or sorcery cards exiled by Palagic Nightmare.
+pt: 5/4 => 5/5
+
+Figure of the Crescent Moon
+rules_text: When Figure of the Crescent Moon enters, exile target instant or sorcery card in your graveyard. Put X time counters on it, where X is its mana value. If it doesn't have suspend, it gains suspend.
+Whenever one or more cards leave your graveyard, time travel. [i](For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)[/i] => When Figure of the Crescent Moon enters, exile target instant or sorcery card in your graveyard. You may play it for as long as it remains exiled.
+Whenever one or more cards leave your graveyard, add {U}. You can't spend this mana to cast spells from your hand.
+
+Godstone
+rules_text: When Godstone enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{T}, Sacrifice Godstone: Draw a card.
+{3}, {T}, Sacrifice Godstone: Draw two cards. => When Godstone enters, surveil 2.
+{T}, Sacrifice Godstone: Draw a card.
+{3}, {T}, Sacrifice Godstone: Draw two cards.
+
+Torg, Titan of Time's Ravage
+rules_text: When Torg enters, sacrifice it unless it escaped.
+Whenever Torg enters the battlefield or attacks, mill three cards, then return a creature card to your hand from among the cards you put into your graveyard this way.
+Escape—{2}{G}{G}, Exile seven other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => When Torg enters, sacrifice it unless it escaped.
+Whenever Torg enters the battlefield or attacks, you may mill three cards, then return a creature or land card from among them to your hand
+Escape—{2}{G}{G}, Exile seven other cards from your graveyard.
+
+No Quarter
+rules_text: When No Quarter enters, create two 1/1 white Soldier creature tokens. They gain first strike and haste until end of turn.
+Creatures you control have unleash 1. [i](You may have those creatures enter with a +1/+1 counter on them. They can't block as long as they have a +1/+1 counter.)[/i] => When No Quarter enters, create two 1/1 red Soldier creature tokens with haste.
+Creatures you control have unleash 1. [i](You may have those creatures enter with a +1/+1 counter on them. They can't block as long as they have a +1/+1 counter.)[/i]
+
+Draw From the Earth
+rules_text: As an additional cost to cast this spell, discard two cards.
+Draw two cards.
+Flashback—{R}, Sacrifice a land. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => As an additional cost to cast this spell, discard two cards.
+Draw two cards.
+Flashback—{R}, Sacrifice a land.
+
+Unlikely Companionship
+rules_text: Mill three cards, lose 2 life, and return up to one creature card from your graveyard to your hand. If you cast this spell from your graveyard, return that card to the battlefield instead.
+Flashback {4}{B} => You mill three cards, lose 2 life, and return up to one creature card from your graveyard to your hand. If you cast this spell from your graveyard, return that card to the battlefield instead.
+Flashback {4}{B}
+
+Insider Info
+rules_text: Target player chooses half of the cards in their hand, rounded up, and reveals them. You choose one of them. They discard that card. If you cast this spell from your graveyard, they draw a card.
+Flashback {B} => Target player chooses half of the cards in their hand, rounded up, and reveals them. You choose one of them. They discard that card.
+Flashback {3}{B}
+
+Mindscaping
+rules_text: Look at target player's hand. Choose a card from it. That player discards that card, searches their library for a basic land card, reveals it, puts it into their hand, then shuffles.
+Flashback {3}{B} => Look at target player's hand. Choose a card from it. That player discards that card, searches their library for a basic land card, reveals it, puts it into their hand, then shuffles.
+
+Caller of Regretful Dead
+rules_text: Whenever you wander, create a 2/2 black Zombie creature token with decayed. [i](You wander when you play a land from your hand or any card from anywhere else. It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever you wander, create a 2/2 black Zombie creature token with decayed. [i](You wander when you play a land from your hand or any card from anywhere else. Decayed creatures can't block. When they attacks, sacrifice them at end of combat.)[/i]
+
+Divine Machine
+rules_text: Flying, lifelink
+Whenever Divine Machine enters or attacks, tap up to one target creature and put two stun counters on it.
+Evoke {1}{WU} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flying, lifelink
+Whenever Divine Machine enters or attacks, tap up to one target creature and put two stun counters on it.
+Evoke {W}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+The Ego
+type: Legendary Creature — Shade => Legendary Creature — Incarnation
+rules_text: Kicker {R}{W}
+Trample
+When The Ego enters, if it was kicked, create a token that's a copy of it, except its name is The Shadow.
+This creature's power is equal to the number of creatures you control. => Kicker {2}
+Trample
+When The Ego enters, if it was kicked, create a token that's a copy of it, except its name is The Shadow.
+This creature's power is equal to the number of creatures you control.
+
+Ashen Titan
+rules_text: Whenever Ashen Titan enters or attacks, you may play target creature card from your graveyard by exiling other cards from your graveyard equal to its mana value rather than by paying its mana cost.
+Evoke {1}{B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Whenever Ashen Titan enters or attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+Evoke {B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Fungal Fever
+rules_text: Fungal Fever deals 3 damage to target creature or planeswalker. Its controller may search their library for a basic land card, shuffle, then put that card on top.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Fungal Fever deals 3 damage to target creature or planeswalker. Its controller may search their library for a basic land card, shuffle, then put that card on top.
+Mountaincycling {2}
+
+Go Crazy
+rules_text: When Go Crazy enters, torment each player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+During your turn, nonland cards in your hand have madness. Their madness cost is equal to their mana cost minus {2}. [i](If you discard that card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => When Go Crazy enters, torment each player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+During your turn, nonland cards in your hand have madness. Their madness cost is equal to their mana cost minus 1.
+
+New Age Messiah
+rules_text: You may look at the top card of your library any time.
+You may play lands from the top of your library.
+[i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on New Age Messiah. => You may look at the top card of your library any time.
+You may play lands from the top of your library.
+Whenever a land you control enters, put a +1/+1 counter on New Age Messiah.
+
+Glistening Egg
+rules_text: When Glistening Egg enters or leaves, create two tapped Treasure tokens.
+{4}, {T}, Sacrifice Glistening Egg: You gain 3 life. => When Glistening Egg enters or leaves, create a Treasure token.
+{2}, {T}, Sacrifice Glistening Egg: You gain 3 life.
+
+Take a Walk on the Wild Side
+rules_text: Creatures you control get +3/+3 and gain trample until end of turn.
+Suspend 4—{2}{G}
+When you suspend Take a Walk on the Wild Side, you gain 3 life and create a 3/3 green Beast creature token. => Creatures you control get +3/+3 and gain trample until end of turn.
+Suspend 4—{2}{G}
+When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature token.
+
+Awaken Doom
+rules_text: Exile the top three cards of your library. You may cast spells from them until the end of your next turn.
+You may put a card from among the exiled cards into your graveyard. If you do, it deals damage equal to its mana value to target creature. => Exile the top three cards of your library. You may put a card from among them into your graveyard. It deals damage equal to its mana value to target creature. You may play the remaining exiled cards until the end of your next turn.
+
+Blood Bather
+rules_text: Haste, first strike
+Whenever Blood Bather attacks, choose one or both —
+• Sacrifice another creature. If you do, put a blood counter on Blood Bather.
+• Creatures you control get +X/+0 until end of turn, where X is the number of blood counters on Blood Bather. => Haste, first strike
+Whenever Blood Bather attacks, choose one or both —
+• Sacrifice a creature. Put a blood counter on Blood Bather.
+• Creatures you control get +X/+0 until end of turn, where X is the number of blood counters on Blood Bather.
+
+Haunt of the Hanging Tree
+rules_text: As an additional cost to cast this spell, return a non-Spirit permanent you control to its owner's hand.
+Flying
+When Haunt of the Hanging Tree enters, surveil 2. => As an additional cost to cast this spell, return a non-Spirit creature you control to its owner's hand.
+Flying
+When Haunt of the Hanging Tree enters, surveil 1.
+
+Emerald Vim
+rules_text: {T}: Add {G}. Spend this mana only to cast spells with mana value 5 or greater.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => {T}: Add {G}. Spend this mana only to cast spells with mana value 5 or greater.
+Forestcycling {2}
+
+Onyx Vim
+rules_text: {T}: Add {B}. Spend this mana only to cast spells with mana value 5 or greater.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => {T}: Add {B}. Spend this mana only to cast spells with mana value 5 or greater.
+Swampcycling {2}
+
+Opal Vim
+rules_text: {T}: Add {W}. Spend this mana only to cast spells with mana value 5 or greater.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => {T}: Add {W}. Spend this mana only to cast spells with mana value 5 or greater.
+Plainscycling {2}
+
+Ruby Vim
+rules_text: {T}: Add {R}. Spend this mana only to cast spells with mana value 5 or greater.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => {T}: Add {R}. Spend this mana only to cast spells with mana value 5 or greater.
+Mountaincycling {2}
+
+Sapphire Vim
+rules_text: {T}: Add {U}. Spend this mana only to cast spells with mana value 5 or greater.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => {T}: Add {U}. Spend this mana only to cast spells with mana value 5 or greater.
+Islandcycling {2}
+
+Hitchhiker's Guide
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Prowess
+Basic landcycling {2}
+
+Hundred-Eyed One
+rules_text: As an additional cost to cast this spell, you may exile four cards from your graveyard. This spell costs {2} less to cast if you do.
+Flying, vigilance
+Once during each of your turns, you may cast an instant or sorcery spell from your graveyard. If you do, exile that spell as it resolves. => As an additional cost to cast this spell, you may exile four cards from your graveyard. This spell costs {2} less to cast if you do.
+Flying, vigilance
+You may cast Hundred-Eyed One from your graveyard. If you do, it enters with a finality counter.
+pt: 3/4 => 4/4
+
+The Moon
+rules_text: Flying, ward {2}
+You can't cast more than one spell each turn.
+At the beginning of your upkeep, draw a card. => Flying, ward {3}
+You can't cast more than one spell each turn.
+At the beginning of your upkeep, draw a card.
+
+Wizened Rider
+rules_text: Flash
+When Wise Man enters, return another target creature to its owner's hand. If you controlled it, surveil 1.
+Evoke {U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flash
+When Wise Man enters, return up to one other target creature to its owner's hand.
+Evoke {U}
+pt: 4/5 => 5/5
+
+Samsara
+rules_text: Samsara enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+Resurrect {2}{G}, resurrect {4}{G}, resurrect {8}{G} [i](You may cast this spell from your graveyard for one of its resurrect costs. If you do, it enters with a finality counter.)[/i] => Samsara enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+You may cast this card from your graveyard by paying {2}{G}, {4}{G}, or {8}{G}. If you do, it enters with a finality counter.
+
+Strange Deer
+rules_text: Kicker {1}{G} [i](You may pay an additional {1}{G} as you cast this spell.)[/i]
+When Strange Deer enters, if it was kicked, another target artifact or creature becomes a green Elk creature with base power and toughness 3/3. => Kicker {1}{G}
+When Strange Deer enters, if it was kicked, another target artifact or creature becomes a green Elk creature with base power and toughness 3/3.
+
+Vanishing Ritual
+rules_text: This spell costs {3} less to cast if it targets a permanent you control.
+Choose two target nonland permanents. For each of those permanents, its owner puts it on their choice of the top or bottom of their library. [i](If you target two permanents with the same owner, they choose how they're ordered.)[/i] => This spell costs {3} less to cast if it targets a permanent you control.
+Put two target nonland permanents on top of their owners' libraries.
+
+Convulsion of Nature
+rules_text: Look at the top ten cards of your library. You may sacrifice a creature. If you do, you may put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature's mana value, then shuffle.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i] => Sacrifice a creature. If you do, look at the top ten cards of your library, put a creature card with mana value X or less from among them onto the battlefield, where X is 1 plus the sacrificed creature's mana value, then shuffle.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+Golden Ratio
+rules_text: When Golden Ratio enters and whenever one or more cards leave your graveyard, put a sequence counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create a 0/0 green and blue Fractal creature token and put a number of +1/+1 counters on it equal to the number of sequence counters on Golden Ratio. [i](0, 1, 2, 3, 5, 8, 13, 21, 34, 55, and 89 appear in the Fibonnaci sequence.)[/i] => When Golden Ratio enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create a 0/0 green and blue Fractal creature token and put a number of +1/+1 counters on it equal to the number of sequence counters on Golden Ratio. [i](0, 1, 2, 3, 5, 8, 13, 21, and 34 appear in the Fibonnaci sequence.)[/i]
+
+Raining Spawn
+rules_text: Create two 1/1 green Frog creature tokens. Frogs you control gain flying until end of turn.
+Escape—{2}{U}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Create two 1/1 green Frog creature tokens. Frogs you control gain flying until end of turn.
+Escape—{2}{U}, Exile four other cards from your graveyard.
+
+Shadow Puppet Show
+cost: {X}{X}{3} => {3}
+rules_text: When Shadow Puppet Show enters, scry X, then draw X cards.
+You may reveal from your hand each card you draw as you draw it. When you reveal a creature card this way, create a token that's a copy of it, except it has “At the beginning of the end step, sacrifice this.” => You may reveal from your hand each card you draw as you draw it. When you reveal a creature card this way, create a token that's a copy of it. Sacrifice it at the beginning of the end step.
+Basic landcycling {2}
+
+Angel of the Long Road
+pt: 5/4 => 5/5
+
+Dionysian Grove
+rules_text: At the beginning of combat on your turn, target nontoken land you control becomes a 0/0 Satyr creature that's still a land. It has haste and “This creature can't block.” Put three +1/+1 counters on it. When it leaves the battlefield, create a tapped Wastes token. [i](It's a basic land with “{T}: Add {C}.”)[/i] => At the beginning of combat on your turn, target nontoken land you control becomes a 4/4 Satyr creature that's still a land. It has haste and “This creature can't block.” When it leaves, create a tapped Wastes token. [i](It's a basic land with “{T}: Add {C}.”)[/i]
+
+The Harvest Man
+rules_text: Whenever a creature you control dies, draw a card. This ability triggers only once each turn.
+[+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[+1]: Create two 2/2 black Zombie creature tokens with decayed.
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. => Whenever a creature you control dies, you may draw a card. Do this only once each turn.
+[+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[+1]: Create two 2/2 black Zombie creature tokens with decayed.
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+special_text: Whenever a creature you control dies, draw a card. This ability triggers only once each turn.
+[+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[+1]: Create two 2/2 black Zombie creature tokens with decayed.
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. => Whenever a creature you control dies, you may draw a card. Do this only once each turn.
+[+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[+1]: Create two 2/2 black Zombie creature tokens with decayed.
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+
+Epiphany Mask
+rules_text: When Epiphany Mask enters or equipped creature attacks, discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Epiphany Mask enters or equipped creature attacks, discover 3.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+Incomplete Attire
+rules_text: When Incomplete Attire enters, shuffle target creature into its owner's library.
+Equipped creature gets +3/+2 and has vigilance.
+Equip {5} => When Incomplete Attire enters, shuffle up to one target creature into its owner's library.
+Equipped creature gets +3/+2 and has vigilance.
+Equip {5}
+
+X-Ray
+rules_text: Look at target player's hand. When you do, choose a creature card from their hand or target creature they control. Exile that creature. You lose 3 life. => Look at target player's hand. When you do, choose a creature card from their hand or target creature they control. Exile that creature. 
+You lose 3 life.
+
+Internal Invasion
+rules_text: Enchant creature
+Enchanted creature has haste and can't be sacrificed.
+At the beginning of combat on your turn, gain control of enchanted creature until end of turn. Untap it. => Enchant creature you don't own
+Enchanted creature has vigilance, haste, and can't be sacrificed.
+During your turn, you control enchanted creature.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Animal Friend added.
