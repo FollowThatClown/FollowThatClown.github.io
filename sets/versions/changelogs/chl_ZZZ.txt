@@ -1,4 +1,262 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Exotic Beast Tamer added.
+Pelagic Nightmare added.
+Crescent Moon Druid added.
+Mysterious Socialite added.
+Wall of Eyes added.
+Ash-Box Keeper added.
+Mistress of Pelagic Rites added.
+Thrill of the Night added.
+Curio Collector added.
+ERR; added.
+Elves of Crimson Shadow added.
+Paradise added.
+
+Animal Friend removed.
+Palagic Nightmare removed.
+Figure of the Crescent Moon removed.
+Torg, Titan of Time's Ravage removed.
+Sky Fish removed.
+Disfigured Figure removed.
+Mistress of Palagic Rites removed.
+Contrition By Fire removed.
+Science Marches On removed.
+God's Hand removed.
+Storge removed.
+Angel of the Long Road removed.
+Cats on Cats on Cats removed.
+Blood Bloom removed.
+Gilded Lilycorn removed.
+Thanatos removed.
+Fluffle Kerfuffle removed.
+Shepherd of the Flock removed.
+Shining Swan removed.
+Alice removed.
+Friends Aplenty removed.
+
+Towering Titan
+rules_text: Trample
+Towering Titan's power and toughness are each equal to the number of lands you control.
+When Towering Titan enters or attacks, search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Trample
+Towering Titan's power and toughness are each equal to the number of lands you control.
+When Towering Titan enters or attacks, search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle.
+Evoke {1}{G}
+
+Crafted Crafter
+rules_text: {T}: Add one mana of any color.
+{T}: Add two mana in any combination of colors. You can't spend this mana to cast spells from your hand. => {T}: Add one mana of any color.
+{T}: Add two mana of any one color. You can't spend this mana to cast spells from your hand.
+
+Sent to Far Off Places
+rules_text: When Sent to Far Off Places enters, exile up to two target creatures until Sent to Far Off Places leaves the battlefield.
+If Sent to Far Off Places would leave the battlefield, exile it instead.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When Sent to Far Off Places enters, exile up to two target creatures until Sent to Far Off Places leaves.
+If Sent to Far Off Places would leave, exile it instead.
+Evoke {1}{W}
+
+Enter the Arena
+rules_text: When Enter the Arena enters, if you cast it, each player chooses a creature they control. Destroy the rest.
+Whenever you attack, draw a card.
+Evoke {2}{W}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When Enter the Arena enters, if you cast it, each player chooses a creature they control. Destroy the rest.
+Whenever you attack, draw a card.
+Evoke {2}{W}{W}
+
+Cavalier of Winter
+rules_text: Vigilance
+When Cavalier of Winter enters, distribute six stun counters among up to three target creatures. Tap each creatures that had a stun counter put on it this way.
+When Cavalier of Winter dies, remove up to three stun counters from among creatures you don't control, then draw that many cards. => Vigilance
+When Cavalier of Winter enters, distribute three stun counters among one, two, or three target creatures. Tap them.
+When Cavalier of Winter dies, surveil X, where X is the number of tapped creatures your opponents control.
+
+Multitudinous Masses
+rules_text: When Multitudinous Masses enters, create two 1/1 white Spirit creature tokens with flying.
+Creatures you control get +2/+1.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When Multitudinous Masses enters, create two 1/1 white Spirit creature tokens with flying.
+Creatures you control get +2/+1.
+Evoke {1}{W}
+
+Dance with Delusion
+rules_text: Return target creature card from your graveyard to the battlefield. It's a Nightmare and gains haste. Exile it at the beginning of the next end step.
+Rebound [i](If you cast this from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this from exile without paying its mana cost.)[/i] => Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
+Rebound [i](If you cast this from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this from exile without paying its mana cost.)[/i]
+
+Unlikely Companionship
+rules_text: You mill three cards, lose 2 life, and return up to one creature card from your graveyard to your hand. If you cast this spell from your graveyard, return that card to the battlefield instead.
+Flashback {4}{B} => Mill three cards, then return a creature card from your graveyard to your hand. If you cast this spell from your graveyard, return that card to the battlefield instead.
+Flashback {4}{B}
+
+Manque
+rules_text: Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play creature cards from your graveyard by paying {3}{B} rather than by paying their mana cost.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life. => Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play target creature card from your graveyard. It enters with a finality counter on it.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life.
+special_text: Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play creature cards from your graveyard by paying {3}{B} rather than by paying their mana cost.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life. => Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play target creature card from your graveyard. It enters with a finality counter on it.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life.
+
+Divine Machine
+rules_text: Flying, lifelink
+Whenever Divine Machine enters or attacks, tap up to one target creature and put two stun counters on it.
+Evoke {W}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flying, lifelink
+Whenever Divine Machine enters or attacks, tap up to one target creature and put two stun counters on it.
+Evoke {W}{U}
+
+Flood of Visions
+rules_text: Draw three cards, then discard two cards. Torment target player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Escape—{U}{B}, Exile five other cards from your graveyard [i](You may cast this card from your graveyard for its escape cost.)[/i] => Draw three cards, then discard two cards. Torment target player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Escape—{U}{B}, Exile five other cards from your graveyard
+
+Hopeblossom
+rules_text: When Hopeblossom enters or leaves, you draw a card and gain 1 life.
+{3}, {T}, Sacrifice Hopeblossom: Exile target permanent you control, then return it to the battlefield. Activate only as a sorcery. => When Hopeblossom enters or leaves, draw a card.
+{3}, {T}, Sacrifice Hopeblossom: Exile target permanent you control, then return it to the battlefield. Activate only as a sorcery.
+
+Megalophobia
+rules_text: Creatures you control have menace.
+Whenever you wander, you may put a creature card from your hand onto the battlefield. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[i]Channel[/i] — {BG}{BG}, Discard Megalophobia: Search your library for a Swamp card and a Forest card, reveal them, put them into your hand, then shuffle. => Creatures you control have menace.
+Whenever you wander, you may put a creature card from your hand onto the battlefield. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+Basic landcycling {2}
+
+Take a Hike
+rules_text: When Take a Hike enters, put up to one target creature or enchantment an opponent owns on the bottom of their library.
+Whenever you wander, draw a card. Then if this is the first time you've wandered this turn, discard a card. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => When Take a Hike enters, shuffle up to one target creature or enchantment into its owner's library.
+Whenever you wander, draw a card. Then if this is the first time you've wandered this turn, discard a card. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Unleash the Beast
+rules_text: [i]Sweep[/i] — When Unleash the Beast enters, return any number of lands you control to their owner's hand.
+Whenever a land you control leaves the battlefield, Unleash the Beast deals 2 damage to target creature or planeswalker an opponent controls.
+[i]Landfall[/i] — Whenever a land you control enters, create a 3/1 red Elemental creature token with haste. Exile it at the beginning of the next end step. => [i]Sweep[/i] — When Unleash the Beast enters, return any number of lands you control to their owner's hand.
+Whenever a land you control leaves, Unleash the Beast deals 2 damage to target creature or planeswalker an opponent controls.
+[i]Landfall[/i] — Whenever a land you control enters, create a 3/1 red Elemental creature token with haste. Exile it at the beginning of the next end step.
+
+Bauble Miser
+rules_text: Bauble Miser enters with a finality counter.
+When Bauble Miser enters, return target nonland permanent with mana value 2 or less from your graveyard to the battlefield.
+When Bauble Miser leaves the battlefield, sacrifice a nonland permanent with mana value 2 or less. => When Bauble Miser enters, return up to one target nonland permanent with mana value 2 or less from your graveyard to the battlefield.
+When Bauble Miser leaves, exile it and sacrifice a nonland permanent with mana value 2 or less.
+
+Marvelous Mechanisms
+rules_text: As an additional cost to cast this spell, you may sacrifice any number of artifacts and/or enchantments. This spell costs {2} less for each permanent sacrificed this way.
+Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard. => As an additional cost to cast this spell, you may sacrifice any number of artifacts and/or enchantments. This spell costs {2} less for each permanent sacrificed this way.
+Draw three cards.
+
+Burst from the Gates
+rules_text: When Burst from the Gates enters, create X 2/2 black Horror creature tokens with decayed. [i](They can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever you attack, you may sacrifice two nonland permanents. If you do, draw two cards. => When Burst from the Gates enters, create X 2/2 black Horror creature tokens with decayed.
+Whenever you attack, you may sacrifice two nonland permanents. If you do, draw two cards.
+
+Ashen Titan
+rules_text: Whenever Ashen Titan enters or attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+Evoke {B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Whenever Ashen Titan enters or attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+Evoke {B}
+
+Caustic Egg
+rules_text: When Caustic Egg enters or leaves, exile the top card of your library. You may play it until the end of your next turn.
+{2}, {T}, Sacrifice Caustic Egg: It deals 3 damage to target player. => When Caustic Egg enters or leaves, exile the top card of your library. You may play it this turn.
+{2}, {T}, Sacrifice Caustic Egg: It deals 3 damage to target player.
+
+Go Crazy
+rules_text: When Go Crazy enters, torment each player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+During your turn, nonland cards in your hand have madness. Their madness cost is equal to their mana cost minus 1. => When Go Crazy enters, torment each player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+During your turn, nonland cards in your hand have madness. Their madness cost is equal to their mana cost.
+
+Awaken Doom
+rules_text: Exile the top three cards of your library. You may put a card from among them into your graveyard. It deals damage equal to its mana value to target creature. You may play the remaining exiled cards until the end of your next turn. => Exile the top three cards of your library. You may put a card from among them into your graveyard. It deals damage equal to its mana value to target creature. You may play the exiled cards until the end of your next turn.
+
+Chaff Cutter
+cost: {2}{B} => {3}{B}
+pt: 2/2 => 4/3
+
+Pruning Lady
+rules_text: Deathtouch
+When Pruning Lady enters, you may mill three cards.
+Escape— {1}{B}, Exile three other cards from your graveyard with different mana values [i](You may cast this card from your graveyard for its escape cost.)[/i] => Deathtouch
+When Pruning Lady enters, you may mill three cards.
+Escape— {1}{B}, Exile three other cards from your graveyard with different mana values
+
+Faberge Egg
+rules_text: When Faberge Egg enters, gain control of target creature with mana value 3 or less until Faberge Egg leaves the battlefield.
+When Faberge Egg leaves, draw three cards.
+{2}, {T}, Sacrifice Faberge Egg: Add three mana of any one color. => When Faberge Egg enters, gain control of target creature with mana value 3 or less until Faberge Egg leaves.
+When Faberge Egg leaves, draw three cards.
+{2}, {T}, Sacrifice Faberge Egg: Add three mana of any one color.
+
+Curious Crustacean
+rules_text: Curious Crustacean can't be blocked if a card left your graveyard this turn.
+Whenever Curious Crustacean deals combat damage to a player, draw two cards, then discard a card. => Curious Crustacean can't be blocked.
+Whenever Curious Crustacean deals combat damage to a player, draw a card, then discard a card unless a card left your graveyard this turn.
+
+Card Castle
+rules_text: Flying, vigilance
+When Card Castle enters or leaves the battlefield, you may shuffle target nonland permanent an opponent controls into its owner's library. If you do, that opponent draws a card. => Flying, vigilance
+When Card Castle enters or leaves, you may shuffle target nonland permanent an opponent controls into its owner's library. If you do, that opponent draws a card.
+
+Apocalyptic Petitioners
+pt: 2/2 => 3/1
+
+Wish Away
+rules_text: Put target creature or enchantment with mana value 3 or less on the top of its owner's library. They scry 2. => Put target creature with mana value 3 or less on the top of its owner's library. They scry 3.
+
+Sovereign of Nightmares
+rules_text: Impending 5—{2}{B} [i](If you cast this spell for its impending cost, it enters with five time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Lifelink, menace
+Once during each of your turns, you may cast a creature spell with mana value 3 or less from your graveyard by paying 3 life rather than by paying its mana cost. It enters with a finality counter. => Impending 5—{2}{B} [i](If you cast this spell for its impending cost, it enters with five time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+Once during each of your turns, you may cast a creature spell with mana value 3 or less from your graveyard by paying 3 life rather than by paying its mana cost. It enters with a finality counter.
+pt: 7/5 => 7/7
+
+Rider in Wild Woods
+rules_text: This spell can't be countered.
+Trample
+When Rider in Wild Woods leaves the battlefield, if it isn't a token, create a token that's a copy of it. => This spell can't be countered.
+Trample
+When Rider in Wild Woods leaves, if it isn't a token, create a token that's a copy of it.
+
+Seagraf
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{2}, {T}: Exile target player's graveyard. Draw a card. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{2}, {T}, Sacrifice Seagraf: Exile target player's graveyard. Draw a card.
+
+Delictuous Devotee
+rules_text: Flying
+{X}{X}{U}{U}, Sacrifice Delictuous Devotee: Reveal the top seven cards of your library. You may cast up to X instant and/or sorcery spells from among them without paying their mana cost. Put the rest on the bottom of your library in a random order. Activate only if your devotion to blue is seven or greater and only as a sorcery. => Flying
+{4}{U}{U}, Sacrifice Delictuous Devotee: Reveal the top seven cards of your library. You may cast instant and/or sorcery spells from among them without paying their mana cost. Put the rest on the bottom of your library in a random order. Activate only if your devotion to blue is seven or greater.
+pt: 2/2 => 2/3
+
+Green Thumb
+rules_text: Earthbend 3 [i](Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)[/i]
+Flashback {4}{G} => Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.
+Flashback {4}{G}
+
+High-Rise Blood Fiend
+
+Persistent Nightmare
+rules_text: Persistent Nightmare can't block.
+Escape—Exile another black card and two other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Persistent Nightmare can't block.
+Escape—Exile another black card and two other cards from your graveyard.
+
+Great Devourer
+rules_text: When Great Devourer enters, each player exiles their hand, then draws seven cards.
+Once during each of your turns, you may play a card exiled by Great Devourer without paying its mana cost.
+Evoke {3}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When Great Devourer enters, each player exiles their hand, then draws seven cards.
+Once during each of your turns, you may play a card exiled by Great Devourer without paying its mana cost.
+Evoke {3}{U}
+pt:  => 7/7
+
+
+VERSION 19 CHANGELOG
 ====================
 
 No changes.
