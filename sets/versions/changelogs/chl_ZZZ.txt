@@ -1,4 +1,349 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Cabochoned Titan added.
+The Gilded King added.
+Multifeline added.
+Voidspinner added.
+Cloudspotting added.
+Deus Ex Machine added.
+Abstract Expressionist added.
+Ticking Thespian added.
+Pentad Prism added.
+Indulgent Aristocrat added.
+Seagrave added.
+Scheming Baba added.
+Disorganized Chevalier added.
+Purring Pilferer added.
+Trash Mage added.
+Noble Voyage added.
+Organ Organ added.
+Eureka Moment added.
+Frazzled Collector added.
+Gilded Cult Leader added.
+Mind Twist added.
+Class Revolution added.
+Glimmerskin added.
+
+Exotic Beast Tamer removed.
+Fear of the Chase removed.
+Sent to Far Off Places removed.
+Shape of the Moon removed.
+Enter the Arena removed.
+Seraph of Sorrows removed.
+Supernumerate removed.
+Shepherd of Sea and Sky removed.
+Life or Death removed.
+Cloud Nine removed.
+Divine Machine removed.
+Clown Cronies removed.
+Vizier of Three Faces removed.
+Ash-Box Keeper removed.
+Doomsday Clock removed.
+Winters Yet to Come removed.
+Wizened Rider removed.
+Devoted Sprite removed.
+Lumbering Prophet removed.
+Political Advantage removed.
+Seagraf removed.
+Scheming Eunuch removed.
+ERR; removed.
+Incomplete Attire removed.
+
+Watching Warden
+type: Creature — Nightmare => Enchantment Creature — Nightmare
+
+Opulent Queen
+type: Creature — Illusion Noble => Creature — Human Noble
+
+Pale Rider
+type: Creature — Skeleton Knight => Enchantment Creature — Avatar Knight
+
+The Demiurge
+type: Legendary Creature — Illusion God => Legendary Enchantment Creature — Illusion God
+
+Portent of Doom
+type: Creature — Skeleton Knight => Enchantment Creature — Avatar Knight
+
+Towering Titan
+type: Creature — Elemental Giant => Enchantment Creature — Elemental Giant
+
+Mythologize
+rules_text: Exile target creature. Its controller may look at the top seven cards of their library, reveal a historic card from among them, put it into their hand, and put the rest on the bottom of their library in a random order. => Exile target creature. Its controller reveals cards from the top of their library until they reveal a historic card. They put it into their hand, then put the rest on the bottom of their library in a random order.
+
+Pearly Gateway
+type: Creature — Wall => Artifact Creature — Wall
+
+Angel of Incense
+type: Creature — Angel Spirit => Creature — Angel
+
+Turn to Salt
+rules_text: Exile target artifact or enchantment with mana value 2 or less.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Exile target artifact or enchantment with mana value 2 or less.
+Basic landcycling {2}
+
+Figure of Aries
+type: Creature — Satyr => Enchantment Creature — Satyr
+rules_text: During your turn, instant and sorcery spells cost {3} more to cast.
+During an opponent's turn, instant and sorcery spells cost {1} more to cast. => During your turn, noncreature spells your opponent's cast cost {3} more to cast.
+During an opponent's turn, noncreature spells they cast cost {1} more to cast.
+
+Stratus Angel
+pt: 4/3 => 3/3
+
+Sifter of Thoughts Forgotten
+rules_text: When Sifter of Thoughts Forgotten enters, create a 2/2 red Illusion creature token with prowess.
+Whenever one or more cards leave your graveyard, you may return Sifter of Thoughts Forgotten to its owner's hand. => When Sifter of Thoughts Forgotten enters and whenever one or more cards leave your graveyard, create a 2/2 red Illusion creature token with prowess. This ability triggers only once each turn.
+
+Face to Face
+rules_text: Cleave {3}{U} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Exile the top seven cards of your library. An opponent separates those cards into three piles. Put one into your hand and another into your graveyard. [You may cast any number of spells from the third without paying their mana costs.] => Exile the top seven cards of your library. An opponent separates those cards into three piles. Put one into your hand and another into your graveyard. You may cast any number of spells from the third without paying their mana costs.
+
+Pelagic Nightmare
+type: Creature — Nightmare Leviathan => Enchantment Creature — Nightmare
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Once during each turn, you may play an instant or sorcery card exiled by Pelagic Nightmare.
+{3}{U}, Exile Pelagic Nightmare: Take an extra turn after this one. Activate only if there are no instant or sorcery cards exiled by Pelagic Nightmare. => Delve
+Once during each turn, you may play an instant or sorcery card exiled by Pelagic Nightmare.
+{3}{U}, Exile Pelagic Nightmare: Take an extra turn after this one. Activate only if there are no instant or sorcery cards exiled by Pelagic Nightmare.
+
+Cavalier of Winter
+type: Creature — Elemental Knight => Enchantment Creature — Elemental Knight
+
+Far Sight
+cost: {1}{U} => {2}{U}
+rules_text: Play with the top card of your library revealed.
+You may cast spells with mana value 5 or greater from the top of your library.
+You may play lands from the top of your library. => Play with the top card of your library revealed.
+You may play artifact, enchantment, or land cards from the top of your library.
+
+Mysterious Socialite
+rules_text: Ward {2}
+Play with the top card of your library revealed.
+You may cast from the top of your library creature cards with mana value is less than or equal to Mysterious Socialite's power. When you do, put a +1/+1 counter on Mysterious Socialite. => Ward {2}
+You may look at the top card of your library.
+You may cast from the top of your library creature cards with mana value is less than or equal to Mysterious Socialite's power. When you do, put a +1/+1 counter on Mysterious Socialite.
+
+Emerge from the Water
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Surveil 3.
+Exile the top X cards of your library. You may cast any number of spells with mana value X or less from among them without paying their mana cost. => Delve
+Surveil 3, then exile the top X cards of your library. You may cast any number of spells with mana value X or less from among them without paying their mana cost.
+
+Omnivore
+rules_text: Reach
+When Omnivore enters, you may sacrifice an artifact, another creature, and/or a land. You gain 3 life for each permanent sacrificed this way.
+Omnivore gets +X/+X, where X is the number of card types among cards in your graveyard. => Reach
+When Omnivore enters, you may sacrifice an artifact, another creature, and/or a land. You gain 3 life for each permanent sacrificed.
+Omnivore gets +X/+X, where X is the number of card types among cards in your graveyard.
+
+Imago
+type: Creature — Insect Nightmare Noble => Enchantment Creature — Insect Nightmare
+
+Looming Doom
+type: Creature — Nightmare => Enchantment Creature — Nightmare
+rules_text: When Looming Doom enters, you may pay 3 life. If you do, torment target player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Whenever you wander, you may pay {B}. If you do, return Looming Doom from your graveyard to the battlefield tapped. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Looming Doom can't block.
+Whenever you wander, you may pay {B}. If you do, return Looming Doom from your graveyard to the battlefield tapped. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 1/1 => 2/1
+
+Manque
+rules_text: Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play target creature card from your graveyard. It enters with a finality counter on it.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life. => Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: You may play target creature card from your graveyard. It enters with a finality counter.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life.
+special_text: Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: Until end of turn, you may play target creature card from your graveyard. It enters with a finality counter on it.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life. => Whenever you wander, proliferate [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[0]: You may play target creature card from your graveyard. It enters with a finality counter.
+[-2]: Each opponent sacrifices a creature. If they sacrifice a creature with mana value 3 or less this way, surveil 3.
+[-3]: You draw three cards, discard two cards, and lose 1 life.
+
+Mindbending Vista
+rules_text: When Mindbending Vista enters, each creature gets -6/-6 until end of turn. If a creature would die this turn, exile it instead.
+Whenever you wander, torment target player. [i](You wander when you play a land from your hand or a card from anywhere else. A tormented player loses 3 life unless they discard a card or sacrifice a nonland permanent)[/i] => When Mindbending Vista enters, each creature gets -6/-6 until end of turn.
+Whenever you wander, torment target player. [i](You wander when you play a land from your hand or a card from anywhere else. A tormented player loses 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+
+Caller of Regretful Dead
+type: Creature — Spirit => Enchantment Creature — Spirit
+
+Cobbled Copy
+cost: {3}{U}{U} => {4}{U}
+rules_text: This spell costs {2} less to cast if a card left your graveyard this turn.
+Create a token that's a copy of target creature, except it enters with an additional +1/+1 counter on it. => This spell costs {3} less to cast if a card left your graveyard this turn.
+Create a token that's a copy of target creature, except it enters with an additional +1/+1 counter on it.
+
+Flood of Visions
+rules_text: Draw three cards, then discard two cards. Torment target player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Escape—{U}{B}, Exile five other cards from your graveyard => Draw three cards, then discard two cards. Torment target player. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+Escape—{U}{B}, Exile five other cards from your graveyard.
+
+Megalophobia
+rules_text: Creatures you control have menace.
+Whenever you wander, you may put a creature card from your hand onto the battlefield. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+Basic landcycling {2} => Creatures you control have menace.
+Whenever you wander, you may put a creature card from your hand onto the battlefield. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+Basic landcycling {BG}
+
+Wall of Eyes
+rules_text: Defender
+{T}, Sacrifice a creature: You may play an additional land card this turn. => Defender
+{T}, Sacrifice a creature: You may play an additional land card this turn.
+Basic landcycling {1}{BG}
+
+Take a Hike
+rules_text: When Take a Hike enters, shuffle up to one target creature or enchantment into its owner's library.
+Whenever you wander, draw a card. Then if this is the first time you've wandered this turn, discard a card. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => When Take a Hike enters, shuffle up to one target creature into its owner's library.
+Whenever you wander, draw a card. Then if this is the first time you've wandered this turn, discard a card. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Bauble Miser
+type: Creature — Spirit => Enchantment Creature — Spirit
+pt: 2/1 => 1/1
+
+Marvelous Mechanisms
+cost: {5}{U} => {4}{U}
+
+Trashcaster Mage
+rules_text: As an additional cost to cast this spell, return a non-Wizard permanent you control to its owner's hand.
+When Trashcaster Mage enters, target instant or sorcery card in your graveyard gains jump-start until end of turn. [i](You may cast it by discarding a card in addition to paying its other costs. Then exile that card.)[/i] => As an additional cost to cast this spell, return a non-Wizard permanent you control to its owner's hand.
+When Trashcaster Mage enters, target instant or sorcery card in your graveyard gains jump-start until end of turn.
+
+Beast Beneath the Waves
+cost: {7}{B} => {4}{B}
+rules_text: As an additional cost to cast this spell, you may exile eight cards from your graveyard. This spell costs {4} less to cast if you do.
+When Beast Beneath the Waves enters, up to one target creature gets -8/-8 until end of turn. => As an additional cost to cast this spell, exile eight cards from your graveyard. 
+When Beast Beneath the Waves enters, up to one target creature gets -8/-8 until end of turn.
+
+Haunt of the Hanging Tree
+type: Creature — Spirit => Enchantment Creature — Spirit
+
+Hitchhiker's Guide
+type: Creature — Spirit => Enchantment Creature — Spirit
+
+Master of Rites
+cost: {1}{B} => {B}{B}
+pt: 3/2 => 3/3
+
+Eternal Soldier
+type: Creature — Specter Soldier => Enchantment Creature — Specter Soldier
+
+Hundred-Eyed One
+cost: {4}{U}{U} => {1}{U}{U}
+rules_text: As an additional cost to cast this spell, you may exile four cards from your graveyard. This spell costs {2} less to cast if you do.
+Flying, vigilance
+You may cast Hundred-Eyed One from your graveyard. If you do, it enters with a finality counter. => As an additional cost to cast this spell, exile three cards from your graveyard.
+Flying, vigilance
+You may cast Hundred-Eyed One from your graveyard.
+pt: 4/4 => 3/2
+
+Body of Light
+type: Creature — Spirit => Enchantment Creature — Spirit
+
+The Moon
+type: Legendary Creature — Incarnation => Legendary Enchantment Creature — Incarnation
+
+Jousting Champion
+type: Creature — Knight => Creature — Human Knight
+
+Animated Armory
+
+Strutter
+type: Creature — Avatar => Enchantment Creature — Avatar
+
+Avatar of Scourge
+type: Creature — Avatar => Enchantment Creature — Avatar
+
+Knightlight
+type: Creature — Elemental Knight => Enchantment Creature — Elemental Knight
+
+Samsara
+rules_text: Samsara enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+You may cast this card from your graveyard by paying {2}{G}, {4}{G}, or {8}{G}. If you do, it enters with a finality counter. => Resurrect {X}{G}{G} [i](You may cast this from your graveyard. If you do, it enters with a finality counter.)[/i]
+Samsara resurrects with X +1/+1 counters on it.
+pt: 1/0 => 2/1
+
+Strange Deer
+type: Creature — Elemental Elk => Enchantment Creature — Elemental Elk
+
+Three Doomed Souls
+type: Creature — Spirit => Enchantment Creature — Spirit
+
+Golden Ratio
+rules_text: When Golden Ratio enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create a 0/0 green and blue Fractal creature token and put a number of +1/+1 counters on it equal to the number of sequence counters on Golden Ratio. [i](0, 1, 2, 3, 5, 8, 13, 21, and 34 appear in the Fibonnaci sequence.)[/i] => When Golden Ratio enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create an X/X green and blue Fractal creature token, where X is the number of sequence counters on Golden Ratio. [i](0, 1, 2, 3, 5, 8, 13, and 21 appear in the Fibonnaci sequence.)[/i]
+
+Sultan's Stork
+cost: {2}{W} => {W}{U}
+rules_text: Flying
+When Sultan's Stork enters, exile target nonland permanent with mana value 3 or less. Its controller creates two Treasure tokens. => Flying
+Artifact and enchantment spells you cast cost {1} less to cast.
+Artifact and enchantment spells your opponents cast cost {1} more to cast.
+
+Sovereign of the Veil
+cost: {3}{U}{U}{U} => {2}{U}
+rules_text: Impending 5—{1}{U} [i](If you cast this spell for its impending cost, it enters with five time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Flying, vigilance
+Whenever one or more cards leave your graveyard, draw a card. => As long as you own ten or fewer cards in exile, Sovereign of the Veil isn't a creature.
+Flying
+Whenever one or more cards leave your graveyard, draw a card.
+pt: 6/6 => 5/5
+
+Sovereign of Nightmares
+cost: {3}{B}{B}{B} => {2}{B}
+rules_text: Impending 5—{2}{B} [i](If you cast this spell for its impending cost, it enters with five time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+Once during each of your turns, you may cast a creature spell with mana value 3 or less from your graveyard by paying 3 life rather than by paying its mana cost. It enters with a finality counter. => As long as you own ten or fewer cards in exile, Sovereign of Nightmares isn't a creature.
+Once during each of your turns, you may cast a creature spell with mana value 3 or less from your graveyard by paying 3 life rather than by paying its mana cost. It enters with a finality counter.
+pt: 7/7 => 5/5
+
+Shadow Puppet Show
+rules_text: You may reveal from your hand each card you draw as you draw it. When you reveal a creature card this way, create a token that's a copy of it. Sacrifice it at the beginning of the end step.
+Basic landcycling {2} => You may reveal from your hand each card you draw as you draw it. When you reveal a creature card this way, create a token that's a copy of it. Sacrifice it at the beginning of the end step.
+
+Silver Spirit Guide
+type: Creature — Fox Spirit => Enchantment Creature — Fox Spirit
+
+Color Explosion
+rules_text: Destroy target permanent. If it had mana value 5 or greater, its controller creates five Treasure tokens.
+{1}, Discard Color Explosion: Create a tapped Treasure token. => Destroy target permanent. If it had mana value 5 or greater, its controller creates five Treasure tokens.
+[i]Channel[/i] — {1}, Discard Color Explosion: Create a Treasure token.
+
+Curio Collector
+rules_text: Ward {3}
+When Curio Collector enters, create a Clue token.
+Each noncreature artifact you control is a 2/2 artifact creature. [i](They retain their other types and abilities.)[/i] => Ward {3}
+When Curio Collector enters, create a Clue token.
+Each noncreature artifact you control is a 2/2 artifact creature. [i](They retain their abilities.)[/i]
+pt: 2/3 => 3/3
+
+Shattered Reflection
+type: Creature — Reflection => Enchantment Creature — Reflection
+
+Hysteric Devotee
+
+Brutal Armor
+rules_text: When Brutal Armor enters or equipped creature attacks, it deals damage equal to its power to any target.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Brutal Armor enters or equipped creature attacks, it deals damage equal to its power to up to one target creature.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+pt: 2/2 => 3/1
+
+Persistent Nightmare
+type: Creature — Nightmare => Enchantment Creature — Nightmare
+
+Great Devourer
+rules_text: When Great Devourer enters, each player exiles their hand, then draws seven cards.
+Once during each of your turns, you may play a card exiled by Great Devourer without paying its mana cost.
+Evoke {3}{U} => When Great Devourer enters, each player exiles their hand, then draws seven cards.
+At the beginning of combat on your turn, you may play a card exiled by Great Devourer without paying its mana cost.
+Evoke {3}{U}
+
+Elves of Crimson Shadow
+pt: 4/3 => 5/5
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Exotic Beast Tamer added.
