@@ -1,4 +1,41 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Godly Patterns added.
+Shifting Sculptor added.
+
+Divine Patterns removed.
+
+Class Revolution
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack, create two 0/1 black Serf creature tokens. They enter tapped and attacking. Sacrifice them at end of combat.
+Serfs you control get +2/+2.
+{5}{RW} Level 2
+Serfs you control get +2/+2.
+{7}{RW} Level 3
+Serfs you control have double strike. You can't sacrifice them. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack, create two 0/1 black Serf creature tokens that are tapped and attacking. Sacrifice them at end of combat.
+Serfs you control get +2/+2.
+{4}{RW} Level 2
+Serfs you control get +2/+2.
+{6}{RW} Level 3
+Serfs you control have double strike. You can't sacrifice them.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack, create two 0/1 black Serf creature tokens. They enter tapped and attacking. Sacrifice them at end of combat.
+Serfs you control get +2/+2.
+{5}{RW} Level 2
+Serfs you control get +2/+2.
+{7}{RW} Level 3
+Serfs you control have double strike. You can't sacrifice them. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever you attack, create two 0/1 black Serf creature tokens that are tapped and attacking. Sacrifice them at end of combat.
+Serfs you control get +2/+2.
+{4}{RW} Level 2
+Serfs you control get +2/+2.
+{6}{RW} Level 3
+Serfs you control have double strike. You can't sacrifice them.
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Cabochoned Titan added.
