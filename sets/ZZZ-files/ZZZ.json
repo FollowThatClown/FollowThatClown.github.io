@@ -6056,7 +6056,7 @@
             "number": 42,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Changeling\nWhen Shifting Sculptor enters, create a token that's a copy of target artifact or enchantment you control, except it's a 3/3 creature with changeling.",
+            "rules_text": "Changeling\nWhen Shifting Sculptor enters, create a token that's a copy of target artifact or enchantment you control, except it's a 3/3 creature with changeling in addition to its other types.",
             "flavor_text": "[i]\u201cI am my greatest inspiration.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -6220,5 +6220,5 @@
             "notes": ""
         }
     ],
-    "version": 22
+    "version": 23
 }
