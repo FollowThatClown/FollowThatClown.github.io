@@ -1,4 +1,36 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Pompous Princess added.
+Divine Comedian added.
+
+Ticking Thespian removed.
+Worldwalker removed.
+
+Cavalier of Winter
+rules_text: Vigilance
+When Cavalier of Winter enters, distribute three stun counters among one, two, or three target creatures. Tap them.
+When Cavalier of Winter dies, surveil X, where X is the number of tapped creatures your opponents control. => Vigilance
+When Cavalier of Winter enters, distribute three stun counters among one, two, or three target creatures. Tap them.
+When Cavalier of Winter dies, draw X cards then discard X cards, where X is the number of tapped creatures your opponents control.
+
+Sovereign of Nightmares
+rules_text: As long as you own ten or fewer cards in exile, Sovereign of Nightmares isn't a creature.
+Once during each of your turns, you may cast a creature spell with mana value 3 or less from your graveyard by paying 3 life rather than by paying its mana cost. It enters with a finality counter. => As long as you own ten or fewer cards in exile, Sovereign of Nightmares isn't a creature.
+Menace
+Once during each of your turns, you may cast a creature spell with mana value 2 or less from your graveyard by paying 2 life rather than by paying its mana cost. It enters with a finality counter.
+
+Disorganized Chevalier
+cost: {2}{W} => {W}
+
+Noble Voyage
+cost: {W} => {1}{W}
+
+Gilded Cult Leader
+type: Creature — Human Cleric => Creature — Human Cleric Cultist
+
+
+VERSION 23 CHANGELOG
 ====================
 
 
