@@ -1,4 +1,41 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+
+
+Mother Nature
+rules_text: As long as you control seven or fewer other lands, Mother Nature is a Forest land.” [i](She isn't a creature and has “{T}: Add {G}.”)[/i]
+Vigilance, trample
+{T}, You may play target permanent card from your graveyard this turn. Creatures you play this way enter with a finality counter. => As long as you control seven or fewer other lands, Mother Nature is a Forest land.” [i](She isn't a creature and has “{T}: Add {G}.”)[/i]
+Vigilance, trample, indestructible
+{T}, You may play target permanent card from your graveyard this turn. Creatures you play this way enter with a finality counter.
+
+Witching Hour
+cost: {2}{B} => {1}{B}
+
+Wall of Eyes
+rules_text: Defender
+{T}, Sacrifice a creature: You may play an additional land card this turn.
+Basic landcycling {1}{BG} => Defender
+{T}, Sacrifice a creature: You may play an additional land card this turn.
+Basic landcycling {BG}
+
+Dark Lord
+pt: 2/2 => 2/1
+
+Essentialize
+rules_text: Enchant noncreature permanent
+Enchanted permanent is a land with “{1}, {T}: Add one mana of any color.” [i](It loses all other types and abilities.)[/i] => Enchant noncreature permanent
+Enchanted permanent is a land with “{1}, {T}: Add one mana of any color.” [i](It loses all other types and abilities.)[/i]
+Basic landcycling {2G}
+
+Twisted Tea Party
+rules_text: If you would one or more cards, draw twice that many of those cards instead.
+Spells you cast cost twice as much to cast [i](For example, a spell that costs {2}{G} would cost {4}{G}{G})[/i] => If you would draw one or more cards, draw twice that many cards instead.
+Spells you cast cost twice as much to cast [i](For example, a spell that costs {2}{G} would cost {4}{G}{G})[/i]
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Overgrowth Titan added.

@@ -1,0 +1,2851 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PKMN</name>
+			<longname>PKMN</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-12</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Drifblim</name>
+			<text>[b]Flying[/b]
+{W}, Sacrifice Drifblim: Shuffle target artifact or enchantment into its owner&apos;s library. This ability costs {5} more to activate if it targets a creature. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/6_Drifblim.png" num="6">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Balloon Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Golurk</name>
+			<text>[b]Vigilance[/b]
+[b]Haunted[/b] — Whenever Golurk attacks, if the number of Spirits you control plus the number of creature cards in your graveyard is six or greater, target creature you control gains [b]indestructible[/b] until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/9_Golurk.png" num="9">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protect the Clutch</name>
+			<text>Choose one or both —
+• Protect the Clutch deals X damage to target attacking creature, where X is 2 plus the number of tokens you control.
+• Create an Egg token. (It&apos;s a kindred Egg artifact with &quot;{2}, {T}, Sacrifice this: Populate. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/15_Protect the Clutch.png" num="15">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cinccino</name>
+			<text>When Cinccino enters, create a 1/1 white Mouse creature token with &quot;This creature can&apos;t be blocked by creatures with power 3 or greater.&quot;</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/5_Cinccino.png" num="5">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shielded by the Supernatural</name>
+			<text>Target creature gets +2/+2 until end of turn. 
+[b]Haunted[/b] — If the number of Spirits you control plus the number of creature cards in your graveyard is six or greater, that creature gains [b]hexproof [/b]and [b]indestructible [/b]until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/17_Shielded by the Supernatural.png" num="17">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Capture</name>
+			<text>When Capture enters, exile target non-Human creature an opponent controls with mana value 4 or less until Capture leaves.
+Sacrifice Capture: Create a Poke Ball token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/3_Capture.png" num="3">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pokemon Center Lady</name>
+			<text>Whenever an enchantment you control enters, Pokemon Center Lady gets +1/+1 until end of turn.
+{3}{W}: Untap target creature you control. Destroy up to one target Aura attached to it.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/14_Pokemon Center Lady.png" num="14">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skitty</name>
+			<text>Whenever another creature you control enters, you gain 1 life.
+Assist — {3}{W}: Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/18_Skitty.png" num="18">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pokemon Breeder</name>
+			<text>When Pokemon Breeder enters, create a 2/2 green Beast creature token.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/13_Pokemon Breeder.png" num="13">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wing Attack</name>
+			<text>Affinity for creatures with flying (This spell costs {1} less to cast for each creatures with flying you control.)
+Destroy target artifact, enchantment, or creature with power 4 or greater.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/21_Wing Attack.png" num="21">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Celebrate</name>
+			<text>When Celebrate enters, create a 2/2 green Beast creature token.
+Z-Power — {4}{W}, Sacrifice Celebrate: Creatures you control get +2/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/4_Celebrate.png" num="4">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Palossand</name>
+			<text>[b]Defender[/b]
+[b]Haunted[/b] — {3}{W}: Until end of turn, Palossand assigns combat damage equal to its toughness rather than its power and can attack as though it didn&apos;t have defender. Activate this ability only if the number of Spirits you control plus the number of creature cards in your graveyard is six or greater.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/11_Palossand.png" num="11">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aurorus</name>
+			<text>[b]Vigilance, ward {2}[/b]
+Aurora Beam — {1}{W}, Discard Aurorus: Create a Frozen Role token attached to target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature has defender.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/1_Aurorus.png" num="1">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pidgey</name>
+			<text>[b]What!? Pidgey is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+[b]Flying[/b]
+I — Surveil 1.
+II, III, IV — You gain 1 life.
+---
+(Back): Pidgeot</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/12_Pidgey_front.png" num="12a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Pidgeot</related>
+		</card>
+		<card>
+			<name>Pidgeot</name>
+			<text>(You may cast either side of this from your hand.)
+[b]Flying[/b]
+Keen Eye — When Pidgeot enters, surveil 3.
+---
+(Front): Pidgey</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/12_Pidgey_back.png" num="12b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Pidgey</related>
+		</card>
+		<card>
+			<name>Tailwind</name>
+			<text>Enchant creature
+Enchanted creature gets +X/+X, where X is one plus the number of creatures you control you control with [b]flying.[/b]</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/19_Tailwind.png" num="19">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Squirtle</name>
+			<text>[b]What!? Squirtle is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I — Draw two cards, then discard a card.
+II, III, IV — Surveil 1.
+---
+(Back): Blastoise</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/40_Squirtle_front.png" num="40a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Blastoise</related>
+		</card>
+		<card>
+			<name>Blastoise</name>
+			<text>(You may cast either side of this from your hand.)
+[b]Vigilance[/b]
+Hydro Cannon — When Blastoise enters, return target creature with mana value 4 or less to its owner&apos;s hand.
+---
+(Front): Squirtle</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/40_Squirtle_back.png" num="40b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Squirtle</related>
+		</card>
+		<card>
+			<name>Beautifly</name>
+			<text>[b]Flying
+[/b]Whenever an enchantment you control enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/28_Beautifly.png" num="28">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sailor</name>
+			<text>[b]Vigilance
+{T}[/b]: Add {U}. Spend this mana only to cast spells from exile.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/39_Sailor.png" num="39">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whirlpool</name>
+			<text>Counter up to one target spell unless its controller pays {2}. If that spell is countered this way, shuffle it into its owner&apos;s library instead of putting it into its owner&apos;s graveyard.
+Cycling {2}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/44_Whirlpool.png" num="44">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steelix</name>
+			<text>[b]Ward [/b]{2}
+When Steelix enters, thrive. (Give any number of permanents you control another counter they already have.)
+Basic landcycling {2}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/41_Steelix.png" num="41">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Snake Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Froslass</name>
+			<text>[b]Flying
+{2}{U}, [/b]Discard Froslass: Tap target creature. Create a Frozen role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature has defender.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/31_Froslass.png" num="31">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noctowl</name>
+			<text>[b]Flash[/b]
+[b]Flying[/b]
+[b]Trickster[/b] — Whenever you cast your first spell during each opponent&apos;s turn, untap Noctowl.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/36_Noctowl.png" num="36">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acrobatics</name>
+			<text>Draw three cards, then discard two cards unless you discard a creature card with flying.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/24_Acrobatics.png" num="24">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vanillite</name>
+			<text>[b]What!? Vanillite is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I — Tap up to one target creature. Put two stun counters on it.
+II, III, IV — Choose a kind of counter another target permanent has on it. Put another counter of that kind on it.
+---
+(Back): Vanilluxe</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/42_Vanillite_front.png" num="42a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Vanilluxe</related>
+		</card>
+		<card>
+			<name>Vanilluxe</name>
+			<text>(You may cast either side of this from your hand.)
+Ice Body — When Vanilluxe enters, tap up to two target creatures and put two stun counters on each of those creatures.
+---
+(Front): Vanillite</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/42_Vanillite_back.png" num="42b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Vanillite</related>
+		</card>
+		<card>
+			<name>Ball Toss</name>
+			<text>Create a Poke Ball token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.&quot;)
+Thrive. (Give any number of permanents you control another counter they already have.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/27_Ball Toss.png" num="27">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meowstic</name>
+			<text>[b]Menace[/b]
+Whenever an enchantment you control enters, Meowstic gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/35_Meowstic.png" num="35">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Water Bubble</name>
+			<text>[b]Flash
+[/b]Enchant creature
+When Water Bubble enters, put a +1/+1 counter on target creature you control.[b]
+[/b]Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/43_Water Bubble.png" num="43">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Abandon</name>
+			<text>[b]Trickster[/b] — This spell costs {2} less to cast it&apos;s an opponent&apos;s turn and you&apos;ve cast another spell this turn.
+The owner of target creature puts it on their choice of the top or bottom of their library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/23_Abandon.png" num="23">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intimidate</name>
+			<text>[b]Flash[/b]
+Enchant creature
+When Intimidate enters, up to one target creature gets -2/-2 until end of turn.
+Enchanted creature has [b]menace.[/b]</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/52_Intimidate.png" num="52">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lick</name>
+			<text>Enchant creature
+When Lick enters, target player discards two cards.
+Whenever enchanted creature attacks, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/54_Lick.png" num="54">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moonlight</name>
+			<text>Target player mills four cards. You may pay 2 life. If you do, return up to two creature cards from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/56_Moonlight.png" num="56">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mr. Mime</name>
+			<text>[b]Flash[/b]
+[b]Trickster [/b]— Whenever you cast your first spell during each opponent&apos;s turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/57_Mr. Mime.png" num="57">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hex Maniac</name>
+			<text>[b]Haunted [/b]— When Hex Maniac enters, surveil 1. If the number of Spirits you control plus the number of creature cards in your graveyard is six or greater, instead you lose 1 life and draw a card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/51_Hex Maniac.png" num="51">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gastly</name>
+			<text>[b]What!? Ghastly is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+[b]Flying[/b]
+I — Target player discards a card.
+II, III, IV — Each player loses 1 life.
+---
+(Back): Gengar</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/49_Gastly_front.png" num="49a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Gengar</related>
+		</card>
+		<card>
+			<name>Gengar</name>
+			<text>(You may cast either side from your hand.)
+[b]Menace[/b]
+[b]Trickster [/b]— Whenever you cast your first spell during each opponent&apos;s turn, target player loses 2 life and you gain 2 life.
+---
+(Front): Gastly</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/49_Gastly_back.png" num="49b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Gastly</related>
+		</card>
+		<card>
+			<name>Plasma Grunt</name>
+			<text>When Plasma Grunt enters, choose one —
+• Put a +1/+1 counter on it.
+• If you&apos;ve committed a crime this turn, look at target player&apos;s hand. You may choose a non-Human creature card from it. Exile the chosen card. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/60_Plasma Grunt.png" num="60">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Channeler</name>
+			<text>[b]Lifelink[/b]
+[b]Haunted[/b] — When Channeler dies, if number of Spirits you control plus the number of creature cards in your graveyard is six or greater, return target non-Human creature card from your graveyard to your hand. (This ability counts Channeler as a card in your graveyard.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/46_Channeler.png" num="46">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Litwick</name>
+			<text>[b]What!? Litwick is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I — Each player mills two cards.
+II, III, IV — Until end of turn, whenever one or more creatures you control deal combat damage to a player, exile target card from their graveyard
+---
+(Back): Chandelure</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/55_Litwick_front.png" num="55a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Chandelure</related>
+		</card>
+		<card>
+			<name>Chandelure</name>
+			<text>(You may cast either side of this card.)
+When Chandelure enters, it deals 3 damage to any target.
+If a creature dealt damage by Chandelure this turn would die, exile it instead.
+---
+(Front): Litwick</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/55_Litwick_back.png" num="55b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Litwick</related>
+		</card>
+		<card>
+			<name>Team Rocket Upstart</name>
+			<text>Whenever you commit a crime, Team Rocket Upstart gains [b]menace[/b] until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/85_Team Rocket Upstart.png" num="85">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seviper</name>
+			<text>[b]Deathtouch[/b]
+When Seviper enters, create a Poisoned Role token attached to another creature you control. If you can&apos;t, you lose 3 life. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets -1/-1 and has &quot;At the beginning of your upkeep, sacrifice this unless you pay 1 life.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/61_Seviper.png" num="61">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outmatch</name>
+			<text>This spell costs {2} less to cast if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)
+Destroy target creature. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/58_Outmatch.png" num="58">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sewaddle</name>
+			<text>[b]What!? Sewaddle is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I, II — Create a 1/1 green Plant creature token.
+III — Put a +1/+1 counter on up to two other target creatures you control.
+---
+(Back): Leavanny</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/103_Sewaddle_front.png" num="103a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Leavanny</related>
+		</card>
+		<card>
+			<name>Leavanny</name>
+			<text>(You may cast either side of this from your hand.)
+When Leavanny enters, thrive. (Give any number of permanents you control another counter they already have.)
+---
+(Front): Sewaddle</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/103_Sewaddle_back.png" num="103b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Sewaddle</related>
+		</card>
+		<card>
+			<name>Spirit Away</name>
+			<text>Target creature gets +2/+0 until end of turn. When it dies this turn, create a 1/1 white Spirit creature token with flying and &quot;This creature can&apos;t block non-Spirit creatures.&quot;</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/65_Spirit Away.png" num="65">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sludge Bomb</name>
+			<text>Create a Poisoned role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets -1/-1 and has &quot;At the beginning of your upkeep, sacrifice this unless you pay 1 life.&quot;)
+Target creature gets -3/-3 until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/63_Sludge Bomb.png" num="63">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drapion</name>
+			<text>[b]Deathtouch[/b]
+[b]Ward—Pay 3 life[/b].
+Whenever Drapion attacks, if it&apos;s modified, target opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/48_Drapion.png" num="48">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Scorpion</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghoulish Discovery</name>
+			<text>You draw three cards and lose 3 life.
+[b]Haunted [/b]— Then discard a card unless the number of Spirits you control plus the number of creature cards in your graveyard is six or greater.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/50_Ghoulish Discovery.png" num="50">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Power-Up Punch</name>
+			<text>Power-Up Punch deals 2 damage to any target.
+Thrive. (Give any number of permanents you control another counter they already have.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/80_Power-Up Punch.png" num="80">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Boomburst</name>
+			<text>Destroy target artifact or nonbasic land.
+Cycling {1}{R}
+When you cycle Boomburst, thrive. (Give any number of permanents you control another counter they already have.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/69_Boomburst.png" num="69">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Villainous Triumph</name>
+			<text>This spell costs {2} less to cast if you&apos;ve committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Creatures you control get +3/+0 and gain [b]first strike[/b] until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/87_Villainous Triumph.png" num="87">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Centiskorch</name>
+			<text>[b]Double strike
+Ward—Pay 3 life[/b].</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/71_Centiskorch.png" num="71">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lass</name>
+			<text>Lass enters with two +1/+1 counters on it.
+{1}{R}, Remove a +1/+1 counter from Lass, Discard a card: Draw a card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/76_Lass.png" num="76">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scoop Up</name>
+			<text>When Scoop Up enters, gain control of target creature with mana value 2 or less until end of turn. Untap it. It gains haste until end of turn.
+{1}{R}, Sacrifice Scoop Up: Create a Poke Ball token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/83_Scoop Up.png" num="83">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Will-O-Wisp</name>
+			<text>Create a Burned role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature can&apos;t block.)
+Create a Poke Ball token. (An artifact with &quot;{2}, {T}, Sacrifice this: Reveal the top five cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/88_Will-O-Wisp.png" num="88">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elekid</name>
+			<text>[b]What!? Elekid is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I, II, III — Add {R}. You can&apos;t spend this mana to cast creature spells.
+IV — Elekid deals 2 damage to target player.
+---
+(Back): Electivire</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/73_Elekid_front.png" num="73a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Electivire</related>
+		</card>
+		<card>
+			<name>Electivire</name>
+			<text>(You may cast either side of this from your hand.)
+Motor Drive [b]—[/b] When Electivire enters, exile the top card of your library. You may play it until the end of your next turn. If it&apos;s a land card, put a +1/+1 counter on Electivire.
+
+---
+(Front): Elekid</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/73_Elekid_back.png" num="73b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>6R</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Elekid</related>
+		</card>
+		<card>
+			<name>Accelgor</name>
+			<text>[b]First strike, haste[/b]
+Unburden — {2}{R}, Discard a card: Draw a card and put a +1/+1 counter on Accelgor. Activate only once and only as a sorcery.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/67_Accelgor.png" num="67">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bulk Up</name>
+			<text>[b]Flash[/b]
+Enchant creature
+When Bulk Up enters, enchanted creature gets +2/+1 until end of turn.
+Enchanted creature gets +1/+1 and has [b]trample[/b].</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/70_Bulk Up.png" num="70">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magma Grunt</name>
+			<text>When Magma Grunt enters, choose one —
+• Put a +1/+1 counter on it.
+• If you&apos;ve committed a crime this turn, target land you control becomes a 3/3 creature with first strike and haste that&apos;s still a land. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/77_Magma Grunt.png" num="77">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mudsdale</name>
+			<text>[b]Trample, haste
+[/b]High Horsepower — When Mudsdale enters, it gets [b]first strike[/b] until end of turn.
+Basic landcycling [b][/b]{2}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/79_Mudsdale.png" num="79">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charmander</name>
+			<text>[b]What!? Charmander is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I — Charmander deals 2 damage to target player.
+II, III, IV — You may discard a nonland card. If you do, draw a card.
+---
+(Back): Charizard</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/72_Charmander_front.png" num="72a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Lizard Saga</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Charizard</related>
+		</card>
+		<card>
+			<name>Charizard</name>
+			<text>(You may cast either side of this from your hand.)
+[b]Flying[/b]
+Flare Blitz— {2}{R}: Charizard gets +3/-1 until end of turn.
+---
+(Front): Charmander</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/72_Charmander_back.png" num="72b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>6R</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Charmander</related>
+		</card>
+		<card>
+			<name>Spinda</name>
+			<text>When Spinda enters, create a Confused Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is dealt double damage.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/84_Spinda.png" num="84">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Giovanni&apos;s Scheme</name>
+			<text>This spell costs {1} less to cast if you&apos;ve committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Exile the top four cards of your library and choose two of them. You may play those cards until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/74_Giovanni&apos;s Scheme.png" num="74">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tyrogue</name>
+			<text>During your turn, Tyrogue has [b]first strike.[/b]
+Guts — Whenever an enchantment you control enters, put a +1/+1 counter on Tyrogue.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/86_Tyrogue.png" num="86">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcanine</name>
+			<text>When Arcanine enters, choose one —
+• It deals 2 damage to target player.
+• It deals 4 damage to target creature enchanted by an Aura you control.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/68_Arcanine.png" num="68">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trevenant</name>
+			<text>Trevenant enters with a finality counter on it.
+When Trevenant enters, return target land or creature card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/108_Trevenant.png" num="108">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outlevel</name>
+			<text>Put a +1/+1 counter on target creature you control. It gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/98_Outlevel.png" num="98">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Double Team</name>
+			<text>Target creature you control and up to one other target creature you control with the same name each get +2/+2 and gain hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/91_Double Team.png" num="91">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lilligant</name>
+			<text>{2}{G}: Create a 1/1 green Plant creature token and put a +1/+1 counter on Lilligant. Activate only once.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/96_Lilligant.png" num="96">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swalot</name>
+			<text>[b]Deathtouch[/b]
+Swallow — {2}: Exile target card from a graveyard. Put a +1/+1 counter on Swalot. Activate only once and only as a sorcery.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/105_Swalot.png" num="105">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prepare for Battle</name>
+			<text>Choose one or both —
+• Thrive (Give any number of permanents you control another counter they already have.)
+• Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/101_Prepare for Battle.png" num="101">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sunflora</name>
+			<text>Sunflora has hexproof as long as it&apos;s untapped.
+{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/104_Sunflora.png" num="104">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lurantis</name>
+			<text>[b]Ward[/b] {2}
+Lurantis has [b]vigilance [/b]as long as it&apos;s modified. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/97_Lurantis.png" num="97">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bulbasaur</name>
+			<text>[b]What!? Bulbasaur is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I — Put a +1/+1 counter on target creature you control.
+II, III, IV — Add {G}.
+---
+(Back): Venusaur</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/89_Bulbasaur_front.png" num="89a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Plant Saga</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Venusaur</related>
+		</card>
+		<card>
+			<name>Venusaur</name>
+			<text>(You may cast either side of this from your hand.)
+Trample
+When Venusaur enters, thrive. (Give any number of permanents you control another counter they already have.)
+---
+(Front): Bulbasaur</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/89_Bulbasaur_back.png" num="89b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bulbasaur</related>
+		</card>
+		<card>
+			<name>Carnivine</name>
+			<text>Whenever Carnivine attacks, target modified creature you control gains [b]menace[/b] until end of turn. (Equipment, Auras you control, and counters are modifications.)
+{3}{B}, Sacrifice another creature: Put two +1/+1 counters on Carnivine. Activate this ability only as a sorcery.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/45_Carnivine.png" num="45">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tangrowth</name>
+			<text>When Tangrowth enters, choose one —
+• You gain 3 life.
+• Create a 1/1 green Plant creature token.
+• Put a +1/+1 counter on Tangrowth.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/107_Tangrowth.png" num="107">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Take Down</name>
+			<text>Destroy up to one target artifact, enchantment, or creature with flying.
+Thrive (Give any number of permanents you control another counter they already have.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/106_Take Down.png" num="106">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Araquanid</name>
+			<text>Araquanid enters with two +1/+1 counters on it.
+When Araquanid enters, you may remove two +1/+1 counters from it. If you do, return target creature to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/25_Araquanid.png" num="25">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zangoose</name>
+			<text>Zangoose gets +2/+0 as long as it&apos;s modified. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/110_Zangoose.png" num="110">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mongoose</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gogoat</name>
+			<text>As an additional cost to cast this spell, tap an untapped creature or land you control.
+[b]Vigilance[/b]</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/94_Gogoat.png" num="94">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Picnicker</name>
+			<text>When Picnicker enters, create an Egg token. (It&apos;s a kindred Egg artifact with &quot;{2}, {T}, Sacrifice this: Populate. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/100_Picnicker.png" num="100">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flower Gift</name>
+			<text>[b]Flash[/b]
+Enchant creature
+When Flower Gift enters, enchanted creature gets +1/+1 and gains [b]hexproof [/b]until end of turn.
+Enchanted creature gets +1/+1.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/93_Flower Gift.png" num="93">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Exeggutor</name>
+			<text>[b]Reach[/b]
+When Exeggutor enters, if it isn&apos;t a token, create an Egg token. (It&apos;s a kindred Egg artifact with &quot;{1}, {T}, Sacrifice this: Populate. Activate only as a sorcery.&quot; To populate, create a token that&apos;s a copy of a creature token you control.)
+Basic landcycling {2}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/92_Exeggutor.png" num="92">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Journey Across the Region</name>
+			<text>Reveal the top three cards of your library. Put a creature or land card from among them into your hand and the rest on the bottom of your library in a random order.
+Create an Egg token. (It&apos;s a kindred Egg artifact with &quot;{2}, {T}, Sacrifice this: Populate. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/95_Journey Across the Region.png" num="95">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Safari Ball</name>
+			<text>When Safari Ball enters, create a 2/2 green Beast creature token.
+{2}, {T}, Sacrifice Safari Ball: Reveal the top six cards of your library and put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/102_Safari Ball.png" num="102">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Poke Ball</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Greninja</name>
+			<text>[b]Flash[/b]
+Protean — As Greninja enters, choose a kind of counter from among +1/+1, [b]deathtouch[/b], or [b]lifelink. [/b]Greninja enters with the chosen counter on it.
+[b]Trickster[/b] — Whenever you cast your first spell during each opponent&apos;s turn, you may exile Greninja, then return it to the battlefield.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/112_Greninja.png" num="112">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boltund</name>
+			<text>[b]First strike[/b]
+Nuzzle — When Boltund enters, create a Paralyzed role token attached to up to one target creature. Tap that creature. (If you control another Role on it, put that one into the graveyard. Whenever enchanted creature becomes tapped, put a stun counter on it.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/2_Boltund.png" num="2">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>HM02 — Fly</name>
+			<text>Enchant creature
+When HM02 — Fly enters, create a Poke Ball token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this: Reveal the top six cards of your library. Put a non-Human creature from among them into your hand and the rest on the bottom in a random order.&quot;)
+Enchanted creature has [b]defender[/b] and [b]flying.[/b]</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/10_HM02 — Fly.png" num="10">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Professor Elm</name>
+			<text>When Professor Elm enters, create two Egg tokens. (They&apos;re kindred Egg artifacts with &quot;{2}, {T}, Sacrifice this: Populate. Activate only as a sorcery.&quot;)
+Professor Elm&apos;s power is equal to the number of creatures you control.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/115_Professor Elm.png" num="115">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rocket Grunt</name>
+			<text>[b]Menace
+[/b]Whenever you commit a crime, create a Treasure token. This ability triggers only once each turn.
+{4}{B}{R}: Put two +1/+1 counters on Rocket Grunt.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/113_Rocket Grunt.png" num="113">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Atticus, Toxic Fashionista</name>
+			<text>[b]Deathtouch[/b]
+Modified creatures you control get +1/+1 and have [b]menace.[/b] (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/118_Atticus, Toxic Fashionista.png" num="118">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Allister, Ghost Leader</name>
+			<text>[b]Haunted[/b] — When Allister enters, return target creature card from your graveyard to your hand. If the number of Spirits you control plus the number of creature cards in your graveyard is seven or greater, instead return that card from your graveyard to the battlefield with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/116_Allister, Ghost Leader.png" num="116">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infernape</name>
+			<text>[b]Trample[/b]
+Whenever an enchantment you control enters, put a +1/+1 counter on Infernape.
+Close Combat — {5}: Infernape gains [b]double strike[/b] until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/119_Infernape.png" num="119">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ralts</name>
+			<text>[b]What!? Ralts is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I — Surveil 3.
+II, III, IV — Draw a card, then discard a card. You gain 1 life.
+---
+(Back): Gardevoir</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/120_Ralts_front.png" num="120a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Faerie Saga</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Gardevoir</related>
+		</card>
+		<card>
+			<name>Gardevoir</name>
+			<text>[b]Flying[/b], [b]vigilance
+[/b]Synchronize — Whenever Gardevoir becomes the target of a spell or ability an opponent controls, copy it. You may choose new targets for the copy. (Copies of Aura spells become tokens.)
+---
+(Front): Ralts</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/120_Ralts_back.png" num="120b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3GGUU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ralts</related>
+		</card>
+		<card>
+			<name>Klefki</name>
+			<text>[b]Flash[/b]
+[b]Flying[/b]
+Prankster — Whenever an enchantment you control enters, Klefki deals 1 damage to target opponent. If that enchantment is an Aura, draw a card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/117_Klefki.png" num="117">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Faerie Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sandy Shoal</name>
+			<text>Sandy Shoal enters tapped unless you pay {1}.
+{T}: Add {G} or {U}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/133_Sandy Shoal.png" num="133">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Foreboding Skies</name>
+			<text>Foreboding Skies enters tapped unless you pay {1}.
+{T}: Add {W} or {B}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/127_Foreboding Skies.png" num="127">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Frostscape</name>
+			<text>Frostscape enters tapped unless you pay {1}.
+{T}: Add {W} or {U}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/128_Frostscape.png" num="128">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Falkner, Flying Leader</name>
+			<text>[b]First strike[/b]
+When Falkner enters, create a Tailwind token. (It&apos;s a {1}{W} Aura enchantment with &quot;Enchanted creature gets +X/+X, where X is one plus the number of creatures you control you control with [b]flying.[/b]&quot;)
+Whenever a creature you control deals combat damage to a player, surveil 1.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/111_Falkner, Flying Leader.png" num="111">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hypno</name>
+			<text>When Hypno enters, create a Paralyzed Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Whenever enchanted creature becomes tapped, put a stun counter on it.)
+Hypno can&apos;t be blocked by creatures enchanted by Auras you control.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/33_Hypno.png" num="33">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Park</name>
+			<text>Tranquil Park enters tapped unless you pay {1}.
+{T}: Add {G} or {W}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/134_Tranquil Park.png" num="134">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Chimecho</name>
+			<text>[b]Flying[/b]
+When Chimecho enters, draw a card, then discard a card. If a nonland card is discarded this way, thrive. (Give any number of permanents you control another counter they already have.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/29_Chimecho.png" num="29">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Petal Dance</name>
+			<text>Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Cycling [b]{1}{G}[/b]
+When you cycle Petal Dance, thrive. (Give any number of permanents you control another counter they already have.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/99_Petal Dance.png" num="99">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whimsical Encounter</name>
+			<text>Create two 1/1 white Spirit creature tokens with flying and &quot;This creature can&apos;t block non-Spirit creatures.&quot;</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/20_Whimsical Encounter.png" num="20">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Go Fishing</name>
+			<text>Mill three cards. Return a card from among them to your hand.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/32_Go Fishing.png" num="32">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pangoro</name>
+			<text>When Pangoro dies, if you committed a crime this turn, return it to the battlefield at the beginning of the next end step. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Basic landcycling {2}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/59_Pangoro.png" num="59">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightscape</name>
+			<text>Nightscape enters tapped unless you pay {1}.
+{T}: Add {U} or {B}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/131_Nightscape.png" num="131">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Roaring Stadium</name>
+			<text>Roaring Stadium enters tapped unless you pay {1}.
+{T}: Add {B} or {R}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/132_Roaring Stadium.png" num="132">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Highest Heights</name>
+			<text>Highest Heights enters tapped unless you pay {1}.
+{T}: Add {R} or {W}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/129_Highest Heights.png" num="129">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fierce Stormfront</name>
+			<text>Fierce Stormfront enters tapped unless you pay {1}.
+{T}: Add {U} or {R}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/126_Fierce Stormfront.png" num="126">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Misty Valley</name>
+			<text>Misty Valley enters tapped unless you pay {1}.
+{T}: Add {R} or {G}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/130_Misty Valley.png" num="130">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Urban Wetland</name>
+			<text>Urban Wetland enters tapped unless you pay {1}.
+{T}: Add {B} or {G}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/135_Urban Wetland.png" num="135">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wrapped Up</name>
+			<text>Enchant creature
+When Wrapped Up enters, create a 2/2 green Beast creature token.
+Enchanted creature gets +2/+2 and has ward {2}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/22_Wrapped Up.png" num="22">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Snatch</name>
+			<text>Target opponent reveals their hand. If you control a modified creature, choose a nonland card from among them. Otherwise, choose a creature card from among them. Exile the chosen card. (Equipment, Auras you control, and counters are modifications.)
+You gain 2 life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/64_Snatch.png" num="64">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heatmor</name>
+			<text>When Heatmor enters, create a Burned role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature can&apos;t block.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/75_Heatmor.png" num="75">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pyroar</name>
+			<text>[b]Menace[/b]
+Moxie — Whenever Pyroar deals combat damage to a player, thrive. (Give any number of permanents you control another counter they already have.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/81_Pyroar.png" num="81">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disarming Voice</name>
+			<text>Counter target spell.
+Cycling {1}{U}
+When you cycle Disarming Voice, thrive. (Give any number of permanents you control another counter they already have.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/30_Disarming Voice.png" num="30">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beast PKMN</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/4t_Beast.png" num="4">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit PKMN</name>
+			<text>Flying
+This creature can&apos;t block non-Spirit creatures.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/3t_Spirit.png" num="3">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect PKMN</name>
+			<text>Flying</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/5t_Insect.png" num="5">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Mouse PKMN</name>
+			<text>This creature can&apos;t be blocked by creatures with power 3 or greater.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/2t_Mouse.png" num="2">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Mouse</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Poke Ball PKMN</name>
+			<text>{2}, {T}, Sacrifice this: Reveal the top five cards of your library. Put a non-Human creature card from among them into your hand. Put the rest on the bottom in a random order.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/7t_Poke Ball.png" num="7">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Poke Ball</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Flamigo</name>
+			<text>[b]Flying
+[/b]Costar [b]— [/b]When Flamigo enters, create a 1/1 white Bird creature token with flying.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/7_Flamigo.png" num="7">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bird PKMN</name>
+			<text>Flying</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/1t_Bird.png" num="1">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Celebi</name>
+			<text>When Celebi enters, search your library for a creature card, exile it, then shuffle. Put X time counters on that card, where X is its mana value. If it doesn&apos;t have suspend, it gains suspend.
+Landfall — Whenever a land you control enters, time travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/90_Celebi.png" num="90">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tropius</name>
+			<text>[b]Flying[/b]
+You may play an additional land on each of your turns.
+Harvest — Whenever a land you control enters, create an Egg token. (It&apos;s a kindred Egg artifact with &quot;{2}, {T}, Sacrifice this: Populate. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/109_Tropius.png" num="109">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Make it Rain</name>
+			<text>This spell can&apos;t be countered.
+Make it Rain deals X damage to each creature. If X is six or greater, create X Treasure tokens.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/78_Make it Rain.png" num="78">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Red, Pokemon Champion</name>
+			<text>When Red enters, exile the top six cards of your library. For the rest of the game, as long as your devotion to red is six or greater, you may cast non-Human cards from among the exiled cards.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/82_Red, Pokemon Champion.png" num="82">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3RRR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zubat</name>
+			<text>[b]What!? Zubat is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+[b]Flying[/b]
+I, II, III, IV — You may pay 1 life. If you do, create a 1/1 black Bat creature token with [b]flying.[/b]
+---
+(Back): Crobat</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/66_Zubat_front.png" num="66a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Bat</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Crobat</related>
+		</card>
+		<card>
+			<name>Crobat</name>
+			<text>(You may cast either side of this from your hand.)
+[b]Flying, deathtouch, lifelink, haste[/b]
+---
+(Front): Zubat</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/66_Zubat_back.png" num="66b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bat</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Zubat</related>
+		</card>
+		<card>
+			<name>Jessie and James</name>
+			<text>[b]Menace[/b]
+[b]Ward—Pay 3 life[/b].[b]
+[/b]Make it Double — Whenever a triggered ability of a permanent you control triggers, if you committing a crime caused it to trigger, copy that ability. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/53_Jessie and James.png" num="53">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Popplio</name>
+			<text>[b]What!? Popplio is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I — Draw two cards, then discard a card.
+II, III, IV — Put a +1/+1 counter on up to one other target creature you control.
+---
+(Back): Primarina</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/37_Popplio_front.png" num="37a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Seal</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Primarina</related>
+		</card>
+		<card>
+			<name>Primarina</name>
+			<text>(You may cast either side from your hand)
+When Primarina enters, draw four cards, then discard three cards.
+Liquid Voice — Whenever an enchantment you control enters, add {U}{U}. Spend this mana only to cast enchantment spells.
+
+---
+(Front): Popplio</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/37_Popplio_back.png" num="37b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Faerie Seal</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Popplio</related>
+		</card>
+		<card>
+			<name>Looker</name>
+			<text>When Looker enters, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other onto the battlefield face down. (They&apos;re 2/2 creatures with no other characteristics.)
+{1}{U}, Discard Looker: Surveil 3.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/34_Looker.png" num="34">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>4UUU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gholdengo</name>
+			<text>Good as Gold — [b]Ward [/b]{3}
+Whenever an opponent casts their second spell each turn, create a Treasure token.
+Whenever you sacrifice a permanent, put a +1/+1 counter on Gholdengo.
+At the beginning of your end step, each player draws two cards.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/8_Gholdengo.png" num="8">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spirit Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Regigas</name>
+			<text>Slow Start — You may pay {3}{W} rather than pay this spell&apos;s mana cost. If you do, it enters tapped with five stun counters on it.
+Ward {4}
+Other creatures you control get +1/+1.
+Whenever one or more creatures you control deal combat damage to a player, untap Regigas.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/16_Regigas.png" num="16">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>5WWW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Astonish</name>
+			<text>Enchant creature
+When Astonish enters, draw a card.
+[b]Trickster[/b] — Whenever you cast your first spell during each opponent&apos;s turn, you may tap or untap enchanted creature.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/26_Astonish.png" num="26">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rare Candy</name>
+			<text>When Rare Candy enters, thrive. (Give any number of permanents you control another counter they already have.)
+{T}: Add {C}.
+{T}: Add {U}{U}. Spend this mana only to cast spells from exile.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/38_Rare Candy.png" num="38">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plant PKMN</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/6t_Plant.png" num="6">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Chespin</name>
+			<text>[b]What!? Chespin is evolving![/b] (As this enters and after your draw step, add a lore counter. Exile this at IV. You may cast it later transformed.)
+I — Put a +1/+1 counter on target creature you control.
+II, III — You may discard a card. If you do, draw a card.
+IV — Thrive. (Give any number of permanents you control another counter they already have.)
+---
+(Back): Chesnaught</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/114_Chespin_front.png" num="114a">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Chesnaught</related>
+		</card>
+		<card>
+			<name>Chesnaught</name>
+			<text>[b]Trample[/b]
+[b]Ward—Pay 3 life[/b].
+---
+(Front): Chespin</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/114_Chespin_back.png" num="114b">PKMN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Plant Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RRGG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>7/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Chespin</related>
+		</card>
+		<card>
+			<name>Choice Band</name>
+			<text>Equipped creature gets +3/+0.
+Equipped creature must attack each turn if able.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/122_Choice Band.png" num="122">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Choice Specs</name>
+			<text>Whenever you cast a noncreature spell, equipped creature gets +2/+0.
+Equipped creature must attack each turn if able.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/124_Choice Specs.png" num="124">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Choice Scarf</name>
+			<text>Equipped creature has[b] haste [/b]and can&apos;t be blocked except by creatures with [b]haste.
+[/b]Equipped creature must attack each turn if able.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/123_Choice Scarf.png" num="123">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>PokeDex</name>
+			<text>When PokeDex enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{3}, {T}: Add four mana in any combination of colors. Spend this mana only to cast non-Human creature spells.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/125_PokeDex.png" num="125">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Badge Collection</name>
+			<text>{T}: Add {C}.
+{2}, {T}: Add two mana in any combination of colors.
+A deck can have up to eight cards named Badge Collection.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/121_Badge Collection.png" num="121">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skull Grunt</name>
+			<text>Whenever you commit a crime, you may pay 1 life. If you do, put a +1/+1 counter on Skull Grunt. Do this only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/62_Skull Grunt.png" num="62">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragalge</name>
+			<text>[b]Deathtouch[/b]
+When Dragalge enters, create a Poisoned role token attached to up to one other target creature. If you control that creature, surveil 2. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets -1/-1 and has &quot;At the beginning of your upkeep, sacrifice this unless you pay 1 life.&quot;)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/PKMN-files/img/47_Dragalge.png" num="47">PKMN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
