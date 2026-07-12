@@ -1,0 +1,4990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ZZZ</name>
+      <longname>ZZZ</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Catharsis</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Catharsis enters, create a 2/2 red Illusion creature token with prowess.
+Whenever you attack, add RR. (Spend this mana right now or lose it.)</text>
+    </card>
+    <card>
+      <name>Forbidden Fancy</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard two cards.
+Draw three cards. If you discarded two cards that don’t share a card type to cast this spell, add RR.</text>
+    </card>
+    <card>
+      <name>Waking Nightmare</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GGG</manacost>
+        <cmc>8</cmc>
+        <type>Enchantment Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>11/11</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay 1G rather than pay this spell’s mana cost. If you do, it enters tapped with six stun counters on it.
+Trample, ward {5}
+Whenever you wander, untap Waking Nightmare. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Watching Warden</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, vigilance
+Noncreature spells cost an additional {H} to cast. ({H} can be paid with {1} or 2 life.)</text>
+    </card>
+    <card>
+      <name>Chaotic Command</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Chaotic Command enters or you cast your second spell each turn, choose two at random —
+• Create a 2/2 red Illusion creature token with prowess.
+• Discard up to two cards. Draw that many cards.
+• Chaotic Command deals 2 damage to any target.
+• Create two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Big Dreamer</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Big Dreamer enters, add X {R}, where X is the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>Opulent Queen</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Opulent Queen enters, exile the top three cards of your library, then choose one of them. You may play that card without paying its mana cost. If WUBRG was spent to cast this spell, put the rest of the exiled cards into your hand.</text>
+    </card>
+    <card>
+      <name>Rattle to the Bone</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Rattle to the Bone deals 3 damage to target creature.
+• Destroy target artifact.
+Entwine—Sacrifice a land. (Choose both if you pay the entwine cost.)</text>
+    </card>
+    <card>
+      <name>Pale Rider</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Avatar Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever you cast a spell, if it’s the first spell you’ve cast this turn, put a +1/+1 counter on Pale Rider. If it’s the second, create a 1/1 red Soldier creature token. If it’s the third, create a token that’s a copy of Pale Rider.</text>
+    </card>
+    <card>
+      <name>The Demiurge</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RRRR</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Enchantment Creature - Illusion God </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, trample
+When The Demiurge enters, each player discards their hand, then draw seven cards.
+At the beginning of combat on your turn, add {R} for each card you’ve discarded this turn. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>Lionize</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature attacks, put a non-Aura enchantment card from your hand onto the battlefield tapped and attacking. It becomes a 5/5 Cat creature in addition to its other types. Sacrifice it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Clown of Many Cards</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Clown </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Clown of Many Cards enters, up to one target creature you control becomes a copy of it. (This effect lasts indefinitely.)
+Whenever another Clown you control attacks, exile the top three cards of your library. You may cast one of them without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Lady in Red</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Torment yourself. (A tormented player loses 3 life unless they discard a card or sacrifice a nonland permanent.)
+Whenever you cast your second spell each turn, create a Bad Dream token. (It’s an enchantment with “Sacrifice this: Torment yourself. Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Dandy Fae</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Dandy Fae enters, create a 1/1 green Plant creature token.
+1R, {T}, Sacrifice another creature: Discard two cards, then draw two cards.</text>
+    </card>
+    <card>
+      <name>Lightning Bolt</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lightning Bolt deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Cast to the Wastes</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {2}
+If this spell was kicked, it has cascade. (It cascades for mana value 1 or less)
+Exile target artifact or land. If a land was exiled this way, its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Portent of Doom</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Avatar Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Portent of Doom can’t block.
+{3}, Sacrifice Portent of Doom: Exile the top two cards of your library. You may play them this turn.</text>
+    </card>
+    <card>
+      <name>Exploding Life</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Exploding Life enters, you may exile all graveyards.
+Whenever one or more cards leave your graveyard, you may play an additional land card this turn.</text>
+    </card>
+    <card>
+      <name>Un œuf</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Un œuf enters or leaves, look at the top nine cards of your library. Put a land from among them into your hand and the rest on the bottom of your library in a random order.
+{2}, {T}, Sacrifice Un œuf: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Overgrowth Titan</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGG</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Elemental Giant </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Overgrowth Titan’s power and toughness are each equal to the number of lands you control.
+When Overgrowth Titan enters or attacks, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+Evoke 2G</text>
+    </card>
+    <card>
+      <name>Wayward Sojourners</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Whenever you wander, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Searching the Streams</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you wander, you may exile two cards from your graveyard. If you do, return target creature card from your graveyard to your hand. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Acidic Egg</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Acidic Egg enters, destroy up to one target artifact or enchantment.
+When Acidic Egg leaves, exile up to one target card from a graveyard.
+{2}, {T}, Sacrifice this: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Summoning Stones</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Summoning Stones enters or leaves, create a 2/2 green Wolf creature token.
+{3}, {T}, Sacrifice Summoning Stones: Draw a card.</text>
+    </card>
+    <card>
+      <name>Hanswurst of Many Hands</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Clown </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hanswurst of Many Hands enters, up to one target creature you control becomes a copy of it. (This effect lasts indefinitely.)
+Whenever another Clown you control attacks, search your library for a basic land card and put it onto the battlefield tapped. When you do, if you control ten or more lands, put two +1/+1 counters on each Clown you control.</text>
+    </card>
+    <card>
+      <name>Crafted Crafter</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.
+{T}: Add two mana of any one color. You can’t spend this mana to cast spells from your hand.</text>
+    </card>
+    <card>
+      <name>Great Old Turtle</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>1/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample, ward {2}
+Whenever one or more card leaves your graveyard, put two +1/+1 counters on Great Old Turtle.</text>
+    </card>
+    <card>
+      <name>Aristaeus</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Insect God </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, reach, vigilance
+Aristaeus enters with ten +1/+1 counters on it.
+If damage would be dealt to Aristaeus while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from it.
+Remove three +1/+1 counters from Aristaeus: It gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Mother Nature</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you control seven or fewer other lands, Mother Nature is a Forest land.” (She isn’t a creature and has “{T}: Add {G}.”)
+Vigilance, trample, indestructible
+{T}, You may play target permanent card from your graveyard this turn. Creatures you play this way enter with a finality counter.</text>
+    </card>
+    <card>
+      <name>Burst from the Crust</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice an artifact or land.
+Search your library for a creature card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Click Into Place</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card with a basic land type. If you control seven or more lands, instead search for a creature card or a card with a basic land type. Put that card onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Mythologize</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Its controller reveals cards from the top of their library until they reveal a historic card. They put it into their hand, then put the rest on the bottom of their library in a random order. (Artifacts, legendaries, and Sagas are historic.)</text>
+    </card>
+    <card>
+      <name>Cabochoned Titan</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>6WW</manacost>
+        <cmc>8</cmc>
+        <type>Artifact Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, you may sacrifice any number of artifacts and/or enchantments. This costs {2} less for each permanent sacrificed this way.
+Vigilance</text>
+    </card>
+    <card>
+      <name>Dreamcatcher</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, create a 1/1 blue Faerie creature token with flying.
+Faeries you control can’t block.</text>
+    </card>
+    <card>
+      <name>A Thousand Days&apos; Sunrise</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Return target permanent card from your graveyard to the battlefield.
+• Return from your graveyard to the battlefield each nonland permanent card with mana value 2 or less.</text>
+    </card>
+    <card>
+      <name>Pearly Gateway</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+When Pearly Gateway enters, return up to two target nonland permanent card with mana value 2 or less from your graveyard to the battlefield. </text>
+    </card>
+    <card>
+      <name>The Gilded King</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment Creature - Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Convoke
+When The Gilded King enters, each creature that convoked him becomes a Cultist in addition to their other types.
+Whenever The Gilded King attacks, put a +1/+1 counter on each Cultist you control.</text>
+    </card>
+    <card>
+      <name>Blade of the Beating Heart</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Blade of the Beating Heart enters, you may put a creature card from your hand onto the battlefield. Attach Blade of the Beating Heart to it. Sacrifice that creature at the beginning of the next end step.
+Equipped creature gets +3/+0 and has haste.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Bloody Bannerette</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Flagbearer Knight  </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Squad {3} (As an additional cost to cast this spell, you may pay {3} any number of times. When this creature enters, create that many tokens that are copies of it.)
+Lifelink
+{T}: Other creatures you control get +1/+1 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Angel of Incense</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Once during each of your turns, you may play a nonland permanent card with mana value 2 or less from your graveyard. Creatures you play this way enter with a finality counter.</text>
+    </card>
+    <card>
+      <name>Multifeline</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+You may cast Multifeline from your graveyard. If you do, it enters with a finality counter on it.</text>
+    </card>
+    <card>
+      <name>Turn to Salt</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target artifact or enchantment with mana value 2 or less.
+Basic landcycling {2/W}</text>
+    </card>
+    <card>
+      <name>Stratus Angel</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Stratus Angel enters, exile up to one target creature. If WUBRG was spent to cast this spell, draw a card. Otherwise, that creature’s controller draws a card.</text>
+    </card>
+    <card>
+      <name>Brave the Rapids</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card with a basic land type, reveal it, put it into your hand, then shuffle.
+Escape—1G, Exile four other cards from your graveyard.</text>
+    </card>
+    <card>
+      <name>Enantiomorphos</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+You may have this creature enter as a copy of any nonland permanent you control.
+Evoke {U}</text>
+    </card>
+    <card>
+      <name>Commanding Stranger</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Commanding Stranger enters, choose two. If WUBRG was spent to cast this, choose any number instead —
+• Commanding Stranger becomes a copy of target permanent.
+• Return target permanent an opponent controls to its owner’s hand.
+• Return target instant or sorcery card from your graveyard to your hand.
+• Draw two cards.</text>
+    </card>
+    <card>
+      <name>Sifter of Thoughts Forgotten</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sifter of Thoughts Forgotten enters and whenever one or more cards leave your graveyard, create a 2/2 red Illusion creature token with prowess.</text>
+    </card>
+    <card>
+      <name>Long-Lost Lovers</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Long-Lost Lovers enters, if it isn’t a token, create a token that’s a copy of it.
+Whenever you wander, another target creature gets +1/+1 until end of turn. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Sail To Distant Shores</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast for each time you’ve wandered this turn. (You wander when you play a land from your hand or any card from anywhere else.)
+Cascade</text>
+    </card>
+    <card>
+      <name>Face to Face</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top seven cards of your library. An opponent separates those cards into three piles. Put one into your hand and another into your graveyard. You may cast any number of spells from the third without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Smear Over the Dreamscape</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {2}
+If this spell was kicked, it has cascade. (It cascades for mana value 1 or less)
+Counter up to one target spell unless its controller pays {2}. </text>
+    </card>
+    <card>
+      <name>Performer of Many Parts</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Clown </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Performer of Many Parts enters, up to one target creature you control becomes a copy of it. (This effect lasts indefinitely.)
+Whenever another Clown you control attacks, draw two cards. Then if you have more cards in hand than your maximum hand size, you may cast a spell from your hand without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Dreamscape Artisan</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Whenever you wander, create a 1/1 blue Bird Illusion creature token with flying. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Pelagic Nightmare</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UUU</manacost>
+        <cmc>8</cmc>
+        <type>Enchantment Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Once during each turn, you may play an instant or sorcery card exiled by Pelagic Nightmare.
+3U, Exile Pelagic Nightmare: Take an extra turn after this one. Activate only if there are no instant or sorcery cards exiled by it.</text>
+    </card>
+    <card>
+      <name>Crescent Moon Druid</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards leave your graveyard, add UU.</text>
+    </card>
+    <card>
+      <name>Shape in the Depths</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shark </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, defender
+As long as you control three or more other creatures, Shape in the Depths can attack as though it didn’t have defender.
+Whenever you wander, create a 2/1 blue Shark creature token with menace. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Thirst for Glory</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards unless you discard a card with mana value 4 or greater.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to its other costs. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Ticking Time Piece</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Target instant or sorcery card in your graveyard gains jump-start until end of turn. (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
+    </card>
+    <card>
+      <name>Far Sight</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Play with the top card of your library revealed.
+You may play artifact, enchantment, or land cards from the top of your library.
+Spells you cast from outside of your hand cost UU (or {2}) less to cast.</text>
+    </card>
+    <card>
+      <name>Fireblossom Gardener</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Pay 3 life.
+Landfall — Whenever a nontoken land you control enters, create a token that’s a copy of it. It has “At the beginning of your end step, sacrifice this.”</text>
+    </card>
+    <card>
+      <name>Mysterious Socialite</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Alien Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {3}
+You may look at the top card of your library.
+You may cast from the top of your library creature cards with mana value is less than Mysterious Socialite’s power. When you do, put a +1/+1 counter on Mysterious Socialite.</text>
+    </card>
+    <card>
+      <name>Multitudinous Masses</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Multitudinous Masses enters, create two 1/1 white Spirit creature tokens with flying.
+Creatures you control get +2/+1.
+Evoke 1W</text>
+    </card>
+    <card>
+      <name>Emerge from the Water</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XXUU</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Delve
+Surveil 3, then exile the top X cards of your library. You may cast any number of spells with mana value X or less from among them without paying their mana cost.</text>
+    </card>
+    <card>
+      <name>Unravel</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shuffle target creature into its owner’s library. They surveil 3.</text>
+    </card>
+    <card>
+      <name>Omnivore</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Plant Lhurgoyf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Omnivore enters, you may sacrifice an artifact, a creature, and/or a land. You gain 3 life for each permanent sacrificed.
+Omnivore gets +X/+X, where X is the number of card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Draw From the Earth</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard two cards.
+Draw two cards.
+Flashback—{R}, Sacrifice a land.</text>
+    </card>
+    <card>
+      <name>Stellar Egg</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Stellar Egg enters or leaves, create a 1/1 Spirit creature token with flying.
+{2}, {T}, Sacrifice Stellar Egg: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Skybridge Serpent</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, reach
+Skybridge Serpent enters with a shield counter on it. If WUBRG was spent to cast it, it also enters with a double strike counter. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>The Adversary</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BBBB</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Enchantment Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, menace, lifelink
+When The Adversary enters, exile the top six cards of target opponent’s library.
+You may play cards exiled by The Adversary.
+Once each turn, rather than paying the mana cost for a spell you cast from outside of your hand, you may pay life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Beautiful Corpse</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>*/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Pay 3 life.
+When Beautiful Corpse enters, you may mill three cards.
+Beautiful Corpse’s power is equal to the number of nonland cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Cadaver Kerfuffle</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose three target creature cards in your graveyard. An opponent chooses one of them. Return it to the battlefield.
+Channel — 1B, Discard Cadaver Kerfuffle: Search your library for a creature card, put it into your graveyard, then shuffle.</text>
+    </card>
+    <card>
+      <name>Commanding Figure</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Commanding Figure enters, choose two. If WUBRG was spent to cast this, choose any number instead —
+• Destroy target creature.
+• You draw two cards and lose 2 life.
+• Target player loses 4 life and you gain 4 life.
+• Creatures your opponents control get -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Dance with Delusion</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
+Rebound (If you cast this from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Doliente De Los Muertos</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hellbent — At the beginning of your upkeep, if you have no cards in hand, each opponent loses 2 life.
+Revolt —  At the beginning of your second main phase, if a permanent left the battlefield under your control this turn, each opponent loses 2 life.
+Fateful Hour — At the beginning of your end step, if you have 5 or less life, each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Unlikely Companionship</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards, then return a creature card from your graveyard to your hand. If you cast this spell from your graveyard, return that card to the battlefield instead.
+Flashback 4B </text>
+    </card>
+    <card>
+      <name>Id</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment Creature - Shade </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+At the beginning of your end step,  create a Treasure token if you lost 3 or more life this turn.</text>
+    </card>
+    <card>
+      <name>Imago</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Insect Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Imago enters, torment target player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)
+When Imago dies, create a Bad Dream token. (It’s an enchantment with “Sacrifice this: Torment yourself. Draw a card.”)</text>
+    </card>
+    <card>
+      <name>And Stay Down!</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player sacrifices a creature. If they can’t, they exile a card from their hand.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
+    </card>
+    <card>
+      <name>Looming Doom</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you wander, you may pay 3 life. If you do, return Looming Doom from your graveyard to the battlefield. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Manque</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Manque </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you wander, put two loyalty counters on Manque.
+[0]: This turn, you may play target creature card from your graveyard.
+[-2]: Each opponent sacrifices the creature they control with the highest mana value among creatures they control.
+[-4]: You gain 3 life and create two 3/3 black Nightmare creature tokens.</text>
+    </card>
+    <card>
+      <name>Mindbending Vista</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Mindbending Vista enters, each creature gets -6/-6 until end of turn.
+Whenever you wander, you may draw two cards and lose 2 life. (You wander when you play a land from your hand or a card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Mindscaping</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at target player’s hand. Choose a card from it. That player discards that card, searches their library for a basic land card, reveals it, puts it into their hand, then shuffles.</text>
+    </card>
+    <card>
+      <name>Queen of Hearts</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you’ve lost life this turn, Queen of Hearts has lifelink and menace.
+Whenever Queen of Hearts deals combat damage to a player, if you’ve discarded a card this turn, draw a card.
+At the beginning of your end step,  if a permanent left the battlefield under your control this turn, put a +1/+1 counter on Queen of Hearts.</text>
+    </card>
+    <card>
+      <name>Caller of Regretful Dead</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you wander, create a 2/2 black Zombie creature token with decayed. (You wander when you play a land from your hand or any card from anywhere else. Decayed creatures can’t block. When they attacks, sacrifice them at end of combat.)</text>
+    </card>
+    <card>
+      <name>Witching Hour</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Fateful Hour — Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value unless you have 5 or less life.</text>
+    </card>
+    <card>
+      <name>Traumatic Experience</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You draw two cards and lose 2 life.
+Flashback—BB, Torment yourself  (You may cast this card from your graveyard by paying 3B and either 3 life, discarding a card, or sacrificing a nonland permanent. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Underworld Unleashed</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to two target creature cards from your graveyard to the battlefield.
+Suspend 5—2B
+When you suspend Underworld Unleashed, each creature gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Carved Elder</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RRGG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Treefolk Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may play an additional land on each of your turns.
+You may play land cards from your graveyard.
+Whenever Carved Elder attacks, you may sacrifice two lands. If you do, you draw two cards and gain 2 life.</text>
+    </card>
+    <card>
+      <name>Cobbled Copy</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {3} less to cast if a card left your graveyard this turn.
+Create a token that’s a copy of target creature, except it enters with an additional +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Decorum Macabre</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
+Hellbent — You may cast this spell from your graveyard if your hand is empty. If you do, exile it as it resolves.</text>
+    </card>
+    <card>
+      <name>Deus Ex Machine</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Deus Ex Machine enters, it deals 3 damage to each attacking creature.</text>
+    </card>
+    <card>
+      <name>The Ego</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>*/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker {2}
+Trample
+When The Ego enters, if it was kicked, create a token that’s a copy of it, except its name is The Shadow.
+This creature’s power is equal to the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>The Fiend</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BBRR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When The Fiend enters, create a Bad Dream token. (It’s an enchantment with “Sacrifice this: Torment yourself. Draw a card.”)
+Whenever you pay life, discard a card, or sacrifice a permanent, you may torment any number of target players. Do this only once each turn. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Flood of Visions</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards. Torment target player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)
+Escape—UB, Exile five other cards from your graveyard.</text>
+    </card>
+    <card>
+      <name>Hopeblossom</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Hopeblossom enters or leaves, draw a card.
+{3}, {T}, Sacrifice Hopeblossom: Exile target permanent you control, then return it to the battlefield. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Abstract Expressionist</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UURR</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+The second spell you cast each turn has cascade.</text>
+    </card>
+    <card>
+      <name>Megalophobia</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BBGG</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control have menace.
+Whenever you wander, you may put a permanent card from your hand onto the battlefield. (You wander when you play a land from your hand or any card from anywhere else.)
+Basic landcycling {B/G}</text>
+    </card>
+    <card>
+      <name>Mysterious Benefactor</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GGWW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Doctor </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Mysterious Benefactor enters, you may choose one —
+• Search your library for a permanent card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+• Return target permanent card with mana value 2 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Seashore Shell Seller</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GGUU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {3}
+Whenever one or more cards leave your graveyard, draw a card and put a +1/+1 counter on Seashore Shell Seller.</text>
+    </card>
+    <card>
+      <name>Seven Thunder Scion</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RRWW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Avatar Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another nontoken creature you control enters, create a token that’s a copy of it, except it has base power and toughness 1/1. Sacrifice the token at the beginning of the next end step.
+Other creatures you control have haste.</text>
+    </card>
+    <card>
+      <name>Wall of Eyes</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{T}, Sacrifice a creature: You may play an additional land card this turn.
+Basic landcycling {B/G}</text>
+    </card>
+    <card>
+      <name>Star-Crossed Lovers</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Star-Crossed Lovers enters, search your library for a creature card and/or an enchantment card and put them into your graveyard, then shuffle.</text>
+    </card>
+    <card>
+      <name>Stream of Consciousness</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Stream of Consciousness enters, create a 2/2 red Illusion creature token with prowess.
+Whenever you cast a spell, choose one that hasn’t been chosen this turn.
+• Add {U} or {R}.
+• Draw a card, then discard a card.
+• Stream of Consciousness deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Take a Hike</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UUBB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Take a Hike enters, shuffle up to one target creature into its owner’s library.
+Whenever you wander, draw a card. Then if this is the first time you’ve wandered this turn, discard a card. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Tornado of Souls</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WWBB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tornado of Souls enters, each opponent loses 3 life and you gain 3 life.
+You may cast creature and enchantment spells from your graveyard by paying life equal to their mana value rather than their mana cost.
+Whenever you cast a spell from your graveyard, return Tornado of Souls to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Unleash the Beast</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sweep — When Unleash the Beast enters, return any number of lands you control to their owner’s hand.
+Whenever a land you control leaves, Unleash the Beast deals 2 damage to target creature or planeswalker an opponent controls.
+Landfall — Whenever a land you control enters, create a 3/1 red Elemental creature token with haste. Exile it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Knight of the Last Hope</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XWW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Knight of the Last Hope enters, return up to X target nonland permanent cards with mana value 2 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Sunsewer</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Whenever Sunsewer attacks, you may cast target artifact or enchantment card in your graveyard by exiling three other cards from your graveyard in addition to its other costs.</text>
+    </card>
+    <card>
+      <name>Arachnid Nighthawk</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spider Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+First strike, lifelink
+Whenever you wander, you may pay 2 life. If you do, put a +1/+1 counter on Arachnid Nighthawk. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Consider</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Propitiate</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player that controls more lands than the player who controls the fewest sacrifices a land. Players discard cards and sacrifice creatures the same way.</text>
+    </card>
+    <card>
+      <name>Divine Acclaim</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ward {2}
+You and other permanents you control have ward {2}.
+If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Bauble Miser</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bauble Miser enters, you may exile target nonland permanent card with mana value 2 or less in your graveyard. If you do, create a token that’s a copy of it.</text>
+    </card>
+    <card>
+      <name>Marvelous Mechanisms</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may sacrifice any number of artifacts and/or enchantments. This spell costs {2} less for each permanent sacrificed this way.
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>Deep Dark Delver</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deep Dark Delver gets +2/+0 for each time you’ve wandered this turn. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Duplicitous Royal</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Lifelink
+When Duplicitous Royal enters, exile up to one other target creature. It becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Come Apart</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter up to one target spell.
+Create two Shard tokens. (They’re enchantments with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)</text>
+    </card>
+    <card>
+      <name>Trashcaster Mage</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, return a non-Wizard permanent you control to its owner’s hand.
+When Trashcaster Mage enters, target instant or sorcery card in your graveyard gains jump-start until end of turn. (You may cast it from your graveyard by discarding a card in addition to its other costs. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Go for a Walk</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Go for a Walk enters, draw a card.
+Whenever you wander, enchanted creature gets +2/+2 until end of turn. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Curse of Invasion</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Aura Curse </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant player
+When Curse of Invasion enters, gain control of target creature enchanted player controls.
+Enchanted player plays with the top card of their library revealed.
+During your turn, you may play the top card of enchanted player’s library, and may spend mana as though it were mana of any color to do so.</text>
+    </card>
+    <card>
+      <name>World Domination</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6UUU</manacost>
+        <cmc>9</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered.
+Target opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or greater. Put any number of permanent cards from among them onto the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Cicada Queen</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BBB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Cicada Queen enters, create four 1/1 green Insect creature tokens with flying.
+Sacrifice another creature: Each opponent loses 1 life and you gain 1 life. Put a +1/+1 counter on Cicada Queen.</text>
+    </card>
+    <card>
+      <name>Lifetimer</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you wander, you may torment each player. (You wander when you play a land from your hand or any card from anywhere else. A tormented player loses 3 life unless they discard a card or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Unnaturalize</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy up to one target creature, up to one target land, and up to one target planeswalker.</text>
+    </card>
+    <card>
+      <name>Memento Mori</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Torment yourself. (Lose 3 life unless you discard a card or sacrifice a nonland permanent.)
+Target creature gets -3/-3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Burst from the Gates</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Burst from the Gates enters, create three 2/2 black Zombie creature tokens with decayed. (A creature with decayed can’t block. When it attacks, sacrifice it at end of combat.)
+Whenever you attack, you may sacrifice two nonland permanents. If you do, draw two cards.</text>
+    </card>
+    <card>
+      <name>Ashen Titan</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ashen Titan enters or attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+Evoke {B}</text>
+    </card>
+    <card>
+      <name>Pompous Princess</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pompous Princess enters, create a tapped Treasure token.
+Pompous Princess gets +1/+1 for each artifact and/or enchantment you control.</text>
+    </card>
+    <card>
+      <name>Death&apos;s Shadow</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>13/13</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Death’s Shadow gets -X/-X, where X is your life total.</text>
+    </card>
+    <card>
+      <name>Lunge After</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker—{R}, Exile a creature card from your graveyard.
+Lunge After deals 2 damage to target creature. If this spell was kicked, it deals damage equal to the exiled creature’s power instead.</text>
+    </card>
+    <card>
+      <name>Maddened By the Revelation</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two Bad Dream tokens. (They’re enchantments with “Sacrifice this: Torment yourself. Draw a card.”)
+Torment target player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Caustic Egg</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Caustic Egg enters or leaves, exile the top card of your library. You may play it this turn.
+{2}, {T}, Sacrifice Caustic Egg: It deals 3 damage to target player.</text>
+    </card>
+    <card>
+      <name>Fungal Fever</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Fungal Fever deals 3 damage to target creature or planeswalker. Its controller may search their library for a basic land card, shuffle, then put that card on top.
+Mountaincycling {2/R}</text>
+    </card>
+    <card>
+      <name>La Bella Morte</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards, then return a creature card from your graveyard to your hand.
+Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
+    </card>
+    <card>
+      <name>Let the Rivers Run Red</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice two lands.
+Let the Rivers Run Red deals 6 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Nebulize</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Exile the top two cards of target player’s library.
+• Nebulize deals 3 damage to target creature. If it would die this turn, exile it instead.
+You may play cards exiled by Nebulize until the end of your next turn, and you may spend mana of any type to cast them.</text>
+    </card>
+    <card>
+      <name>Go Crazy</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Go Crazy enters, torment each player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)
+During your turn, nonland cards in your hand have madness. Their madness cost is equal to their mana cost.</text>
+    </card>
+    <card>
+      <name>Cosmic Brain</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cosmic Brain enters, exile the top four cards of your library. An opponent chooses any number of them. You may play those cards until the end of your next turn. Cosmic Brain deals damage to that player equal to the total mana value of the cards not chosen this way.</text>
+    </card>
+    <card>
+      <name>Wild Encounters</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you wander, create a 3/2 red Wolf creature token. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Pull Under</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, put three cards from your graveyard on the bottom of your library in a random order.
+Exile target artifact, enchantment, or card in a graveyard.</text>
+    </card>
+    <card>
+      <name>New Age Messiah</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may look at the top card of your library any time.
+You may play lands from the top of your library.
+Whenever a land you control enters, put a +1/+1 counter on New Age Messiah.</text>
+    </card>
+    <card>
+      <name>Schooling</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards. Return a permanent card with mana value 2 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Glistenegg</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Glistenegg enters or leaves, create a tapped Treasure token.
+{2}, {T}, Sacrifice Glistenegg: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Take a Walk on the Wild Side</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +3/+3 and gain trample until end of turn.
+Suspend 4—2G
+When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature token.</text>
+    </card>
+    <card>
+      <name>Chromatic Curio</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Chromatic Curio enters, add CC.
+{2}, {T}: Add two mana in any combination of colors.
+{1}, {T}, Sacrifice Chromatic Curio: Draw a card.</text>
+    </card>
+    <card>
+      <name>Rose Gardener</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rose Gardener enters, search your library for a Forest card, reveal it, put it into your hand, then shuffle.
+2GG, {T}: Harness Rose Gardener. (While harnessed, its 🌹 ability is active.)
+🌹 — Cards in your graveyard have retrace. (You may cast them by also discarding a land.)</text>
+    </card>
+    <card>
+      <name>Curious Egg</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Clue Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Curious Egg enters or leaves, surveil 2.
+{2}, {T}, Sacrifice Curious Egg: You gain 3 life.
+{4}, {T}, Sacrifice Curious Egg: Draw a card. (You’ll surveil before you draw.)</text>
+    </card>
+    <card>
+      <name>Far Off Land</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As long as Far Off Land isn’t on the battlefield, it has all basic land types.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{2}, {T}, Sacrifice Far Off Land: Draw a card.</text>
+    </card>
+    <card>
+      <name>Prismatic Vista</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Sunny Sanctuary</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sunny Sanctuary enters tapped.
+When Sunny Sanctuary enters, you gain 2 life.
+{T}, Sacrifice this land: Search your library for a card with a basic land type, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Dust Bowl</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{3}, {T}, Sacrifice a land: Destroy target nonbasic land.</text>
+    </card>
+    <card>
+      <name>Where The Dead Gods Lay</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{4}, {T}, Exile two lands you control: Draw two cards.</text>
+    </card>
+    <card>
+      <name>Puppet Ruler</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Toy Noble </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible
+Whenever a creature deals combat damage to you, its controller gains control of Puppet Ruler.
+At the beginning of your end step, draw a card.</text>
+    </card>
+    <card>
+      <name>Brass Knight</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WWUU</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Brass Knight enters, reveal cards from the top of your library until you reveal two artifact and/or enchantment cards with mana value 3 or less. Put those cards onto the battlefield and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Divine Comedian</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>12</manacost>
+        <cmc>12</cmc>
+        <type>Enchantment Creature - Avatar Clown </type>
+        <maintype>Creature</maintype>
+        <pt>12/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell can’t be countered.
+When you cast this spell, exile up to three cards you own from outside the game.
+Once during each of your turns, you may cast one of the exiled spells without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Rabbit Friend</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rabbit Friend enters or one or more cards leave your graveyard, create a 1/1 white Rabbit creature token.
+Rabbits you control get +2/+2 and have trample.</text>
+    </card>
+    <card>
+      <name>Pentad Prism</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sunburst (This enters with a charge counter on it for each color of mana spent to cast it.)
+Remove a charge counter from this artifact: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Awaken Doom</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top three cards of your library. You may put a card from among them into your graveyard. It deals damage equal to its mana value to target creature. You may play the exiled cards until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Beast Beneath the Waves</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, exile four cards from your graveyard. 
+When Beast Beneath the Waves enters, up to one target creature gets -6/-6 until end of turn.</text>
+    </card>
+    <card>
+      <name>Blood Bather</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, haste
+Whenever Blood Bather attacks, choose one or both —
+• Sacrifice another creature. Put a blood counter on Blood Bather.
+• Creatures you control get +X/+0 until end of turn, where X is the number of blood counters on Blood Bather.</text>
+    </card>
+    <card>
+      <name>Haunt of the Hanging Tree</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, return a non-Spirit creature you control to its owner’s hand.
+Flying
+When Haunt of the Hanging Tree enters, surveil 1.</text>
+    </card>
+    <card>
+      <name>Godly Patterns</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>During your turn, creatures you control get +1/+1.
+Whenever you attack with two or more creatures, put a sequence counter on Godly Patterns, then if the number of sequence counters on it is prime, draw a card. (2, 3, 5, 7, 11, 13, 17, and a few others are prime.)</text>
+    </card>
+    <card>
+      <name>Into the Void</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if you control an artifact. The same is true for creatures and enchantments.
+Destroy all artifacts, creatures, and enchantments.</text>
+    </card>
+    <card>
+      <name>Nemesis</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Shade Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Pay 3 life.
+Whenever you lose life, discard one or more cards, or sacrifice one or more nonland permanents, Nemesis gets +1/+1 until end of turn. This ability triggers thrice each turn.</text>
+    </card>
+    <card>
+      <name>Verdant Clique</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Verdant Clique enters, choose three. You may choose the same mode more than once.
+• Destroy target noncreature artifact or enchantment with mana value 2 or less.
+• Put a +1/+1 counter on Verdant Clique.
+• Exile a card from a graveyard.</text>
+    </card>
+    <card>
+      <name>Dark Lord</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Dark Lord attacks, you may torment yourself. If you do, creatures you control get +1/+1 until end of turn. (To torment yourself, lose 3 life, discard a card, or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Apocalypse Preacher</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Apocalypse Preacher enters, create a 1/1 white Cleric creature token with lifelink.
+Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Master of Rites</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4B, Sacrifice Master of Rites: Choose one —
+• Demonic Tutor — Search your library for a card, put it into your hand, then shuffle.
+• Unburial Rites — Return target creature card from your graveyard to the battlefield.
+• Ambition’s Cost — You draw three cards and lose 3 life.</text>
+    </card>
+    <card>
+      <name>Backwoods</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Cityscape</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Cliffside</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Expanse</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Hollow</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Peak</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Roadway</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Seaside</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Dawnscape</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Summit</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>All Nighter</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, draw a card and sacrifice a land.
+Swampcycling {2/B}</text>
+    </card>
+    <card>
+      <name>Chaff Cutter</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Chaff Cutter enters, look at target player’s hand and choose a card from it with mana value 1, 2, or 3. Exile it.
+Resurrect—1B, Discard two cards. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
+    </card>
+    <card>
+      <name>Reaper&apos;s Reward</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Read Ahead (Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don’t trigger. Sacrifice after III.)
+I, II — Exile up to two target cards from a single graveyard. You gain 3 life.
+III — An opponent chooses a creature card in your graveyard. Return it to the battlefield. It gains haste until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Night Creeper</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Horror Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you wander, you may pay 1 life. If you do, put a +1/+1 counter on Night Creeper. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Pruning Lady</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Gorgon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Pruning Lady enters, you may mill three cards.
+Escape— 1B, Exile three other cards from your graveyard with different mana values</text>
+    </card>
+    <card>
+      <name>Eternal Soldier</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Specter Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eternal Soldier can’t block.
+You may cast Eternal Soldier from your graveyard by tormenting yourself in addition to its other costs. (To torment yourself, lose 3 life, discard a card, or sacrifice a nonland permanent.)</text>
+    </card>
+    <card>
+      <name>Faberge Egg</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Faberge Egg enters, gain control of target creature with mana value 3 or less until Faberge Egg leaves.
+When Faberge Egg leaves, draw three cards.
+{2}, {T}, Sacrifice Faberge Egg: Add three mana of any one color.</text>
+    </card>
+    <card>
+      <name>Hundred-Eyed One</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, exile three cards from your graveyard.
+Flying, vigilance
+You may cast Hundred-Eyed One from your graveyard.</text>
+    </card>
+    <card>
+      <name>Mistress of Pelagic Rites</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mistress of Pelagic Rites enters or dies, mill three cards.</text>
+    </card>
+    <card>
+      <name>Body of Light</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>The Moon</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {3}
+You can’t cast more than one spell each turn.
+At the beginning of your upkeep, draw a card.</text>
+    </card>
+    <card>
+      <name>Crab Rave</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Crab Rave can’t be blocked except by creatures with total power X or greater, where X is Crab Rave’s power.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on Crab Rave.
+When Crab Rave dies, create a number of 1/1 blue Crab creature tokens equal to the number of +1/+1 counters on Crab Rave.</text>
+    </card>
+    <card>
+      <name>Counterspell</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.</text>
+    </card>
+    <card>
+      <name>Card Castle</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When Card Castle enters or leaves, you may shuffle target nonland permanent an opponent controls into its owner’s library. If you do, that opponent draws a card.</text>
+    </card>
+    <card>
+      <name>Divine Command</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Destroy target enchantment.
+• Destroy target artifact.
+• You gain 4 life.
+• Draw a card.</text>
+    </card>
+    <card>
+      <name>Liber Resh</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, exile target creature you control.
+At the beginning of your end step, return target creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Jousting Champion</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, vigilance, ward {3}
+Equipmentcycling 2W (2W, Discard this card: Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Pale Horse</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Skeleton Horse </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Pale Horse enters, return target artifact or creature you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Thing of Beauty</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Angel Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Thing of Beauty enters tapped and doesn’t untap during your untap step.
+When Thing of Beauty enters, create a 1/1 white Cleric creature token with lifelink.
+{W}, Tap three other untapped creatures you control: Untap Thing of Beauty.</text>
+    </card>
+    <card>
+      <name>Mind Blown</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard your hand, then draw five cards. Mind Blown deals X damage to each opponent, where X is the number of cards you discarded.</text>
+    </card>
+    <card>
+      <name>Animated Armory</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Animated Armory enters, create a 1/1 white Spirit creature token with flying and attach Animated Armory to it.
+Equipped creature gets +3/+0 and has first strike.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Reap What You Sow</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more lands you control leave the battlefield, exile the top card of your library. You may play it until the end of your next turn.
+Basic landcycling {2/R}</text>
+    </card>
+    <card>
+      <name>Strutter</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+When Strutter enters, search your library for an Equipment card and exile it, then shuffle. You may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Avatar of Scourge</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, double strike
+Whenever Avatar of Scourge deals combat damage, create a 2/2 black Zombie creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>Skullfaced Silver Tongue</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Devil Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Skullfaced Silver Tongue enters, target opponent separates the creatures they control into two piles. Choose one of them. Creatures in that pile can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Knightlight</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Elemental Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Knightlight enters, create two 1/1 red Elemental creature tokens.
+Sacrifice an Elemental: Add {R}.</text>
+    </card>
+    <card>
+      <name>Frogspawn</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Frogspawn enters, you gain 2 life.
+{2}, {T}, Sacrifice Frogspawn: Create two 1/1 green Frog creature tokens. Activate only as a sorcery.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
+    </card>
+    <card>
+      <name>Mountainsplitter</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Mountainsplitter enters, each player chooses a land. Destroy the rest.
+Each player may play land cards from their graveyard.
+Equipped creature gets +10/+0.
+Equip {5}</text>
+    </card>
+    <card>
+      <name>Essentialize</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant noncreature permanent
+Enchanted permanent is a land with “{1}, {T}: Add one mana of any color.” (It loses all other types and abilities.)
+Basic landcycling {2/G}</text>
+    </card>
+    <card>
+      <name>Samsara</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Resurrect XGG (You may cast this from your graveyard. If you do, it enters with a finality counter.)
+Samsara resurrects with X +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Incense Soothsayer</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Incense Soothsayer enters, you gain 4 life.
+If a spell or ability an opponent controls causes you to discard this card, put it onto the battlefield instead of putting it into your graveyard.</text>
+    </card>
+    <card>
+      <name>Strange Deer</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Elemental Elk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Strange Deer enters, another target artifact or creature becomes a green Elk creature with base power and toughness 3/3.</text>
+    </card>
+    <card>
+      <name>Mindless Scarecrow</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Scarecrow </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+4GG, {T}: Harness Mindless Scarecrow (Once harnessed, its 🧠 ability is active.)
+🧠 — You may play any number of additional land cards each turn.
+🧠 — Whenever you wander, draw a card. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Skitterthing</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Skitterthing enters, create a 1/1 green Insect creature token.
+Resurrect—1GG, Discard a card. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
+    </card>
+    <card>
+      <name>Head Collector</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Skeleton Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you wander, you may have each player sacrifice a creature. (You wander when you play a land from your hand or any card from anywhere else.)</text>
+    </card>
+    <card>
+      <name>Thrill of the Night</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spectacle 2R (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Discard your hand, then draw seven cards.</text>
+    </card>
+    <card>
+      <name>Vanishing Ritual</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {3} less to cast if it targets a permanent you control.
+Put two target nonland permanents on top of their owners’ libraries.</text>
+    </card>
+    <card>
+      <name>Worldly Rider</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Worldly Rider enters, you may sacrifice a noncreature permanent. If you do, return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Preening Siren</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Siren </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell, if the number of spells you’ve cast this turn is even, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Memorial to Heroes Past</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying, vigilance
+You may have Memorial to Heroes Past enter as a copy of any creature card in your graveyard, except it’s an artifact and has its other abilities. (It’s not a creature.) 
+{4}: Memorial to Heroes Past becomes an artifact creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Explore</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may play an additional land this turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Wish Away</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put target nonland permanent with mana value 3 or less on the top of its owner’s library. They surveil 3.</text>
+    </card>
+    <card>
+      <name>Spineless Lion</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+4RR, {T}: Discard your hand, then draw four cards. Harness Spineless Lion (Once harnessed, its 🦴 ability is active.)
+🦴 — Whenever you cast a spell, add RR and put two +1/+1 counter on Spineless Lion.</text>
+    </card>
+    <card>
+      <name>Convulsion of Nature</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Convulsion of Nature enters or attacks, you may sacrifice a creature. If you do, search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Three Doomed Souls</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Three Doomed Souls enters, choose one once, another twice, and a third three times —
+• You draw a card and lose 1 life.
+• Create a 1/1 white Spirit creature token with flying.
+• Torment target player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Great Desert</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W}.)
+Great Desert enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great Expanse</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {G}.)
+Great Expanse enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great Falls</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U}.)
+Great Falls enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great Flows</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {R}.)
+Great Flows enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great Gap</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B}.)
+Great Gap enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great Gully</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)
+Great Gully enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great Horizon</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {U}.)
+Great Horizon enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great Lake</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R}.)
+Great Lake enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great View</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {B}.)
+Great View enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Great Tree</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W}.)
+Great Tree enters tapped during your first, second, and third turn of the game.</text>
+    </card>
+    <card>
+      <name>Golden Ratio</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Golden Ratio enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create an X/X green and blue Fractal creature token. X is the number of sequence counters on Golden Ratio. (1, 2, 3, 5, 8, 13, and 21 appear in the Fibonnaci sequence.)</text>
+    </card>
+    <card>
+      <name>Indulgent Aristocrat</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Indulgent Aristocrat enters, create two 0/1 black Serf creature tokens.
+Serfs you control get +1/+0.
+Whenever Indulgent Aristocrat attacks or blocks, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Sultan&apos;s Stork</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Artifact and enchantment spells you cast cost {1} less to cast.
+Artifact and enchantment spells your opponents cast cost {1} more to cast.</text>
+    </card>
+    <card>
+      <name>Sovereign of the Veil</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you own ten or fewer cards in exile, Sovereign of the Veil isn’t a creature.
+Flying
+Whenever one or more cards leave your graveyard, draw a card.</text>
+    </card>
+    <card>
+      <name>Raining Spawn</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 green Frog creature tokens. Frogs you control gain flying until end of turn.
+Escape—2U, Exile four other cards from your graveyard.</text>
+    </card>
+    <card>
+      <name>Dark Ritual</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add BBB.</text>
+    </card>
+    <card>
+      <name>Sovereign of Nightmares</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you own ten or fewer cards in exile, Sovereign of Nightmares isn’t a creature.
+Once during each of your turns, you may cast a creature spell with mana value 2 or less from your graveyard by paying 2 life rather than by paying its mana cost. It enters with a finality counter.</text>
+    </card>
+    <card>
+      <name>Skullclasp</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/-1.
+Whenever equipped creature dies, exile the top two cards of your library. You may play them this turn.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Rider in Wild Woods</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>*/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Rider in Wild Woods’s power is equal to the number of lands you control plus the number of land cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Ticking Entertainer</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct Performer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ticking Entertainer enters or leaves, create a tapped Treasure token and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Seagrave</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{2}, {T}, Sacrifice Seagrave: Shuffle target player’s graveyard into their library. Draw a card.</text>
+    </card>
+    <card>
+      <name>Shadow Puppet Show</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may reveal from your hand each card you draw as you draw it. When you reveal a creature card this way, create a token that’s a copy of it. Sacrifice it at the beginning of the end step.</text>
+    </card>
+    <card>
+      <name>Living Room</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Fortification </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Living Room enters, attach it to up to one target land you control.
+During your turn, fortified land is a 4/4 creature with haste that’s still a land.
+Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Silver Frog</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Elemental Frog </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Plunge (As you cast this spell, for each permanent type, you may exile a card of that type from your graveyard. Each card exiled this way pays for {1}.)
+Artifact spells you cast have plunge.</text>
+    </card>
+    <card>
+      <name>Boiled Crab</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you sacrifice Boiled Crab or another nontoken permanent, target player mills three cards.
+{2}, {T}, Sacrifice Boiled Crab: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Color Explosion</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>XW/U/B/R/G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Converge — Exile each nonland permanent with mana value equal to or less than the number of colors of mana spent on {X}.
+Channel — {2}, Discard this card: Create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Glittering Swan</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>W/UW/UW/UW/U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Glittering Swan enters, create two 1/1 white Bird creature token with flying.
+If another permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+    </card>
+    <card>
+      <name>Dionysian Grove</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>R/GR/GR/GR/G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, target nontoken land you control becomes a 4/4 Satyr creature that’s still a land. It has haste and “This creature can’t block.” When it leaves, create a tapped Wastes token. (It’s a basic land with “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Utopia</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>G/WG/WG/WG/W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of any of that creature’s colors.)
+When Utopia enters, create two 2/2 Citizen creature tokens that are all colors.
+Spells you cast have convoke.</text>
+    </card>
+    <card>
+      <name>The Harvest Man</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>W/BW/BW/BW/B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, you may draw a card. Do this only once each turn.
+[+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[0]: Create two 2/2 black Zombie creature tokens with decayed. (They can’t block. When one of them attacks, sacrifice it at end of combat.)
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Scheming Baba</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>B/GB/GB/GB/G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scheming Baba enters, choose two. You may choose the same mode more than once.
+• You gain 4 life.
+• Mill four cards.
+• Create two Treasure tokens.
+• Return a creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Curio Collector</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>G/UG/UG/UG/U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ward 3
++2: When Curio Collector enters, create a Clue token.
+0: Each noncreature artifact you control is a 2/2 artifact creature. (They retain their abilities.)-?: </text>
+    </card>
+    <card>
+      <name>Master&apos;s Hound</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>B/RB/RB/RB/R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each player’s upkeep, exile the top two cards of their library. They may play them this turn.
+Whenever a player casts a spell with mana value 3 or less, torment them. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Shattered Reflection</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>U/RU/RU/RU/R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Reflection </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Shattered Reflection enters, exile the top two cards of your library and the top three cards of an opponent’s library. That opponent separates them into two piles and you choose one of them. You may play the chosen cards until the end of your next turn and may spend mana of any type to do so.</text>
+    </card>
+    <card>
+      <name>Troubled Child</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>U/BU/BU/BU/B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Troubled Child enters, create a 5/3 black Nightmare with flying.
+Whenever a Nightmare you control becomes the target of a spell or ability an opponent controls, exile the top three cards of their library and choose one of them. You may cast it without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Delictuous Devotee</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+8UU, Exile Delictuous Devotee: Draw four cards, then you may cast two spells from your hand without paying their mana costs. This ability costs {X} less to activate, where X is your devotion to blue.</text>
+    </card>
+    <card>
+      <name>Hysteric Devotee</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+8BB, Exile Hysteric Devotee: Create two 5/5 black Demon creature tokens with trample. This ability costs {X} less to activate, where X is your devotion to black.</text>
+    </card>
+    <card>
+      <name>Rapturous Devotee</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+8WW, Exile Rapturous Devotee: Return any number of target creature cards with total mana value 10 or less from your graveyard to the battlefield. This ability costs {X} less to activate, where X is your devotion to white.</text>
+    </card>
+    <card>
+      <name>Decadent Devotee</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+8RR, Exile Decadent Devotee: Create seven 1/1 red Vampire creature tokens with haste. This ability costs {X} less to activate, where X is your devotion to red.</text>
+    </card>
+    <card>
+      <name>Liberous Devotee</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1}
+8GG, Exile Liberous Devotee: Reveal the top six cards of your library. Put any number of permanent cards from among them onto the battlefield and the rest on the bottom of your library in a random order.  This ability costs {X} less to activate, where X is your devotion to green.</text>
+    </card>
+    <card>
+      <name>Twisted Tea Party</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would draw one or more cards, draw twice that many cards instead.
+Spells you cast cost twice as much to cast (For example, a spell that costs 2G would cost 4GG)</text>
+    </card>
+    <card>
+      <name>Haunting Mask</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/GB/G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Equipment Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Haunting Mask enters or equipped creature attacks, you may mill three cards, then you may return a creature or land card from among them to your hand.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Epiphany Mask</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2U/RU/R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Equipment Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Epiphany Mask enters or equipped creature attacks, discover 3.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Wide-Eye Mask</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2U/BU/B</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Equipment Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wide-Eye Mask enters or equipped creature attacks, you may pay 2 life. If you do, draw two cards.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Ominous Visage</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1W/UW/U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Equipment Spirit  </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ominous Visage enters or equipped creature attacks, create two 1/1 white Spirit creature tokens with flying.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Brutal Armor</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1B/RB/R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Equipment Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Brutal Armor enters or equipped creature attacks, it deals damage equal to its power to up to one target creature.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Wandering Suit</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1R/WR/W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Equipment Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wandering Suit enters or equipped creature attacks, target creature gains double strike until end of turn.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Haunted Skull</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1R/GR/G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Equipment Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Haunted Skull enters or equipped creature attacks, until end of turn, double target creature’s power and it gains haste.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Fighting Spirit Helm</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>1G/WG/W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Equipment Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fighting Spirit Helm enters or equipped creature attacks, bolster 3. (Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Infested Diving Suit</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1G/UG/U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Equipment Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Infested Diving Suit enters or equipped creature attacks, you may create a 1/1 green Pest creature token, then draw a card for each Pest you control.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Writhing Wig</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2W/BW/B</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Equipment Worm </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Writhing Wig enters or  equipped creature attacks, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield. Put a finality counter on it.
+Equipped creature gets +3/+3.
+Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Disorganized Chevalier</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with two or more creatures, exile the top two cards of your library and choose one of them. You may play it this turn, and if it’s a spell, you may cast it by paying the mana cost of the other exiled card. (Nonexistent mana costs can’t be paid; lands have no mana cost.)</text>
+    </card>
+    <card>
+      <name>Digress</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}. They search their library for a basic land card, reveal it, put it into their hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>X-Ray</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature and up to one target card in its owner’s graveyard.
+You lose 3 life.</text>
+    </card>
+    <card>
+      <name>Internal Invasion</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you don’t own
+Enchanted creature has vigilance, haste, and can’t be sacrificed.
+During your turn, you control enchanted creature.</text>
+    </card>
+    <card>
+      <name>Green Thumb</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target land you control becomes a 0/0 creature with haste that’s still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.
+Flashback 4G</text>
+    </card>
+    <card>
+      <name>Trash Golem</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {4}
+You may play land cards from your graveyard.
+As long as you control fewer than seven lands, prevent all combat damage Trash Golem would deal.</text>
+    </card>
+    <card>
+      <name>High-Rise Blood Fiend</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike
+Whenever High-Rise Blood Fiend deals combat damage to a player, put a +1/+1 counter on each attacking creature you control.</text>
+    </card>
+    <card>
+      <name>Relentless Nightmare</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Relentless Nightmare can’t block.
+Escape—Exile another black card and three other cards from your graveyard.</text>
+    </card>
+    <card>
+      <name>Thorn-Crowned King</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Pay 3 life.
+Whenever you cast a spell, torment target player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Shifting Sculptor</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+When Shifting Sculptor enters, create a token that’s a copy of target artifact or enchantment you control, except it’s a 3/2 creature with changeling in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Noble Voyage</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an artifact or enchantment card. It goes on an adventure. Shuffle. (Exile that card. You may play it later from exile.)</text>
+    </card>
+    <card>
+      <name>Organ Organ</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Skeleton Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Organ Organ attacks, tap up to one target untapped artifact or enchantment you control. It becomes an attacking 3/2 Spirit creature in addition to its other types until end of turn.</text>
+    </card>
+    <card>
+      <name>Eureka Moment</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {5}
+Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle. If this spell was kicked, you may put an artifact card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Frazzled Collector</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Frazzled Collector enters, look at the top four cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Gilded Cult Leader</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Cleric Cultist </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gilded Cult Leader enters, create two 1/1 white Cleric creature tokens with lifelink.
+Other creatures you control get +2/+2.
+When Gilded Cult Leader dies, target creature you control becomes a copy of it.</text>
+    </card>
+    <card>
+      <name>Class Revolution</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>R/WR/WR/WR/W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Class </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Gain the next level as a sorcery to add its ability.)
+Whenever you attack, create two 0/1 black Serf creature tokens that are tapped and attacking. Sacrifice them at end of combat.
+Serfs you control get +2/+2.
+{4}{R/W} Level 2
+Serfs you control get  +2/+2.
+{6}{R/W} Level 3
+Serfs you control have double strike. You can’t sacrifice them.</text>
+    </card>
+    <card>
+      <name>Glimpse of Gold</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Glimpse of Gold enters, create a Clue token.
+Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.</text>
+    </card>
+    <card>
+      <name>Abberation All-Seeing</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct Eye </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, ward {3}
+Whenever an opponent draws a card, torment them. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Dangarangum</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Worm </type>
+        <maintype>Creature</maintype>
+        <pt>*+1/*+1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach, trample
+Dangarangum’s power and toughness are each equal to the number of lands you control plus one.
+Resurrect—{G}, Discard two cards. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
+    </card>
+    <card>
+      <name>Blue-Blood Iconoclast</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Blue-Blood Iconoclast enters, choose one —
+• Destroy target artifact.
+• Target non-Human creature you control deals damage equal to its power to target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Colorful Cloak</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Colorful Cloak enters, create a 2/2 red Illusion creature token with prowess. Attach Colorful Cloak to it.
+Vivid — For each color among permanents you control, equipped creature gets +1/+1 and has protection from that color.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Starseeker</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Starseeker or another artifact or enchantment you control enters, create two 1/1 white Spirit creature tokens with flying.</text>
+    </card>
+    <card>
+      <name>Watcher on the Tower</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Watcher on the Tower enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Starspinner</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Starspinner enters, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Creatures you control have prowess.</text>
+    </card>
+    <card>
+      <name>Featherthread Seamtress</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Harpy </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Featherthread Seamtress enters, return to its owner’s hand another target nonland permanent with mana value 3 or less. If it’s an artifact or enchantment you control, create a token that’s a copy of it.</text>
+    </card>
+    <card>
+      <name>Free Bird</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Emerge 2B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
+Flying
+When Free Bird enters, destroy target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Evil Eye</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Eye </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Non-Eye creatures you control can’t attack.
+At the beginning of combat on your turn, choose up to two other target creatures. Gain control of them until end of turn. Untap them. Until end of turn, they gain haste and become Eyes. (You may choose creatures you control.)</text>
+    </card>
+    <card>
+      <name>Beating Heart of the Land</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each player sacrifices three lands.
+II, III — Each player exiles the top three cards of their library and puts each land card from among them onto the battlefield. They may play the other exiled cards this turn.
+​</text>
+    </card>
+    <card>
+      <name>Take the Plunge</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Plunge (As you cast this spell, for each permanent type, you may exile a card of that type from your graveyard. Each card exiled this way pays for {1}.)
+Put target creature on the bottom of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Veiled in Gold</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a Treasure token.
+Target permanent gains protection from mana value X or less until end of turn, where X is the number of artifacts and/or enchantments you control.</text>
+    </card>
+    <card>
+      <name>Bloodsucking Sewerslicker</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
+{R}, Sacrifice a creature: Torment target player. Activate only as a sorcery. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
+    </card>
+    <card>
+      <name>Bosk</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Bosk enters, you lose 2 life and sacrifice it. When you do, search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Cistern</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cistern enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Horizon</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Horizon enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Mine</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Mine enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Paradise</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Paradise enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Forest card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Ravine</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Ravine enters, you lose 2 life and sacrifice it. When you do, search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Ruins</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Ruins enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Mountain card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Shanty</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Shanty enters, you lose 2 life and sacrifice it. When you do, search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Stormscape</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Stormscape enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Wilderness</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Wilderness enters, you lose 2 life and sacrifice it. When you do, search your library for an Forest or Plains card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Climactic Explosion</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Climactic Explosion deals 3 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Wash Up</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>End the phase. After this phase, there’s an additional cleanup step. (To end a phase, exile all spells and abilities including this one, and remove all creatures from combat. To take a cleanup step, discard to hand size, remove all damage marked on creatures and end all “Until end of turn” and “this turn” effects.)</text>
+    </card>
+    <card>
+      <name>Fabulous Flutist</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Performer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Convoke
+When Fabulous Flutist enters, each creature that convoked it gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>The Proarche</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WWWW</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Enchantment Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When The Proarche enters, create two 1/1 white Cleric creature tokens with lifelink.
+Whenever you attack, up to two other target creatures you control get +X/+X until end of turn, where X is the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>Watching Wall</name>
+      <set rarity="common">ZZZ</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{1}, Exile Watching Wall: Exile target player’s graveyard. Surveil 1.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Illusion Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>ZZZ ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors></colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this Treasure: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cleric Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bird Illusion Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Bird Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Serf Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Serf </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Clue Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this Clue: Draw a card.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Shark Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Shark </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Frog Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Frog </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Zombie Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Nightmare Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Insect Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bad Dream Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment - Bad Dream </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice this, torment yourself: Draw a card. (You lose 3 life unless you discard a card or sacrifice a nonland permanent)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Demon Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Plant Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Soldier Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Crab Token ZZZ</name>
+      <set>ZZZ</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
