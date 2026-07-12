@@ -1,4 +1,397 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Overgrowth Titan added.
+Lifetimer added.
+Relentless Nightmare added.
+Glimpse of Gold added.
+Clue Token added.
+Stormscape added.
+Climactic Explosion added.
+Wash Up added.
+Fabulous Flutist added.
+The Proarche added.
+Watching Wall added.
+
+Towering Titan removed.
+Figure of Aries removed.
+Cloudspotting removed.
+Holder of the Hourglass removed.
+Emerald Vim removed.
+Onyx Vim removed.
+Opal Vim removed.
+Ruby Vim removed.
+Sapphire Vim removed.
+Persistent Nightmare removed.
+Elves of Crimson Shadow removed.
+Trash Mage removed.
+Glimmerskin removed.
+Treasure Token removed.
+Strange Pods removed.
+Stormfront removed.
+
+Waking Nightmare
+type: Creature — Nightmare => Enchantment Creature — Nightmare
+
+Chaotic Command
+rules_text: When Chaotic Command enters and whenever you cast your second spell each turn, choose two at random —
+• Create a 2/2 red Illusion creature token with prowess.
+• Discard up to two cards. Draw that many cards.
+• Chaotic Command deals 2 damage to any target.
+• Create two Treasure tokens. => When Chaotic Command enters or you cast your second spell each turn, choose two at random —
+• Create a 2/2 red Illusion creature token with prowess.
+• Discard up to two cards. Draw that many cards.
+• Chaotic Command deals 2 damage to any target.
+• Create two Treasure tokens.
+
+Big Dreamer
+cost: {2}{R} => {1}{R}
+pt: 2/2 => 2/1
+
+Opulent Queen
+pt: 2/2 => 3/3
+
+The Demiurge
+rules_text: Menace, trample
+When you cast this spell, each player discards their hand, then draw eight cards.
+At the beginning of combat on your turn, add {R} for each card you've discarded this turn. Until end of turn, you don't lose this mana as steps and phases end. => Menace, trample
+When The Demiurge enters, each player discards their hand, then draw seven cards.
+At the beginning of combat on your turn, add {R} for each card you've discarded this turn. Until end of turn, you don't lose this mana as steps and phases end.
+pt: 8/8 => 7/7
+
+Lionize
+cost: {2}{R}{R} => {2}{R}
+rules_text: Enchant creature
+Whenever enchanted creature attacks, put a non-Aura enchantment card from your hand onto the battlefield tapped and attacking. It becomes a 5/5 Cat creature in addition to its other types. Sacrifice it at the beginning of the next end step.
+Cycling {2} => Enchant creature
+Whenever enchanted creature attacks, put a non-Aura enchantment card from your hand onto the battlefield tapped and attacking. It becomes a 5/5 Cat creature in addition to its other types. Sacrifice it at the beginning of the next end step.
+
+Un œuf
+cost: {G} => {1}{G}
+rules_text: When Un œuf enters or leaves, look at the top nine cards of your library. Put a card with a basic land type from among them into your hand, then shuffle.
+{2}, {T}, Sacrifice Un œuf: You gain 3 life. => When Un œuf enters or leaves, look at the top nine cards of your library. Put a land from among them into your hand and the rest on the bottom of your library in a random order.
+{2}, {T}, Sacrifice Un œuf: You gain 3 life.
+
+Wayward Sojourners
+cost: {2}{G} => {3}{G}
+rules_text: Reach
+Whenever you wander, you may search your library for a card with a basic land type, put it onto the battlefield tapped, then shuffle. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Reach
+Whenever you wander, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 4/3 => 4/4
+
+Mythologize
+rules_text: Exile target creature. Its controller reveals cards from the top of their library until they reveal a historic card. They put it into their hand, then put the rest on the bottom of their library in a random order. => Exile target creature. Its controller reveals cards from the top of their library until they reveal a historic card. They put it into their hand, then put the rest on the bottom of their library in a random order. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+A Thousand Days' Sunrise
+cost: {4}{W}{W} => {3}{W}{W}
+
+Turn to Salt
+rules_text: Exile target artifact or enchantment with mana value 2 or less.
+Basic landcycling {2} => Exile target artifact or enchantment with mana value 2 or less.
+Basic landcycling {2W}
+
+Stratus Angel
+pt: 3/3 => 4/4
+
+Commanding Stranger
+rules_text: When Commanding Stranger enters, choose two. If {W}{U}{B}{R}{G} was spent to cast this, choose any number instead —
+• Return another target creature to its owner's hand.
+• Return another target noncreature, nonland permanent to its owner's hand.
+• Create a token that's a copy of a noncreature permanent you control.
+• Draw two cards. => When Commanding Stranger enters, choose two. If {W}{U}{B}{R}{G} was spent to cast this, choose any number instead —
+• Commanding Stranger becomes a copy of target permanent.
+• Return target permanent an opponent controls to its owner's hand.
+• Return target instant or sorcery card from your graveyard to your hand.
+• Draw two cards.
+
+Dreamscape Artisan
+cost: {3}{U} => {2}{U}
+rules_text: Ward {2}
+Whenever you wander, create two 1/1 blue Bird Illusion creature tokens with flying. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Ward {2}
+Whenever you wander, create a 1/1 blue Bird Illusion creature token with flying. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 1/5 => 1/4
+
+Pelagic Nightmare
+rules_text: Delve
+Once during each turn, you may play an instant or sorcery card exiled by Pelagic Nightmare.
+{3}{U}, Exile Pelagic Nightmare: Take an extra turn after this one. Activate only if there are no instant or sorcery cards exiled by Pelagic Nightmare. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Once during each turn, you may play an instant or sorcery card exiled by Pelagic Nightmare.
+{3}{U}, Exile Pelagic Nightmare: Take an extra turn after this one. Activate only if there are no instant or sorcery cards exiled by it.
+
+Unravel
+rules_text: Shuffle target creature an opponent controls into its owner's library. Its controller may surveil 3. => Shuffle target creature into its owner's library. They surveil 3.
+
+Skybridge Serpent
+pt: 5/3 => 5/5
+
+The Adversary
+type: Legendary Creature — Angel => Legendary Enchantment Creature — Angel
+
+Commanding Figure
+rules_text: When Commanding Figure enters, choose two. If {W}{U}{B}{R}{G} was spent to cast this, choose any number instead —
+• Torment each opponent twice. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i]
+• Each opponent loses 3 life and you gain 3 life.
+• Create a 3/3 black Nightmare creature token.
+• You draw two cards and lose 2 life. => When Commanding Figure enters, choose two. If {W}{U}{B}{R}{G} was spent to cast this, choose any number instead —
+• Destroy target creature.
+• You draw two cards and lose 2 life.
+• Target player loses 4 life and you gain 4 life.
+• Creatures your opponents control get -2/-2 until end of turn.
+
+Doliente De Los Muertos
+type: Creature — Avatar => Creature — Human
+
+Id
+type: Legendary Creature — Shade => Legendary Enchantment Creature — Shade
+
+Mysterious Benefactor
+type: Creature — Avatar Doctor => Creature — Doctor
+
+Seven Thunder Scion
+type: Creature — Avatar Soldier => Enchantment Creature — Avatar Soldier
+pt: 3/4 => 4/4
+
+Bauble Miser
+cost: {W} => {1}{W}
+rules_text: When Bauble Miser enters, return up to one target nonland permanent with mana value 2 or less from your graveyard to the battlefield.
+When Bauble Miser leaves, exile it and sacrifice a nonland permanent with mana value 2 or less. => When Bauble Miser enters, you may exile target nonland permanent card with mana value 2 or less in your graveyard. If you do, create a token that's a copy of it.
+pt: 1/1 => 2/2
+
+Death's Shadow
+type: Creature — Avatar => Enchantment Creature — Avatar
+
+Fungal Fever
+rules_text: Fungal Fever deals 3 damage to target creature or planeswalker. Its controller may search their library for a basic land card, shuffle, then put that card on top.
+Mountaincycling {2} => Fungal Fever deals 3 damage to target creature or planeswalker. Its controller may search their library for a basic land card, shuffle, then put that card on top.
+Mountaincycling {2R}
+
+Cosmic Brain
+cost: {5}{R}{R} => {4}{R}{R}
+rules_text: When Cosmic Brain enters, exile the top five cards of your library. An opponent chooses any number of them. You may play those cards until the end of your next turn. Cosmic Brain deals damage to that player equal to the total mana value of the cards not chosen this way. => When Cosmic Brain enters, exile the top four cards of your library. An opponent chooses any number of them. You may play those cards until the end of your next turn. Cosmic Brain deals damage to that player equal to the total mana value of the cards not chosen this way.
+pt: 7/7 => 6/6
+
+Brass Knight
+cost: {4} => {1}{W}{W}{U}{U}
+rules_text: First strike, ward {3}
+Brass Knight's toughness is equal to the number of artifacts you control plus the number of enchantments you control, and its power is equal to that number plus one. => First strike
+When Brass Knight enters, reveal cards from the top of your library until you reveal two artifact and/or enchantment cards with mana value 3 or less. Put those cards onto the battlefield and the rest on the bottom of your library in a random order.
+pt: *+1/* => 3/3
+
+Rabbit Friend
+cost: {3}{G} => {4}{G}{G}
+rules_text: When Rabbit Friend enters or one or more cards leave your graveyard, create a 1/1 white Rabbit creature token.
+During your turn, Rabbits you control get +2/+2 and have trample. => When Rabbit Friend enters or one or more cards leave your graveyard, create a 1/1 white Rabbit creature token.
+Rabbits you control get +2/+2 and have trample.
+pt: 3/3 => 4/4
+
+Blood Bather
+rules_text: Haste, first strike
+Whenever Blood Bather attacks, choose one or both —
+• Sacrifice a creature. Put a blood counter on Blood Bather.
+• Creatures you control get +X/+0 until end of turn, where X is the number of blood counters on Blood Bather. => Double strike, haste
+Whenever Blood Bather attacks, choose one or both —
+• Sacrifice another creature. Put a blood counter on Blood Bather.
+• Creatures you control get +X/+0 until end of turn, where X is the number of blood counters on Blood Bather.
+pt: 3/1 => 2/2
+
+Godly Patterns
+rules_text: Attacking creatures you control get +1/+1.
+Whenever you attack with two or more creatures, put a sequence counter on Godly Patterns, then if the number of sequence counters on it is prime, draw a card. [i](2, 3, 5, 7, 11, 13, 17, and a few others are prime.)[/i] => During your turn, creatures you control get +1/+1.
+Whenever you attack with two or more creatures, put a sequence counter on Godly Patterns, then if the number of sequence counters on it is prime, draw a card. [i](2, 3, 5, 7, 11, 13, 17, and a few others are prime.)[/i]
+
+Into the Void
+cost: {3}{W}{W}{W} => {4}{W}{W}
+
+Verdant Clique
+cost: {3}{G} => {2}{G}
+rules_text: When Verdant Clique enters, choose three. You may choose the same mode more than once.
+• Destroy target artifact or enchantment with mana value 2 or less.
+• Put a +1/+1 counter on Verdant Clique.
+• Exile a card from a graveyard. => When Verdant Clique enters, choose three. You may choose the same mode more than once.
+• Destroy target noncreature artifact or enchantment with mana value 2 or less.
+• Put a +1/+1 counter on Verdant Clique.
+• Exile a card from a graveyard.
+pt: 2/2 => 1/1
+
+All Nighter
+rules_text: At the beginning of your end step, draw a card and sacrifice a land.
+Swampcycling {2} => At the beginning of your end step, draw a card and sacrifice a land.
+Swampcycling {2B}
+
+Chaff Cutter
+type: Creature — Avatar Warrior => Creature — Human Warrior
+
+Card Castle
+cost: {4}{W}{W}{W} => {5}{W}{W}
+
+Liber Resh
+rules_text: At the beginning of your upkeep, exile target nontoken creature you control.
+At the beginning of your end step, return target creature card from your graveyard to the battlefield. => At the beginning of your upkeep, exile target creature you control.
+At the beginning of your end step, return target creature card from your graveyard to the battlefield.
+
+Thing of Beauty
+pt: 3/3 => 4/4
+
+Reap What You Sow
+rules_text: Whenever one or more lands you control leave the battlefield, exile the top card of your library. You may play it until the end of your next turn.
+Basic landcycling {2} => Whenever one or more lands you control leave the battlefield, exile the top card of your library. You may play it until the end of your next turn.
+Basic landcycling {2R}
+
+Strutter
+rules_text: Double strike
+When Strutter enters, you may reveal an Aura or Equipment card you own from outside the game and exile it. You may play it until the end of your next turn. => Double strike
+When Strutter enters, search your library for an Equipment card and exile it, then shuffle. You may play it until the end of your next turn.
+
+Skitterthing
+rules_text: Trample
+When Skitterthing enters, create two 1/1 green Insect creature tokens.
+Resurrect—{1}{G}{G}, Discard a card. [i](You may cast this from your graveyard. If you do, it enters with a finality counter.)[/i] => Trample
+When Skitterthing enters, create a 1/1 green Insect creature token.
+Resurrect—{1}{G}{G}, Discard a card. [i](You may cast this from your graveyard. If you do, it enters with a finality counter.)[/i]
+
+Wish Away
+rules_text: Put target nonland permanent with mana value 3 or less on the top of its owner's library. They scry 3. => Put target nonland permanent with mana value 3 or less on the top of its owner's library. They surveil 3.
+
+Golden Ratio
+cost: {1}{G}{U} => {G}{U}
+rules_text: When Golden Ratio enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create an X/X green and blue Fractal creature token, where X is the number of sequence counters on Golden Ratio. [i](0, 1, 2, 3, 5, 8, 13, and 21 appear in the Fibonnaci sequence.)[/i] => When Golden Ratio enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create an X/X green and blue Fractal creature token. X is the number of sequence counters on Golden Ratio. [i](1, 2, 3, 5, 8, 13, and 21 appear in the Fibonnaci sequence.)[/i]
+
+Ticking Entertainer
+rules_text: Ticking Entertainer can't block.
+When Ticking Entertainer enters or leaves, create a tapped Treasure token. => When Ticking Entertainer enters or leaves, create a tapped Treasure token and put a stun counter on it.
+
+Color Explosion
+type: Instant => Sorcery
+cost: {5} => {X}{WUB}{RG}
+rules_text: Destroy target permanent. If it had mana value 5 or greater, its controller creates five Treasure tokens.
+[i]Channel[/i] — {WUB}{RG}, Discard Color Explosion: Create a tapped Treasure token. => [i]Converge[/i] — Exile each nonland permanent with mana value equal to or less than the number of colors of mana spent on {X}.
+[i]Channel[/i] — {2}, Discard this card: Create a Treasure token.
+
+Illusion Token
+
+Twisted Tea Party
+cost: {2} => {1}
+rules_text: At the beginning of your end step, draw two cards.
+Spells you cast cost twice as much to cast [i](For example, a spell that costs {2}{G} would cost {4}{G}{G})[/i] => If you would one or more cards, draw twice that many of those cards instead.
+Spells you cast cost twice as much to cast [i](For example, a spell that costs {2}{G} would cost {4}{G}{G})[/i]
+
+Haunting Mask
+rules_text: When Haunting Mask enters or equipped creature attacks, you may mill three cards, then return a creature card from your graveyard to your hand.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Haunting Mask enters or equipped creature attacks, you may mill three cards, then you may return a creature or land card from among them to your hand.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+
+Epiphany Mask
+rules_text: When Epiphany Mask enters or equipped creature attacks, discover 3.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Epiphany Mask enters or equipped creature attacks, discover 3.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+
+Wide-Eye Mask
+rules_text: When Wide-Eye Mask enters or equipped creature attacks, you may pay 2 life. If you do, draw two cards.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Wide-Eye Mask enters or equipped creature attacks, you may pay 2 life. If you do, draw two cards.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+
+Ominous Visage
+rules_text: When Ominous Visage enters or equipped creature attacks, create two 1/1 white Spirit creature tokens with flying.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Ominous Visage enters or equipped creature attacks, create two 1/1 white Spirit creature tokens with flying.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+
+Brutal Armor
+rules_text: When Brutal Armor enters or equipped creature attacks, it deals damage equal to its power to up to one target creature.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Brutal Armor enters or equipped creature attacks, it deals damage equal to its power to up to one target creature.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+
+Wandering Suit
+rules_text: When Wandering Suit enters or equipped creature attacks, target creature gets +1/+1 and gains double strike until end of turn.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Wandering Suit enters or equipped creature attacks, target creature gains double strike until end of turn.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+pt: 2/2 => 3/2
+
+Haunted Skull
+rules_text: When Haunted Skull enters or equipped creature attacks, create a 3/2 red Wolf creature token.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Haunted Skull enters or equipped creature attacks, until end of turn, double target creature's power and it gains haste.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+pt: 1/2 => 2/3
+
+Fighting Spirit Helm
+rules_text: When Fighting Spirit Helm enters or equipped creature attacks, bolster 3. [i](Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)[/i]
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Fighting Spirit Helm enters or equipped creature attacks, bolster 3. [i](Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)[/i]
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+
+Infested Diving Suit
+rules_text: When Infested Diving Suit enters or equipped creature attacks, look at the top X cards of your library, where X is its power. You may put a land or creature card from among them into your hand and the rest on the bottom in a random order.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Infested Diving Suit enters or equipped creature attacks, you may create a 1/1 green Pest creature token, then draw a card for each Pest you control.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+pt: 3/1 => 2/2
+
+Writhing Wig
+rules_text: When Writhing Wig enters or equipped creature attacks, return target creature card with mana value 3 or less from your graveyard to the battlefield. Put a finality counter on it.
+Reconfigure {5} [i]({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => When Writhing Wig enters or equipped creature attacks, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield. Put a finality counter on it.
+Equipped creature gets +3/+3.
+Reconfigure {5} [i]({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn't a creature.)[/i]
+
+Digress
+cost: {U}{U} => {U}
+rules_text: Counter target spell unless its controller pays {3}. Each player may search their library for a card with a basic land type, reveal it, put it into their hand, then shuffle. => Counter target spell unless its controller pays {2}. They search their library for a basic land card, reveal it, put it into their hand, then shuffle.
+
+Starseeker
+type: Enchantment Creature — Spirit Knight => Enchantment Creature — Spirit
+cost: {3}{W} => {3}{U}
+
+Cleric Token
+
+Spirit Token
+
+Serf Token
+
+Nightmare Token
+
+Bad Dream Token
+rules_text: Sacrifice this, torment yourself: Draw a card. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent)[/i] => Sacrifice this, torment yourself: Draw a card. [i](You lose 3 life unless you discard a card or sacrifice a nonland permanent)[/i]
+
+Demon Token
+
+Crab Token
+
+Take the Plunge
+
+Bosk
+rules_text: When Bosk enters, you lose 1 life and sacrifice it. When you do, search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle. => When Bosk enters, you lose 2 life and sacrifice it. When you do, search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.
+
+Cistern
+rules_text: When Cistern enters, you lose 1 life and sacrifice it. When you do, search your library for an Island or Swamp card, put it onto the battlefield, then shuffle. => When Cistern enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.
+
+Horizon
+rules_text: When Horizon enters, you lose 1 life and sacrifice it. When you do, search your library for a Plains or Island card, put it onto the battlefield, then shuffle. => When Horizon enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Island card, put it onto the battlefield, then shuffle.
+
+Mine
+rules_text: When Mine enters, you lose 1 life and sacrifice it. When you do, search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle. => When Mine enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.
+
+Paradise
+rules_text: When Paradise enters, you lose 1 life and sacrifice it. When you do, search your library for an Island or Forest card, put it onto the battlefield, then shuffle. => When Paradise enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Forest card, put it onto the battlefield, then shuffle.
+
+Ravine
+rules_text: When Ravine enters, you lose 1 life and sacrifice it. When you do, search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle. => When Ravine enters, you lose 2 life and sacrifice it. When you do, search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.
+
+Ruins
+rules_text: When Ruins enters, you lose 1 life and sacrifice it. When you do, search your library for a Plains or Mountain card, put it onto the battlefield, then shuffle. => When Ruins enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Mountain card, put it onto the battlefield, then shuffle.
+
+Shanty
+rules_text: When Shanty enters, you lose 1 life and sacrifice it. When you do, search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle. => When Shanty enters, you lose 2 life and sacrifice it. When you do, search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.
+
+Wilderness
+rules_text: When Wilderness enters, you lose 1 life and sacrifice it. When you do, search your library for an Forest or Plains card, put it onto the battlefield, then shuffle. => When Wilderness enters, you lose 2 life and sacrifice it. When you do, search your library for an Forest or Plains card, put it onto the battlefield, then shuffle.
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Wayward Sojourners added.
