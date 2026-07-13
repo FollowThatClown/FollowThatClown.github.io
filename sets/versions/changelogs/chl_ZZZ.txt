@@ -1,4 +1,152 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+Glittering Dreamcatcher added.
+Conscious Stream added.
+Pull Below added.
+Indulgent Noble added.
+Aberration All-Seeing added.
+Scoop Up added.
+REMOVAL added.
+Fire Sail added.
+Food Pyramid added.
+Float Away added.
+Emerald Vim added.
+Onyx Vim added.
+Opal Vim added.
+Ruby Vim added.
+Sapphire Vim added.
+REMOVAL added.
+Trash Mage added.
+Mystic Snake added.
+Trust added.
+
+Dreamcatcher removed.
+Bloody Bannerette removed.
+Turn to Salt removed.
+Shape in the Depths removed.
+Stream of Consciousness removed.
+Pull Under removed.
+The Moon removed.
+Worldly Rider removed.
+Indulgent Aristocrat removed.
+Noble Voyage removed.
+Abberation All-Seeing removed.
+
+Watching Warden
+pt: 2/3 => 3/2
+
+Crescent Moon Druid
+rules_text: Whenever one or more cards leave your graveyard, add {U}{U}. => Whenever one or more cards leave your graveyard, add {U}{U}.
+If you would draw a card while your library has no cards in it, instead put all cards you own in exile into your hand.
+
+Far Sight
+cost: {3}{U} => {4}{U}
+rules_text: Play with the top card of your library revealed.
+You may play artifact, enchantment, or land cards from the top of your library.
+Spells you cast from outside of your hand cost {U}{U} [i](or {2})[/i] less to cast. => Play with the top card of your library revealed.
+You may play cards from the top of your library.
+Spells you cast from outside of your hand cost {2} less to cast.
+
+Unravel
+rules_text: Shuffle target creature into its owner's library. They surveil 3. => Shuffle target creature into its owner's library. They surveil 5.
+
+Divine Acclaim
+rules_text: Ward {2}
+You and other permanents you control have ward {2}.
+If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead. => Ward {1}
+You and other permanents you control have ward {1}.
+If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+
+Deep Dark Delver
+rules_text: Deep Dark Delver gets +2/+0 for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Deep Dark Delver can't be blocked by creatures with lesser power.s
+Deep Dark Delver gets +2/+0 for each time you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+World Domination
+rules_text: This spell can't be countered.
+Target opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or greater. Put any number of permanent cards from among them onto the battlefield under your control. => This spell can't be countered.
+Target opponent exiles cards from the top of their library until that player has exiled cards with total mana value 20 or greater. Put any number of permanent cards from among them onto the battlefield under your control.
+Basic landcycling {2U}
+
+Unnaturalize
+rules_text: Destroy up to one target creature, up to one target land, and up to one target planeswalker. => Destroy target creature. Its controller sacrifices a land.
+
+Fungal Fever
+rules_text: Fungal Fever deals 3 damage to target creature or planeswalker. Its controller may search their library for a basic land card, shuffle, then put that card on top.
+Mountaincycling {2R} => Fungal Fever deals 3 damage to target creature or planeswalker. Each player may search their library for a card with a basic land type, shuffle, then put that card on top.
+
+Sunny Sanctuary
+rules_text: Sunny Sanctuary enters tapped.
+When Sunny Sanctuary enters, you gain 2 life.
+{T}, Sacrifice this land: Search your library for a card with a basic land type, put it onto the battlefield, then shuffle. => Sunny Sanctuary enters tapped.
+When Sunny Sanctuary enters, you gain 3 life.
+{T}, Sacrifice this land: Search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
+
+Spineless Lion
+type: Creature — Cat => Creature — Cat Coward
+
+Silver Frog
+rules_text: Plunge [i](As you cast this spell, for each permanent type, you may exile a card of that type from your graveyard. Each card exiled this way pays for {1}.)[/i]
+Artifact spells you cast have plunge. => Plunge [i](As you cast this spell, for each card type, you may exile a card of that type from your graveyard. Each card exiled this way pays for {1}.)[/i]
+Artifact spells you cast have plunge.
+
+Twisted Tea Party
+cost: {1} => {2}
+rules_text: If you would draw one or more cards, draw twice that many cards instead.
+Spells you cast cost twice as much to cast [i](For example, a spell that costs {2}{G} would cost {4}{G}{G})[/i] => At the beginning of your end step, you draw two cards and gain 2 life.
+Spells you cast cost twice as much generic mana to cast. [i](For example, a spell that costs {2}{G} would cost {4}{G})[/i]
+
+X-Ray
+rules_text: Exile target creature and up to one target card in its owner's graveyard.
+You lose 3 life. => Exile target creature and the top five cards of its controller's library.
+You lose 3 life.
+
+Internal Invasion
+
+Green Thumb
+type: Sorcery => Instant
+cost: {2}{G} => {1}{G}
+rules_text: Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.
+Flashback {4}{G} => Target creature you control gets +3/+3 until end of turn, then fights up to one target creature an opponent controls. If the creature an opponent controls would die this turn, instead tap it. It becomes a Forest land. [i](It's not a creature and has “{T}: Add {G}.”)[/i]
+
+Blue-Blood Iconoclast
+type: Creature — Human Noble => Creature — Human Noble Rebel
+
+Starseeker
+type: Enchantment Creature — Spirit => Enchantment Creature — Spirit Knight
+rules_text: Flying
+Whenever Starseeker or another artifact or enchantment you control enters, create two 1/1 white Spirit creature tokens with flying. => Flying
+Whenever Starseeker or another permanent you control enters, if it's of a certain type, create a 1/1 white Spirit creature token with flying. This ability triggers each turn for artifacts, for enchantments, and for Knights. [i](If it has multiple of those types, choose one.)[/i]
+pt: 2/2 => 3/2
+
+Featherthread Seamtress
+rules_text: Flash
+Flying
+When Featherthread Seamtress enters, return to its owner's hand another target nonland permanent with mana value 3 or less. If it's an artifact or enchantment you control, create a token that's a copy of it. => Flash
+Flying
+When Featherthread Seamtress enters, return target artifact or enchantment to its owner's hand. If you controlled it, create a token that's a copy of it.
+pt: 2/1 => 3/1
+
+Take the Plunge
+rules_text: Plunge [i](As you cast this spell, for each permanent type, you may exile a card of that type from your graveyard. Each card exiled this way pays for {1}.)[/i]
+Put target creature on the bottom of its owner's library. => Plunge [i](As you cast this spell, for each card type, you may exile a card of that type from your graveyard. Each card exiled this way pays for {1}.)[/i]
+Put target creature on the bottom of its owner's library.
+
+
+type: Enchantment => Creature
+cost: {2}{R} => {W}
+rules_text: When Catharsis enters, create a 2/2 red Illusion creature token with prowess.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => 
+pt:  => 2/1
+
+
+type: Enchantment => Creature
+cost: {2}{R} => {3}{U}
+rules_text: When Catharsis enters, create a 2/2 red Illusion creature token with prowess.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => 
+
+
+VERSION 27 CHANGELOG
 ====================
 
 
