@@ -2913,7 +2913,7 @@
 		{
 			"name": "Evil Eye",
 			"rarity": "special",
-			"mana_cost": "{5}{R}{R}",
+			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Creature — Eye",
 			"collector_number": "162",
 			"image_uris": {
@@ -3113,7 +3113,7 @@
 		{
 			"name": "Bloodsucking Sewerslicker",
 			"rarity": "special",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Vampire Peasant",
 			"collector_number": "149",
 			"image_uris": {
@@ -3403,7 +3403,7 @@
 		{
 			"name": "Mystic Snake",
 			"rarity": "special",
-			"mana_cost": "{5}{G}{G}",
+			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Snake",
 			"collector_number": "218",
 			"image_uris": {
@@ -3583,7 +3583,7 @@
 		{
 			"name": "Heralds of the Apocalypse",
 			"rarity": "special",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "168",
 			"image_uris": {

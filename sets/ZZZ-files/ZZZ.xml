@@ -3585,9 +3585,8 @@ If a spell or ability an opponent controls causes you to discard this card, put 
 		</card>
 		<card>
 			<name>Skitterthing</name>
-			<text>Trample
-When Skitterthing enters, create a 1/1 green Insect creature token.
-Resurrect—{1}{G}{G}, Discard a card. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
+			<text>When Skitterthing enters, create two 1/1 green Insect creature tokens.
+Resurrect—{1}{G}{G}, Sacrifice two lands. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/229_Skitterthing.png" num="229">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3598,7 +3597,7 @@ Resurrect—{1}{G}{G}, Discard a card. (You may cast this from your graveyard. I
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>6/4</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5009,7 +5008,7 @@ Whenever an opponent draws a card, torment them. (They lose 3 life unless they d
 			<name>Dangarangum</name>
 			<text>Vigilance, reach, trample
 Dangarangum&apos;s power and toughness are each equal to the number of lands you control plus one.
-Resurrect—{G}, Discard two cards. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
+Resurrect—{G}{G}, Discard two cards. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/202_Dangarangum.png" num="202">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -5162,7 +5161,7 @@ At the beginning of combat on your turn, choose up to two other target creatures
 				<side>front</side>
 				<type>Creature — Eye</type>
 				<maintype>Creature</maintype>
-				<manacost>5RR</manacost>
+				<manacost>4RRR</manacost>
 				<cmc>7</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -5512,7 +5511,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 				<side>front</side>
 				<type>Creature — Vampire Peasant</type>
 				<maintype>Creature</maintype>
-				<manacost>2R</manacost>
+				<manacost>1RR</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -5965,14 +5964,14 @@ Choose one or more —
 			<name>Mystic Snake</name>
 			<text>Trample
 During your turn, Mystic Snake has hexproof.
-{1}{G}, Discard Mystic Snake: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.</text>
+Snakeskin Veil — {1}{G}, Discard Mystic Snake: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/218_Mystic Snake.png" num="218">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Snake</type>
 				<maintype>Creature</maintype>
-				<manacost>5GG</manacost>
+				<manacost>4GGG</manacost>
 				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -6266,11 +6265,11 @@ Whenever Heralds of the Apocalypse attack, put a +1/+1 counter on it, then other
 				<side>front</side>
 				<type>Creature — Human Cleric</type>
 				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
+				<manacost>2RR</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/2</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
