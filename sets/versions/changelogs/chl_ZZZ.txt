@@ -1,4 +1,195 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+Blade of the Pierced Heart added.
+Backwood added.
+Highland added.
+Sealed Colossus added.
+Disaster Titan added.
+Heralds of the Apocalypse added.
+
+Blade of the Beating Heart removed.
+Backwoods removed.
+Expanse removed.
+Avatar of Scourge removed.
+Beating Heart of the Land removed.
+
+Chaotic Command
+rules_text: When Chaotic Command enters or you cast your second spell each turn, choose two at random —
+• Create a 2/2 red Illusion creature token with prowess.
+• Discard up to two cards. Draw that many cards.
+• Chaotic Command deals 2 damage to any target.
+• Create two Treasure tokens. => When Chaotic Command enters or you cast your second spell each turn, choose two at random —
+• Return an instant or sorcery card at random from your graveyard to your hand.
+• Create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+• Chaotic Command deals 2 damage to any target.
+• Create two Treasure tokens.
+
+Dandy Fae
+rules_text: Flying, haste
+When Dandy Fae enters, create a 1/1 green Plant creature token.
+{T}, Exile three creature tokens you control: You may play a card you own from outside the game this turn. => Flying, haste
+When Dandy Fae enters, create a 1/1 green Plant creature token.
+{T}, Exile three creature tokens you control: You may play a card you own from outside the game this turn. Activate only as a sorcery.
+
+Daybreak
+cost: {4}{W}{W} => {2}{W}{W}
+rules_text: Choose one —
+• Destroy each permanent with mana value 3 or greater.
+• Return from your graveyard to the battlefield each permanent card with mana value 3 or less. => Choose one —
+• Destroy each permanent with mana value 3 or greater.
+• Return from your graveyard to the battlefield each permanent card with mana value 2 or less.
+
+Draw From the Earth
+rules_text: As an additional cost to cast this spell, discard two cards.
+Draw two cards.
+Flashback—{R}, Sacrifice a land. => As an additional cost to cast this spell, discard two cards.
+Draw two cards.
+Flashback—Sacrifice a Mountain.
+
+Skybridge Serpent
+rules_text: Trample, reach
+Skybridge Serpent enters with a shield counter on it. If {W}{U}{B}{R}{G} was spent to cast it, it also enters with a double strike counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => Trample
+Skybridge Serpent enters with a shield counter on it. If {W}{U}{B}{R}{G} was spent to cast it, it also enters with a double strike counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Sunny Sanctuary
+rules_text: Sunny Sanctuary enters tapped.
+When Sunny Sanctuary enters, you gain 3 life.
+{T}, Sacrifice this land: Search your library for a card with a basic land type, put it onto the battlefield, then shuffle. => Sunny Sanctuary enters tapped.
+When Sunny Sanctuary enters, you gain 2 life.
+{T}, Sacrifice this land: Search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
+
+Awaken Doom
+type: Sorcery => Instant
+rules_text: Exile the top three cards of your library. You may put a card from among them into your graveyard. It deals damage equal to its mana value to target creature. You may play the exiled cards until the end of your next turn. => Exile the top three cards of your library. You may put a card from among them into your graveyard. It deals damage equal to its mana value to up to one target creature. You may play the exiled cards until the end of your next turn.
+
+Cityscape
+rules_text: {T}: Add {W} or {B}. => {T}, Pay 1 life: Add {W} or {B}.
+{T}, Sacrifice Cityscape: Draw a card. Activate only if you have 7 or less life.
+
+Cliffside
+rules_text: {T}: Add {B} or {R}. => {T}, Pay 1 life: Add {B} or {R}.
+{T}, Sacrifice Cliffside: Draw a card. Activate only if you have 7 or less life.
+
+Hollow
+rules_text: {T}: Add {U} or {B}. => {T}, Pay 1 life: Add {U} or {B}.
+{T}, Sacrifice Hollow: Draw a card. Activate only if you have 7 or less life.
+
+Peak
+rules_text: {T}: Add {U} or {R}. => {T}, Pay 1 life: Add {U} or {R}.
+{T}, Sacrifice Peak: Draw a card. Activate only if you have 7 or less life.
+
+Roadway
+rules_text: {T}: Add {R} or {G}. => {T}, Pay 1 life: Add {R} or {G}.
+{T}, Sacrifice Roadway: Draw a card. Activate only if you have 7 or less life.
+
+Seaside
+rules_text: {T}: Add {G} or {U}. => {T}, Pay 1 life: Add {G} or {U}.
+{T}, Sacrifice Seaside: Draw a card. Activate only if you have 7 or less life.
+
+Dawnscape
+rules_text: {T}: Add {R} or {W}. => {T}, Pay 1 life: Add {R} or {W}.
+{T}, Sacrifice Dawnscape: Draw a card. Activate only if you have 7 or less life.
+
+Summit
+rules_text: {T}: Add {W} or {U}. => {T}, Pay 1 life: Add {W} or {U}.
+{T}, Sacrifice Summit: Draw a card. Activate only if you have 7 or less life.
+
+Reap What You Sow
+cost: {2}{R} => {1}{R}
+rules_text: Whenever one or more lands you control leave the battlefield, Reap What You Sow deals 1 damage to each opponent and you exile the top card of your library. You may play that card until the end of your next turn.
+Basic landcycling {2R} => Whenever one or more lands you control leave the battlefield, exile the top card of your library. You may play that card until the end of your next turn.
+Basic landcycling {2R}
+
+Thorn-Crowned King
+pt: 3/3 => 4/4
+
+Bloodsucking Sewerslicker
+cost: {3}{R} => {2}{R}
+pt: 2/2 => 1/1
+
+Climactic Explosion
+rules_text: Spectacle {R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Climactic Explosion deals 3 damage to each creature. => Spectacle {R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Climactic Explosion deals 3 damage to each creature and each opponent.
+
+Fire Sail
+cost: {1}{R} => {2}{R}
+rules_text: Fire Sail deals 3 damage to target creature or player and 1 damage to each other creature and player. => This spell can't be countered.
+Fire Sail deals 3 damage to target creature or player and 1 damage to each other creature and player.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Mountains and/or Forest cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Island and/or Swamp cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Island cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Swamp cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Forest and/or Island cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Swamp and/or Forest cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Swamp and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Island and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+type: Enchantment => Land
+cost: {2}{R} => 
+rules_text: When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
+Whenever you attack, add {R}{R}. [i](Spend this mana right now or lose it.)[/i] => {T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Forest and/or Plains cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.
+
+
+VERSION 30 CHANGELOG
 ====================
 
 No changes.

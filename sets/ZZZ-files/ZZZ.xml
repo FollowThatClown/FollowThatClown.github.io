@@ -5,7 +5,7 @@
 			<name>ZZZ</name>
 			<longname>ZZZ</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-14</releasedate>
+			<releasedate>2026-07-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>Bohemian Ecstasy</name>
 			<text>When Bohemian Ecstasy enters, create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
 Whenever you attack, add {R}{R}. (Spend this mana right now or lose it.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/152_Bohemian Ecstasy.png" num="152">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/150_Bohemian Ecstasy.png" num="150">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -30,7 +30,7 @@ Whenever you attack, add {R}{R}. (Spend this mana right now or lose it.)</text>
 			<name>Forbidden Fancy</name>
 			<text>As an additional cost to cast this spell, discard two cards.
 Draw three cards. If you discarded two cards that don&apos;t share a card type to cast this spell, add {R}{R}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/166_Forbidden Fancy.png" num="166">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/165_Forbidden Fancy.png" num="165">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@ Draw three cards. If you discarded two cards that don&apos;t share a card type t
 			<text>You may pay {1}{G} rather than pay this spell&apos;s mana cost. If you do, it enters tapped with six stun counters on it.
 Trample, ward {4}
 Whenever you wander, untap Azatoth. (You wander when you play a land from your hand or any card from anywhere else.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/193_Azatoth.png" num="193">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/194_Azatoth.png" num="194">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -83,11 +83,11 @@ Noncreature spells cost an additional {P} to cast. ({P} can be paid with {1} or 
 		<card>
 			<name>Chaotic Command</name>
 			<text>When Chaotic Command enters or you cast your second spell each turn, choose two at random —
-• Create a 2/2 red Illusion creature token with prowess.
-• Discard up to two cards. Draw that many cards.
+• Return an instant or sorcery card at random from your graveyard to your hand.
+• Create a 2/2 red Illusion creature token with prowess. It gains haste until end of turn.
 • Chaotic Command deals 2 damage to any target.
 • Create two Treasure tokens.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/155_Chaotic Command.png" num="155">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/153_Chaotic Command.png" num="153">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -104,7 +104,7 @@ Noncreature spells cost an additional {P} to cast. ({P} can be paid with {1} or 
 			<name>Big Dreamer</name>
 			<text>Flying
 When Big Dreamer enters, add X {R}, where X is the number of creatures you control.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/149_Big Dreamer.png" num="149">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/147_Big Dreamer.png" num="147">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -177,7 +177,7 @@ Whenever you cast a spell, if it&apos;s the first spell you&apos;ve cast this tu
 			<text>Menace, trample
 When The Demiurge enters, each player discards their hand, then draw seven cards.
 At the beginning of combat on your turn, add {R} for each card you&apos;ve discarded this turn. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/161_The Demiurge.png" num="161">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/159_The Demiurge.png" num="159">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -195,7 +195,7 @@ At the beginning of combat on your turn, add {R} for each card you&apos;ve disca
 			<name>Clown of Many Cards</name>
 			<text>When Clown of Many Cards enters, up to one target creature you control becomes a copy of it. (This effect lasts indefinitely.)
 Whenever another Clown you control attacks, exile the top three cards of your library. You may cast one of them without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/157_Clown of Many Cards.png" num="157">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/155_Clown of Many Cards.png" num="155">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -231,8 +231,8 @@ Whenever you cast your second spell each turn, create a Bad Dream token. (It&apo
 			<name>Dandy Fae</name>
 			<text>Flying, haste
 When Dandy Fae enters, create a 1/1 green Plant creature token.
-{T}, Exile three creature tokens you control: You may play a card you own from outside the game this turn.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/159_Dandy Fae.png" num="159">ZZZ</set>
+{T}, Exile three creature tokens you control: You may play a card you own from outside the game this turn. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/157_Dandy Fae.png" num="157">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -267,7 +267,7 @@ When Dandy Fae enters, create a 1/1 green Plant creature token.
 			<text>Kicker {2}
 If this spell was kicked, it has cascade. (It cascades for mana value 1 or less)
 Exile target artifact or land. If a land was exiled this way, its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/153_Cast to the Wastes.png" num="153">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/151_Cast to the Wastes.png" num="151">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -303,7 +303,7 @@ Portent of Doom can&apos;t block.
 			<name>Exploding Life</name>
 			<text>When Exploding Life enters, you may exile all graveyards.
 Whenever one or more cards leave your graveyard, you may play an additional land card this turn.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/203_Exploding Life.png" num="203">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/204_Exploding Life.png" num="204">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -320,7 +320,7 @@ Whenever one or more cards leave your graveyard, you may play an additional land
 			<name>Un œuf</name>
 			<text>When Un œuf enters or leaves, look at the top nine cards of your library. Put a land from among them into your hand and the rest on the bottom of your library in a random order.
 {2}, {T}, Sacrifice Un œuf: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/234_Un œuf.png" num="234">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/235_Un œuf.png" num="235">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -339,7 +339,7 @@ Whenever one or more cards leave your graveyard, you may play an additional land
 Overgrowth Titan&apos;s power and toughness are each equal to the number of lands you control.
 When Overgrowth Titan enters or attacks, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
 Evoke {2}{G}</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/220_Overgrowth Titan.png" num="220">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/221_Overgrowth Titan.png" num="221">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -357,7 +357,7 @@ Evoke {2}{G}</text>
 			<name>Wayward Sojourners</name>
 			<text>Reach
 Whenever you wander, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle. (You wander when you play a land from your hand or any card from anywhere else.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/236_Wayward Sojourners.png" num="236">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/237_Wayward Sojourners.png" num="237">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -374,7 +374,7 @@ Whenever you wander, you may search your library for a basic land card, put it o
 		<card>
 			<name>Searching the Streams</name>
 			<text>Whenever you wander, you may exile two cards from your graveyard. If you do, return target creature card from your graveyard to your hand. (You wander when you play a land from your hand or any card from anywhere else.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/227_Searching the Streams.png" num="227">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/228_Searching the Streams.png" num="228">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -392,7 +392,7 @@ Whenever you wander, you may search your library for a basic land card, put it o
 			<text>When Acidic Egg enters, destroy up to one target artifact or enchantment.
 When Acidic Egg leaves, exile up to one target card from a graveyard.
 {2}, {T}, Sacrifice this: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/191_Acidic Egg.png" num="191">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/192_Acidic Egg.png" num="192">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +409,7 @@ When Acidic Egg leaves, exile up to one target card from a graveyard.
 			<name>Summoning Stones</name>
 			<text>When Summoning Stones enters or leaves, create a 2/2 green Wolf creature token.
 {3}, {T}, Sacrifice Summoning Stones: Draw a card.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/231_Summoning Stones.png" num="231">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/232_Summoning Stones.png" num="232">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -426,7 +426,7 @@ When Acidic Egg leaves, exile up to one target card from a graveyard.
 			<name>Hanswurst of Many Hands</name>
 			<text>When Hanswurst of Many Hands enters, up to one target creature you control becomes a copy of it. (This effect lasts indefinitely.)
 Whenever another Clown you control attacks, search your library for a basic land card and put it onto the battlefield tapped. When you do, if you control ten or more lands, put two +1/+1 counters on each Clown you control.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/210_Hanswurst of Many Hands.png" num="210">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/211_Hanswurst of Many Hands.png" num="211">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -444,7 +444,7 @@ Whenever another Clown you control attacks, search your library for a basic land
 			<name>Crafted Crafter</name>
 			<text>{T}: Add one mana of any color.
 {T}: Add two mana of any one color. You can&apos;t spend this mana to cast spells from your hand.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/199_Crafted Crafter.png" num="199">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/200_Crafted Crafter.png" num="200">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -462,7 +462,7 @@ Whenever another Clown you control attacks, search your library for a basic land
 			<name>Great Old Turtle</name>
 			<text>Vigilance, trample, ward {2}
 Whenever one or more card leaves your graveyard, put two +1/+1 counters on Great Old Turtle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/208_Great Old Turtle.png" num="208">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/209_Great Old Turtle.png" num="209">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -482,7 +482,7 @@ Whenever one or more card leaves your graveyard, put two +1/+1 counters on Great
 Aristaeus enters with ten +1/+1 counters on it.
 If damage would be dealt to Aristaeus while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from it.
 Remove three +1/+1 counters from Aristaeus: It gains hexproof until end of turn.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/192_Aristaeus.png" num="192">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/193_Aristaeus.png" num="193">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -501,7 +501,7 @@ Remove three +1/+1 counters from Aristaeus: It gains hexproof until end of turn.
 			<text>As long as you control seven or fewer other lands, Mother Nature is a Forest land.&quot; (She isn&apos;t a creature and has &quot;{T}: Add {G}.&quot;)
 Vigilance, trample, indestructible
 {T}, You may play target permanent card from your graveyard this turn. Creatures you play this way enter with a finality counter.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/214_Mother Nature.png" num="214">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/215_Mother Nature.png" num="215">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -519,7 +519,7 @@ Vigilance, trample, indestructible
 			<name>Burst from the Crust</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or land.
 Search your library for a creature card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/196_Burst from the Crust.png" num="196">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/197_Burst from the Crust.png" num="197">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -535,7 +535,7 @@ Search your library for a creature card, reveal it, put it into your hand, then 
 		<card>
 			<name>Click Into Place</name>
 			<text>Search your library for a card with a basic land type. If you control seven or more lands, instead search for a creature card or a card with a basic land type. Put that card onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/197_Click Into Place.png" num="197">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/198_Click Into Place.png" num="198">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -603,15 +603,15 @@ Faeries you control can&apos;t block.</text>
 			<name>Daybreak</name>
 			<text>Choose one —
 • Destroy each permanent with mana value 3 or greater.
-• Return from your graveyard to the battlefield each permanent card with mana value 3 or less.</text>
+• Return from your graveyard to the battlefield each permanent card with mana value 2 or less.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/12_Daybreak.png" num="12">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>4WW</manacost>
-				<cmc>6</cmc>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -655,11 +655,11 @@ Whenever The Gilded King attacks, put a +1/+1 counter on each Cultist you contro
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Blade of the Beating Heart</name>
-			<text>When Blade of the Beating Heart enters, you may put a creature card from your hand onto the battlefield. Attach Blade of the Beating Heart to it. Sacrifice that creature at the beginning of the next end step.
+			<name>Blade of the Pierced Heart</name>
+			<text>When Blade of the Pierced Heart enters, you may put a creature card from your hand onto the battlefield. Attach Blade of the Pierced Heart to it. Sacrifice that creature at the beginning of the next end step.
 Equipped creature gets +3/+0 and has haste.
 Equip {3}</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/150_Blade of the Beating Heart.png" num="150">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/148_Blade of the Pierced Heart.png" num="148">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -730,7 +730,7 @@ When Stratus Angel enters, exile up to one target creature. If {W}{U}{B}{R}{G} w
 			<name>Brave the Rapids</name>
 			<text>Search your library for a card with a basic land type, reveal it, put it into your hand, then shuffle.
 Escape—{1}{G}, Exile four other cards from your graveyard.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/195_Brave the Rapids.png" num="195">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/196_Brave the Rapids.png" num="196">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -980,7 +980,7 @@ Spells you cast from outside of your hand cost {2} less to cast.</text>
 			<name>Fireblossom Gardener</name>
 			<text>Ward—Pay 3 life.
 Landfall — Whenever a nontoken land you control enters, create a token that&apos;s a copy of it. It has &quot;At the beginning of your end step, sacrifice this.&quot;</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/165_Fireblossom Gardener.png" num="165">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/164_Fireblossom Gardener.png" num="164">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -999,7 +999,7 @@ Landfall — Whenever a nontoken land you control enters, create a token that&ap
 			<text>Ward {3}
 You may look at the top card of your library.
 You may cast from the top of your library creature cards with mana value is less than Mysterious Socialite&apos;s power. When you do, put a +1/+1 counter on Mysterious Socialite.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/216_Mysterious Socialite.png" num="216">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/217_Mysterious Socialite.png" num="217">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1069,7 +1069,7 @@ Shuffle your hand and graveyard into your library, then draw four cards.</text>
 			<text>Reach
 When Omnivore enters, you may sacrifice an artifact, a creature, and/or a land. You gain 3 life for each permanent sacrificed.
 Omnivore gets +X/+X, where X is the number of card types among cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/219_Omnivore.png" num="219">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/220_Omnivore.png" num="220">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1087,8 +1087,8 @@ Omnivore gets +X/+X, where X is the number of card types among cards in your gra
 			<name>Draw From the Earth</name>
 			<text>As an additional cost to cast this spell, discard two cards.
 Draw two cards.
-Flashback—{R}, Sacrifice a land.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/162_Draw From the Earth.png" num="162">ZZZ</set>
+Flashback—Sacrifice a Mountain.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/161_Draw From the Earth.png" num="161">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1120,9 +1120,9 @@ Flashback—{R}, Sacrifice a land.</text>
 		</card>
 		<card>
 			<name>Skybridge Serpent</name>
-			<text>Trample, reach
+			<text>Trample
 Skybridge Serpent enters with a shield counter on it. If {W}{U}{B}{R}{G} was spent to cast it, it also enters with a double strike counter. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/229_Skybridge Serpent.png" num="229">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/230_Skybridge Serpent.png" num="230">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1483,7 +1483,7 @@ When you suspend Underworld Unleashed, each creature gets -2/-2 until end of tur
 			<text>You may play an additional land on each of your turns.
 You may play land cards from your graveyard.
 Whenever Carved Elder attacks, you may sacrifice two lands. If you do, you draw two cards and gain 2 life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/244_Carved Elder.png" num="244">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/245_Carved Elder.png" num="245">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1518,7 +1518,7 @@ Create a token that&apos;s a copy of target nonland permanent.</text>
 			<name>Decorum Macabre</name>
 			<text>Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
 Hellbent — You may cast this spell from your graveyard if your hand is empty. If you do, exile it as it resolves.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/242_Decorum Macabre.png" num="242">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/243_Decorum Macabre.png" num="243">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1556,7 +1556,7 @@ When Deus Ex Machine enters, it deals 3 damage to each attacking creature.</text
 Trample
 When The Ego enters, if it was kicked, create a token that&apos;s a copy of it, except its name is The Shadow and it&apos;s black.
 This creature&apos;s power is equal to the number of creatures you control.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/254_The Ego.png" num="254">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/255_The Ego.png" num="255">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1574,7 +1574,7 @@ This creature&apos;s power is equal to the number of creatures you control.</tex
 			<name>The Fiend</name>
 			<text>When The Fiend enters, create a Bad Dream token. (It&apos;s an enchantment with &quot;Sacrifice this: Torment yourself. Draw a card.&quot;)
 Whenever you pay life, discard a card, or sacrifice a permanent, you may torment target player. Do this only once each turn. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/243_The Fiend.png" num="243">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/244_The Fiend.png" num="244">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1592,7 +1592,7 @@ Whenever you pay life, discard a card, or sacrifice a permanent, you may torment
 			<name>Flood of Visions</name>
 			<text>Draw three cards, then discard two cards. Torment target player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)
 Escape—{U}{B}, Exile five other cards from your graveyard.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/240_Flood of Visions.png" num="240">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/241_Flood of Visions.png" num="241">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1609,7 +1609,7 @@ Escape—{U}{B}, Exile five other cards from your graveyard.</text>
 			<name>Hopeblossom</name>
 			<text>When Hopeblossom enters or leaves, draw a card.
 {3}, {T}, Sacrifice Hopeblossom: Exile target permanent you control, then return it to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/246_Hopeblossom.png" num="246">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/247_Hopeblossom.png" num="247">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1626,7 +1626,7 @@ Escape—{U}{B}, Exile five other cards from your graveyard.</text>
 			<name>Abstract Expressionist</name>
 			<text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
 The second spell you cast each turn has cascade.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/250_Abstract Expressionist.png" num="250">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/251_Abstract Expressionist.png" num="251">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1645,7 +1645,7 @@ The second spell you cast each turn has cascade.</text>
 			<text>Creatures you control have menace.
 Whenever you wander, you may put a permanent card from your hand onto the battlefield. (You wander when you play a land from your hand or any card from anywhere else.)
 Basic landcycling {BG}</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/252_Megalophobia.png" num="252">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/253_Megalophobia.png" num="253">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1663,7 +1663,7 @@ Basic landcycling {BG}</text>
 			<text>When Mysterious Benefactor enters, you may choose one or both —
 • Search your library for a permanent card with mana value 2 or less, reveal it, put it into onto the battlefield, then shuffle.
 • Return target permanent card with mana value 2 or less from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/247_Mysterious Benefactor.png" num="247">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/248_Mysterious Benefactor.png" num="248">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1681,7 +1681,7 @@ Basic landcycling {BG}</text>
 			<name>Seashore Shell Seller</name>
 			<text>Ward {3}
 Whenever one or more cards leave your graveyard, draw a card and put a +1/+1 counter on Seashore Shell Seller.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/257_Seashore Shell Seller.png" num="257">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/258_Seashore Shell Seller.png" num="258">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1699,7 +1699,7 @@ Whenever one or more cards leave your graveyard, draw a card and put a +1/+1 cou
 			<name>Seven Thunder Scion</name>
 			<text>Whenever another nontoken creature you control enters, create a token that&apos;s a copy of it, except it has base power and toughness 1/1. Sacrifice the token at the beginning of the next end step.
 Other creatures you control have haste.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/255_Seven Thunder Scion.png" num="255">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/256_Seven Thunder Scion.png" num="256">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1718,7 +1718,7 @@ Other creatures you control have haste.</text>
 			<text>Defender
 {T}, Sacrifice a creature: You may play an additional land card this turn.
 Basic landcycling {BG}</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/253_Wall of Eyes.png" num="253">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/254_Wall of Eyes.png" num="254">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1736,7 +1736,7 @@ Basic landcycling {BG}</text>
 			<name>Star-Crossed Lovers</name>
 			<text>First strike
 When Star-Crossed Lovers enters, search your library for a creature card and/or an enchantment card and put them into your graveyard, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/248_Star-Crossed Lovers.png" num="248">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/249_Star-Crossed Lovers.png" num="249">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1757,7 +1757,7 @@ Whenever you cast a spell, choose one that hasn&apos;t been chosen this turn.
 • Add {U} or {R}.
 • Draw a card, then discard a card.
 • Conscious Stream deals 2 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/251_Conscious Stream.png" num="251">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/252_Conscious Stream.png" num="252">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1774,7 +1774,7 @@ Whenever you cast a spell, choose one that hasn&apos;t been chosen this turn.
 			<name>Take a Hike</name>
 			<text>When Take a Hike enters, shuffle up to one target creature into its owner&apos;s library.
 Whenever you wander, draw a card. Then if this is the first time you&apos;ve wandered this turn, discard a card. (You wander when you play a land from your hand or any card from anywhere else.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/241_Take a Hike.png" num="241">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/242_Take a Hike.png" num="242">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1791,7 +1791,7 @@ Whenever you wander, draw a card. Then if this is the first time you&apos;ve wan
 			<name>Tornado of Souls</name>
 			<text>Return target creature or enchantment card from your graveyard to the battlefield.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/249_Tornado of Souls.png" num="249">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/250_Tornado of Souls.png" num="250">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1809,7 +1809,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 			<text>Sweep — When Unleash the Beast enters, return any number of lands you control to their owner&apos;s hand.
 Whenever a land you control leaves, Unleash the Beast deals 2 damage to target creature or planeswalker an opponent controls.
 Landfall — Whenever a land you control enters, create a 3/1 red Elemental creature token with haste. Exile it at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/245_Unleash the Beast.png" num="245">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/246_Unleash the Beast.png" num="246">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2265,7 +2265,7 @@ Torment target player. (They lose 3 life unless they discard a card or sacrifice
 			<name>Caustic Egg</name>
 			<text>When Caustic Egg enters or leaves, exile the top card of your library. You may play it until the end of your next turn.
 {2}, {T}, Sacrifice Caustic Egg: It deals 3 damage to target player.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/154_Caustic Egg.png" num="154">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/152_Caustic Egg.png" num="152">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2281,7 +2281,7 @@ Torment target player. (They lose 3 life unless they discard a card or sacrifice
 		<card>
 			<name>Fungal Fever</name>
 			<text>Fungal Fever deals 3 damage to target creature or planeswalker. Each player may search their library for a card with a basic land type, shuffle, then put that card on top.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/167_Fungal Fever.png" num="167">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/166_Fungal Fever.png" num="166">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2334,7 +2334,7 @@ You may play cards exiled by Nebulize until the end of your next turn, and you m
 			<name>Go Crazy</name>
 			<text>When Go Crazy enters, torment each player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)
 During your turn, nonland cards in your hand have madness. Their madness cost is equal to their mana cost.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/168_Go Crazy.png" num="168">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/167_Go Crazy.png" num="167">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2351,7 +2351,7 @@ During your turn, nonland cards in your hand have madness. Their madness cost is
 			<name>Cosmic Brain</name>
 			<text>When Cosmic Brain enters, discover 2, then discover 2 again. (Exile cards from the top of your library until you exile a nonland with mana value 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order. Then do it again.)
 Creatures you control have prowess.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/158_Cosmic Brain.png" num="158">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/156_Cosmic Brain.png" num="156">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2368,7 +2368,7 @@ Creatures you control have prowess.</text>
 		<card>
 			<name>Wild Encounters</name>
 			<text>Whenever you wander, create a 3/2 red Wolf creature token. (You wander when you play a land from your hand or any card from anywhere else.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/237_Wild Encounters.png" num="237">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/238_Wild Encounters.png" num="238">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2385,7 +2385,7 @@ Creatures you control have prowess.</text>
 			<name>Pull Below</name>
 			<text>As an additional cost to cast this spell, shuffle three cards from your graveyard into your library.
 Shuffle target artifact, enchantment, or card in a graveyard into its owner&apos;s library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/221_Pull Below.png" num="221">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/222_Pull Below.png" num="222">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2403,7 +2403,7 @@ Shuffle target artifact, enchantment, or card in a graveyard into its owner&apos
 			<text>You may look at the top card of your library any time.
 You may play lands from the top of your library.
 Whenever a land you control enters, put a +1/+1 counter on New Age Messiah.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/218_New Age Messiah.png" num="218">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/219_New Age Messiah.png" num="219">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2420,7 +2420,7 @@ Whenever a land you control enters, put a +1/+1 counter on New Age Messiah.</tex
 		<card>
 			<name>Schooling</name>
 			<text>Mill three cards. Return a permanent card with mana value 2 or less from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/226_Schooling.png" num="226">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/227_Schooling.png" num="227">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2437,7 +2437,7 @@ Whenever a land you control enters, put a +1/+1 counter on New Age Messiah.</tex
 			<name>Glistenegg</name>
 			<text>When Glistenegg enters or leaves, create a tapped Treasure token.
 {2}, {T}, Sacrifice Glistenegg: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/206_Glistenegg.png" num="206">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/207_Glistenegg.png" num="207">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2455,7 +2455,7 @@ Whenever a land you control enters, put a +1/+1 counter on New Age Messiah.</tex
 			<text>Creatures you control get +3/+3 and gain trample until end of turn.
 Suspend 4—{2}{G}
 When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature token.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/232_Take a Walk on the Wild Side.png" num="232">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/233_Take a Walk on the Wild Side.png" num="233">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2473,7 +2473,7 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 			<text>When Chromatic Curio enters, add {C}{C}.
 {2}, {T}: Add two mana in any combination of colors.
 {1}, {T}, Sacrifice Chromatic Curio: Draw a card.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/281_Chromatic Curio.png" num="281">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/282_Chromatic Curio.png" num="282">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2489,7 +2489,7 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 			<text>When Rose Gardener enters, search your library for a Forest card, reveal it, put it into your hand, then shuffle.
 {2}{G}{G}, {T}: Harness Rose Gardener. (While harnessed, its 🌹 ability is active.)
 🌹 — Cards in your graveyard have retrace. (You may cast them by also discarding a land.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/224_Rose Gardener.png" num="224">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/225_Rose Gardener.png" num="225">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2508,7 +2508,7 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 			<text>When Curious Egg enters or leaves, surveil 2.
 {2}, {T}, Sacrifice Curious Egg: You gain 3 life.
 {4}, {T}, Sacrifice Curious Egg: Draw a card. (You&apos;ll surveil before you draw.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/200_Curious Egg.png" num="200">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/201_Curious Egg.png" num="201">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2527,7 +2527,7 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 {T}: Add {C}.
 {1}, {T}: Add one mana of any color.
 {2}, {T}, Sacrifice Far Off Land: Draw a card.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/303_Far Off Land.png" num="303">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/313_Far Off Land.png" num="313">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2541,7 +2541,7 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 		<card>
 			<name>Prismatic Vista</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/319_Prismatic Vista.png" num="319">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/330_Prismatic Vista.png" num="330">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2555,9 +2555,9 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 		<card>
 			<name>Sunny Sanctuary</name>
 			<text>Sunny Sanctuary enters tapped.
-When Sunny Sanctuary enters, you gain 3 life.
+When Sunny Sanctuary enters, you gain 2 life.
 {T}, Sacrifice this land: Search your library for a card with a basic land type, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/327_Sunny Sanctuary.png" num="327">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/338_Sunny Sanctuary.png" num="338">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2572,7 +2572,7 @@ When Sunny Sanctuary enters, you gain 3 life.
 			<name>Dust Bowl</name>
 			<text>{T}: Add {C}.
 {3}, {T}, Sacrifice a land: Destroy target nonbasic land.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/301_Dust Bowl.png" num="301">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/312_Dust Bowl.png" num="312">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2587,7 +2587,7 @@ When Sunny Sanctuary enters, you gain 3 life.
 			<name>Where The Dead Gods Lay</name>
 			<text>{T}: Add {C}.
 {4}, {T}, Exile two lands you control: Draw two cards.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/328_Where The Dead Gods Lay.png" num="328">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/339_Where The Dead Gods Lay.png" num="339">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2603,7 +2603,7 @@ When Sunny Sanctuary enters, you gain 3 life.
 			<text>Indestructible
 Whenever a creature deals combat damage to you, its controller gains control of Puppet Ruler.
 At the beginning of your end step, draw a card.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/288_Puppet Ruler.png" num="288">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/289_Puppet Ruler.png" num="289">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2619,7 +2619,7 @@ At the beginning of your end step, draw a card.</text>
 			<name>Brass Knight</name>
 			<text>First strike
 When Brass Knight enters, reveal cards from the top of your library until you reveal two artifact and/or enchantment cards with mana value 3 or less. Put those cards onto the battlefield and the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/238_Brass Knight.png" num="238">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/239_Brass Knight.png" num="239">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2654,7 +2654,7 @@ Once during each of your turns, you may cast one of the exiled spells without pa
 			<name>Rabbit Friend</name>
 			<text>When Rabbit Friend enters or one or more cards leave your graveyard, create a 1/1 white Rabbit creature token.
 Rabbits you control get +2/+2 and have trample.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/222_Rabbit Friend.png" num="222">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/223_Rabbit Friend.png" num="223">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2672,7 +2672,7 @@ Rabbits you control get +2/+2 and have trample.</text>
 			<name>Pentad Prism</name>
 			<text>Sunburst (This enters with a charge counter on it for each color of mana spent to cast it.)
 Remove a charge counter from this artifact: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/287_Pentad Prism.png" num="287">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/288_Pentad Prism.png" num="288">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2685,13 +2685,13 @@ Remove a charge counter from this artifact: Add one mana of any color.</text>
 		</card>
 		<card>
 			<name>Awaken Doom</name>
-			<text>Exile the top three cards of your library. You may put a card from among them into your graveyard. It deals damage equal to its mana value to target creature. You may play the exiled cards until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/147_Awaken Doom.png" num="147">ZZZ</set>
+			<text>Exile the top three cards of your library. You may put a card from among them into your graveyard. It deals damage equal to its mana value to up to one target creature. You may play the exiled cards until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/146_Awaken Doom.png" num="146">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
@@ -2794,7 +2794,7 @@ Whenever you lose life, discard one or more cards, or sacrifice one or more nonl
 • Destroy target noncreature artifact or enchantment with mana value 2 or less.
 • Put a +1/+1 counter on Verdant Clique.
 • Exile a card from a graveyard.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/235_Verdant Clique.png" num="235">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/236_Verdant Clique.png" num="236">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2864,9 +2864,10 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Backwoods</name>
-			<text>{T}: Add {B} or {G}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/295_Backwoods.png" num="295">ZZZ</set>
+			<name>Backwood</name>
+			<text>{T}, Pay 1 life: Add {B} or {G}.
+{T}, Sacrifice Backwood: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/306_Backwood.png" num="306">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2880,8 +2881,9 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		</card>
 		<card>
 			<name>Cityscape</name>
-			<text>{T}: Add {W} or {B}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/298_Cityscape.png" num="298">ZZZ</set>
+			<text>{T}, Pay 1 life: Add {W} or {B}.
+{T}, Sacrifice Cityscape: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/309_Cityscape.png" num="309">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2895,8 +2897,9 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		</card>
 		<card>
 			<name>Cliffside</name>
-			<text>{T}: Add {B} or {R}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/299_Cliffside.png" num="299">ZZZ</set>
+			<text>{T}, Pay 1 life: Add {B} or {R}.
+{T}, Sacrifice Cliffside: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/310_Cliffside.png" num="310">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2909,9 +2912,10 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Expanse</name>
-			<text>{T}: Add {G} or {W}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/302_Expanse.png" num="302">ZZZ</set>
+			<name>Highland</name>
+			<text>{T}, Pay 1 life: Add {G} or {W}.
+{T}, Sacrifice Highland: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/324_Highland.png" num="324">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2925,8 +2929,9 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		</card>
 		<card>
 			<name>Hollow</name>
-			<text>{T}: Add {U} or {B}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/314_Hollow.png" num="314">ZZZ</set>
+			<text>{T}, Pay 1 life: Add {U} or {B}.
+{T}, Sacrifice Hollow: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/325_Hollow.png" num="325">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2940,8 +2945,9 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		</card>
 		<card>
 			<name>Peak</name>
-			<text>{T}: Add {U} or {R}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/318_Peak.png" num="318">ZZZ</set>
+			<text>{T}, Pay 1 life: Add {U} or {R}.
+{T}, Sacrifice Peak: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/329_Peak.png" num="329">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2955,8 +2961,9 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		</card>
 		<card>
 			<name>Roadway</name>
-			<text>{T}: Add {R} or {G}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/321_Roadway.png" num="321">ZZZ</set>
+			<text>{T}, Pay 1 life: Add {R} or {G}.
+{T}, Sacrifice Roadway: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/332_Roadway.png" num="332">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2970,8 +2977,9 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		</card>
 		<card>
 			<name>Seaside</name>
-			<text>{T}: Add {G} or {U}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/323_Seaside.png" num="323">ZZZ</set>
+			<text>{T}, Pay 1 life: Add {G} or {U}.
+{T}, Sacrifice Seaside: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/334_Seaside.png" num="334">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2985,8 +2993,9 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		</card>
 		<card>
 			<name>Dawnscape</name>
-			<text>{T}: Add {R} or {W}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/300_Dawnscape.png" num="300">ZZZ</set>
+			<text>{T}, Pay 1 life: Add {R} or {W}.
+{T}, Sacrifice Dawnscape: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/311_Dawnscape.png" num="311">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3000,8 +3009,9 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		</card>
 		<card>
 			<name>Summit</name>
-			<text>{T}: Add {W} or {U}.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/326_Summit.png" num="326">ZZZ</set>
+			<text>{T}, Pay 1 life: Add {W} or {U}.
+{T}, Sacrifice Summit: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/337_Summit.png" num="337">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3375,7 +3385,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Reap What You Sow</name>
-			<text>Whenever one or more lands you control leave the battlefield, Reap What You Sow deals 1 damage to each opponent and you exile the top card of your library. You may play that card until the end of your next turn.
+			<text>Whenever one or more lands you control leave the battlefield, exile the top card of your library. You may play that card until the end of your next turn.
 Basic landcycling {2R}</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/184_Reap What You Sow.png" num="184">ZZZ</set>
 			<prop>
@@ -3383,8 +3393,8 @@ Basic landcycling {2R}</text>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -3394,7 +3404,7 @@ Basic landcycling {2R}</text>
 			<name>Strutter</name>
 			<text>Double strike
 When Strutter enters, search your library for an Equipment card and exile it, then shuffle. You may play it until the end of your next turn.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/188_Strutter.png" num="188">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/189_Strutter.png" num="189">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3409,28 +3419,10 @@ When Strutter enters, search your library for an Equipment card and exile it, th
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Avatar of Scourge</name>
-			<text>Haste, double strike
-Whenever Avatar of Scourge deals combat damage, create a 2/2 black Zombie creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/146_Avatar of Scourge.png" num="146">ZZZ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment Creature — Avatar</type>
-				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>2/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Skullfaced Silver Tongue</name>
 			<text>Haste
 When Skullfaced Silver Tongue enters, target opponent separates the creatures they control into two piles. Choose one of them. Creatures in that pile can&apos;t block this turn.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/186_Skullfaced Silver Tongue.png" num="186">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/187_Skullfaced Silver Tongue.png" num="187">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3468,7 +3460,7 @@ Sacrifice an Elemental: Add {R}.</text>
 			<text>When Frogspawn enters, you gain 2 life.
 {2}, {T}, Sacrifice Frogspawn: Create two 1/1 green Frog creature tokens. Activate only as a sorcery.
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/205_Frogspawn.png" num="205">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/206_Frogspawn.png" num="206">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3487,7 +3479,7 @@ Retrace (You may cast this card from your graveyard by discarding a land card in
 Each player may play land cards from their graveyard.
 Equipped creature gets +10/+0.
 Equip {5}</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/215_Mountainsplitter.png" num="215">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/216_Mountainsplitter.png" num="216">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3505,7 +3497,7 @@ Equip {5}</text>
 			<text>Enchant noncreature permanent
 Enchanted permanent is a land with &quot;{1}, {T}: Add one mana of any color.&quot; (It loses all other types and abilities.)
 Basic landcycling {2G}</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/202_Essentialize.png" num="202">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/203_Essentialize.png" num="203">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3522,7 +3514,7 @@ Basic landcycling {2G}</text>
 			<name>Samsara</name>
 			<text>Resurrect {X}{G}{G} (You may cast this from your graveyard. If you do, it enters with a finality counter.)
 Samsara resurrects with X +1/+1 counters on it.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/225_Samsara.png" num="225">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/226_Samsara.png" num="226">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3540,7 +3532,7 @@ Samsara resurrects with X +1/+1 counters on it.</text>
 			<name>Incense Soothsayer</name>
 			<text>When Incense Soothsayer enters, you gain 4 life.
 If a spell or ability an opponent controls causes you to discard this card, put it onto the battlefield instead of putting it into your graveyard.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/211_Incense Soothsayer.png" num="211">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/212_Incense Soothsayer.png" num="212">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3557,7 +3549,7 @@ If a spell or ability an opponent controls causes you to discard this card, put 
 		<card>
 			<name>Strange Deer</name>
 			<text>When Strange Deer enters, another target artifact or creature becomes a green Elk creature with base power and toughness 3/3.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/230_Strange Deer.png" num="230">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/231_Strange Deer.png" num="231">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3577,7 +3569,7 @@ If a spell or ability an opponent controls causes you to discard this card, put 
 {4}{G}{G}, {T}: Harness Mindless Scarecrow (Once harnessed, its 🧠 ability is active.)
 🧠 — You may play any number of additional land cards each turn.
 🧠 — Whenever you wander, draw a card. (You wander when you play a land from your hand or any card from anywhere else.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/213_Mindless Scarecrow.png" num="213">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/214_Mindless Scarecrow.png" num="214">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3596,7 +3588,7 @@ If a spell or ability an opponent controls causes you to discard this card, put 
 			<text>Trample
 When Skitterthing enters, create a 1/1 green Insect creature token.
 Resurrect—{1}{G}{G}, Discard a card. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/228_Skitterthing.png" num="228">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/229_Skitterthing.png" num="229">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3632,7 +3624,7 @@ Whenever you wander, you may have each player sacrifice a creature. (You wander 
 			<name>Thrill of the Night</name>
 			<text>Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 Discard your hand, then draw five cards.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/190_Thrill of the Night.png" num="190">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/191_Thrill of the Night.png" num="191">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3702,7 +3694,7 @@ You may have Memorial to Heroes Past enter as a copy of any creature card in you
 			<name>Explore</name>
 			<text>You may play an additional land this turn.
 Draw a card.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/204_Explore.png" num="204">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/205_Explore.png" num="205">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3736,7 +3728,7 @@ Draw a card.</text>
 			<text>First strike
 {4}{R}{R}, {T}: Discard your hand, then draw four cards. Harness Spineless Lion (Once harnessed, its 🦴 ability is active.)
 🦴 — Whenever you cast a spell, add {R}{R} and put two +1/+1 counter on Spineless Lion.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/187_Spineless Lion.png" num="187">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/188_Spineless Lion.png" num="188">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3753,7 +3745,7 @@ Draw a card.</text>
 		<card>
 			<name>Convulsion of Nature</name>
 			<text>Whenever Convulsion of Nature enters or attacks, you may sacrifice a creature. If you do, search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/198_Convulsion of Nature.png" num="198">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/199_Convulsion of Nature.png" num="199">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3791,7 +3783,7 @@ Draw a card.</text>
 			<name>Great Desert</name>
 			<text>({T}: Add {R} or {W}.)
 Great Desert enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/304_Great Desert.png" num="304">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/314_Great Desert.png" num="314">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3807,7 +3799,7 @@ Great Desert enters tapped during your first, second, and third turn of the game
 			<name>Great Expanse</name>
 			<text>({T}: Add {R} or {G}.)
 Great Expanse enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/305_Great Expanse.png" num="305">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/315_Great Expanse.png" num="315">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3823,7 +3815,7 @@ Great Expanse enters tapped during your first, second, and third turn of the gam
 			<name>Great Falls</name>
 			<text>({T}: Add {G} or {U}.)
 Great Falls enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/306_Great Falls.png" num="306">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/316_Great Falls.png" num="316">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3839,7 +3831,7 @@ Great Falls enters tapped during your first, second, and third turn of the game.
 			<name>Great Flows</name>
 			<text>({T}: Add {B} or {R}.)
 Great Flows enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/307_Great Flows.png" num="307">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/317_Great Flows.png" num="317">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3855,7 +3847,7 @@ Great Flows enters tapped during your first, second, and third turn of the game.
 			<name>Great Gap</name>
 			<text>({T}: Add {W} or {B}.)
 Great Gap enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/308_Great Gap.png" num="308">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/318_Great Gap.png" num="318">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3871,7 +3863,7 @@ Great Gap enters tapped during your first, second, and third turn of the game.</
 			<name>Great Gully</name>
 			<text>({T}: Add {B} or {G}.)
 Great Gully enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/309_Great Gully.png" num="309">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/319_Great Gully.png" num="319">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3887,7 +3879,7 @@ Great Gully enters tapped during your first, second, and third turn of the game.
 			<name>Great Horizon</name>
 			<text>({T}: Add {W} or {U}.)
 Great Horizon enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/310_Great Horizon.png" num="310">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/320_Great Horizon.png" num="320">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3903,7 +3895,7 @@ Great Horizon enters tapped during your first, second, and third turn of the gam
 			<name>Great Lake</name>
 			<text>({T}: Add {U} or {R}.)
 Great Lake enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/311_Great Lake.png" num="311">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/321_Great Lake.png" num="321">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3919,7 +3911,7 @@ Great Lake enters tapped during your first, second, and third turn of the game.<
 			<name>Great View</name>
 			<text>({T}: Add {U} or {B}.)
 Great View enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/313_Great View.png" num="313">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/323_Great View.png" num="323">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3935,7 +3927,7 @@ Great View enters tapped during your first, second, and third turn of the game.<
 			<name>Great Tree</name>
 			<text>({T}: Add {G} or {W}.)
 Great Tree enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/312_Great Tree.png" num="312">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/322_Great Tree.png" num="322">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3950,7 +3942,7 @@ Great Tree enters tapped during your first, second, and third turn of the game.<
 		<card>
 			<name>Golden Ratio</name>
 			<text>When Golden Ratio enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create an X/X green and blue Fractal creature token. X is the number of sequence counters on Golden Ratio. (1, 2, 3, 5, 8, 13, and 21 appear in the Fibonnaci sequence.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/256_Golden Ratio.png" num="256">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/257_Golden Ratio.png" num="257">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3988,7 +3980,7 @@ Whenever Indulgent Noble attacks or blocks, sacrifice a creature.</text>
 			<text>Flying
 Artifact and enchantment spells you cast cost {1} less to cast.
 Artifact and enchantment spells your opponents cast cost {1} more to cast.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/239_Sultan&apos;s Stork.png" num="239">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/240_Sultan&apos;s Stork.png" num="240">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4078,7 +4070,7 @@ Whenever you attack, you may cast a creature spell with mana value 2 or less fro
 			<text>Equipped creature gets +1/-1.
 Whenever equipped creature dies, exile the top two cards of your library. You may play them this turn.
 Equip {1}</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/185_Skullclasp.png" num="185">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/186_Skullclasp.png" num="186">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4095,7 +4087,7 @@ Equip {1}</text>
 			<name>Rider in Wild Woods</name>
 			<text>Trample
 Rider in Wild Woods&apos;s power is equal to the number of lands you control plus the number of land cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/223_Rider in Wild Woods.png" num="223">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/224_Rider in Wild Woods.png" num="224">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4112,7 +4104,7 @@ Rider in Wild Woods&apos;s power is equal to the number of lands you control plu
 		<card>
 			<name>Ticking Entertainer</name>
 			<text>When Ticking Entertainer enters or leaves, create a tapped Treasure token.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/293_Ticking Entertainer.png" num="293">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/294_Ticking Entertainer.png" num="294">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4128,7 +4120,7 @@ Rider in Wild Woods&apos;s power is equal to the number of lands you control plu
 			<name>Seagrave</name>
 			<text>{T}: Add {C}.
 {2}, {T}, Sacrifice Seagrave: Shuffle target player&apos;s graveyard into their library. Draw a card.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/291_Seagrave.png" num="291">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/292_Seagrave.png" num="292">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4159,7 +4151,7 @@ Basic landcycling {2}</text>
 			<text>When Living Room enters, attach it to up to one target land you control.
 During your turn, fortified land is a 4/4 creature with haste that&apos;s still a land.
 Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/284_Living Room.png" num="284">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/285_Living Room.png" num="285">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4174,7 +4166,7 @@ Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery.)
 			<name>Silver Frog</name>
 			<text>Plunge (As you cast this spell, for each card type, you may exile a card of that type from your graveyard. Each card exiled this way pays for {1}.)
 Artifact spells you cast have plunge.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/292_Silver Frog.png" num="292">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/293_Silver Frog.png" num="293">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4190,7 +4182,7 @@ Artifact spells you cast have plunge.</text>
 			<name>Boiled Crab</name>
 			<text>Whenever you sacrifice Boiled Crab or another nontoken permanent, target player mills three cards.
 {2}, {T}, Sacrifice Boiled Crab: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/280_Boiled Crab.png" num="280">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/281_Boiled Crab.png" num="281">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4205,7 +4197,7 @@ Artifact spells you cast have plunge.</text>
 			<name>Color Explosion</name>
 			<text>Converge — Exile each nonland permanent with mana value equal to or less than the number of colors of mana spent on {X}.
 Channel — {2}, Discard this card: Create a Treasure token.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/278_Color Explosion.png" num="278">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/279_Color Explosion.png" num="279">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4241,7 +4233,7 @@ Channel — {2}, Discard this card: Create a Treasure token.</text>
 			<text>Flying
 When Glittering Swan enters, create a 1/1 white Bird creature token with flying.
 If a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/258_Glittering Swan.png" num="258">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/259_Glittering Swan.png" num="259">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4258,7 +4250,7 @@ If a permanent entering causes a triggered ability of a permanent you control to
 		<card>
 			<name>Dionysian Grove</name>
 			<text>At the beginning of combat on your turn, target nontoken land you control becomes a 4/4 Satyr creature that&apos;s still a land. It has haste and &quot;This creature can&apos;t block.&quot; When it leaves, create a tapped Wastes token. (It&apos;s a basic land with &quot;{T}: Add {C}.&quot;)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/264_Dionysian Grove.png" num="264">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/265_Dionysian Grove.png" num="265">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4276,7 +4268,7 @@ If a permanent entering causes a triggered ability of a permanent you control to
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of any of that creature&apos;s colors.)
 When Utopia enters, create two 2/2 Citizen creature tokens that are all colors.
 Spells you cast have convoke.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/267_Utopia.png" num="267">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/268_Utopia.png" num="268">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4295,7 +4287,7 @@ Spells you cast have convoke.</text>
 [+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
 [0]: Create two 2/2 black Zombie creature tokens with decayed. (They can&apos;t block. When one of them attacks, sacrifice it at end of combat.)
 [-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/268_The Harvest Man.png" num="268">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/269_The Harvest Man.png" num="269">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4316,7 +4308,7 @@ Spells you cast have convoke.</text>
 • Mill four cards.
 • Create two Treasure tokens.
 • Return a creature card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/273_Scheming Baba.png" num="273">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/274_Scheming Baba.png" num="274">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4335,7 +4327,7 @@ Spells you cast have convoke.</text>
 			<text>Ward {3}
 When Curio Collector enters, create a Clue token.
 Each noncreature artifact you control is a 2/2 artifact creature. (They retain their abilities.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/276_Curio Collector.png" num="276">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/277_Curio Collector.png" num="277">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4354,7 +4346,7 @@ Each noncreature artifact you control is a 2/2 artifact creature. (They retain t
 			<name>Master&apos;s Hound</name>
 			<text>At the beginning of each player&apos;s upkeep, exile the top two cards of their library. They may play them this turn.
 Whenever a player casts a spell with mana value 3 or less, torment them. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/263_Master&apos;s Hound.png" num="263">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/264_Master&apos;s Hound.png" num="264">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4371,7 +4363,7 @@ Whenever a player casts a spell with mana value 3 or less, torment them. (They l
 		<card>
 			<name>Shattered Reflection</name>
 			<text>When Shattered Reflection enters, exile the top two cards of your library and the top three cards of an opponent&apos;s library. That opponent separates them into two piles and you choose one of them. You may play the chosen cards until the end of your next turn and may spend mana of any type to do so.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/271_Shattered Reflection.png" num="271">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/272_Shattered Reflection.png" num="272">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4389,7 +4381,7 @@ Whenever a player casts a spell with mana value 3 or less, torment them. (They l
 			<name>Troubled Child</name>
 			<text>When Troubled Child enters, create a 5/3 black Nightmare with flying.
 Whenever a Nightmare you control becomes the target of a spell or ability an opponent controls, exile the top three cards of their library and choose one of them. You may cast it without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/260_Troubled Child.png" num="260">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/261_Troubled Child.png" num="261">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4461,7 +4453,7 @@ Whenever a Nightmare you control becomes the target of a spell or ability an opp
 			<name>Decadent Devotee</name>
 			<text>During your turn, Decadent Devotee has first strike.
 {8}{R}{R}, Exile Decadent Devotee: Create seven 1/1 red Vampire creature tokens with haste. This ability costs {X} less to activate, where X is your devotion to red.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/160_Decadent Devotee.png" num="160">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/158_Decadent Devotee.png" num="158">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4479,7 +4471,7 @@ Whenever a Nightmare you control becomes the target of a spell or ability an opp
 			<name>Liberous Devotee</name>
 			<text>Ward {1}
 {8}{G}{G}, Exile Liberous Devotee: Reveal the top six cards of your library. Put any number of permanent cards from among them onto the battlefield and the rest on the bottom of your library in a random order. This ability costs {X} less to activate, where X is your devotion to green.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/212_Liberous Devotee.png" num="212">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/213_Liberous Devotee.png" num="213">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4528,7 +4520,7 @@ Spells you cast cost twice as much generic mana to cast. (For example, a spell t
 			<text>When Haunting Mask enters or equipped creature attacks, you may mill three cards, then you may return a creature or land card from among them to your hand.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/272_Haunting Mask.png" num="272">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/273_Haunting Mask.png" num="273">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4547,7 +4539,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Epiphany Mask enters or equipped creature attacks, discover 3.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/270_Epiphany Mask.png" num="270">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/271_Epiphany Mask.png" num="271">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4566,7 +4558,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Wide-Eye Mask enters or equipped creature attacks, you may pay 2 life. If you do, draw two cards.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/261_Wide-Eye Mask.png" num="261">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/262_Wide-Eye Mask.png" num="262">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4585,7 +4577,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Ominous Visage enters or equipped creature attacks, create two 1/1 white Spirit creature tokens with flying.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/259_Ominous Visage.png" num="259">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/260_Ominous Visage.png" num="260">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4604,7 +4596,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Brutal Armor enters or equipped creature attacks, it deals damage equal to its power to up to one target creature.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/262_Brutal Armor.png" num="262">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/263_Brutal Armor.png" num="263">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4623,7 +4615,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Wandering Suit enters or equipped creature attacks, target creature gains double strike until end of turn.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/275_Wandering Suit.png" num="275">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/276_Wandering Suit.png" num="276">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4642,7 +4634,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Haunted Skull enters or equipped creature attacks, double target creature&apos;s power until end of turn.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/265_Haunted Skull.png" num="265">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/266_Haunted Skull.png" num="266">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4661,7 +4653,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Fighting Spirit Helm enters or equipped creature attacks, bolster 3. (Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/266_Fighting Spirit Helm.png" num="266">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/267_Fighting Spirit Helm.png" num="267">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4680,7 +4672,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Infested Diving Suit enters or equipped creature attacks, you may create a 1/1 green Pest creature token, then draw a card for each Pest you control.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/277_Infested Diving Suit.png" num="277">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/278_Infested Diving Suit.png" num="278">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4699,7 +4691,7 @@ Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery.
 			<text>When Writhing Wig enters or equipped creature attacks, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield. Put a finality counter on it.
 Equipped creature gets +3/+3.
 Reconfigure {5} ({5}: Attach or unattach to a creature you control as a sorcery. While attached, this isn&apos;t a creature.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/269_Writhing Wig.png" num="269">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/270_Writhing Wig.png" num="270">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4784,7 +4776,7 @@ During your turn, you control enchanted creature.</text>
 		<card>
 			<name>Green Thumb</name>
 			<text>Target creature you control gets +3/+3 until end of turn, then fights up to one target creature an opponent controls. If the creature an opponent controls would die this turn, instead tap it. It becomes a Forest land. (It&apos;s not a creature and has &quot;{T}: Add {G}.&quot;)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/209_Green Thumb.png" num="209">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/210_Green Thumb.png" num="210">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4802,7 +4794,7 @@ During your turn, you control enchanted creature.</text>
 			<text>Trample, ward {4}
 You may play land cards from your graveyard.
 As long as you control fewer than seven lands, prevent all combat damage Trash Golem would deal.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/233_Trash Golem.png" num="233">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/234_Trash Golem.png" num="234">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4856,7 +4848,7 @@ Escape—Exile another black card and three other cards from your graveyard.</te
 			<name>Thorn-Crowned King</name>
 			<text>Ward—Pay 3 life.
 Whenever you cast a spell, torment target player. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/189_Thorn-Crowned King.png" num="189">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/190_Thorn-Crowned King.png" num="190">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4866,7 +4858,7 @@ Whenever you cast a spell, torment target player. (They lose 3 life unless they 
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4967,7 +4959,7 @@ Serfs you control get +2/+2.
 Serfs you control get +2/+2.
 {6}{RW} Level 3
 Serfs you control have double strike. You can&apos;t sacrifice them.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/274_Class Revolution.png" num="274">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/275_Class Revolution.png" num="275">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5001,7 +4993,7 @@ Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.<
 			<name>Aberration All-Seeing</name>
 			<text>Flying, vigilance, ward {3}
 Whenever an opponent draws a card, torment them. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/279_Aberration All-Seeing.png" num="279">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/280_Aberration All-Seeing.png" num="280">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5018,7 +5010,7 @@ Whenever an opponent draws a card, torment them. (They lose 3 life unless they d
 			<text>Vigilance, reach, trample
 Dangarangum&apos;s power and toughness are each equal to the number of lands you control plus one.
 Resurrect—{G}, Discard two cards. (You may cast this from your graveyard. If you do, it enters with a finality counter.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/201_Dangarangum.png" num="201">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/202_Dangarangum.png" num="202">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5037,7 +5029,7 @@ Resurrect—{G}, Discard two cards. (You may cast this from your graveyard. If y
 			<text>When Blue-Blood Iconoclast enters, choose one —
 • Destroy target artifact.
 • Target non-Human creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/194_Blue-Blood Iconoclast.png" num="194">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/195_Blue-Blood Iconoclast.png" num="195">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5056,7 +5048,7 @@ Resurrect—{G}, Discard two cards. (You may cast this from your graveyard. If y
 			<text>When Colorful Cloak enters, create a 2/2 red Illusion creature token with prowess. Attach Colorful Cloak to it.
 Vivid — For each color among permanents you control, equipped creature gets +1/+1 and has protection from that color.
 Equip {2W}{2U}{2B}{2R}{2G}</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/282_Colorful Cloak.png" num="282">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/283_Colorful Cloak.png" num="283">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5164,7 +5156,7 @@ When Free Bird enters, destroy target creature an opponent controls.</text>
 			<name>Evil Eye</name>
 			<text>Non-Eye creatures you control can&apos;t attack.
 At the beginning of combat on your turn, choose up to two other target creatures. Gain control of them until end of turn. Untap them. Until end of turn, they gain haste and become Eyes. (You may choose creatures you control.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/163_Evil Eye.png" num="163">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/162_Evil Eye.png" num="162">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5458,25 +5450,6 @@ At the beginning of combat on your turn, choose up to two other target creatures
 			<token>1</token>
 		</card>
 		<card>
-			<name>Beating Heart of the Land</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Each player sacrifices three lands.
-II, III — Each player exiles the top three cards of their library and puts each land card from among them onto the battlefield. They may play the other exiled cards this turn.
-​</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/148_Beating Heart of the Land.png" num="148">ZZZ</set>
-			<prop>
-				<layout>saga</layout>
-				<side>front</side>
-				<type>Enchantment — Saga</type>
-				<maintype>Enchantment</maintype>
-				<manacost>4R</manacost>
-				<cmc>5</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Crab Token ZZZ</name>
 			<text></text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/6t_Crab Token.png" num="6">ZZZ</set>
@@ -5533,24 +5506,24 @@ Target permanent gains protection from mana value X or less until end of turn, w
 			<text>Menace
 When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 {R}, Sacrifice a creature: Torment target player. Activate only as a sorcery. (They lose 3 life unless they discard a card or sacrifice a nonland permanent)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/151_Bloodsucking Sewerslicker.png" num="151">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/149_Bloodsucking Sewerslicker.png" num="149">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Vampire Peasant</type>
 				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Bosk</name>
 			<text>When Bosk enters, you lose 2 life and sacrifice it. When you do, search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/296_Bosk.png" num="296">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/307_Bosk.png" num="307">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5564,7 +5537,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Cistern</name>
 			<text>When Cistern enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/297_Cistern.png" num="297">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/308_Cistern.png" num="308">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5578,7 +5551,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Horizon</name>
 			<text>When Horizon enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/315_Horizon.png" num="315">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/326_Horizon.png" num="326">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5592,7 +5565,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Mine</name>
 			<text>When Mine enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/316_Mine.png" num="316">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/327_Mine.png" num="327">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5606,7 +5579,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Paradise</name>
 			<text>When Paradise enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/317_Paradise.png" num="317">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/328_Paradise.png" num="328">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5620,7 +5593,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Ravine</name>
 			<text>When Ravine enters, you lose 2 life and sacrifice it. When you do, search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/320_Ravine.png" num="320">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/331_Ravine.png" num="331">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5634,7 +5607,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Ruins</name>
 			<text>When Ruins enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/322_Ruins.png" num="322">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/333_Ruins.png" num="333">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5648,7 +5621,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Shanty</name>
 			<text>When Shanty enters, you lose 2 life and sacrifice it. When you do, search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/324_Shanty.png" num="324">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/335_Shanty.png" num="335">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5662,7 +5635,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Stormscape</name>
 			<text>When Stormscape enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/325_Stormscape.png" num="325">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/336_Stormscape.png" num="336">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5676,7 +5649,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Wilderness</name>
 			<text>When Wilderness enters, you lose 2 life and sacrifice it. When you do, search your library for an Forest or Plains card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/329_Wilderness.png" num="329">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/340_Wilderness.png" num="340">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5690,8 +5663,8 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Climactic Explosion</name>
 			<text>Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
-Climactic Explosion deals 3 damage to each creature.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/156_Climactic Explosion.png" num="156">ZZZ</set>
+Climactic Explosion deals 3 damage to each creature and each opponent.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/154_Climactic Explosion.png" num="154">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5760,7 +5733,7 @@ Whenever you attack, up to two other target creatures you control get +X/+X unti
 			<name>Watching Wall</name>
 			<text>Defender
 {1}, Exile Watching Wall: Exile target player&apos;s graveyard. Surveil 1.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/294_Watching Wall.png" num="294">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/295_Watching Wall.png" num="295">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5797,7 +5770,7 @@ Choose one or more —
 • Destroy target enchantment.
 • Destroy target creature with flying.
 • Exile target card from a graveyard.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/207_Gone Shooting.png" num="207">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/208_Gone Shooting.png" num="208">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5812,15 +5785,16 @@ Choose one or more —
 		</card>
 		<card>
 			<name>Fire Sail</name>
-			<text>Fire Sail deals 3 damage to target creature or player and 1 damage to each other creature and player.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/164_Fire Sail.png" num="164">ZZZ</set>
+			<text>This spell can&apos;t be countered.
+Fire Sail deals 3 damage to target creature or player and 1 damage to each other creature and player.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/163_Fire Sail.png" num="163">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -5865,7 +5839,7 @@ Choose one or more —
 		<card>
 			<name>Emerald Vim</name>
 			<text>{T}: Add {G}. You can&apos;t cast activate this ability during your first, second, or third turns of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/283_Emerald Vim.png" num="283">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/284_Emerald Vim.png" num="284">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5880,7 +5854,7 @@ Choose one or more —
 		<card>
 			<name>Onyx Vim</name>
 			<text>{T}: Add {B}. You can&apos;t cast activate this ability during your first, second, or third turns of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/285_Onyx Vim.png" num="285">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/286_Onyx Vim.png" num="286">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5895,7 +5869,7 @@ Choose one or more —
 		<card>
 			<name>Opal Vim</name>
 			<text>{T}: Add {W}. You can&apos;t cast activate this ability during your first, second, or third turns of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/286_Opal Vim.png" num="286">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/287_Opal Vim.png" num="287">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5910,7 +5884,7 @@ Choose one or more —
 		<card>
 			<name>Ruby Vim</name>
 			<text>{T}: Add {R}. You can&apos;t cast activate this ability during your first, second, or third turns of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/289_Ruby Vim.png" num="289">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/290_Ruby Vim.png" num="290">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5925,7 +5899,7 @@ Choose one or more —
 		<card>
 			<name>Sapphire Vim</name>
 			<text>{T}: Add {U}. You can&apos;t cast activate this ability during your first, second, or third turns of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/290_Sapphire Vim.png" num="290">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/291_Sapphire Vim.png" num="291">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5992,7 +5966,7 @@ Choose one or more —
 			<text>Trample
 During your turn, Mystic Snake has hexproof.
 {1}{G}, Discard Mystic Snake: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/217_Mystic Snake.png" num="217">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/218_Mystic Snake.png" num="218">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6079,6 +6053,25 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
+			<name>Sealed Colossus</name>
+			<text>This spell costs {3} less to cast for each land you controlled that left the battlefield this turn.
+Reach, trample
+When Sealed Colossus enters, it deals 3 damage to each opponent and each creature they control.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/185_Sealed Colossus.png" num="185">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>9R</manacost>
+				<cmc>10</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
 			<name>Old-Fashioned Thespian</name>
 			<text>Battalion — Whenever Old-Fashioned Thespian and at least two other creatures attack, exile Old-Fashioned Thespian and create three 1/1 black Bat creature tokens with flying. They enter tapped and attacking.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/179_Old-Fashioned Thespian.png" num="179">ZZZ</set>
@@ -6092,6 +6085,192 @@ Draw a card.</text>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disaster Titan</name>
+			<text>Whenever Disaster Titan enters or attacks, you may sacrifice a land. If you do, draw a card.
+Whenever one or more lands you control leave the battlefield, Disaster Titan deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/160_Disaster Titan.png" num="160">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Mountains and/or Forest cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/304_.png" num="304">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Island and/or Swamp cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/303_.png" num="303">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Island cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/305_.png" num="305">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Swamp cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/296_.png" num="296">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Forest and/or Island cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/297_.png" num="297">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Swamp and/or Forest cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/298_.png" num="298">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/299_.png" num="299">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Swamp and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/300_.png" num="300">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Island and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/301_.png" num="301">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Forest and/or Plains cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/302_.png" num="302">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Heralds of the Apocalypse</name>
+			<text>First strike
+Whenever Heralds of the Apocalypse attack, put a +1/+1 counter on it, then other creatures you control get +X/+0 until end of turn, where X is the number of +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/168_Heralds of the Apocalypse.png" num="168">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
