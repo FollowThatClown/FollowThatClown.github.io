@@ -1,4 +1,175 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+Golden Spial added.
+Sheer Waypoint added.
+Ominous Waypoint added.
+Seaside Waypoint added.
+Clandestine Waypoint added.
+Surreal Waypoint added.
+Abstract Waypoint added.
+Marble Waypoint added.
+Breathtaking Waypoint added.
+Menacing Waypoint added.
+Vibrant Waypoint added.
+Giant Crab added.
+
+Great Old Turtle removed.
+Golden Ratio removed.
+
+Mother Nature
+rules_text: As long as you control seven or fewer other lands, Mother Nature is a Forest land.” [i](She isn't a creature and has “{T}: Add {G}.”)[/i]
+Vigilance, trample, indestructible
+{T}, You may play target permanent card from your graveyard this turn. Creatures you play this way enter with a finality counter. => As long as you control seven or fewer other lands, Mother Nature is a Forest land.” [i](She isn't a creature and has “{T}: Add {G}.”)[/i]
+Vigilance, trample
+{T}, You may play target permanent card from your graveyard this turn. Creatures you play this way enter with a finality counter.
+
+Click Into Place
+rules_text: Search your library for a card with a basic land type. If you control seven or more lands, instead search for a creature card or a card with a basic land type. Put that card onto the battlefield, then shuffle. => Search your library for a card with a basic land type. If you control six or more lands, instead search for a creature card or a card with a basic land type. Put that card onto the battlefield, then shuffle.
+
+Manque
+rules_text: Whenever you wander, put two loyalty counters on Manque.
+[0]: This turn, you may play target creature card from your graveyard.
+[-2]: Each opponent sacrifices the creature they control with the highest mana value among creatures they control.
+[-4]: You gain 3 life and create two 3/3 black Nightmare creature tokens. => Whenever you wander, put two loyalty counters on Manque.
+[0]: This turn, you may play target creature card from your graveyard.
+[-2]: Each opponent sacrifices the creature they control with the highest mana value among creatures they control.
+[-3]: You lose 3 life and create two 3/1 black Nightmare creature tokens.
+special_text: Whenever you wander, put two loyalty counters on Manque.
+[0]: This turn, you may play target creature card from your graveyard.
+[-2]: Each opponent sacrifices the creature they control with the highest mana value among creatures they control.
+[-4]: You gain 3 life and create two 3/3 black Nightmare creature tokens. => Whenever you wander, put two loyalty counters on Manque.
+[0]: This turn, you may play target creature card from your graveyard.
+[-2]: Each opponent sacrifices the creature they control with the highest mana value among creatures they control.
+[-3]: You lose 3 life and create two 3/1 black Nightmare creature tokens.
+
+Star-Crossed Lovers
+cost: {1}{W}{B} => {W}{B}
+
+Where The Dead Gods Lay
+rules_text: {T}: Add {C}.
+{4}, {T}, Exile two lands you control: Draw two cards. => {T}: Add {C}.
+{3}, {T}, Exile two lands you control: Draw two cards.
+
+Rabbit Friend
+rules_text: When Rabbit Friend enters or one or more cards leave your graveyard, create a 1/1 white Rabbit creature token.
+Rabbits you control get +2/+2 and have trample. => When Rabbit Friend enters, create two 1/1 white Rabbit creature tokens.
+Whenever one or more cards leave your graveyard, create a 1/1 white Rabbit creature token.
+Rabbits you control get +2/+2 and have trample.
+pt: 4/4 => 2/2
+
+Backwood
+rules_text: {T}, Pay 1 life: Add {B} or {G}.
+{T}, Sacrifice Backwood: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {B} or {G}.
+{2}, {T}, Sacrifice Backwood: Draw two cards. Activate only if you have 7 or less life.
+
+Cityscape
+rules_text: {T}, Pay 1 life: Add {W} or {B}.
+{T}, Sacrifice Cityscape: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {W} or {B}.
+{2}, {T}, Sacrifice Cityscape: Draw two cards. Activate only if you have 7 or less life.
+
+Cliffside
+rules_text: {T}, Pay 1 life: Add {B} or {R}.
+{T}, Sacrifice Cliffside: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {B} or {R}.
+{2}, {T}, Sacrifice Cliffside: Draw two cards. Activate only if you have 7 or less life.
+
+Highland
+rules_text: {T}, Pay 1 life: Add {G} or {W}.
+{T}, Sacrifice Highland: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {G} or {W}.
+{2}, {T}, Sacrifice Highland: Draw a card. Activate only if you have 7 or less life.
+
+Hollow
+rules_text: {T}, Pay 1 life: Add {U} or {B}.
+{T}, Sacrifice Hollow: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {U} or {B}.
+{2}, {T}, Sacrifice Hollow: Draw two cards. Activate only if you have 7 or less life.
+
+Peak
+rules_text: {T}, Pay 1 life: Add {U} or {R}.
+{T}, Sacrifice Peak: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {U} or {R}.
+{2}, {T}, Sacrifice Peak: Draw two cards. Activate only if you have 7 or less life.
+
+Roadway
+rules_text: {T}, Pay 1 life: Add {R} or {G}.
+{T}, Sacrifice Roadway: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {R} or {G}.
+{2}, {T}, Sacrifice Roadway: Draw two cards. Activate only if you have 7 or less life.
+
+Seaside
+rules_text: {T}, Pay 1 life: Add {G} or {U}.
+{T}, Sacrifice Seaside: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {G} or {U}.
+{2}, {T}, Sacrifice Seaside: Draw two cards. Activate only if you have 7 or less life.
+
+Dawnscape
+rules_text: {T}, Pay 1 life: Add {R} or {W}.
+{T}, Sacrifice Dawnscape: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {R} or {W}.
+{2}, {T}, Sacrifice Dawnscape: Draw two cards. Activate only if you have 7 or less life.
+
+Summit
+rules_text: {T}, Pay 1 life: Add {W} or {U}.
+{T}, Sacrifice Summit: Draw a card. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {W} or {U}.
+{2}, {T}, Sacrifice Summit: Draw two cards. Activate only if you have 7 or less life.
+
+Skullfaced Silver Tongue
+pt: 3/3 => 4/3
+
+Frogspawn
+rules_text: When Frogspawn enters, you gain 2 life.
+{2}, {T}, Sacrifice Frogspawn: Create two 1/1 green Frog creature tokens. Activate only as a sorcery.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i] => When Frogspawn enters, you gain 3 life.
+{2}, {T}, Sacrifice Frogspawn: Create two 1/1 green Frog creature tokens. Activate only as a sorcery.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+Incense Soothsayer
+pt: 4/2 => 4/3
+
+Rider in Wild Woods
+rules_text: Trample
+Rider in Wild Woods's power is equal to the number of lands you control plus the number of land cards in your graveyard. => Rider in Wild Woods's power is equal to the number of lands you control plus the number of land cards in your graveyard.
+Whenever Rider in Wild Woods attacks, you may sacrifice a land. If you do, draw a card.
+pt: */3 => */4
+
+The Harvest Man
+rules_text: Whenever a creature you control dies, you may draw a card. Do this only once each turn.
+[+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[0]: Create two 2/2 black Zombie creature tokens with decayed. [i](They can't block. When one of them attacks, sacrifice it at end of combat.)[/i]
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. => Whenever a creature you control dies, you may draw a card. Do this only once each turn.
+[+1]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[0]: Create two 2/2 black Zombie creature tokens with decayed. [i](They can't block. When one of them attacks, sacrifice it at end of combat.)[/i]
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+special_text: Whenever a creature you control dies, you may draw a card. Do this only once each turn.
+[+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[0]: Create two 2/2 black Zombie creature tokens with decayed. [i](They can't block. When one of them attacks, sacrifice it at end of combat.)[/i]
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. => Whenever a creature you control dies, you may draw a card. Do this only once each turn.
+[+1]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[0]: Create two 2/2 black Zombie creature tokens with decayed. [i](They can't block. When one of them attacks, sacrifice it at end of combat.)[/i]
+[-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.
+
+Troubled Child
+type: Creature — Human => Creature — Human Child
+rules_text: When Troubled Child enters, create a 5/3 black Nightmare with flying.
+Whenever a Nightmare you control becomes the target of a spell or ability an opponent controls, exile the top three cards of their library and choose one of them. You may cast it without paying its mana cost. => Nightmares you control have hexproof.
+When Troubled Child enters, target opponent mills five cards. You may return a creature card from their graveyard to the battlefield under your control. It becomes a Nightmare in addition to its other types.
+
+Nightmare Token
+pt: 3/3 => 3/1
+
+Gone Shooting
+rules_text: Escalate {2} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or more —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target creature with flying.
+• Exile target card from a graveyard. => Escalate {2} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or more —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target creature with flying.
+• Exile a card from a graveyard.
+
+Heralds of the Apocalypse
+pt: 3/2 => 4/2
+
+
+VERSION 32 CHANGELOG
 ====================
 
 

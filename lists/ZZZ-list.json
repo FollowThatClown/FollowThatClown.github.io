@@ -632,7 +632,7 @@
         "position": ""
     },
     {
-        "card_name": "Glistenegg",
+        "card_name": "Giant Crab",
         "number": 207,
         "shape": "normal",
         "set": "ZZZ",
@@ -672,7 +672,7 @@
         "position": ""
     },
     {
-        "card_name": "Gone Shooting",
+        "card_name": "Glistenegg",
         "number": 208,
         "shape": "normal",
         "set": "ZZZ",
@@ -712,7 +712,7 @@
         "position": ""
     },
     {
-        "card_name": "Great Old Turtle",
+        "card_name": "Gone Shooting",
         "number": 209,
         "shape": "normal",
         "set": "ZZZ",
@@ -2095,7 +2095,7 @@
         "position": ""
     },
     {
-        "card_name": "Golden Ratio",
+        "card_name": "Golden Spial",
         "number": 257,
         "shape": "normal",
         "set": "ZZZ",
@@ -2447,7 +2447,7 @@
     },
     {
         "card_name": "Great Horizon",
-        "number": 320,
+        "number": 313,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2455,7 +2455,7 @@
     },
     {
         "card_name": "Great View",
-        "number": 323,
+        "number": 316,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2463,7 +2463,7 @@
     },
     {
         "card_name": "Cliffside",
-        "number": 310,
+        "number": 303,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2471,7 +2471,7 @@
     },
     {
         "card_name": "Great Expanse",
-        "number": 315,
+        "number": 308,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2479,7 +2479,7 @@
     },
     {
         "card_name": "Great Tree",
-        "number": 322,
+        "number": 315,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2487,7 +2487,7 @@
     },
     {
         "card_name": "Summit",
-        "number": 337,
+        "number": 335,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2495,7 +2495,7 @@
     },
     {
         "card_name": "Hollow",
-        "number": 325,
+        "number": 318,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2503,7 +2503,7 @@
     },
     {
         "card_name": "Great Flows",
-        "number": 317,
+        "number": 310,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2511,7 +2511,7 @@
     },
     {
         "card_name": "Roadway",
-        "number": 332,
+        "number": 328,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2519,7 +2519,7 @@
     },
     {
         "card_name": "Highland",
-        "number": 324,
+        "number": 317,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2542,7 +2542,7 @@
     },
     {
         "card_name": "Cityscape",
-        "number": 309,
+        "number": 301,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2550,62 +2550,6 @@
     },
     {
         "card_name": "Great Lake",
-        "number": 321,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Backwood",
-        "number": 306,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Dawnscape",
-        "number": 311,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Great Falls",
-        "number": 316,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Great Gap",
-        "number": 318,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Peak",
-        "number": 329,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Great Gully",
-        "number": 319,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Great Desert",
         "number": 314,
         "shape": "normal",
         "set": "ZZZ",
@@ -2613,54 +2557,47 @@
         "position": ""
     },
     {
-        "card_name": "Seaside",
-        "number": 334,
+        "card_name": "Backwood",
+        "number": 297,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "",
-        "number": 302,
+        "card_name": "Dawnscape",
+        "number": 304,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Bosk",
-        "number": 307,
+        "card_name": "Great Falls",
+        "number": 309,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Cistern",
-        "number": 308,
+        "card_name": "Great Gap",
+        "number": 311,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Dust Bowl",
+        "card_name": "Peak",
+        "number": 325,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Great Gully",
         "number": 312,
         "shape": "normal",
         "set": "ZZZ",
@@ -2668,39 +2605,15 @@
         "position": ""
     },
     {
-        "card_name": "Far Off Land",
-        "number": 313,
+        "card_name": "Great Desert",
+        "number": 307,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Horizon",
-        "number": 326,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mine",
-        "number": 327,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Paradise",
-        "number": 328,
-        "shape": "normal",
-        "set": "ZZZ",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Prismatic Vista",
+        "card_name": "Seaside",
         "number": 330,
         "shape": "normal",
         "set": "ZZZ",
@@ -2708,8 +2621,135 @@
         "position": ""
     },
     {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Abstract Waypoint",
+        "number": 296,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bosk",
+        "number": 298,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Breathtaking Waypoint",
+        "number": 299,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cistern",
+        "number": 300,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clandestine Waypoint",
+        "number": 302,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dust Bowl",
+        "number": 305,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Far Off Land",
+        "number": 306,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Horizon",
+        "number": 319,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Marble Waypoint",
+        "number": 320,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Menacing Waypoint",
+        "number": 321,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mine",
+        "number": 322,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ominous Waypoint",
+        "number": 323,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Paradise",
+        "number": 324,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Prismatic Vista",
+        "number": 326,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Ravine",
-        "number": 331,
+        "number": 327,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2717,7 +2757,15 @@
     },
     {
         "card_name": "Ruins",
-        "number": 333,
+        "number": 329,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seaside Waypoint",
+        "number": 331,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2725,7 +2773,15 @@
     },
     {
         "card_name": "Shanty",
-        "number": 335,
+        "number": 332,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sheer Waypoint",
+        "number": 333,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2733,7 +2789,7 @@
     },
     {
         "card_name": "Stormscape",
-        "number": 336,
+        "number": 334,
         "shape": "normal",
         "set": "ZZZ",
         "rotated": false,
@@ -2741,6 +2797,22 @@
     },
     {
         "card_name": "Sunny Sanctuary",
+        "number": 336,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Surreal Waypoint",
+        "number": 337,
+        "shape": "normal",
+        "set": "ZZZ",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vibrant Waypoint",
         "number": 338,
         "shape": "normal",
         "set": "ZZZ",
@@ -2762,18 +2834,6 @@
         "set": "ZZZ",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

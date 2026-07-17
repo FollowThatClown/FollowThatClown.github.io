@@ -5,7 +5,7 @@
 			<name>ZZZ</name>
 			<longname>ZZZ</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-16</releasedate>
+			<releasedate>2026-07-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -459,24 +459,6 @@ Whenever another Clown you control attacks, search your library for a basic land
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Great Old Turtle</name>
-			<text>Vigilance, trample, ward {2}
-Whenever one or more card leaves your graveyard, put two +1/+1 counters on Great Old Turtle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/209_Great Old Turtle.png" num="209">ZZZ</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Turtle</type>
-				<maintype>Creature</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-				<pt>1/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Aristaeus</name>
 			<text>Trample, reach, vigilance
 Aristaeus enters with ten +1/+1 counters on it.
@@ -499,7 +481,7 @@ Remove three +1/+1 counters from Aristaeus: It gains hexproof until end of turn.
 		<card>
 			<name>Mother Nature</name>
 			<text>As long as you control seven or fewer other lands, Mother Nature is a Forest land.&quot; (She isn&apos;t a creature and has &quot;{T}: Add {G}.&quot;)
-Vigilance, trample, indestructible
+Vigilance, trample
 {T}, You may play target permanent card from your graveyard this turn. Creatures you play this way enter with a finality counter.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/215_Mother Nature.png" num="215">ZZZ</set>
 			<prop>
@@ -534,7 +516,7 @@ Search your library for a creature card, reveal it, put it into your hand, then 
 		</card>
 		<card>
 			<name>Click Into Place</name>
-			<text>Search your library for a card with a basic land type. If you control seven or more lands, instead search for a creature card or a card with a basic land type. Put that card onto the battlefield, then shuffle.</text>
+			<text>Search your library for a card with a basic land type. If you control six or more lands, instead search for a creature card or a card with a basic land type. Put that card onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/198_Click Into Place.png" num="198">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -1343,7 +1325,7 @@ Whenever you wander, you may pay 3 life. If you do, return Looming Doom from you
 			<text>Whenever you wander, put two loyalty counters on Manque.
 [0]: This turn, you may play target creature card from your graveyard.
 [-2]: Each opponent sacrifices the creature they control with the highest mana value among creatures they control.
-[-4]: You gain 3 life and create two 3/3 black Nightmare creature tokens.</text>
+[-3]: You lose 3 life and create two 3/1 black Nightmare creature tokens.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/126_Manque.png" num="126">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -1742,8 +1724,8 @@ When Star-Crossed Lovers enters, search your library for a creature card and/or 
 				<side>front</side>
 				<type>Creature — Human Knight Noble</type>
 				<maintype>Creature</maintype>
-				<manacost>1WB</manacost>
-				<cmc>3</cmc>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
 				<pt>2/2</pt>
@@ -2437,7 +2419,7 @@ Whenever a land you control enters, put a +1/+1 counter on New Age Messiah.</tex
 			<name>Glistenegg</name>
 			<text>When Glistenegg enters or leaves, create a tapped Treasure token.
 {2}, {T}, Sacrifice Glistenegg: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/207_Glistenegg.png" num="207">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/208_Glistenegg.png" num="208">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2527,7 +2509,7 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 {T}: Add {C}.
 {1}, {T}: Add one mana of any color.
 {2}, {T}, Sacrifice Far Off Land: Draw a card.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/313_Far Off Land.png" num="313">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/306_Far Off Land.png" num="306">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2541,7 +2523,7 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 		<card>
 			<name>Prismatic Vista</name>
 			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/330_Prismatic Vista.png" num="330">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/326_Prismatic Vista.png" num="326">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2557,7 +2539,7 @@ When you suspend Take a Walk on the Wild Side, create a 3/3 green Beast creature
 			<text>Sunny Sanctuary enters tapped.
 When Sunny Sanctuary enters, you gain 2 life.
 {T}, Sacrifice this land: Search your library for a card with a basic land type, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/338_Sunny Sanctuary.png" num="338">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/336_Sunny Sanctuary.png" num="336">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2572,7 +2554,7 @@ When Sunny Sanctuary enters, you gain 2 life.
 			<name>Dust Bowl</name>
 			<text>{T}: Add {C}.
 {3}, {T}, Sacrifice a land: Destroy target nonbasic land.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/312_Dust Bowl.png" num="312">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/305_Dust Bowl.png" num="305">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2586,7 +2568,7 @@ When Sunny Sanctuary enters, you gain 2 life.
 		<card>
 			<name>Where The Dead Gods Lay</name>
 			<text>{T}: Add {C}.
-{4}, {T}, Exile two lands you control: Draw two cards.</text>
+{3}, {T}, Exile two lands you control: Draw two cards.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/339_Where The Dead Gods Lay.png" num="339">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -2652,7 +2634,8 @@ Once during each of your turns, you may cast one of the exiled spells without pa
 		</card>
 		<card>
 			<name>Rabbit Friend</name>
-			<text>When Rabbit Friend enters or one or more cards leave your graveyard, create a 1/1 white Rabbit creature token.
+			<text>When Rabbit Friend enters, create two 1/1 white Rabbit creature tokens.
+Whenever one or more cards leave your graveyard, create a 1/1 white Rabbit creature token.
 Rabbits you control get +2/+2 and have trample.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/223_Rabbit Friend.png" num="223">ZZZ</set>
 			<prop>
@@ -2664,7 +2647,7 @@ Rabbits you control get +2/+2 and have trample.</text>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2866,8 +2849,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Backwood</name>
 			<text>{T}, Pay 1 life: Add {B} or {G}.
-{T}, Sacrifice Backwood: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/306_Backwood.png" num="306">ZZZ</set>
+{2}, {T}, Sacrifice Backwood: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/297_Backwood.png" num="297">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2882,8 +2865,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Cityscape</name>
 			<text>{T}, Pay 1 life: Add {W} or {B}.
-{T}, Sacrifice Cityscape: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/309_Cityscape.png" num="309">ZZZ</set>
+{2}, {T}, Sacrifice Cityscape: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/301_Cityscape.png" num="301">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2898,8 +2881,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Cliffside</name>
 			<text>{T}, Pay 1 life: Add {B} or {R}.
-{T}, Sacrifice Cliffside: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/310_Cliffside.png" num="310">ZZZ</set>
+{2}, {T}, Sacrifice Cliffside: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/303_Cliffside.png" num="303">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2914,8 +2897,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Highland</name>
 			<text>{T}, Pay 1 life: Add {G} or {W}.
-{T}, Sacrifice Highland: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/324_Highland.png" num="324">ZZZ</set>
+{2}, {T}, Sacrifice Highland: Draw a card. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/317_Highland.png" num="317">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2930,8 +2913,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Hollow</name>
 			<text>{T}, Pay 1 life: Add {U} or {B}.
-{T}, Sacrifice Hollow: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/325_Hollow.png" num="325">ZZZ</set>
+{2}, {T}, Sacrifice Hollow: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/318_Hollow.png" num="318">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2946,8 +2929,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Peak</name>
 			<text>{T}, Pay 1 life: Add {U} or {R}.
-{T}, Sacrifice Peak: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/329_Peak.png" num="329">ZZZ</set>
+{2}, {T}, Sacrifice Peak: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/325_Peak.png" num="325">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2962,8 +2945,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Roadway</name>
 			<text>{T}, Pay 1 life: Add {R} or {G}.
-{T}, Sacrifice Roadway: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/332_Roadway.png" num="332">ZZZ</set>
+{2}, {T}, Sacrifice Roadway: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/328_Roadway.png" num="328">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2978,8 +2961,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Seaside</name>
 			<text>{T}, Pay 1 life: Add {G} or {U}.
-{T}, Sacrifice Seaside: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/334_Seaside.png" num="334">ZZZ</set>
+{2}, {T}, Sacrifice Seaside: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/330_Seaside.png" num="330">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2994,8 +2977,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Dawnscape</name>
 			<text>{T}, Pay 1 life: Add {R} or {W}.
-{T}, Sacrifice Dawnscape: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/311_Dawnscape.png" num="311">ZZZ</set>
+{2}, {T}, Sacrifice Dawnscape: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/304_Dawnscape.png" num="304">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3010,8 +2993,8 @@ Sacrifice Apocalypse Preacher: Creatures you control gain indestructible until e
 		<card>
 			<name>Summit</name>
 			<text>{T}, Pay 1 life: Add {W} or {U}.
-{T}, Sacrifice Summit: Draw a card. Activate only if you have 7 or less life.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/337_Summit.png" num="337">ZZZ</set>
+{2}, {T}, Sacrifice Summit: Draw two cards. Activate only if you have 7 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/335_Summit.png" num="335">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3432,7 +3415,7 @@ When Skullfaced Silver Tongue enters, target opponent separates the creatures th
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3457,7 +3440,7 @@ Sacrifice an Elemental: Add {R}.</text>
 		</card>
 		<card>
 			<name>Frogspawn</name>
-			<text>When Frogspawn enters, you gain 2 life.
+			<text>When Frogspawn enters, you gain 3 life.
 {2}, {T}, Sacrifice Frogspawn: Create two 1/1 green Frog creature tokens. Activate only as a sorcery.
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/206_Frogspawn.png" num="206">ZZZ</set>
@@ -3542,7 +3525,7 @@ If a spell or ability an opponent controls causes you to discard this card, put 
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/2</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3782,7 +3765,7 @@ Draw a card.</text>
 			<name>Great Desert</name>
 			<text>({T}: Add {R} or {W}.)
 Great Desert enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/314_Great Desert.png" num="314">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/307_Great Desert.png" num="307">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3798,7 +3781,7 @@ Great Desert enters tapped during your first, second, and third turn of the game
 			<name>Great Expanse</name>
 			<text>({T}: Add {R} or {G}.)
 Great Expanse enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/315_Great Expanse.png" num="315">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/308_Great Expanse.png" num="308">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3814,7 +3797,7 @@ Great Expanse enters tapped during your first, second, and third turn of the gam
 			<name>Great Falls</name>
 			<text>({T}: Add {G} or {U}.)
 Great Falls enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/316_Great Falls.png" num="316">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/309_Great Falls.png" num="309">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3830,7 +3813,7 @@ Great Falls enters tapped during your first, second, and third turn of the game.
 			<name>Great Flows</name>
 			<text>({T}: Add {B} or {R}.)
 Great Flows enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/317_Great Flows.png" num="317">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/310_Great Flows.png" num="310">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3846,7 +3829,7 @@ Great Flows enters tapped during your first, second, and third turn of the game.
 			<name>Great Gap</name>
 			<text>({T}: Add {W} or {B}.)
 Great Gap enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/318_Great Gap.png" num="318">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/311_Great Gap.png" num="311">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3862,7 +3845,7 @@ Great Gap enters tapped during your first, second, and third turn of the game.</
 			<name>Great Gully</name>
 			<text>({T}: Add {B} or {G}.)
 Great Gully enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/319_Great Gully.png" num="319">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/312_Great Gully.png" num="312">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3878,7 +3861,7 @@ Great Gully enters tapped during your first, second, and third turn of the game.
 			<name>Great Horizon</name>
 			<text>({T}: Add {W} or {U}.)
 Great Horizon enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/320_Great Horizon.png" num="320">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/313_Great Horizon.png" num="313">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3894,7 +3877,7 @@ Great Horizon enters tapped during your first, second, and third turn of the gam
 			<name>Great Lake</name>
 			<text>({T}: Add {U} or {R}.)
 Great Lake enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/321_Great Lake.png" num="321">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/314_Great Lake.png" num="314">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3910,7 +3893,7 @@ Great Lake enters tapped during your first, second, and third turn of the game.<
 			<name>Great View</name>
 			<text>({T}: Add {U} or {B}.)
 Great View enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/323_Great View.png" num="323">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/316_Great View.png" num="316">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3926,7 +3909,7 @@ Great View enters tapped during your first, second, and third turn of the game.<
 			<name>Great Tree</name>
 			<text>({T}: Add {G} or {W}.)
 Great Tree enters tapped during your first, second, and third turn of the game.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/322_Great Tree.png" num="322">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/315_Great Tree.png" num="315">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3939,9 +3922,9 @@ Great Tree enters tapped during your first, second, and third turn of the game.<
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Golden Ratio</name>
-			<text>When Golden Ratio enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Ratio. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create an X/X green and blue Fractal creature token. X is the number of sequence counters on Golden Ratio. (1, 2, 3, 5, 8, 13, and 21 appear in the Fibonnaci sequence.)</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/257_Golden Ratio.png" num="257">ZZZ</set>
+			<name>Golden Spial</name>
+			<text>When Golden Spial enters and whenever one or more cards leave your graveyard, put a spiral counter on Golden Spial. Then if the number of spiral counters on it appears in the Fibonnaci sequence, create an X/X green and blue Fractal creature token. X is the number of sequence counters on Golden Spial. (1, 2, 3, 5, 8, 13, 21, 34, and 55 appear in the Fibonnaci sequence.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/257_Golden Spial.png" num="257">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4084,8 +4067,8 @@ Equip {1}</text>
 		</card>
 		<card>
 			<name>Rider in Wild Woods</name>
-			<text>Trample
-Rider in Wild Woods&apos;s power is equal to the number of lands you control plus the number of land cards in your graveyard.</text>
+			<text>Rider in Wild Woods&apos;s power is equal to the number of lands you control plus the number of land cards in your graveyard.
+Whenever Rider in Wild Woods attacks, you may sacrifice a land. If you do, draw a card.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/224_Rider in Wild Woods.png" num="224">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4096,7 +4079,7 @@ Rider in Wild Woods&apos;s power is equal to the number of lands you control plu
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>*/3</pt>
+				<pt>*/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4283,7 +4266,7 @@ Spells you cast have convoke.</text>
 		<card>
 			<name>The Harvest Man</name>
 			<text>Whenever a creature you control dies, you may draw a card. Do this only once each turn.
-[+2]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
+[+1]: Until end of turn, up to one target creature you control gets +2/+0 and gains lifelink.
 [0]: Create two 2/2 black Zombie creature tokens with decayed. (They can&apos;t block. When one of them attacks, sacrifice it at end of combat.)
 [-3]: Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/269_The Harvest Man.png" num="269">ZZZ</set>
@@ -4378,13 +4361,13 @@ Whenever a player casts a spell with mana value 3 or less, torment them. (They l
 		</card>
 		<card>
 			<name>Troubled Child</name>
-			<text>When Troubled Child enters, create a 5/3 black Nightmare with flying.
-Whenever a Nightmare you control becomes the target of a spell or ability an opponent controls, exile the top three cards of their library and choose one of them. You may cast it without paying its mana cost.</text>
+			<text>Nightmares you control have hexproof.
+When Troubled Child enters, target opponent mills five cards. You may return a creature card from their graveyard to the battlefield under your control. It becomes a Nightmare in addition to its other types.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/261_Troubled Child.png" num="261">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human</type>
+				<type>Creature — Human Child</type>
 				<maintype>Creature</maintype>
 				<manacost>U/BU/BU/BU/B</manacost>
 				<cmc>4</cmc>
@@ -5338,7 +5321,7 @@ At the beginning of combat on your turn, choose up to two other target creatures
 				<cmc>0</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
@@ -5522,7 +5505,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Bosk</name>
 			<text>When Bosk enters, you lose 2 life and sacrifice it. When you do, search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/307_Bosk.png" num="307">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/298_Bosk.png" num="298">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5536,7 +5519,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Cistern</name>
 			<text>When Cistern enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/308_Cistern.png" num="308">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/300_Cistern.png" num="300">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5550,7 +5533,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Horizon</name>
 			<text>When Horizon enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/326_Horizon.png" num="326">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/319_Horizon.png" num="319">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5564,7 +5547,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Mine</name>
 			<text>When Mine enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/327_Mine.png" num="327">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/322_Mine.png" num="322">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5578,7 +5561,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Paradise</name>
 			<text>When Paradise enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/328_Paradise.png" num="328">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/324_Paradise.png" num="324">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5592,7 +5575,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Ravine</name>
 			<text>When Ravine enters, you lose 2 life and sacrifice it. When you do, search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/331_Ravine.png" num="331">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/327_Ravine.png" num="327">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5606,7 +5589,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Ruins</name>
 			<text>When Ruins enters, you lose 2 life and sacrifice it. When you do, search your library for a Plains or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/333_Ruins.png" num="333">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/329_Ruins.png" num="329">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5620,7 +5603,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Shanty</name>
 			<text>When Shanty enters, you lose 2 life and sacrifice it. When you do, search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/335_Shanty.png" num="335">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/332_Shanty.png" num="332">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5634,7 +5617,7 @@ When Bloodsucking Sewerslicker enters, create two 1/1 black Rat creature tokens.
 		<card>
 			<name>Stormscape</name>
 			<text>When Stormscape enters, you lose 2 life and sacrifice it. When you do, search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/336_Stormscape.png" num="336">ZZZ</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/334_Stormscape.png" num="334">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5768,8 +5751,8 @@ Choose one or more —
 • Destroy target artifact.
 • Destroy target enchantment.
 • Destroy target creature with flying.
-• Exile target card from a graveyard.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/208_Gone Shooting.png" num="208">ZZZ</set>
+• Exile a card from a graveyard.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/209_Gone Shooting.png" num="209">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6106,10 +6089,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Sheer Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Mountains and/or Forest cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/304_.png" num="304">ZZZ</set>
+{1}, {T}, Sacrifice Sheer Waypoint: Search your library for up to one Mountain card and up to one Forest card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/333_Sheer Waypoint.png" num="333">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6121,10 +6104,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Ominous Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Island and/or Swamp cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/303_.png" num="303">ZZZ</set>
+{1}, {T}, Sacrifice Ominous Waypoint: Search your library for up to one Island card and up to one Swamp card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/323_Ominous Waypoint.png" num="323">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6136,10 +6119,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Seaside Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Island cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/305_.png" num="305">ZZZ</set>
+{1}, {T}, Sacrifice Seaside Waypoint: Search your library for up to one Plains card and up to one Island card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/331_Seaside Waypoint.png" num="331">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6151,10 +6134,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Clandestine Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Swamp cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/296_.png" num="296">ZZZ</set>
+{1}, {T}, Sacrifice Clandestine Waypoint: Search your library for up to one Plains card and up to one Swamp card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/302_Clandestine Waypoint.png" num="302">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6166,10 +6149,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Surreal Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Forest and/or Island cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/297_.png" num="297">ZZZ</set>
+{1}, {T}, Sacrifice Surreal Waypoint: Search your library for up to one Forest card and up to one Island card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/337_Surreal Waypoint.png" num="337">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6181,10 +6164,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Abstract Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Swamp and/or Forest cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/298_.png" num="298">ZZZ</set>
+{1}, {T}, Sacrifice Abstract Waypoint: Search your library for up to one Swamp and up to one Forest card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/296_Abstract Waypoint.png" num="296">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6196,10 +6179,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Marble Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Plains and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/299_.png" num="299">ZZZ</set>
+{1}, {T}, Sacrifice Marble Waypoint: Search your library for up to one Plains card and up to one Mountain card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/320_Marble Waypoint.png" num="320">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6211,10 +6194,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Breathtaking Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Swamp and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/300_.png" num="300">ZZZ</set>
+{1}, {T}, Sacrifice Breathtaking Waypoint: Search your library for up to one Island card and up to one Mountain card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/299_Breathtaking Waypoint.png" num="299">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6226,10 +6209,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Menacing Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Island and/or Mountain cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/301_.png" num="301">ZZZ</set>
+{1}, {T}, Sacrifice Menacing Waypoint: Search your library for up to one Swamp card and up to one Mountain card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/321_Menacing Waypoint.png" num="321">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6241,10 +6224,10 @@ Whenever one or more lands you control leave the battlefield, Disaster Titan dea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name></name>
+			<name>Vibrant Waypoint</name>
 			<text>{T}: Add {C}.
-{1}, {T}, Sacrifice CARDNAME: Search your library for up to two Forest and/or Plains cards and reveal them. Put one onto the battlefield tapped, shuffle, then put the other card on top of your library.</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/302_.png" num="302">ZZZ</set>
+{1}, {T}, Sacrifice Vibrant Waypoint: Search your library for up to one Forest card and up to one Plains card and reveal them. Put one onto the battlefield tapped, shuffle, then put the other on top of your library.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/338_Vibrant Waypoint.png" num="338">ZZZ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6269,7 +6252,26 @@ Whenever Heralds of the Apocalypse attack, put a +1/+1 counter on it, then other
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Giant Crab</name>
+			<text>Vigilance, trample
+Giant Crab enters with four +1/+1 counters on it.
+Whenever one or more cards leave your graveyard, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ZZZ-files/img/207_Giant Crab.png" num="207">ZZZ</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
