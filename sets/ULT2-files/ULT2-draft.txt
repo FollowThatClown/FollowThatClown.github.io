@@ -1,0 +1,350 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Towering Terror",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/13_Towering Terror.png"
+			}
+		},
+		{
+			"name": "Grinning Beast",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dog",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/5_Grinning Beast.png"
+			}
+		},
+		{
+			"name": "Slit-Mouth Slasher",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/10_Slit-Mouth Slasher.png"
+			}
+		},
+		{
+			"name": "Sleep Deprive",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/9_Sleep Deprive.png"
+			}
+		},
+		{
+			"name": "Masked Stranger",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/7_Masked Stranger.png"
+			}
+		},
+		{
+			"name": "Eyeless Eyegorger",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/3_Eyeless Eyegorger.png"
+			}
+		},
+		{
+			"name": "Hunt Down",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/6_Hunt Down.png"
+			}
+		},
+		{
+			"name": "Terrified",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/12_Terrified.png"
+			}
+		},
+		{
+			"name": "Gameland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/21_Gameland.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/23_Swamp.png"
+			}
+		},
+		{
+			"name": "Wall Scrawl",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/30_Wall Scrawl.png"
+			}
+		},
+		{
+			"name": "Everywhere",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/20_Everywhere.png"
+			}
+		},
+		{
+			"name": "Obsessive Fan",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/8_Obsessive Fan.png"
+			}
+		},
+		{
+			"name": "THE CREEPS",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/2_THE CREEPS.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/24_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/25_Swamp.png"
+			}
+		},
+		{
+			"name": "Bolt of Inspiration",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1_Bolt of Inspiration.png"
+			}
+		},
+		{
+			"name": "Draculaura",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Vampire",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/2_Draculaura.png"
+			}
+		},
+		{
+			"name": "Ghoulia Yelps",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/4_Ghoulia Yelps.png"
+			}
+		},
+		{
+			"name": "Spectra, Gossip Ghost",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/11_Spectra, Gossip Ghost.png"
+			}
+		},
+		{
+			"name": "Clawdeen Wolf",
+			"rarity": "special",
+			"mana_cost": "{2}{B/G}",
+			"type": "Legendary Creature — Werewolf",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/14_Clawdeen Wolf.png"
+			}
+		},
+		{
+			"name": "Cleo De Nile",
+			"rarity": "special",
+			"mana_cost": "{2}{W/B}",
+			"type": "Legendary Creature — Zombie Noble",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/15_Cleo De Nile.png"
+			}
+		},
+		{
+			"name": "Frankie Stein",
+			"rarity": "special",
+			"mana_cost": "{B/R}",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/16_Frankie Stein.png"
+			}
+		},
+		{
+			"name": "Lagoona Blue",
+			"rarity": "special",
+			"mana_cost": "{1}{U/B}",
+			"type": "Legendary Creature — Merfolk",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/17_Lagoona Blue.png"
+			}
+		},
+		{
+			"name": "Fangtastic Fashion",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/18_Fangtastic Fashion.png"
+			}
+		},
+		{
+			"name": "Creepover",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/19_Creepover.png"
+			}
+		},
+		{
+			"name": "Ghoulish Get-Together",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/22_Ghoulish Get-Together.png"
+			}
+		},
+		{
+			"name": "SHOW YOUR STYLE",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1_SHOW YOUR STYLE.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/26_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/27_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/28_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/29_Swamp.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Towering Terror
+	1 Grinning Beast
+	1 Slit-Mouth Slasher
+	1 Sleep Deprive
+	1 Masked Stranger
+	1 Eyeless Eyegorger
+	1 Hunt Down
+	1 Terrified
+	1 Gameland
+	1 Wall Scrawl
+	1 Everywhere
+	1 Obsessive Fan
+	1 THE CREEPS
+	1 Bolt of Inspiration
+	1 Draculaura
+	1 Ghoulia Yelps
+	1 Spectra, Gossip Ghost
+	1 Clawdeen Wolf
+	1 Cleo De Nile
+	1 Frankie Stein
+	1 Lagoona Blue
+	1 Fangtastic Fashion
+	1 Creepover
+	1 Ghoulish Get-Together
+	1 SHOW YOUR STYLE

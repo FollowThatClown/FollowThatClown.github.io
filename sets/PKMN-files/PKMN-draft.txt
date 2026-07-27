@@ -1,0 +1,1651 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Drifblim",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Balloon Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/6_Drifblim.png"
+			}
+		},
+		{
+			"name": "Golurk",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Golem Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/9_Golurk.png"
+			}
+		},
+		{
+			"name": "Protect the Clutch",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/15_Protect the Clutch.png"
+			}
+		},
+		{
+			"name": "Cinccino",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Mouse",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/5_Cinccino.png"
+			}
+		},
+		{
+			"name": "Shielded by the Supernatural",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/17_Shielded by the Supernatural.png"
+			}
+		},
+		{
+			"name": "Capture",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/3_Capture.png"
+			}
+		},
+		{
+			"name": "Pokemon Center Lady",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/14_Pokemon Center Lady.png"
+			}
+		},
+		{
+			"name": "Skitty",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/18_Skitty.png"
+			}
+		},
+		{
+			"name": "Pokemon Breeder",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/13_Pokemon Breeder.png"
+			}
+		},
+		{
+			"name": "Wing Attack",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/21_Wing Attack.png"
+			}
+		},
+		{
+			"name": "Celebrate",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/4_Celebrate.png"
+			}
+		},
+		{
+			"name": "Palossand",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Wall",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/11_Palossand.png"
+			}
+		},
+		{
+			"name": "Aurorus",
+			"rarity": "special",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/1_Aurorus.png"
+			}
+		},
+		{
+			"name": "Pidgey",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Saga Bird",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/12_Pidgey_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/12_Pidgey_front.png"
+			}
+		},
+		{
+			"name": "Tailwind",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/19_Tailwind.png"
+			}
+		},
+		{
+			"name": "Squirtle",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Saga Turtle",
+			"collector_number": "40",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/40_Squirtle_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/40_Squirtle_front.png"
+			}
+		},
+		{
+			"name": "Beautifly",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/28_Beautifly.png"
+			}
+		},
+		{
+			"name": "Sailor",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/39_Sailor.png"
+			}
+		},
+		{
+			"name": "Whirlpool",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/44_Whirlpool.png"
+			}
+		},
+		{
+			"name": "Steelix",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Snake Golem",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/41_Steelix.png"
+			}
+		},
+		{
+			"name": "Froslass",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/31_Froslass.png"
+			}
+		},
+		{
+			"name": "Noctowl",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/36_Noctowl.png"
+			}
+		},
+		{
+			"name": "Acrobatics",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/24_Acrobatics.png"
+			}
+		},
+		{
+			"name": "Vanillite",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Saga Elemental",
+			"collector_number": "42",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/42_Vanillite_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/42_Vanillite_front.png"
+			}
+		},
+		{
+			"name": "Ball Toss",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/27_Ball Toss.png"
+			}
+		},
+		{
+			"name": "Meowstic",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/35_Meowstic.png"
+			}
+		},
+		{
+			"name": "Water Bubble",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/43_Water Bubble.png"
+			}
+		},
+		{
+			"name": "Abandon",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/23_Abandon.png"
+			}
+		},
+		{
+			"name": "Intimidate",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/52_Intimidate.png"
+			}
+		},
+		{
+			"name": "Lick",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/54_Lick.png"
+			}
+		},
+		{
+			"name": "Moonlight",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/56_Moonlight.png"
+			}
+		},
+		{
+			"name": "Mr. Mime",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/57_Mr. Mime.png"
+			}
+		},
+		{
+			"name": "Hex Maniac",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/51_Hex Maniac.png"
+			}
+		},
+		{
+			"name": "Gastly",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Saga Spirit",
+			"collector_number": "49",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/49_Gastly_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/49_Gastly_front.png"
+			}
+		},
+		{
+			"name": "Plasma Grunt",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/60_Plasma Grunt.png"
+			}
+		},
+		{
+			"name": "Channeler",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/46_Channeler.png"
+			}
+		},
+		{
+			"name": "Litwick",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Saga Spirit",
+			"collector_number": "55",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/55_Litwick_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/55_Litwick_front.png"
+			}
+		},
+		{
+			"name": "Team Rocket Upstart",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/85_Team Rocket Upstart.png"
+			}
+		},
+		{
+			"name": "Seviper",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Snake",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/61_Seviper.png"
+			}
+		},
+		{
+			"name": "Outmatch",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/58_Outmatch.png"
+			}
+		},
+		{
+			"name": "Sewaddle",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Saga Insect",
+			"collector_number": "103",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/103_Sewaddle_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/103_Sewaddle_front.png"
+			}
+		},
+		{
+			"name": "Spirit Away",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/65_Spirit Away.png"
+			}
+		},
+		{
+			"name": "Sludge Bomb",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/63_Sludge Bomb.png"
+			}
+		},
+		{
+			"name": "Drapion",
+			"rarity": "special",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Scorpion",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/48_Drapion.png"
+			}
+		},
+		{
+			"name": "Ghoulish Discovery",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/50_Ghoulish Discovery.png"
+			}
+		},
+		{
+			"name": "Power-Up Punch",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/80_Power-Up Punch.png"
+			}
+		},
+		{
+			"name": "Boomburst",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/69_Boomburst.png"
+			}
+		},
+		{
+			"name": "Villainous Triumph",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/87_Villainous Triumph.png"
+			}
+		},
+		{
+			"name": "Centiskorch",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/71_Centiskorch.png"
+			}
+		},
+		{
+			"name": "Lass",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/76_Lass.png"
+			}
+		},
+		{
+			"name": "Scoop Up",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/83_Scoop Up.png"
+			}
+		},
+		{
+			"name": "Will-O-Wisp",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/88_Will-O-Wisp.png"
+			}
+		},
+		{
+			"name": "Elekid",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Saga Beast",
+			"collector_number": "73",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/73_Elekid_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/73_Elekid_front.png"
+			}
+		},
+		{
+			"name": "Accelgor",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/67_Accelgor.png"
+			}
+		},
+		{
+			"name": "Bulk Up",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/70_Bulk Up.png"
+			}
+		},
+		{
+			"name": "Magma Grunt",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/77_Magma Grunt.png"
+			}
+		},
+		{
+			"name": "Mudsdale",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Horse",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/79_Mudsdale.png"
+			}
+		},
+		{
+			"name": "Charmander",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Lizard Saga",
+			"collector_number": "72",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/72_Charmander_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/72_Charmander_front.png"
+			}
+		},
+		{
+			"name": "Spinda",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bear",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/84_Spinda.png"
+			}
+		},
+		{
+			"name": "Giovanni's Scheme",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/74_Giovanni's Scheme.png"
+			}
+		},
+		{
+			"name": "Tyrogue",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Beast Warrior",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/86_Tyrogue.png"
+			}
+		},
+		{
+			"name": "Arcanine",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dog",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/68_Arcanine.png"
+			}
+		},
+		{
+			"name": "Trevenant",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Treefolk Spirit",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/108_Trevenant.png"
+			}
+		},
+		{
+			"name": "Outlevel",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/98_Outlevel.png"
+			}
+		},
+		{
+			"name": "Double Team",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/91_Double Team.png"
+			}
+		},
+		{
+			"name": "Lilligant",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/96_Lilligant.png"
+			}
+		},
+		{
+			"name": "Swalot",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/105_Swalot.png"
+			}
+		},
+		{
+			"name": "Prepare for Battle",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/101_Prepare for Battle.png"
+			}
+		},
+		{
+			"name": "Sunflora",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/104_Sunflora.png"
+			}
+		},
+		{
+			"name": "Lurantis",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/97_Lurantis.png"
+			}
+		},
+		{
+			"name": "Bulbasaur",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Plant Saga",
+			"collector_number": "89",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/89_Bulbasaur_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/89_Bulbasaur_front.png"
+			}
+		},
+		{
+			"name": "Carnivine",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Plant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/45_Carnivine.png"
+			}
+		},
+		{
+			"name": "Tangrowth",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/107_Tangrowth.png"
+			}
+		},
+		{
+			"name": "Take Down",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/106_Take Down.png"
+			}
+		},
+		{
+			"name": "Araquanid",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spider",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/25_Araquanid.png"
+			}
+		},
+		{
+			"name": "Zangoose",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Mongoose",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/110_Zangoose.png"
+			}
+		},
+		{
+			"name": "Gogoat",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Goat",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/94_Gogoat.png"
+			}
+		},
+		{
+			"name": "Picnicker",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Human",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/100_Picnicker.png"
+			}
+		},
+		{
+			"name": "Flower Gift",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/93_Flower Gift.png"
+			}
+		},
+		{
+			"name": "Exeggutor",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/92_Exeggutor.png"
+			}
+		},
+		{
+			"name": "Journey Across the Region",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/95_Journey Across the Region.png"
+			}
+		},
+		{
+			"name": "Safari Ball",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Poke Ball",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/102_Safari Ball.png"
+			}
+		},
+		{
+			"name": "Greninja",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Frog Ninja",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/112_Greninja.png"
+			}
+		},
+		{
+			"name": "Boltund",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dog",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/2_Boltund.png"
+			}
+		},
+		{
+			"name": "HM02 — Fly",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/10_HM02 — Fly.png"
+			}
+		},
+		{
+			"name": "Professor Elm",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/115_Professor Elm.png"
+			}
+		},
+		{
+			"name": "Rocket Grunt",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/113_Rocket Grunt.png"
+			}
+		},
+		{
+			"name": "Atticus, Toxic Fashionista",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/118_Atticus, Toxic Fashionista.png"
+			}
+		},
+		{
+			"name": "Allister, Ghost Leader",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/116_Allister, Ghost Leader.png"
+			}
+		},
+		{
+			"name": "Infernape",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Ape Warrior",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/119_Infernape.png"
+			}
+		},
+		{
+			"name": "Ralts",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment Creature — Faerie Saga",
+			"collector_number": "120",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/120_Ralts_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/120_Ralts_front.png"
+			}
+		},
+		{
+			"name": "Klefki",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Artifact Creature — Faerie Construct",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/117_Klefki.png"
+			}
+		},
+		{
+			"name": "Sandy Shoal",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/133_Sandy Shoal.png"
+			}
+		},
+		{
+			"name": "Foreboding Skies",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/127_Foreboding Skies.png"
+			}
+		},
+		{
+			"name": "Frostscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/128_Frostscape.png"
+			}
+		},
+		{
+			"name": "Falkner, Flying Leader",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/111_Falkner, Flying Leader.png"
+			}
+		},
+		{
+			"name": "Hypno",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Beast",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/33_Hypno.png"
+			}
+		},
+		{
+			"name": "Tranquil Park",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/134_Tranquil Park.png"
+			}
+		},
+		{
+			"name": "Chimecho",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/29_Chimecho.png"
+			}
+		},
+		{
+			"name": "Petal Dance",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/99_Petal Dance.png"
+			}
+		},
+		{
+			"name": "Whimsical Encounter",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/20_Whimsical Encounter.png"
+			}
+		},
+		{
+			"name": "Go Fishing",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/32_Go Fishing.png"
+			}
+		},
+		{
+			"name": "Pangoro",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Bear",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/59_Pangoro.png"
+			}
+		},
+		{
+			"name": "Nightscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/131_Nightscape.png"
+			}
+		},
+		{
+			"name": "Roaring Stadium",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/132_Roaring Stadium.png"
+			}
+		},
+		{
+			"name": "Highest Heights",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/129_Highest Heights.png"
+			}
+		},
+		{
+			"name": "Fierce Stormfront",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/126_Fierce Stormfront.png"
+			}
+		},
+		{
+			"name": "Misty Valley",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/130_Misty Valley.png"
+			}
+		},
+		{
+			"name": "Urban Wetland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/135_Urban Wetland.png"
+			}
+		},
+		{
+			"name": "Wrapped Up",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/22_Wrapped Up.png"
+			}
+		},
+		{
+			"name": "Snatch",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/64_Snatch.png"
+			}
+		},
+		{
+			"name": "Heatmor",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/75_Heatmor.png"
+			}
+		},
+		{
+			"name": "Pyroar",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/81_Pyroar.png"
+			}
+		},
+		{
+			"name": "Disarming Voice",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/30_Disarming Voice.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/4t_Beast.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/3t_Spirit.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/5t_Insect.png"
+			}
+		},
+		{
+			"name": "Mouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Mouse",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/2t_Mouse.png"
+			}
+		},
+		{
+			"name": "Poke Ball",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Poke Ball",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/7t_Poke Ball.png"
+			}
+		},
+		{
+			"name": "Flamigo",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/7_Flamigo.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/1t_Bird.png"
+			}
+		},
+		{
+			"name": "Celebi",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Faerie Plant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/90_Celebi.png"
+			}
+		},
+		{
+			"name": "Tropius",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dragon Plant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/109_Tropius.png"
+			}
+		},
+		{
+			"name": "Make it Rain",
+			"rarity": "special",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/78_Make it Rain.png"
+			}
+		},
+		{
+			"name": "Red, Pokemon Champion",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/82_Red, Pokemon Champion.png"
+			}
+		},
+		{
+			"name": "Zubat",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment Creature — Saga Bat",
+			"collector_number": "66",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/66_Zubat_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/66_Zubat_front.png"
+			}
+		},
+		{
+			"name": "Jessie and James",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/53_Jessie and James.png"
+			}
+		},
+		{
+			"name": "Popplio",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Saga Seal",
+			"collector_number": "37",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/37_Popplio_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/37_Popplio_front.png"
+			}
+		},
+		{
+			"name": "Looker",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/34_Looker.png"
+			}
+		},
+		{
+			"name": "Gholdengo",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Spirit Golem",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/8_Gholdengo.png"
+			}
+		},
+		{
+			"name": "Regigas",
+			"rarity": "special",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/16_Regigas.png"
+			}
+		},
+		{
+			"name": "Astonish",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/26_Astonish.png"
+			}
+		},
+		{
+			"name": "Rare Candy",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/38_Rare Candy.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/6t_Plant.png"
+			}
+		},
+		{
+			"name": "Chespin",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment Creature — Saga Plant",
+			"collector_number": "114",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/114_Chespin_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/114_Chespin_front.png"
+			}
+		},
+		{
+			"name": "Choice Band",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/122_Choice Band.png"
+			}
+		},
+		{
+			"name": "Choice Specs",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/124_Choice Specs.png"
+			}
+		},
+		{
+			"name": "Choice Scarf",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/123_Choice Scarf.png"
+			}
+		},
+		{
+			"name": "PokeDex",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/125_PokeDex.png"
+			}
+		},
+		{
+			"name": "Badge Collection",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/121_Badge Collection.png"
+			}
+		},
+		{
+			"name": "Skull Grunt",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/62_Skull Grunt.png"
+			}
+		},
+		{
+			"name": "Dragalge",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/PKMN-files/img/47_Dragalge.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Drifblim
+	1 Golurk
+	1 Protect the Clutch
+	1 Cinccino
+	1 Shielded by the Supernatural
+	1 Capture
+	1 Pokemon Center Lady
+	1 Skitty
+	1 Pokemon Breeder
+	1 Wing Attack
+	1 Celebrate
+	1 Palossand
+	1 Aurorus
+	1 Pidgey
+	1 Tailwind
+	1 Squirtle
+	1 Beautifly
+	1 Sailor
+	1 Whirlpool
+	1 Steelix
+	1 Froslass
+	1 Noctowl
+	1 Acrobatics
+	1 Vanillite
+	1 Ball Toss
+	1 Meowstic
+	1 Water Bubble
+	1 Abandon
+	1 Intimidate
+	1 Lick
+	1 Moonlight
+	1 Mr. Mime
+	1 Hex Maniac
+	1 Gastly
+	1 Plasma Grunt
+	1 Channeler
+	1 Litwick
+	1 Team Rocket Upstart
+	1 Seviper
+	1 Outmatch
+	1 Sewaddle
+	1 Spirit Away
+	1 Sludge Bomb
+	1 Drapion
+	1 Ghoulish Discovery
+	1 Power-Up Punch
+	1 Boomburst
+	1 Villainous Triumph
+	1 Centiskorch
+	1 Lass
+	1 Scoop Up
+	1 Will-O-Wisp
+	1 Elekid
+	1 Accelgor
+	1 Bulk Up
+	1 Magma Grunt
+	1 Mudsdale
+	1 Charmander
+	1 Spinda
+	1 Giovanni's Scheme
+	1 Tyrogue
+	1 Arcanine
+	1 Trevenant
+	1 Outlevel
+	1 Double Team
+	1 Lilligant
+	1 Swalot
+	1 Prepare for Battle
+	1 Sunflora
+	1 Lurantis
+	1 Bulbasaur
+	1 Carnivine
+	1 Tangrowth
+	1 Take Down
+	1 Araquanid
+	1 Zangoose
+	1 Gogoat
+	1 Picnicker
+	1 Flower Gift
+	1 Exeggutor
+	1 Journey Across the Region
+	1 Safari Ball
+	1 Greninja
+	1 Boltund
+	1 HM02 — Fly
+	1 Professor Elm
+	1 Rocket Grunt
+	1 Atticus, Toxic Fashionista
+	1 Allister, Ghost Leader
+	1 Infernape
+	1 Ralts
+	1 Klefki
+	1 Sandy Shoal
+	1 Foreboding Skies
+	1 Frostscape
+	1 Falkner, Flying Leader
+	1 Hypno
+	1 Tranquil Park
+	1 Chimecho
+	1 Petal Dance
+	1 Whimsical Encounter
+	1 Go Fishing
+	1 Pangoro
+	1 Nightscape
+	1 Roaring Stadium
+	1 Highest Heights
+	1 Fierce Stormfront
+	1 Misty Valley
+	1 Urban Wetland
+	1 Wrapped Up
+	1 Snatch
+	1 Heatmor
+	1 Pyroar
+	1 Disarming Voice
+	1 Flamigo
+	1 Celebi
+	1 Tropius
+	1 Make it Rain
+	1 Red, Pokemon Champion
+	1 Zubat
+	1 Jessie and James
+	1 Popplio
+	1 Looker
+	1 Gholdengo
+	1 Regigas
+	1 Astonish
+	1 Rare Candy
+	1 Chespin
+	1 Choice Band
+	1 Choice Specs
+	1 Choice Scarf
+	1 PokeDex
+	1 Badge Collection
+	1 Skull Grunt
+	1 Dragalge
