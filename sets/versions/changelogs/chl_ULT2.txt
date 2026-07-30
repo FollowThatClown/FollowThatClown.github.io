@@ -1,4 +1,130 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Robecca Steam added.
+Port added.
+Port added.
+It's Over Isn't It added.
+Stunning Save added.
+Abandon the Village added.
+Kakashi, Strict Teacher added.
+Sasuke Uchiha added.
+Shadow Clone added.
+Haruno Sakura added.
+Naruto Uzumaki added.
+Unfriendly Rivalry added.
+Minato, the Yellow Flash added.
+Iruka, Academy Instructor added.
+Ichiraku Ramen added.
+Ichiraku Ramen added.
+Prismatic Vista added.
+Village Hidden in the Leaves added.
+BELIEVE IT! added.
+The Bounty Hunter added.
+Camp Command added.
+Collect Call added.
+Confidence Surges added.
+The Crusader added.
+The Jester added.
+The Leper added.
+The Plague Doctor added.
+Riposte Stance added.
+Bustling Street added.
+Hamlet added.
+Overflowing Graveyard added.
++STRESS added.
+Mercenary Token added.
+
+Swamp removed.
+Swamp removed.
+Swamp removed.
+Port Town removed.
+Port Town removed.
+its over isnt it removed.
+Reckless Rescue removed.
+
+Clawdeen Wolf
+rules_text: Haste
+[i]Vivid [/i]— Whenever Clawdeen attacks, if the number of +1/+1 counters on her is less than the number of colors among permanents you control, you may put a number of +1/+1 counters on her equal to the difference and lose that much life. => Haste
+[i]Vivid [/i]— When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+pt: 2/2 => 2/3
+
+Draculaura
+cost: {3}{BR} => {4}{BR}
+rules_text: [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a Treasure token.
+{2W}{2U}{2B}{2R}{2G}: Mill three cards. Put each permanent card from among them onto the battlefield. => [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a Treasure token.
+{2W}{2U}{2B}{2R}{2G}: Surveil 5. Put each permanent card put into your graveyard this way onto the battlefield.
+pt: 4/4 => 5/5
+
+Spectra, Gossip Ghost
+type: Legendary Creature — Spirit => Legendary Enchantment Creature — Spirit
+rules_text: Flying
+When Spectra enters, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature creature.)[/i] => Flying
+When Spectra enters, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Fangtastic Fashion
+cost: {5} => {0}
+rules_text: When Fangtastic Fashion enters, it becomes the color of your choice. Attach it to target creature. 
+[i]Vivid[/i] — Equipped creature has menace and gets +X/+X, where X is the number of colors among permanents you control.
+Equip {5} => You may have Fangtastic Fashion enter as the color of your choice.
+[i]Vivid[/i] — Equipped creature gets +X/+X and has menace and ward {X}, where X is the number of colors among permanents you control.
+Equip {5}
+
+Creepover
+rules_text: When Creepover enters, you gain 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => This land enters tapped.
+When this land enters, you gain 2 life and choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.
+
+Creepover
+rules_text: When Creepover enters, you gain 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => This land enters tapped.
+When this land enters, you gain 2 life and choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.
+
+Ghoulish Get-Together
+rules_text: This land has every basic land type. [i](It has “{T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Bolt of Inspiration
+type: Sorcery => Enchantment
+rules_text: When Bolt of Inspiration enters or leaves, you may draw two cards. If you do, you lose 2 life.
+{UB}, Sacrifice this enchantment: Discard two cards. [i](Draw first.)[/i] => When this enchantment enters or leaves, you draw two cards and lose 2 life.
+{2}, Sacrifice this enchantment: Discard two cards. [i](Draw first.)[/i]
+
+The Grand Line
+rules_text: This land has every basic land type. [i](It has {T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Pearl, Loyal Renegade
+rules_text: First strike
+[i]Selfless Protection[/i] — Whenever you attack with exactly two creatures, target attacking creature gains indestructible until end of turn. => First strike
+[i]Selfless Protection[/i] — Whenever you attack with exactly two creatures, another target attacking creature gains indestructible until end of turn.
+
+Steven Universe
+rules_text: Whenever Steven Universe attacks, another target creature you control gets +0/+3 until end of turn. 
+{5}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie. => Whenever you attack with exactly two creatures, target creature you control gets +0/+3 until end of turn. 
+{5}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie.
+pt: 1/3 => 2/2
+
+Warp Pad
+rules_text: This land has every basic land type. [i](It has {T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Masked Stranger
+rules_text: Deathtouch
+Masked Stranger enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => Deathtouch
+When Masked Stranger dies, create a 1/1 white Human creature token.
+pt: 1/1 => 2/1
+
+The Bridge
+rules_text: This land has every basic land type. [i](It has {T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Black Leg Sanji added.
