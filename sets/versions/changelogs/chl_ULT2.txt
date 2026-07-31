@@ -1,4 +1,52 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Gather the Remnant added.
+Lefty added.
+Springlock Failure added.
+Vanny added.
+William Afton added.
+Ballora added.
+Dreadbear added.
+The Puppet added.
+Scrap Baby added.
+Freddy Fazbear's Pizza added.
+Indoor Attraction added.
+LIVING METAL added.
+Spirit token added.
+Zooble added.
+Abstract added.
+CAINE added.
+Gangle added.
+Look Inside added.
+Jax added.
+Kinger added.
+Pomni added.
+Ragatha added.
+The Amazing Digital Circus added.
+Fevered Dreamland added.
+ADVENTURE! added.
+
+
+Collect Call
+rules_text: Surveil 2.
+Exile a card from your hand and the top two cards of your library. You may play the exiled cards until the end of your next turn. => Surveil 2.
+Exile a card from your hand and the top two cards of your library. You may play the exiled cards until the end of your next turn.
+Flashback {4}{R}{R}
+
+Haruno Sakura
+rules_text: Ninjutsu {R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, draw a card, then exile a card from your hand. Until the end of your next turn, you may it. => Ninjutsu {R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, draw a card, then exile a card from your hand. Until the end of your next turn, you may play that card.
+
+Prismatic Vista
+rules_text: {T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+Prismatic Vista
+rules_text: {T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Robecca Steam added.

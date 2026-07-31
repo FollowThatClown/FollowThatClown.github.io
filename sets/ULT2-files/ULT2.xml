@@ -1,0 +1,2176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ULT2</name>
+			<longname>ULT2</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-31</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Gather the Remnant</name>
+			<text>Choose one or both —
+• Return up to two target artifact and/or creature cards from your graveyard to your hand.
+• Put a lifelink counter on target artifact.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/15_Gather the Remnant.png" num="15">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lefty</name>
+			<text>Flash
+Living metal (Lefty is an artifact creature during your turn.)
+Capture Mechanism — When Lefty enters, exile target creature an opponent controls until Lefty leaves the battlefield. That opponent draws a card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/18_Lefty.png" num="18">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Springlock Failure</name>
+			<text>Kicker—Sacrifice a nontoken artifact or nontoken creature.
+Target player sacrifices a creature. If this spell was kicked, they sacrifice another creature.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/23_Springlock Failure.png" num="23">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vanny</name>
+			<text>Deathtouch
+Exhaust — {4}{B}: Put X +1/+1 counters and a menace counter on Vanny, where X is the number of artifacts you control. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/26_Vanny.png" num="26">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>William Afton</name>
+			<text>When William Afton enters, mill two cards, then return an artifact or creature card from your graveyard to your hand.
+Disturb—{9}{B}. This cost is reduced by {1} for each artifact you control. (You may cast this from your graveyard transformed for its disturb cost.)
+---
+(Back): Springtrap</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/27_William Afton_front.png" num="27a">ULT2</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Springtrap</related>
+		</card>
+		<card>
+			<name>Springtrap</name>
+			<text>Living metal (Springtrap is an artifact creature during your turn.)
+Menace
+Creatures your opponents control get -2/-2.
+If Springtrap would be put into a graveyard from anywhere, exile it instead.
+---
+(Front): William Afton</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/27_William Afton_back.png" num="27b">ULT2</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">William Afton</related>
+		</card>
+		<card>
+			<name>Ballora</name>
+			<text>Living metal (The Puppet is an artifact creature during your turn.)
+Menace
+Noise Sensitive — Creatures can&apos;t attack you unless their controller pays {2} or 2 life for each creature attacking you.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/55_Ballora.png" num="55">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreadbear</name>
+			<text>Living metal (Dreadbear is an artifact creature during your turn.)
+When Dreadbear enters, you gain 6 life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/59_Dreadbear.png" num="59">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3B/G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Puppet</name>
+			<text>Living metal (The Puppet is an artifact creature during your turn.)
+Flying, lifelink
+When The Puppet enters, create two 1/1 white Spirit creature tokens with flying.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/67_The Puppet.png" num="67">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4W/B</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scrap Baby</name>
+			<text>Living metal (Baby is an artifact creature during your turn.)
+First strike
+When Scrap Baby enters, she deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/70_Scrap Baby.png" num="70">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3B/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Freddy Fazbear&apos;s Pizza</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. (It has {T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/80_Freddy Fazbear&apos;s Pizza.png" num="80">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Indoor Attraction</name>
+			<text>When Indoor Attraction enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped with a hexproof counter on it, then shuffle. It becomes an artifact in addition to its other types.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/87_Indoor Attraction.png" num="87">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>LIVING METAL</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/111_LIVING METAL.png" num="111">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spirit token ULT2</name>
+			<text>Flying</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/1t_Spirit token.png" num="1">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zooble // Therapy</name>
+			<text>As Zooble enters, choose up to X at random from among first strike, lifelink, menace, reach, and vigilance. They enter with those counters and X +1/+1 counters.
+
+---
+
+Draw a card, then discard a card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/1_Zooble.png" num="1">ULT2</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>X1 // 1</manacost>
+				<cmc>1</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abstract</name>
+			<text>Enchant nonland permanent
+Enchanted nonland permanent is a 4/3 Abstraction creature and loses all other types. It can&apos;t attack you.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/7_Abstract.png" num="7">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CAINE</name>
+			<text>Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-2]: Return another target nonland permanent to its owner&apos;s hand. If you controlled that permanent, untap up to three lands.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/8_CAINE.png" num="8">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Caine</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gangle // Fast Food Masquerade</name>
+			<text>Ward {4}
+Skulk (Gangle can&apos;t be blocked by creatures with greater power.)
+
+---
+
+Switch up to one target creature&apos;s power and toughness until end of turn.
+Create a Food token.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/9_Gangle.png" num="9">ULT2</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1U // U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Look Inside</name>
+			<text>This spell costs {1} less to cast if you&apos;ve cast another noncreature spell this turn.
+Counter target spell unless its controller pays {3}. Surveil 3.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/11_Look Inside.png" num="11">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jax // They All Get Guns</name>
+			<text>Menace
+Prowess, prowess (Whenever you cast a noncreature spell, this creature gets +2/+2 until end of turn.)
+
+---
+
+They All Get Guns deals 4 damage to target creature. If it would die this turn, return it to its owner&apos;s hand instead. (We can&apos;t die, remember?)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/63_Jax.png" num="63">ULT2</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Rabbit // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>3U/B // 1U/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kinger // hjsakldfhl</name>
+			<text>Vigilance
+Protection from Abstractions
+
+---
+
+You may search your library for a Caine card, reveal it, put it into your hand, then shuffle. If you don&apos;t, draw a card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/64_Kinger.png" num="64">ULT2</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Noble // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>1G/U // 1G/U</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pomni // Gather the Gloinks</name>
+			<text>{T}: Add {U}{R}. You can&apos;t spend this mana to cast creature spells from your hand.
+
+---
+
+Exile the top three cards of your library. You may play them until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/66_Pomni.png" num="66">ULT2</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Clown // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/R // 4U/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ragatha // Untitled</name>
+			<text>Whenever you attack, if you&apos;ve cast a noncreature spell this turn, support 1. (Put a +1/+1 counter on up to one other target creature.)
+
+---
+
+Target creature you control gets +0/+1 and gains hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/68_Ragatha.png" num="68">ULT2</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Toy // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/U // W/U</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Amazing Digital Circus</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/73_The Amazing Digital Circus.png" num="73">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fevered Dreamland</name>
+			<text>As Fevered Dreamland enters, choose a color other than blue.
+{T}, Pay 1 life: Add {U} or one mana of the chosen color.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/78_Fevered Dreamland.png" num="78">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text>({T}: Add {U}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/89_Island.png" num="89">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>ADVENTURE!</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/1_ADVENTURE!.png" num="1">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Bounty Hunter</name>
+			<text>Menace
+Test of Resolve — {1}: Choose target creature or player. If a source would deal damage to it this turn, it deals that much damage plus two instead.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/30_The Bounty Hunter.png" num="30">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Camp Command</name>
+			<text>Choose two —
+• Create two 1/1 red Mercenary creature tokens. They gain haste until end of turn.
+• Discard a card. If you do, put a +1/+1 counter on each creature you control.
+• Discard a card. If you do, draw two cards.
+• Exile target artifact.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/31_Camp Command.png" num="31">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Collect Call</name>
+			<text>Surveil 2.
+Exile a card from your hand and the top two cards of your library. You may play the exiled cards until the end of your next turn.
+Flashback {4}{R}{R}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/32_Collect Call.png" num="32">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Confidence Surges</name>
+			<text>When Confidence Surges! enters, create a 1/1 red Mercenary creature token.
+Test of Resolve — {1}: Creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/33_Confidence Surges.png" num="33">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Crusader</name>
+			<text>First strike
+Test of Resolve — {1}: The Crusader gets +3/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/36_The Crusader.png" num="36">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Jester</name>
+			<text>Menace, haste
+Whenever The Jester attacks, put a +1/+1 counter on it.
+Test of Resolve — {1}, Sacrifice The Jester: It deals damage equal to its power to each opponent and each creature they control.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/38_The Jester.png" num="38">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Clown</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Leper</name>
+			<text>Trample
+Ward—Discard a card at random.
+When The Leper enters, discard a card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/39_The Leper.png" num="39">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Plague Doctor</name>
+			<text>When The Plague Doctor enters, you may discard a card. If you do, choose one —
+• Plague Grenade — The Plague Doctor deals 3 damage to target creature.
+• Emboldening Vapors —Exile the top two cards of your library. You may play them this turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/42_The Plague Doctor.png" num="42">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Riposte Stance</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+0.
+When Riposte Stance enters, target creature an opponent controls deals damage to itself equal to its power.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/43_Riposte Stance.png" num="43">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bustling Street</name>
+			<text>When Overflowing Graveyard enters, choose a color other than red.
+{T}, Pay 1 life: Add {R} or one mana of the chosen color.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/75_Bustling Street.png" num="75">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hamlet</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/84_Hamlet.png" num="84">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/93_Mountain.png" num="93">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/92_Mountain.png" num="92">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/91_Mountain.png" num="91">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Overflowing Graveyard</name>
+			<text>When Overflowing Graveyard enters, surveil 1.
+{T}: Add {C}.
+{2}, {T}, Sacrifice Overflowing Graveyard: Draw two cards. Activate only if there are seven or more cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/98_Overflowing Graveyard.png" num="98">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>+STRESS</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/4_+STRESS.png" num="4">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mercenary Token ULT2</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/2t_Mercenary Token.png" num="2">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Abandon the Village</name>
+			<text>This spell costs {3} less to cast for each creature you control that it targets.
+Return up to two target creatures to their owners&apos; hand.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/6_Abandon the Village.png" num="6">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kakashi, Strict Teacher</name>
+			<text>Ninjutsu {U}{U} ({U}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)
+When Kakashi enters, return another target creature to its owner&apos;s hand. If you owned it, put two +1/+1 counters on Kakashi.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/10_Kakashi, Strict Teacher.png" num="10">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sasuke Uchiha</name>
+			<text>Menace
+Whenever a legendary creature you control leaves the battlefield, harness Sasuke. (His 👁 ability becomes active.)
+👁 — Sasuke Uchiha gets +1/+1 and has vigilance.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/12_Sasuke Uchiha.png" num="12">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadow Clone</name>
+			<text>Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu, except it isn&apos;t legendary and has base toughness 1.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/13_Shadow Clone.png" num="13">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Ninja</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Haruno Sakura</name>
+			<text>Ninjutsu {R} ({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)
+When Haruno Sakura enters, draw a card, then exile a card from your hand. Until the end of your next turn, you may play that card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/37_Haruno Sakura.png" num="37">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Naruto Uzumaki</name>
+			<text>{8}{R}: Harness Naruto Uzumaki (His 🦊 ability becomes active.) This ability costs {2} less to activate for each creature you controlled that entered and/or left the battlefield this turn. Activate only as a sorcery.
+🦊 — Naruto Uzumaki is a 9/9 Demon Fox.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/41_Naruto Uzumaki.png" num="41">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unfriendly Rivalry</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2.
+When Unfriendly Rivalry enters, enchanted creature deals damage equal to its power to up to one other target creature.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/45_Unfriendly Rivalry.png" num="45">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Minato, the Yellow Flash</name>
+			<text>Ninjutsu {3}{U}{R} ({3}{U}{R}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Flying, haste
+Whenever a creature you control deals combat damage to a player, untap two lands. Until your next turn, you may cast spells as though they had flash.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/52_Minato, the Yellow Flash.png" num="52">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iruka, Academy Instructor</name>
+			<text>Ninjutsu {UR} ({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)
+Whenever Iruka enters or attacks, add {U} or {R}. You can&apos;t spend this mana to cast creature spells. This turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/62_Iruka, Academy Instructor.png" num="62">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ichiraku Ramen</name>
+			<text>Ichiraku Ramen enters tapped with a stun counter on it.
+When Ichiraku Ramen enters, create a Treasure token.
+{T}: Add {U} or {R}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/86_Ichiraku Ramen.png" num="86">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ichiraku Ramen</name>
+			<text>Ichiraku Ramen enters tapped with a stun counter on it.
+When Ichiraku Ramen enters, create a Treasure token.
+{T}: Add {U} or {R}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/85_Ichiraku Ramen.png" num="85">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text>({T}: Add {U}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/88_Island.png" num="88">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/94_Mountain.png" num="94">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Vista</name>
+			<text>{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/103_Prismatic Vista.png" num="103">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Village Hidden in the Leaves</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/108_Village Hidden in the Leaves.png" num="108">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BELIEVE IT!</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/7_BELIEVE IT!.png" num="7">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eyeless Eyegorger</name>
+			<text>Menace
+When Eyeless Eyegorger enters, target player discards two cards and you create two Food tokens.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/14_Eyeless Eyegorger.png" num="14">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grinning Beast</name>
+			<text>Menace
+Whenever Grinning Beast deals combat damage to a player, you may pay 1 life. If you do, they face a villainous choice — You create a token that&apos;s a copy of Grinning Beast, or you draw two cards.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/16_Grinning Beast.png" num="16">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunt for Sport</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards. If the sacrificed permanent dealt damage to a player this turn, draw three cards instead.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/17_Hunt for Sport.png" num="17">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Masked Stranger</name>
+			<text>Deathtouch
+When Masked Stranger dies, create a 1/1 white Human creature token.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/19_Masked Stranger.png" num="19">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obsessive Fan</name>
+			<text>When Obsessive Fan enters, you gain 2 life and mill two cards.
+Exhaust — {3}{B}: Put a +1/+1 counter on Obsessive Fan, then return target creature card from your graveyard to your hand. If it has menace, create two Treasure tokens. (Activate each Exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/20_Obsessive Fan.png" num="20">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sleep Deprive</name>
+			<text>Destroy target untapped creature. You lose 2 life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/21_Sleep Deprive.png" num="21">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Slit-Mouth Slasher</name>
+			<text>Menace
+When Slit-Mouth Slasher enters, each player sacrifices a creature.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/22_Slit-Mouth Slasher.png" num="22">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terrified</name>
+			<text>Enchant creature
+When Terrified enters, draw a card.
+Enchanted creature is a Coward and can&apos;t block</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/24_Terrified.png" num="24">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Towering Terror</name>
+			<text>Menace, reach
+Ward—Discard a card.
+Whenever Towering Terror enters or a creature you control deals combat damage to a player, you may draw a card and lose 1 life.
+{5}{B}, {T}, Discard eight cards: Target player loses the game.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/25_Towering Terror.png" num="25">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Bridge</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/74_The Bridge.png" num="74">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gameland</name>
+			<text>When Gameland enters, choose a color other than black.
+{T}, Pay 1 life: Add {B} or one mana of the chosen color.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/81_Gameland.png" num="81">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text>({T}: Add {B}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/107_Swamp.png" num="107">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text>({T}: Add {B}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/106_Swamp.png" num="106">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text>({T}: Add {B}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/105_Swamp.png" num="105">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wall Scrawl</name>
+			<text>When Wall Scrawl enters, you lose 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/109_Wall Scrawl.png" num="109">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>THE CREEPS</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/3_THE CREEPS.png" num="3">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>It&apos;s Over Isn&apos;t It</name>
+			<text>This spell costs {1} less to cast if you attacked with exactly two creatures this turn.
+Exile target creature and its owner&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/2_It&apos;s Over Isn&apos;t It.png" num="2">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pearl, Loyal Renegade</name>
+			<text>First strike
+Selfless Protection — Whenever you attack with exactly two creatures, another target attacking creature gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/3_Pearl, Loyal Renegade.png" num="3">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Gem</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steven Universe</name>
+			<text>Whenever you attack with exactly two creatures, target creature you control gets +0/+3 until end of turn. 
+{5}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/4_Steven Universe.png" num="4">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Gem Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stunning Save</name>
+			<text>Choose one. If you control exactly two attacking creatures, you may choose both instead.
+• Target creature gets +2/+1 until end of turn.
+• Target creature gains hexproof and indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/5_Stunning Save.png" num="5">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Amethyst, Wild Rebel</name>
+			<text>Menace, haste
+Shapeshift — As Amethyst enters, you may have her become a copy of any creature on the battlefield until end of turn, except she retains her power, toughness, and abilities.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/29_Amethyst, Wild Rebel.png" num="29">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Gem</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Connie Maheswaran</name>
+			<text>Valiant — Whenever Connie becomes the target of a spell or ability, she gets +2/+0 until end of turn. This ability triggers only once each turn.
+(Melds with Steven Universe.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/34_Connie Maheswaran.png" num="34">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crack the Diamond</name>
+			<text>Choose one —
+• Crack the Diamond deals 4 damage to target creature and 2 damage to you.
+• Destroy target artifact.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/35_Crack the Diamond.png" num="35">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Garnet, Stoic Seer</name>
+			<text>Trample
+Future Vision — Whenever you attack with exactly two creatures, scry 5, then exile the top card of your library. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/51_Garnet, Stoic Seer.png" num="51">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Gem</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rose Quartz</name>
+			<text>Healing Tears — When Rose enters, return up to two target non-Noble permanents from your graveyard to your hand. If they have total mana value 6 or less, return them to the battlefield instead.
+&quot;Welcome to Earth!&quot; — Whenever a land you control enters, other creatures you control get +1/+1 and gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/53_Rose Quartz.png" num="53">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Gem Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>6RW</manacost>
+				<cmc>8</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/95_Mountain.png" num="95">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/90_Mountain.png" num="90">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text>({T}: Add {W}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/99_Plains.png" num="99">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text>({T}: Add {W}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/100_Plains.png" num="100">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Vista</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/104_Prismatic Vista.png" num="104">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Warp Pad</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/110_Warp Pad.png" num="110">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Greg Universe</name>
+			<text>{7}: Exile the top three cards of your library. You may play non-Human cards from among them until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/5_Greg Universe.png" num="5">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>. . . AND STEVEN!</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/6_. . . AND STEVEN!.png" num="6">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stevonnie</name>
+			<text>Double strike, vigilance, trample, haste, ward {5}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/9_Stevonnie.png" num="9">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Gem Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clawdeen Wolf</name>
+			<text>Haste
+Vivid — When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/56_Clawdeen Wolf.png" num="56">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3B/G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cleo De Nile</name>
+			<text>Lifelink
+Vivid — When Cleo enters, return target non-Noble creature card from your graveyard to the battlefield if its mana value is less than or equal to the number of colors among permanents you control. Otherwise, return it to your hand.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/57_Cleo De Nile.png" num="57">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draculaura</name>
+			<text>Vivid — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a Treasure token.
+{2W}{2U}{2B}{2R}{2G}: Surveil 5. Put each permanent card put into your graveyard this way onto the battlefield.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/58_Draculaura.png" num="58">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>4B/R</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frankie Stein</name>
+			<text>Vivid — When Frankie enters, she deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control.
+{5}{BR}: Return Frankie from your graveyard to the battlefield with a finality counter on her. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/60_Frankie Stein.png" num="60">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghoulia Yelps</name>
+			<text>Vivid — When Ghoulia enters, surveil X, where X is the number of colors among permanents you control.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/61_Ghoulia Yelps.png" num="61">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>B/G</manacost>
+				<cmc>1</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lagoona Blue</name>
+			<text>Vivid — Lagoona Blue can&apos;t be blocked except by X or more creatures, where X is the number of colors among permanents you control.
+Whenever Lagoona Blue deals combat damage to a player, draw a card, then discard a card.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/65_Lagoona Blue.png" num="65">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Robecca Steam</name>
+			<text>When Robecca enters, you draw a card and lose 1 life.
+When Robecca dies as a creature, return her to the battlefield as an artifact. (She&apos;s not a creature. She probably never will be again. Sorry.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/69_Robecca Steam.png" num="69">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3U/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spectra, Gossip Ghost</name>
+			<text>Flying
+When Spectra enters, target creature you control connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/71_Spectra, Gossip Ghost.png" num="71">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fangtastic Fashion</name>
+			<text>You may have Fangtastic Fashion enter as the color of your choice.
+Vivid — Equipped creature gets +X/+X and has menace and ward {X}, where X is the number of colors among permanents you control.
+Equip {5}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/72_Fangtastic Fashion.png" num="72">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Creepover</name>
+			<text>This land enters tapped.
+When this land enters, you gain 2 life and choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/76_Creepover.png" num="76">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Creepover</name>
+			<text>This land enters tapped.
+When this land enters, you gain 2 life and choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/77_Creepover.png" num="77">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ghoulish Get-Together</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/82_Ghoulish Get-Together.png" num="82">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>SHOW YOUR STYLE</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/2_SHOW YOUR STYLE.png" num="2">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bolt of Inspiration</name>
+			<text>When this enchantment enters or leaves, you draw two cards and lose 2 life.
+{2}, Sacrifice this enchantment: Discard two cards. (Draw first.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/10_Bolt of Inspiration.png" num="10">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Black Leg Sanji</name>
+			<text>Menace
+Sanji can&apos;t be equipped.
+Whenever you attack, add {R}{R}{R}. This turn, you don&apos;t lose this mana as steps and phases end.
+{R}: Sanji gets +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/28_Black Leg Sanji.png" num="28">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Liberating Lightning</name>
+			<text>Liberating Lightning deals 3 damage to up to one target creature. Up to one target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/40_Liberating Lightning.png" num="40">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sogeking</name>
+			<text>During your turn, Sogeking has first strike.
+Landfall — Whenever a land you control enters, Sogeking deals 2 damage to target player.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/44_Sogeking.png" num="44">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pirate Hunter Zoro</name>
+			<text>Trample, daunt (This creature can&apos;t be blocked by creatures with power 2 or less)
+Whenever you attack, if you control fewer than three Equipment, create a colorless Equipment artifact token named Sword with &quot;Equipped creature gets +1/+0&quot; and equip {1}.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/46_Pirate Hunter Zoro.png" num="46">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Awareness Training</name>
+			<text>Target creature explores. It gains hexproof and indestructible until end of turn. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/47_Awareness Training.png" num="47">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Delayed Slash</name>
+			<text>Choose one — 
+• Destroy target artifact or enchantment.
+• Note the power of target creature you control. At the beginning of the next end step, Delayed Slash deals damage equal to twice the noted number to target creature.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/48_Delayed Slash.png" num="48">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tony Tony Chopper</name>
+			<text>Activate each of Chopper&apos;s abilities only as a sorcery.
+{2}: Chopper becomes a 2/3 Human.
+{4}: Chopper becomes a 5/5 Beast.
+{8}: Chopper becomes a 10/10 Beast Horror with trample.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/49_Tony Tony Chopper.png" num="49">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elk Pirate Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Straw Hat Luffy</name>
+			<text>Trample, reach, ward {2}
+Landfall — Whenever a land you control enters, exile the top card of your library. When you do, choose one —
+• You may play that card this turn.
+• Put a +1/+1 counter on Luffy and create a Food token.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/50_Straw Hat Luffy.png" num="50">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat Burgular Nami</name>
+			<text>You may play an additional land card each turn.
+At the beginning of your upkeep, sacrifice an artifact or land, then Nami explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/54_Cat Burgular Nami.png" num="54">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text>({T}: Add {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/79_Forest.png" num="79">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Grand Line</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/83_The Grand Line.png" num="83">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text>({T}: Add {R}.)</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/96_Mountain.png" num="96">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Open Seas</name>
+			<text>When Open Seas enters, you lose 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/97_Open Seas.png" num="97">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Port</name>
+			<text>{T}, Pay 1 life: Add {R} or {G}.
+{2}, {T}, Sacrifice Port: Draw two cards. Activate only if you have 5 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/101_Port.png" num="101">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Port</name>
+			<text>{T}, Pay 1 life: Add {R} or {G}.
+{2}, {T}, Sacrifice Port: Draw two cards. Activate only if you have 5 or less life.</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/102_Port.png" num="102">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>SET SAIL</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/8_SET SAIL.png" num="8">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sword ULT2</name>
+			<text>Equipped creature gets +1/+0.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/3t_Sword.png" num="3">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
