@@ -1,4 +1,57 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Add-On added.
+Burning Out added.
+Citizen added.
+Clue added.
+Food added.
+Hugo, Child Creator added.
+Make Your Move added.
+Purification added.
+Repopulate added.
+The Batter, Holy Purifier added.
+The Judge, Feline Guide added.
+The Nothingness added.
+The Queen, Vader Eloha added.
+Weapon added.
+Zacharie, Masked Shopkeep added.
+Zone 0 added.
+Gather Remnant added.
+Springtrap added.
+
+Gather the Remnant removed.
+
+Ballora
+rules_text: Living metal [i](The Puppet is an artifact creature during your turn.)[/i]
+Menace
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you. => Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+Menace
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you.
+
+Dreadbear
+rules_text: Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+When Dreadbear enters, you gain 6 life. => When you cast Dreadbear, you gain 5 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+pt: 6/6 => 5/5
+
+Lefty
+cost: {1}{B} => {B}
+rules_text: Flash
+Living metal [i](Lefty is an artifact creature during your turn.)[/i]
+[i]Capture Mechanism[/i] — When Lefty enters, exile target creature an opponent controls until Lefty leaves the battlefield. That opponent draws a card. => Flash
+Living metal [i](Lefty is an artifact creature during your turn.)[/i]
+[i]Capture Mechanism[/i] — When Lefty enters, exile target creature an opponent controls until Lefty leaves the battlefield. Its owner draws a card.
+pt: 2/3 => 3/3
+
+Shadow Clone
+rules_text: Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu, except it isn't legendary and has base toughness 1. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu ability, except it isn't legendary and has base toughness 1.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Gather the Remnant added.
