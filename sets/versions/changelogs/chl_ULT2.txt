@@ -1,4 +1,100 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Gather the Remnant added.
+CAINE added.
+Gouhin, Black Market Doctor added.
+Louis, Rising Star added.
+Pina, Meddlesome Classmate added.
+Riz, Devourer added.
+Underworld Economizing added.
+Blood Crazed added.
+Haru added.
+Legosi, Student Investigator added.
+Melon, Hybrid Crime Lord added.
+The Black Market added.
+Quiet Cityscape added.
+Shady Bar added.
+NATURAL SELECTION added.
+Hyperdrug Token added.
+
+Add-On removed.
+Burning Out removed.
+Citizen removed.
+Clue removed.
+Food removed.
+Hugo, Child Creator removed.
+Make Your Move removed.
+Purification removed.
+Repopulate removed.
+The Batter, Holy Purifier removed.
+The Judge, Feline Guide removed.
+The Nothingness removed.
+The Queen, Vader Eloha removed.
+Weapon removed.
+Zacharie, Masked Shopkeep removed.
+Zone 0 removed.
+Gather Remnant removed.
+Springtrap removed.
+Der Fluchschütze removed.
+Discipline removed.
+Focus Fire removed.
+Front of the Smoke War removed.
+Graze the Grass removed.
+Liu Assoc. Footsoldier removed.
+Old G. Corp Footsoldier removed.
+R. Corp 4th Pack Rabbit removed.
+The Smoke War removed.
+Valiant Thumb Sodalto removed.
+The 4th Front of the Smoke War removed.
+The City removed.
+Soldier removed.
+
+Lefty
+rules_text: Flash
+Living metal [i](Lefty is an artifact creature during your turn.)[/i]
+[i]Capture Mechanism[/i] — When Lefty enters, exile target creature an opponent controls until Lefty leaves the battlefield. Its owner draws a card. => Flash
+Living metal [i](Lefty is an artifact creature during your turn.)[/i]
+[i]Capture Mechanism[/i] — When Lefty enters, exile target creature an opponent controls until Lefty leaves the battlefield. That opponent draws a card.
+pt: 2/4 => 2/3
+
+Ballora
+rules_text: Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+Menace
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you. => Living metal [i](The Puppet is an artifact creature during your turn.)[/i]
+Menace
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you.
+
+Dreadbear
+rules_text: When you cast Dreadbear, you gain 5 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+When Dreadbear enters, you gain 6 life.
+pt: 5/5 => 6/6
+
+Shadow Clone
+rules_text: Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu ability, except it isn't legendary and has base toughness 1. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu, except it isn't legendary and has base toughness 1.
+
+Gangle
+cost: {1}{U} => {U}{U}
+rules_text: Ward {4}
+Skulk [i](Gangle can't be blocked by creatures with greater power.)[/i] => Ward {3}
+As long as you've cast a noncreature spell this turn, Gangle has skulk. [i](She can't be blocked by creatures with greater power.)[/i]
+
+Jax
+rules_text: Menace
+Prowess, prowess [i](Whenever you cast a noncreature spell, this creature gets +2/+2 until end of turn.)[/i] => Menace
+Prowess
+
+Kinger
+rules_text: Vigilance
+Protection from Abstractions => Defender, protection from Abstractions
+Whenever you cast a noncreature spell, until end of turn, Kinger gets +1/+1 and can attack as though it didn't have defender.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Der Fluchschütze added.
