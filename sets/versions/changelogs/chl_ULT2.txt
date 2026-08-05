@@ -1,4 +1,309 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Alice Liddell added.
+The Cheshire Cat added.
+Hysterical Outburst added.
+The Mad Hatter added.
+Out of House and Home added.
+Misstitched Alice added.
+Royal Suit Alice added.
+Silk Maiden Alice added.
+Siren Alice added.
+Card Kingdom added.
+Card Kingdom added.
+Wonderland added.
+Colossal Ruin added.
+INTO MADNESS added.
+Horror Token added.
+The Demo, Grim Bloody Fable added.
+The Engineer, Frontier Justice added.
+The Heavy Weapons Guy added.
+The Medic, God Among Men added.
+Ms. Pauling added.
+The Pyro, Cruel Dreamer added.
+The Scout, Kind of a Big Deal added.
+The Sniper, Professional added.
+The Soldier, Screaming Eagle added.
+The Spy added.
+Class Reunion added.
+Intelligence Room added.
+The Respawn Machine added.
+Ms. Pauling added.
+The Administrator's Office added.
+Mercenary added.
+Construct Token added.
+Gouhin, Black Market Doc added.
+Kakashi, Team 9 Leader added.
+NINJAS (BELIEVE IT!) added.
+Cat Burglar Nami added.
+LANDFALL added.
+Gather Remnant added.
+Indoor Attraction added.
+Indoor Attraction added.
+Springtrap added.
+Purification added.
+The Judge, Feline Guide added.
+Make Your Move added.
+Repopulate added.
+Zacharie, Masked Shopkeep added.
+The Batter, Holy Purifier added.
+Burning Out added.
+Hugo, Child Creator added.
+The Queen, Vader Eloha added.
+Add-On added.
+The Nothingness added.
+Zone 0 added.
+Citizen added.
+Clue added.
+Food added.
+Weapon added.
+
+Gather the Remnant removed.
+Kakashi, Strict Teacher removed.
+BELIEVE IT! removed.
+Eyeless Eyegorger removed.
+Grinning Beast removed.
+Hunt for Sport removed.
+Masked Stranger removed.
+Obsessive Fan removed.
+Sleep Deprive removed.
+Slit-Mouth Slasher removed.
+Terrified removed.
+Towering Terror removed.
+The Bridge removed.
+Gameland removed.
+Wall Scrawl removed.
+THE CREEPS removed.
+Cat Burgular Nami removed.
+SET SAIL removed.
+CAINE removed.
+Gouhin, Black Market Doctor removed.
+
+
+type: Basic Land — Island => 
+rules_text: [i]({T}: Add {U}.)[/i] => 
+
+Haru
+cost: {1}{GW} => {1}{G}
+rules_text: When Haru enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+[i]Landfall[/i] — Whenever a land you control enters, support 1. [i](Put a +1/+1 counter on up to one other target creature.)[/i] => When Haru enters, choose one. If you control a creature with power 4 or greater, choose any number instead —
+• Draw a card.
+• You may put a land card from your hand onto the battlefield.
+• Return another permanent you control to its owner's hand.
+pt: 1/2 => 1/1
+
+Pina, Meddlesome Classmate
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+Escape—-{1}{G}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+Escape—{1}{G}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Riz, Devourer
+rules_text: Trample, vigilance
+When Riz enters, you may sacrifice another creature. If you do, draw a card and put X +1/+1 counters on Riz, where X is the sacrificed creature's power. => Trample, ward {2}
+When Riz enters, you may sacrifice another creature. If you do, draw a card and put X +1/+1 counters on Riz, where X is the sacrificed creature's power.
+Forestcycling {2G}
+
+Underworld Economizing
+rules_text: When Underworld Economizing enters, create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this: Blitz target creature you control. Activate only as a sorcery.” A blitzed creature gains haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i]
+Sacrifice Underworld Economizing: Return target creature card from your graveyard. => When Underworld Economizing enters, create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this:Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i]
+Sacrifice Underworld Economizing: Return target creature card from your graveyard.
+
+Blood Crazed
+rules_text: Enchant creature
+When Blood Crazed enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +2/+0 if a nonland permanent you controlled left the battlefield this turn. => Enchant creature
+When Blood Crazed enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +2/+2 if a creature you controlled left the battlefield this turn. If that creature had power 4 or greater, enchanted creature gets +4/+4 instead.
+
+Legosi, Student Investigator
+cost: {4}{GU} => {3}{GU}
+rules_text: Trample, ward {2}
+Whenever another creature you control leaves the battlefield, you may create a Clue token. If that creature had power 4 or greater, untap a number of lands up to its power. Do this only once each turn. => Vigilance
+Whenever another creature you control leaves the battlefield during your turn, you may investigate. If that creature had power 4 or greater, investigate again. Do this only once each turn.
+pt: 5/5 => 4/4
+
+Melon, Hybrid Crime Lord
+rules_text: At the beginning of combat on your turn, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Blitz target creature you control. Activate only as a sorcery.” A blitzed creature gains haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i]
+Whenever another creature you control leaves the battlefield, put a +1/+1 counter on Melon. => {1}, {T}: Create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i]
+Whenever another creature you control with power 4 or greater leaves the battlefield during your turn, put three +1/+1 counters on Melon.
+pt: 2/2 => 4/3
+
+Shady Bar
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{2}, {T}: Create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this: Blitz target creature you control. Activate only as a sorcery.” A blitzed creature gains haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i] => When Shady Bar enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i]
+{T}: Add {C}.
+
+Hyperdrug Token
+rules_text: {T}, Sacrifice this artifact: Blitz target creature you control. Activate only as a sorcery. [i](It gains haste and “When this dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i] => {T}, Sacrifice this artifact: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery. [i](A blitzed creature gains haste and “When this dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i]
+
+Abstract
+rules_text: Enchant nonland permanent
+Enchanted nonland permanent is a 4/3 Abstraction creature and loses all other types. It can't attack you. => Enchant nonland permanent
+Enchanted nonland permanent is a 4/3 Abstraction creature and loses all other types and abilities. It can't attack you.
+
+CAINE
+loyalty: 5 => 4
+
+Gangle
+cost: {U}{U} => {1}{U}
+rules_text: Ward {3}
+As long as you've cast a noncreature spell this turn, Gangle has skulk. [i](She can't be blocked by creatures with greater power.)[/i] => Ward {4}
+As long as you've cast a noncreature spell this turn, Gangle has skulk. [i](She can't be blocked by creatures with greater power.)[/i]
+
+Jax
+pt: 4/1 => 5/1
+
+Kinger
+rules_text: Defender, protection from Abstractions
+Whenever you cast a noncreature spell, until end of turn, Kinger gets +1/+1 and can attack as though it didn't have defender. => Defender, protection from Abstractions
+Whenever you cast a noncreature spell, until end of turn, Kinger gets +1/+1 and can attack as though he didn't have defender.
+
+Pomni
+pt: 1/2 => 2/3
+
+Ragatha
+pt: 3/2 => 2/3
+
+The Bounty Hunter
+rules_text: Menace
+Test of Resolve — {1}: Choose target creature or player. If a source would deal damage to it this turn, it deals that much damage plus two instead. => Menace
+Test of Resolve — {1}{R}: If a source would deal damage to target creature or player this turn, it deals that much damage plus two instead.
+pt: 3/2 => 2/2
+
+Camp Command
+cost: {3}{R}{R} => {2}{R}{R}
+rules_text: Choose two —
+• Create two 1/1 red Mercenary creature tokens. They gain haste until end of turn.
+• Discard a card. If you do, put a +1/+1 counter on each creature you control.
+• Discard a card. If you do, draw two cards.
+• Exile target artifact. => Choose two —
+• Create two 1/1 red Mercenary creature tokens.
+• Discard a card. If you do, put a +1/+1 counter on each creature you control.
+• Discard a card. If you do, draw two cards.
+• Exile target artifact.
+
+Collect Call
+rules_text: Surveil 2.
+Exile a card from your hand and the top two cards of your library. You may play the exiled cards until the end of your next turn.
+Flashback {4}{R}{R} => Surveil 2.
+Exile a card from your hand and the top two cards of your library. You may play the exiled cards until the end of your next turn.
+
+Confidence Surges
+rules_text: When Confidence Surges! enters, create a 1/1 red Mercenary creature token.
+Test of Resolve — {1}: Creatures you control get +1/+0 and gain haste until end of turn. => When Confidence Surges! enters, create a 1/1 red Mercenary creature token.
+Test of Resolve — {1}{R}: Creatures you control get +1/+0 until end of turn.
+
+The Crusader
+rules_text: First strike
+Test of Resolve — {1}: The Crusader gets +3/+0 until end of turn. => First strike
+Test of Resolve — {1}{R}: The Crusader gets +2/+0 until end of turn.
+
+The Jester
+cost: {2}{R}{R} => {3}{R}{R}
+rules_text: Menace, haste
+Whenever The Jester attacks, put a +1/+1 counter on it.
+Test of Resolve — {1}, Sacrifice The Jester: It deals damage equal to its power to each opponent and each creature they control. => Menace, haste
+Whenever The Jester attacks, put a +1/+1 counter on it.
+Test of Resolve — {1}{R}, Sacrifice The Jester: It deals damage equal to its power to each opponent and each creature they control.
+pt: 2/3 => 2/4
+
+Riposte Stance
+rules_text: Enchant creature
+Enchanted creature gets +3/+0.
+When Riposte Stance enters, target creature an opponent controls deals damage to itself equal to its power. => Enchant creature
+Enchanted creature gets +2/+0.
+When Riposte Stance enters, target creature an opponent controls deals damage to itself equal to its power.
+
+Bustling Street
+rules_text: When Overflowing Graveyard enters, choose a color other than red.
+{T}, Pay 1 life: Add {R} or one mana of the chosen color. => When Bustling Street enters, choose a color other than red.
+{T}, Pay 1 life: Add {R} or one mana of the chosen color.
+
+Overflowing Graveyard
+rules_text: When Overflowing Graveyard enters, surveil 1.
+{T}: Add {C}.
+{2}, {T}, Sacrifice Overflowing Graveyard: Draw two cards. Activate only if there are seven or more cards in your graveyard. => When Overflowing Graveyard enters, surveil 1.
+{T}: Add {C}.
+{2}, {T}, Sacrifice Overflowing Graveyard: Draw two cards. Activate only if there are ten or more cards in your graveyard.
+
+Sasuke Uchiha
+rules_text: Menace
+Whenever a legendary creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i]
+👁 — Sasuke Uchiha gets +1/+1 and has vigilance. => Menace
+Whenever a legendary creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i]
+👁 — Sasuke Uchiha gets +1/+2 and has vigilance.
+
+Haruno Sakura
+rules_text: Ninjutsu {R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, draw a card, then exile a card from your hand. Until the end of your next turn, you may play that card. => Ninjutsu {R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, target creature you control gets +2/+2 until end of turn.
+pt: 1/2 => 2/2
+
+Clawdeen Wolf
+rules_text: Haste
+[i]Vivid [/i]— When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her. => [i]Vivid [/i]— When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+
+Frankie Stein
+cost: {1}{BR} => {2}{BR}
+rules_text: [i]Vivid[/i] — When Frankie enters, she deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control.
+{5}{BR}: Return Frankie from your graveyard to the battlefield with a finality counter on her. Activate only as a sorcery. => [i]Vivid[/i] — When Frankie enters, she deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control.
+pt: 1/1 => 2/2
+
+Fangtastic Fashion
+cost: {0} => {1}
+rules_text: You may have Fangtastic Fashion enter as the color of your choice.
+[i]Vivid[/i] — Equipped creature gets +X/+X and has menace and ward {X}, where X is the number of colors among permanents you control.
+Equip {5} => When Fangtastic Fashion enters, it becomes the color of your choice. Draw a card.
+[i]Vivid[/i] — Equipped creature gets +X/+X and has menace and ward {X}, where X is the number of colors among permanents you control.
+Equip {6}
+
+Delayed Slash
+type: Instant => Sorcery
+
+Steven Universe
+rules_text: Whenever you attack with exactly two creatures, target creature you control gets +0/+3 until end of turn. 
+{5}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie. => Whenever you attack with exactly two creatures, put a +1/+1 counter on target attacking creature.
+{5}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie.
+pt: 2/2 => 1/2
+
+Crack the Diamond
+rules_text: Choose one —
+• Crack the Diamond deals 4 damage to target creature and 2 damage to you.
+• Destroy target artifact. => Choose one —
+• Crack the Diamond deals 4 damage to target creature and 2 damage to you.
+• Exile target artifact.
+
+Rose Quartz
+rules_text: [i]Healing Tears[/i] — When Rose enters, return up to two target non-Noble permanents from your graveyard to your hand. If they have total mana value 6 or less, return them to the battlefield instead.
+“[i]Welcome to Earth!”[/i] — Whenever a land you control enters, other creatures you control get +1/+1 and gain haste until end of turn. => [i]Healing Tears[/i] — When Rose enters, return up to two target permanents from your graveyard to your hand. If they have total mana value 6 or less, return them to the battlefield instead.
+“[i]Welcome to Earth!”[/i] — Whenever a land you control enters, other creatures you control get +1/+1 and gain haste until end of turn.
+
+Lefty
+pt: 2/3 => 3/3
+
+Ballora
+rules_text: Living metal [i](The Puppet is an artifact creature during your turn.)[/i]
+Menace
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you. => Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+Menace
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you.
+
+Dreadbear
+rules_text: Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+When Dreadbear enters, you gain 6 life. => When you cast Dreadbear, you gain 5 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+pt: 6/6 => 5/5
+
+LIVING METAL
+cost:  => {B}
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Gather the Remnant added.
