@@ -1,4 +1,275 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Dorothy Gale added.
+Lion, the Spineless added.
+Scarecrow, the Brainless added.
+Tin Man, the Heartless added.
+Toto, the Little Dog added.
+Bring Me That Girl added.
+Glinda, the Good Witch added.
+I'll Get You My Pretty added.
+Ruby Slippers added.
+Emerald City added.
+Anywhere (WOZ) added.
+Yellow Brick Road added.
+WANDER added.
+Human Token added.
+DEVIL ARMS added.
+Argosax's Second Balrog added.
+Fortuna Scarecrow added.
+Fortuna Terror Berial added.
+Jackpot added.
+Mitis Assault added.
+Nico Goldstein added.
+Voltaic Black Knight added.
+Dante, Devil Trigger added.
+Nero, High Roller added.
+Devil May Cry added.
+The Devil's Tower added.
+Nico's Armory added.
+Nico's Armory added.
+Armament added.
+MAKE UP! added.
+Moon Prism Power! added.
+Rei Hino added.
+Setsuna Meiou added.
+Shabon Spray added.
+Usagi Tsukino added.
+Ami Mizuno added.
+Hotaru Tomoe added.
+Makoto Kino added.
+Minako Aino added.
+Crystal Tokyo added.
+Fruits Parlor Crown added.
+The Moon Kingdom added.
+Eyeless Cannibal added.
+Hunt for Sport added.
+Masked Stranger added.
+Sleep Deprive added.
+Slit-Mouth Slasher added.
+Terrified added.
+Towering Terror added.
+Grinning Beast added.
+Obsessive Fan added.
+The Bridge added.
+Gameland added.
+Wall Scrawl added.
+THE CREEPS added.
+Prismatic Vista (NART) added.
+Prismatic Vista (SU) added.
+Der Fluchschütze added.
+Discipline added.
+Focus Fire added.
+Front of the Smoke War added.
+Graze the Grass added.
+Liu Assoc. Footsoldier added.
+Old G. Corp Footsoldier added.
+R. Corp 4th Pack Rabbit added.
+The Smoke War added.
+Valiant Thumb Sodalto added.
+The 4th Front of the Smoke War added.
+The City added.
+Soldier added.
+UMBRELLA CONSPIRACY added.
+Ada Wong added.
+Glasp added.
+HUNK, the 4th Survivor added.
+Infected Crows added.
+A Little Lie Between Friends added.
+Rachel Foley added.
+William Birkin added.
+Jill Valentine, BSAA added.
+Rebecca Chambers added.
+Queen Semiramis added.
+Queen Zenobia added.
+Raccoon Police Department added.
+Abbey Road added.
+Communal Bath added.
+BANDING added.
+Fifth Beatle added.
+Ringo Starr, Beatle added.
+George Harrison, Beatle added.
+John Lennon, Beatle added.
+Yoko Ono, Avant Gardist added.
+Magical Mystery Tour added.
+Paul Mccartney, Beatle added.
+Band Manager Bri added.
+Bigger than Jesus added.
+The Spy, Mann of Mystery added.
+Commencement added.
+Compound Generator added.
+Item added.
+Mithrix, King of Nothing added.
+Servo added.
+Having Fallen, It Was Blood added.
+MONSOON added.
+Simulacrum added.
+The Captain added.
+The Loader added.
+They Might as Well Be Dead added.
+Once in a Lullaby added.
+The Engineer added.
+The Commando added.
+The Artificer added.
+Archmother's Stronghold added.
+Austere Ascension added.
+Cornerstore added.
+Soul added.
+Spirit added.
+Spirit added.
+The Cursed Apple added.
+Study Up added.
+The Doorman, Humble Servant added.
+Welcome to the Baroness added.
+Ivy, Savior of Harlem added.
+Rem and Friends added.
+Sleepwalk added.
+Airdrop added.
+Paige, the Bookworm added.
+The Archmother, Austere added.
+The Hideout added.
+
+Colossal Ruin removed.
+The Spy removed.
+Prismatic Vista removed.
+Prismatic Vista removed.
+Indoor Attraction removed.
+Indoor Attraction removed.
+
+Lefty
+rules_text: Flash
+Living metal [i](Lefty is an artifact creature during your turn.)[/i]
+[i]Capture Mechanism[/i] — When Lefty enters, exile target creature an opponent controls until Lefty leaves the battlefield. That opponent draws a card. => Living metal [i](Lefty is an artifact creature during your turn.)[/i]
+[i]Capture Mechanism[/i] — When Lefty enters, exile target creature with mana value 3 or less an opponent controls. That opponent draws a card.
+pt: 3/3 => 3/2
+
+Vanny
+rules_text: Deathtouch
+Exhaust — {4}{B}: Put X +1/+1 counters and a menace counter on Vanny, where X is the number of artifacts you control. [i](Activate each exhaust ability only once.)[/i] => Deathtouch
+Exhaust — {4}{B}: Put three +1/+1 counters on Vanny. Each opponent loses X life and you gain X life, where X is the number of artifacts you control. [i](Activate each exhaust ability only once.)[/i]
+
+Dreadbear
+pt: 5/5 => 5/4
+
+The Demo, Grim Bloody Fable
+rules_text: When Demo enters, recruit Mercenary. 
+Whenever you discard a card, you may exile it.
+Whenever you attack, choose one of the cards exiled by him at random. You may play it this turn. => When Demo enters, recruit Mercenary. [i](Draw a card, then discard. If you discarded a nonland, create a 1/1 white Mercenary creature token.)[/i]
+Whenever you discard a card, you may exile it.
+Whenever you attack, choose a card exiled by him at random. You may play it this turn.
+
+The Engineer, Frontier Justice
+rules_text: When The Engineer enters, create a 1/1 Construct artifact creature token.
+Power-up — {4}{UR}: Put a +1/+1 counter on The Engineer and two +1/+1 counters on up to one target artifact creature. Activate only as a sorcery. [i](Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn.)[/i] => When The Engineer enters, create a 1/1 Construct artifact creature token.
+Power-up — {4}{UR}: Put a +1/+1 counter on The Engineer and two +1/+1 counters on up to one target artifact creature. Activate only as a sorcery. [i](Activate only once. Reduce the cost by his mana cost if he entered this turn.)[/i]
+
+The Heavy Weapons Guy
+rules_text: Menace, trample
+{2}, Discard Heavy: Recruit Mercenary. [i](Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Mercenary creature token.)[/i] => Trample
+{2}, Discard The Heavy: Recruit Mercenary. [i](Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Mercenary creature token.)[/i]
+pt: 6/6 => 7/7
+
+
+type: Basic Land — Swamp => 
+rules_text: [i]({T}: Add {B}.)[/i] => 
+
+Iruka, Academy Instructor
+rules_text: Ninjutsu {UR} [i]({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Iruka enters or attacks, add {U} or {R}. You can't spend this mana to cast creature spells. This turn, you don't lose this mana as steps and phases end. => Ninjutsu {UR} [i]({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Iruka enters or attacks, add {U} or {R}. You can't spend this mana to cast creature spells. This mana lasts until end of turn.
+
+Black Leg Sanji
+rules_text: Menace
+Sanji can't be equipped.
+Whenever you attack, add {R}{R}{R}. This turn, you don't lose this mana as steps and phases end.
+{R}: Sanji gets +1/+0 until end of turn. => Menace
+Sanji can't be equipped.
+[i]Landfall[/i] — Whenever a land you control enters, add {R}{R}.
+{R}: Sanji gets +1/+0 until end of turn.
+
+Delayed Slash
+cost: {2}{G} => {1}{R}
+rules_text: Choose one — 
+• Destroy target artifact or enchantment.
+• Note the power of target creature you control. At the beginning of the next end step, Delayed Slash deals damage equal to twice the noted number to target creature. => Choose one — 
+• Destroy target artifact.
+• Choose target creature. At the beginning of the next end step, Delayed Slash deals 4 damage to it.
+
+Sogeking
+rules_text: During your turn, Sogeking has first strike.
+[i]Landfall[/i] — Whenever a land you control enters, Sogeking deals 2 damage to target player. => Reach
+During your turn, Sogeking has first strike.
+[i]Landfall[/i] — Whenever a land you control enters, Sogeking deals 2 damage to target player.
+
+Pirate Hunter Zoro
+rules_text: Trample, daunt [i](This creature can't be blocked by creatures with power 2 or less)[/i]
+Whenever you attack, if you control fewer than three Equipment, create a colorless Equipment artifact token named Sword with “Equipped creature gets +1/+0” and equip {1}. => Trample, daunt [i](This creature can't be blocked by creatures with power 2 or less)[/i]
+[i]Landfall[/i] — Whenever a land you control enters, if you control fewer than three Equipment, create a colorless Equipment artifact token named Sword with “Equipped creature gets +2/+0” and equip {2}.
+
+Tony Tony Chopper
+rules_text: Activate each of Chopper's abilities only as a sorcery.
+{2}: Chopper becomes a 2/3 Human.
+{4}: Chopper becomes a 5/5 Beast.
+{8}: Chopper becomes a 10/10 Beast Horror with trample. => [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+{5}: Chopper becomes a 5/6 Elk Human with reach. Activate only as a sorcery.
+{10}: Chopper becomes a 10/12 Elk Horror with reach and trample. Activate only as a sorcery.
+
+Cat Burglar Nami
+cost: {1}{RG} => {1}{R}{G}
+rules_text: You may play an additional land card each turn.
+At the beginning of your upkeep, sacrifice an artifact or land, then Nami explores twice. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, create a tapped Treasure token.
+{2}, Sacrifice two artifacts and/or lands: Nami explores. [i](Reveal the top card of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+pt: 1/1 => 1/3
+
+The Batter, Holy Purifier
+rules_text: First strike
+Whenever The Batter attacks, you may purify. If you do, he gains double strike until end of turn. => First strike
+Whenever The Batter attacks, you may purify. If you do, he gains double strike until end of turn. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+
+The Queen, Vader Eloha
+rules_text: At the beginning of combat on your turn, you may purify. If you do, put a +1/+1 counter on The Queen. She gains flying until end of turn. => At the beginning of combat on your turn, you may purify. If you do, put a +1/+1 counter on The Queen. She gains flying until end of turn. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+
+Garnet, Stoic Seer
+cost: {3}{R}{W} => {3}{UR}{W}
+rules_text: Trample
+[i]Future Vision[/i] — Whenever you attack with exactly two creatures, scry 5, then exile the top card of your library. You may play it this turn. => Vigilance, trample
+[i]Future Vision[/i] — Whenever you attack with exactly two creatures, scry 5, then you may exile the top card of your library. You may play it this turn.
+{T}: Add {U}{R}.
+pt: 6/4 => 5/5
+
+Abstract
+rules_text: Enchant nonland permanent
+Enchanted nonland permanent is a 4/3 Abstraction creature and loses all other types and abilities. It can't attack you. => Enchant nonland permanent
+Enchanted nonland permanent is a 4/3 Abstraction creature with reach and loses all other types and abilities. It can't attack you.
+
+Royal Suit Alice
+rules_text: Trample
+Whenever Royal Suit Alice attacks or blocks, torment yourself. [i](You lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i]
+Madness {2}{BR} => Reach, trample
+Whenever Royal Suit Alice attacks or blocks, torment yourself. [i](You lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i]
+Madness {2}{BR}
+pt: 5/6 => 5/5
+
+Fangtastic Fashion
+cost: {1} => {0}
+rules_text: When Fangtastic Fashion enters, it becomes the color of your choice. Draw a card.
+[i]Vivid[/i] — Equipped creature gets +X/+X and has menace and ward {X}, where X is the number of colors among permanents you control.
+Equip {6} => You may have Fangtastic Fashion enter as the color of your choice.
+[i]Vivid[/i] — Equipped creature gets +X/+X and has menace and ward {X}, where X is the number of colors among permanents you control.
+Equip {6}
+
+Intelligence Room
+rules_text: This land enters tapped.
+When this land enters, surveil 1.
+{T}: Add {U} or {R}.
+{3}, {T}, Exile this land: Shuffle any number of cards from your graveyard into your library. Draw a card. => This land enters tapped.
+When this land enters, surveil 1.
+{T}: Add {U} or {R}.
+{3}, {T}, Exile this land: Shuffle up to three cards from your graveyard into your library. Draw a card.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Alice Liddell added.
