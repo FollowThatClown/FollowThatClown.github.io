@@ -1,4 +1,690 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Zombie Token added.
+SURVEILLANCE added.
+Special Containment Procedure added.
+Site 13 added.
+SCP-1048, Builder Bear added.
+SCP-743, Chocolate Fountain added.
+SCP-131, The Eye Pods added.
+SCP-096, The Shy Guy added.
+SCP-047, The Plague Doctor added.
+SCP-002, The Living Room added.
+Familiar Lake added.
+Familiar Lake added.
+Containment Breach added.
+Blinking! added.
+SCP-2521 added.
+Empire City added.
+Empire City added.
+Turret Array added.
+The Engineer, Stranded added.
+Mass-Produced Tank added.
+Automated Flame-Tank added.
+Robot (FAC) added.
+Towering Spidertron added.
+Scramble for Solutions added.
+Repel the Locals added.
+Power Lines added.
+Nauvis added.
+Logistics Train added.
+Exponential Expansion added.
+Crash Site added.
+Complications added.
+Assembly Line added.
+Assembler added.
+Warqueen, Mechanical Mind added.
+Uncharted Rimworld added.
+Social Fight added.
+Rim Militia added.
+Nomad Encampment added.
+Mechanoid Lancer added.
+Imperial Holdout added.
+Emergency Surgery added.
+Crafty Caravaneer added.
+Construction Project added.
+Construct added.
+Colony Collapse added.
+Caravan Trail added.
+Base Assault added.
+Ancient Danger added.
+Zombie added.
+WAR WITHOUT REASON added.
+V1, Perfect Steel added.
+The Inferno added.
+SSADISTIC added.
+Sisyphus Prime added.
+RICOSHOT added.
+Mannequins added.
+Layer 8 — FRAUD added.
+Layer 7 — VIOLENCE added.
+Layer 4 — GREED added.
+Layer 2 — LUST added.
+Knuckleblaster added.
+HELL IS FULL added.
+Gabriel, Judge of Hell added.
+FUEL added.
+Filths added.
+Rebar Spear added.
+Miros Bird added.
+Iterator's Chamber added.
+Garbage Wastes added.
+Prismatic Vista RAIN added.
+Towering Rain Deer added.
+Resourceful Slugcat added.
+Reach the Top added.
+Green Lizard added.
+FOOD CHAIN added.
+Dropwig added.
+Coalescipede added.
+Monkey Token RAIN added.
+Duel for Dominance RAIN added.
+Yellowfang added.
+Silverstream added.
+Rusty added.
+Clan Territory added.
+WARRIORS added.
+Warrior Cat added.
+Tigerstar added.
+The Moonpool added.
+Starclan's Judgement added.
+Squirrelflight added.
+Jayfeather added.
+Hawkfrost added.
+Full Moon Gathering added.
+From Chin To Tail added.
+Jackpot! added.
+Hellbat added.
+Berial, Fortuna Terror added.
+Balrog, Argosax's Second added.
+Sandbox added.
+Upgraded Unmaker added.
+The Transistor added.
+Spoiling Cells added.
+Royce, Fallen Architect added.
+Red, Lone Voice added.
+Prismatic Vista added.
+Jaunt() added.
+Help() added.
+Equip() added.
+Egg Processor added.
+Dog Processor added.
+Crash() added.
+Breach() added.
+MAKE UP! added.
+Moon Prism Power! added.
+The Moon Kingdom added.
+Citizen (SM) added.
+Clue (SM) added.
+
+Springtrap removed.
+Argosax's Second Balrog removed.
+Fortuna Scarecrow removed.
+Fortuna Terror Berial removed.
+Jackpot removed.
+Eyeless Cannibal removed.
+Hunt for Sport removed.
+Masked Stranger removed.
+Sleep Deprive removed.
+Slit-Mouth Slasher removed.
+Terrified removed.
+Towering Terror removed.
+Grinning Beast removed.
+Obsessive Fan removed.
+The Bridge removed.
+Gameland removed.
+Wall Scrawl removed.
+THE CREEPS removed.
+Ms. Pauling removed.
+Ms. Pauling removed.
+The Administrator's Office removed.
+Greg Universe removed.
+
+I'll Get You My Pretty
+rules_text: Choose target creature you control and target creature you don't control. The creature you don't control gets -X/-X until end of turn, where X is the number of times you've wandered this turn. Then they fight. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[i]. . . And your little dog, too![/i] — Flashback {5}{BG} => Choose target creature you control and target creature you don't control. The creature you don't control gets -X/-X until end of turn, where X is the number of times you've wandered this turn. Then they fight. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[i]. . . And your little dog, too![/i] — Flashback {3}{BG}
+
+Yellow Brick Road
+
+WANDER
+
+Toto, the Little Dog
+
+Tin Man, the Heartless
+cost: {2}{G} => {3}{G}
+rules_text: When Tin Man enters, surveil 3.
+{2}{G}, Exile three creature cards from your graveyard: Harness Tin Man. Activate only as a sorcery. [i](His ❤ ability becomes active.)[/i]
+❤— Tin Man gets +1/+2 and has trample. => When Tin Man enters, mill four cards.
+{1}{G}, Exile three creature cards from your graveyard: Harness Tin Man. [i](His ❤ ability becomes active.)[/i]
+❤— Tin Man gets +2/+1 and has trample.
+pt: 4/3 => 4/5
+
+Scarecrow, the Brainless
+rules_text: Vigilance, reach
+You may play an additional land card each turn.
+{5}{G}: Harness Scarecrow. Activate only as a sorcery. [i](His 🧠 ability becomes active.)[/i]
+🧠 — Scarecrow gets +3/+0 and “Whenever Scarecrow attacks, draw a card.” => Vigilance, reach
+You may play an additional land each turn.
+{5}{G}: Harness Scarecrow. [i](His 🧠 ability becomes active.)[/i]
+🧠 — Scarecrow gets +3/+0 and “Whenever this attacks, draw a card.”
+
+Ruby Slippers
+
+Lion, the Spineless
+
+Human Token
+
+Glinda, the Good Witch
+
+Emerald City
+
+Dorothy Gale
+cost: {3}{G} => {2}{G}
+
+Vanny
+rules_text: Deathtouch
+Exhaust — {4}{B}: Put three +1/+1 counters on Vanny. Each opponent loses X life and you gain X life, where X is the number of artifacts you control. [i](Activate each exhaust ability only once.)[/i] => Deathtouch
+Exhaust — {4}{B}{B}: Put three +1/+1 counters on Vanny. Each opponent loses X life and you gain X life, where X is the number of artifacts you control. [i](Activate each exhaust ability only once.)[/i]
+
+William Afton
+
+The Puppet
+pt: 4/4 => 3/4
+
+Springlock Failure
+
+Spirit token
+
+Scrap Baby
+rules_text: Living metal [i](Baby is an artifact creature during your turn.)[/i]
+First strike
+When Scrap Baby enters, she deals damage equal to its power to target creature an opponent controls. => Living metal [i](Baby is an artifact creature during your turn.)[/i]
+First strike
+When Scrap Baby enters, she deals damage equal to her power to up to one target creature.
+pt: 5/1 => 4/1
+
+LIVING METAL
+
+Lefty
+pt: 3/2 => 2/3
+
+Indoor Attraction
+rules_text: When Indoor Attraction enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped with a hexproof counter on it, then shuffle. It becomes an artifact in addition to its other types. => When Indoor Attraction enters, you gain 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped with a hexproof counter on it, then shuffle. It becomes an artifact in addition to its other types.
+
+Gather Remnant
+
+Freddy Fazbear's Pizza
+
+Dreadbear
+rules_text: When you cast Dreadbear, you gain 5 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => When you cast Dreadbear, you gain 4 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When this dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+pt: 5/4 => 4/4
+
+Ballora
+
+Bolt of Inspiration
+
+Spectra, Gossip Ghost
+
+SHOW YOUR STYLE
+
+Robecca Steam
+
+Lagoona Blue
+
+Ghoulish Get-Together
+
+Ghoulia Yelps
+
+Frankie Stein
+
+Draculaura
+rules_text: [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a Treasure token.
+{2W}{2U}{2B}{2R}{2G}: Surveil 5. Put each permanent card put into your graveyard this way onto the battlefield. => [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a Treasure token.
+Exhaust—{W}{U}{B}{R}{G}: Surveil 5. Put each permanent card put into your graveyard this way onto the battlefield.
+
+Creepover
+
+Creepover
+
+Cleo De Nile
+
+Clawdeen Wolf
+
+Rose Quartz
+rules_text: [i]Healing Tears[/i] — When Rose enters, return up to two target permanents from your graveyard to your hand. If they have total mana value 6 or less, return them to the battlefield instead.
+“[i]Welcome to Earth!”[/i] — Whenever a land you control enters, other creatures you control get +1/+1 and gain haste until end of turn. => When Rose enters, return up to two target permanent cards from your graveyard to your hand. If they have total mana value 6 or less, return them to the battlefield instead.
+“[i]Welcome to Earth!”[/i] — Whenever a land you control enters, other creatures you control get +1/+1 and gain haste until end of turn.
+pt: 6/4 => 6/6
+
+Garnet, Stoic Seer
+rules_text: Vigilance, trample
+[i]Future Vision[/i] — Whenever you attack with exactly two creatures, scry 5, then you may exile the top card of your library. You may play it this turn.
+{T}: Add {U}{R}. => Vigilance, trample
+[i]Future Vision[/i] — Whenever you attack with exactly two creatures, scry 5, then exile the top card of your library. You may play it this turn.
+
+Port
+rules_text: {T}, Pay 1 life: Add {R} or {G}.
+{2}, {T}, Sacrifice Port: Draw two cards. Activate only if you have 5 or less life. => {T}, Pay 1 life: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: Draw two cards. Activate only if you have 7 or less life.
+
+Port
+rules_text: {T}, Pay 1 life: Add {R} or {G}.
+{2}, {T}, Sacrifice Port: Draw two cards. Activate only if you have 5 or less life. => {T}, Pay 1 life: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: Draw two cards. Activate only if you have 7 or less life.
+
+Silk Maiden Alice
+rules_text: Deathtouch
+Whenever you lose life, discard a card, or sacrifice a nonland permanent during your turn, you may put a +1/+1 counter on target creature. Do this only once each turn.
+Madness {1}{BG} => Deathtouch
+Whenever discard a card or sacrifice a nonland permanent during your turn, you may put a +1/+1 counter on target creature. Do this only once each turn.
+Madness {1}{BG}
+
+Royal Suit Alice
+pt: 5/5 => 5/6
+
+Misstitched Alice
+rules_text: Whenever you lose life, discard a card, or sacrifice a nonland, nontoken permanent during your turn, Misstitched Alice gains first strike and lifelink until end of turn.
+Madness {1}{WB} => Whenever discard a card or sacrifice a nonland, nontoken permanent during your turn, Misstitched Alice gains first strike and lifelink until end of turn.
+Madness {1}{WB}
+
+Hysterical Outburst
+
+Card Kingdom
+rules_text: Card Kingdom enters tapped unless you pay 2 life.
+As Card Kingdom enters, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color. => As Card Kingdom enters, choose a color other than black.
+{T}, Pay 1 life: Add {B} or one mana of the chosen color.
+{3}, {T}, Sacrifice Card Kingdom: Draw two cards. Activate only if you have 7 or less life.
+
+Card Kingdom
+rules_text: Card Kingdom enters tapped unless you pay 2 life.
+As Card Kingdom enters, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color. => As Card Kingdom enters, choose a color other than black.
+{T}, Pay 1 life: Add {B} or one mana of the chosen color.
+{3}, {T}, Sacrifice Card Kingdom: Draw two cards. Activate only if you have 7 or less life.
+
+Alice Liddell
+rules_text: Whenever you lose life, discard a card, or sacrifice a nonland permanent during your turn, choose one. Do this only once each turn.
+• You gain 4 life.
+• You lose 2 life. Draw two cards
+• You lose 2 life. Create two 2/2 black Horror creature tokens with “This can't block” and “When this attacks, exile it at end of combat.” => Whenever you discard a card or sacrifice a nonland permanent during your turn, choose one. Do this only once each turn.
+• You gain 4 life.
+• You lose 2 life. Draw two cards
+• You lose 2 life. Create two 2/2 black Horror creature tokens with “This can't block” and “When this attacks, exile it at end of combat.”
+
+Yoko Ono, Avant Gardist
+cost: {2}{W} => {3}{W}
+rules_text: [i]Double Fantasy[/i] — Whenever an even number of creatures you control attack, they gain first strike until end of turn. => Lifelink
+[i]Double Fantasy[/i] — When Yoko Ono enters, exile the top two cards of your library. For as long as they remain exiled, during any turn where you attacked with multiple creatures, you may play one of those cards.
+pt: 3/3 => 3/4
+
+John Lennon, Beatle
+rules_text: Boybanding [i](John can attack in a band with one, two, or three other creatures. He gets +1/+0 for each creature in the band.)[/i]
+Vigilance[i]
+Imagine — [/i]Whenever John attacks, scry X, where X is the number of creatures in his band. If X is 4, draw a card. => Boybanding [i](John can attack in a band with one, two, or three other creatures. He gets +1/+0 for each creature in the band.)[/i]
+Vigilance[i]
+Imagine — [/i]Whenever John attacks, scry X, where X is the number of creatures in his band. If X is 3 or greater, draw a card.
+pt: 1/5 => 1/4
+
+Underworld Economizing
+rules_text: When Underworld Economizing enters, create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this:Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i]
+Sacrifice Underworld Economizing: Return target creature card from your graveyard. => When this enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i]
+Sacrifice this: Return target creature card from your graveyard to your hand.
+
+Shady Bar
+rules_text: When Shady Bar enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i]
+{T}: Add {C}. => When Shady Bar enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them next end step.)[/i]
+{T}: Add {C}.
+
+Quiet Cityscape
+rules_text: When Quiet Cityscape enters, you lose 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield, then shuffle. => When Quiet Cityscape enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{5}, Exile Quiet Cityscape from your graveyard: Draw a card.
+
+Melon, Hybrid Crime Lord
+rules_text: {1}, {T}: Create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice it next end step.)[/i]
+Whenever another creature you control with power 4 or greater leaves the battlefield during your turn, put three +1/+1 counters on Melon. => {1}, {T}: Create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them next end step.)[/i]
+Whenever another creature you control with power 4 or greater leaves the battlefield during your turn, put three +1/+1 counters on Melon.
+
+Hyperdrug Token
+type: Artifact — Hyperdrug => Token Artifact — Hyperdrug
+
+Blood Crazed
+cost: {RG} => {1}{RG}
+rules_text: Enchant creature
+When Blood Crazed enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +2/+2 if a creature you controlled left the battlefield this turn. If that creature had power 4 or greater, enchanted creature gets +4/+4 instead. => Enchant creature
+When Blood Crazed enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +2/+0.
+
+
+type: Sorcery => 
+cost: {2}{B} => 
+rules_text: Choose one or both —
+• Return up to two target artifact and/or creature cards from your graveyard to your hand.
+• Put a lifelink counter on target artifact. => 
+
+Sasuke Uchiha
+rules_text: Menace
+Whenever a legendary creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i]
+👁 — Sasuke Uchiha gets +1/+2 and has vigilance. => Menace
+{1}: Harness Sasuke [i](His 👁 ability becomes active.)[/i] Activate only if a legendary creature you controlled left this turn.
+👁 — Sasuke Uchiha gets +1/+2 and has vigilance.
+pt: 2/1 => 2/2
+
+Kakashi, Team 9 Leader
+rules_text: Ninjutsu {U}{U} [i]({U}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Kakashi enters, return another target creature to its owner's hand. If you owned it, put two +1/+1 counters on Kakashi. => Ninjutsu {1}{U} [i]({U}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Kakashi enters, return another target creature to its owner's hand. If you owned it, put two +1/+1 counters on Kakashi.
+
+Iruka, Academy Instructor
+rules_text: Ninjutsu {UR} [i]({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Iruka enters or attacks, add {U} or {R}. You can't spend this mana to cast creature spells. This mana lasts until end of turn. => Ninjutsu {UR} [i]({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Iruka enters or attacks, add {U} or {R}. You can't spend this mana to cast spells. This mana lasts until end of turn.
+pt: 0/4 => 2/3
+
+Ichiraku Ramen
+rules_text: Ichiraku Ramen enters tapped with a stun counter on it.
+When Ichiraku Ramen enters, create a Treasure token.
+{T}: Add {U} or {R}. => Ichiraku Ramen enters tapped unless you pay {1}.
+{T}: Add {U} or {R}.
+{2}, {T}, Sacrifice Ichiraku Ramen: Draw a card.
+
+Ichiraku Ramen
+rules_text: Ichiraku Ramen enters tapped with a stun counter on it.
+When Ichiraku Ramen enters, create a Treasure token.
+{T}: Add {U} or {R}. => Ichiraku Ramen enters tapped unless you pay {1}.
+{T}: Add {U} or {R}.
+{2}, {T}, Sacrifice Ichiraku Ramen: Draw a card.
+
+Haruno Sakura
+rules_text: Ninjutsu {R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, target creature you control gets +2/+2 until end of turn. => Ninjutsu {R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, exile the top two cards of your library. You may play them until the end of your next turn.
+pt: 2/2 => 1/1
+
+Kinger
+rules_text: Defender, protection from Abstractions
+Whenever you cast a noncreature spell, until end of turn, Kinger gets +1/+1 and can attack as though he didn't have defender. => Reach, defender
+Whenever you cast a noncreature spell, until end of turn, Kinger gets +2/+0 and can attack as though he didn't have defender.
+
+Abstract
+rules_text: Enchant nonland permanent
+Enchanted nonland permanent is a 4/3 Abstraction creature with reach and loses all other types and abilities. It can't attack you. => Enchant nonland permanent
+Enchanted nonland permanent is a 4/3 Abstraction creature and loses all other types and abilities. It can't attack you.
+
+Confidence Surges
+rules_text: When Confidence Surges! enters, create a 1/1 red Mercenary creature token.
+Test of Resolve — {1}{R}: Creatures you control get +1/+0 until end of turn. => When Confidence Surges! enters, create a 1/1 red Mercenary creature token.
+Test of Resolve — {1}{R}: Creatures you control get +1/+0 until end of turn. [i](Activate once only once each turn as a sorcery, and only if you have three or fewer cards in hand.)[/i]
+
+The Jester
+rules_text: Menace, haste
+Whenever The Jester attacks, put a +1/+1 counter on it.
+Test of Resolve — {1}{R}, Sacrifice The Jester: It deals damage equal to its power to each opponent and each creature they control. => Menace, haste
+Whenever The Jester attacks, put a +1/+1 counter on it.
+Test of Resolve — {1}{R}, Sacrifice The Jester: It deals damage equal to its power to each opponent and each creature they control. [i](Activate once only once each turn as a sorcery, and only if you have three or fewer cards in hand.)[/i]
+
+The Crusader
+rules_text: First strike
+Test of Resolve — {1}{R}: The Crusader gets +2/+0 until end of turn. => First strike
+Test of Resolve — {1}{R}: The Crusader gets +2/+0 until end of turn. [i](Activate once only once each turn as a sorcery, and only if you have three or fewer cards in hand.)[/i]
+
+The Bounty Hunter
+rules_text: Menace
+Test of Resolve — {1}{R}: If a source would deal damage to target creature or player this turn, it deals that much damage plus two instead. => Menace
+Test of Resolve — {1}{R}: If a source would deal damage to target creature or player this turn, it deals that much damage plus two instead. [i](Activate once only once each turn as a sorcery, and only if you have three or fewer cards in hand.)[/i]
+
+Welcome to the Baroness
+
+The Hideout
+
+The Doorman, Humble Servant
+rules_text: Level up {1} [i]({1}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/2]
+[level 2-4] When The Doorman deals damage to a player, draw a card. [3/3]
+[level 5+] The Doorman can't be blocked. When The Doorman deals damage to a player, draw a card. [4/4] => Level up {1} [i]({1}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/2]
+[level 2-5] When The Doorman deals damage to a player, draw a card. [3/3]
+[level 6+] Menace
+When The Doorman deals damage to a player, draw a card. [4/4]
+special_text: Level up {1} [i]({1}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/2]
+[level 2-4] When The Doorman deals damage to a player, draw a card. [3/3]
+[level 5+] The Doorman can't be blocked. When The Doorman deals damage to a player, draw a card. [4/4] => Level up {1} [i]({1}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/2]
+[level 2-5] When The Doorman deals damage to a player, draw a card. [3/3]
+[level 6+] Menace
+When The Doorman deals damage to a player, draw a card. [4/4]
+
+The Cursed Apple
+
+The Archmother, Austere
+rules_text: Vigilance
+[i]Ascendant 7 — [/i]The Archmother costs {2} less to cast if there are seven or more counters among creatures you control.
+When the Archmother enters, draw two cards, you gain 2 life, and put two +1/+1 counters on target creature. => Reach, vigilance
+[i]Ascendant 7 — [/i]The Archmother costs {2} less to cast if there are seven or more counters among creatures you control.
+When the Archmother enters, draw two cards, you gain 2 life, and put two +1/+1 counters on target creature.
+
+Study Up
+
+Spirit
+type: Creature — Spirit => Token Creature — Spirit
+
+Spirit
+type: Creature — Spirit => Token Creature — Spirit
+
+Soul
+type: Artifact — Soul => Token Artifact — Soul
+
+Sleepwalk
+
+Rem and Friends
+
+Paige, the Bookworm
+rules_text: Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 1-3] When Paige levels up, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4] => Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 0-3] When Paige levels up, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4]
+special_text: Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 1-3] When Paige levels up, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4] => Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 0-3] When Paige levels up, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4]
+
+Ivy, Savior of Harlem
+rules_text: Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [3/3]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/3]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/4] => Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [3/4]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5]
+pt: 3/3 => 3/4
+special_text: Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [3/3]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/3]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/4] => Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [3/4]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5]
+
+Cornerstore
+
+Austere Ascension
+
+Archmother's Stronghold
+rules_text: Pay 1 life, {T}: Add one mana of any color.
+[i]Ascendant 3 — [/i]{T}: Add one mana of any color. Activate this ability only if there are three or more counters among creatures you control. => [i]Ascendant 3 — [/i]{T}: Add one mana of any color. You lose 1 life unless there are three or more counters among creatures you control.
+
+Airdrop
+rules_text: Choose one —
+• Put a +1/+1 counter on target creature you control. It gains flying until end of turn.
+• Tap target creature. Put a stun counter on it.
+[i]Ascendant 5 [/i]— If there are five or more counters among creatures you control, do both. [i](Before resolving the effects.)[/i] => [i]Ascendant 5[/i] — Choose one. If there are five or more counters among creatures you control, you may choose both —
+• Put a +1/+1 counter on target creature you control. It gains flying until end of turn.
+• Tap target artifact or creature. Put two stun counters on it.
+
+William Birkin
+
+Rebecca Chambers
+
+Rachel Foley
+rules_text: When Rachel enters, she explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Disturb {1}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Rachel enters, she explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Disturb {2}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Raccoon Police Department
+
+Queen Zenobia
+
+Queen Semiramis
+
+Jill Valentine, BSAA
+
+Infected Crows
+rules_text: Flying
+Whenever this creature attacks, surveil 1.
+Disturb {U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Flying
+Whenever this creature attacks, surveil 1.
+Disturb {1}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+HUNK, the 4th Survivor
+
+Glasp
+rules_text: Flying, ward {1}
+Disturb {3}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Flying, ward {2}
+Disturb {3}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Ada Wong
+
+A Little Lie Between Friends
+
+Voltaic Black Knight
+
+The Devil's Tower
+
+Nico's Armory
+
+Nico's Armory
+
+Nico Goldstein
+
+Nero, High Roller
+rules_text: Trample
+[i]MAX-Act — [/i]Whenever Nero enters or attacks, put a +1/+1 counter on him and a hone counter on each Equipment you control. [i](Each hone counter on an Equipment grants +1/+0 to the equipped creature.)[/i] => Trample, reach
+[i]MAX-Act — [/i]Whenever Nero enters or attacks, put a +1/+1 counter on him and a hone counter on each Equipment you control. [i](Each hone counter on an Equipment grants +1/+0 to the equipped creature.)[/i]
+
+Mitis Assault
+
+Devil May Cry
+
+DEVIL ARMS
+
+Dante, Devil Trigger
+
+Armament
+
+They Might as Well Be Dead
+
+Mithrix, King of Nothing
+rules_text: When you cast this spell, create six Item tokens. [i](They're Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+When Mithrix enters, put a shield counter on each equipped creature you control. [i](If a creature with a shield counter would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] [i](If it would be dealt damage or destroyed, remove a shield counter from it instead. If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => When you cast this spell, create six Item tokens. [i](They're Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+When Mithrix enters, put a shield counter on each equipped creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+The Artificer
+
+MONSOON
+
+The Loader
+
+The Engineer
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Artifacts you control have ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+When The Engineer enters or leaves the battlefield, create a 1/1 colorless Servo artifact creature token with reach. => Ward {1}
+Artifacts you control have ward {1}.
+When The Engineer enters or leaves the battlefield, create a 1/1 colorless Servo artifact creature token with reach.
+
+The Commando
+
+The Captain
+
+Simulacrum
+
+Servo
+
+Once in a Lullaby
+
+Item
+
+Having Fallen, It Was Blood
+
+Compound Generator
+
+Commencement
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has all basic land types. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has all basic land types. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Zacharie, Masked Shopkeep
+
+Repopulate
+rules_text: Kicker—Purify twice. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+Create three 1/1 white Citizen creature tokens. If this spell was kicked, put a +1/+1 counter on each creature you control. => Kicker—{1}, Purify three times [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+Create three 1/1 white Citizen creature tokens. If this spell was kicked, put a +1/+1 counter on each creature you control.
+
+Zone 0
+
+Weapon
+
+The Queen, Vader Eloha
+rules_text: At the beginning of combat on your turn, you may purify. If you do, put a +1/+1 counter on The Queen. She gains flying until end of turn. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i] => At the beginning of combat on your turn, purify up to two times, then choose that many. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+• Put a +1/+1 counter on The Queen. 
+• The Queen, Vader Eloha gains flying until end of turn.
+
+The Nothingness
+
+The Judge, Feline Guide
+
+The Batter, Holy Purifier
+
+Purification
+
+Make Your Move
+
+Hugo, Child Creator
+
+Food
+
+Clue
+
+Citizen
+
+Burning Out
+
+Add-On
+
+Ami Mizuno
+pt: 1/2 => 1/1
+
+Makoto Kino
+
+Minako Aino
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Dorothy Gale added.
