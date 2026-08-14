@@ -1,4 +1,464 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+SCP-049 added.
+Beat Into Shape added.
+Bulwark added.
+Furnace added.
+Heir to the Stars added.
+Heirloom Hammer added.
+His Majesty's Guards added.
+His Majesty's Swordbearers added.
+The Regent added.
+Solar Strike added.
+Tanx, Khimera King added.
+The Sealed Throne added.
+The Spire added.
+Sovereign Blade added.
+Weapon added.
+Critical Breach added.
+SCP-035, Possessed Mask added.
+Foundation Corridor added.
+Human Serf added.
+Joy of Creation added.
+Delirious Leap added.
+TOTAL LIBERATION added.
+Automaton Hulk added.
+Bile Titan added.
+Explosive End added.
+Helldiver Kill-Counter added.
+Helldiver Point-Man added.
+Helldiver Shieldbearer added.
+Helldiver Veteran added.
+Illuminate Harvester added.
+Orbital Laser Sweep added.
+Overwhelming Firepower added.
+Reinforce added.
+Super Earth's Finest added.
+Liberated Territories added.
+Soldier (HLD) added.
+The Antibreather added.
+Insomniac added.
+Mischievious Ariral added.
+Pagonioplo-Igetis added.
+Ride the ATV added.
+Sudden Cliff added.
+Bad Sun added.
+Dr Kel, Lone Astronomer added.
+Killer Wisp added.
+Abandoned Village added.
+Dunkeltaler Forest added.
+Earth added.
+PARANORMAL added.
+Alien added.
+Amethyst, Wild Shapeshifter added.
+Cause Trouble added.
+Abbey Road added.
+Ursula the Sea Witch added.
+Blood Crazed added.
+Legosi, Carnivore Investigator added.
+
+Legosi, Student Investigator removed.
+Nico's Armory removed.
+Human removed.
+SCP-049, The Plague Doctor removed.
+Unwanted Escape removed.
+SCP-035, Possessive Mask removed.
+Gather Remnant removed.
+Amethyst, Wild Rebel removed.
+It's Over Isn't It removed.
+Liberating Lightning removed.
+
+Nero, High Roller
+rules_text: Trample, reach
+[i]MAX-Act — [/i]Whenever Nero enters or attacks, put a +1/+1 counter on him and a hone counter on each Equipment you control. [i](Each hone counter on an Equipment grants +1/+0 to the equipped creature.)[/i] => Trample
+[i]Devil Bringer[/i] — Reach
+[i]MAX-Act — [/i]Whenever Nero enters or attacks, put a +1/+1 counter on him and a hone counter on each Equipment you control. [i](Each hone counter on an Equipment grants +1/+0 to the equipped creature.)[/i]
+
+Towering Spidertron
+rules_text: Reach
+When this artifact enters, destroy target nonland permanent an opponent controls.
+This creature can't be blocked by creatures with power 2 or less.
+{8}: This creature's base power becomes 8. [i](This effect lasts indefinitely.)[/i] => Reach, daunt [i](This creature can't be blocked by creatures with power 2 or less.)[/i]
+When this artifact enters, destroy target nonland permanent an opponent controls.
+{8}: This creature's base power becomes 8. [i](This effect lasts indefinitely.)[/i]
+Basic landcycling {2}
+
+Rachel Foley
+
+The Engineer
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Artifacts you control have ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+When The Engineer enters or leaves the battlefield, create a 1/1 colorless Servo artifact creature token with reach. => Ward {1}
+Artifacts you control have ward {1}.
+When The Engineer enters or leaves the battlefield, create a 1/1 colorless Servo artifact creature token with reach.
+
+Clan Territory
+
+Rusty
+rules_text: Discard a card: Rusty gains indestructible until end of turn. Tap it.
+Whenever Rusty becomes tapped, create a 1/1 white Warrior Cat creature token.
+When Rusty attacks with two or more other creatures, transform it. => Discard a nonland card: Rusty gains indestructible until end of turn. Tap it.
+Whenever Rusty becomes tapped, create a 1/1 white Warrior Cat creature token.
+When Rusty attacks with two or more other creatures, transform it.
+
+Silverstream
+
+Yellowfang
+
+
+type: Land => 
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => 
+
+Ivy, Savior of Harlem
+rules_text: Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [3/4]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5] => Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [2/4]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5]
+pt: 3/4 => 2/4
+special_text: Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [3/4]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5] => Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [2/4]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5]
+
+Rem and Friends
+rules_text: [i]Ascendant 5 — [/i]The first time you put a counter on a creature each turn, surveil 1. If there are five or more counters among creatures you control, also create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. => [i]Ascendant 5 — [/i]Whenever you put a counter on a creature surveil 1. If there are five or more counters among creatures you control, also create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. This ability triggers only once each turn.
+
+Sleepwalk
+rules_text: Put a +1/+1 counter on target creature.
+[i]Ascendant 3 — [/i]Then if there are three or more counters among creatures you control, prevent all damage that would be dealt to that creature this turn. => Put a +1/+1 counter on target creature.
+[i]Ascendant 3 — [/i]Then if there are three or more counters among creatures you control, creatures you control gain indestructible until end of turn.
+
+Study Up
+rules_text: Draw three cards. Create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. => Draw three cards. Create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it.
+Basic landcycling {2}
+
+The Archmother, Austere
+rules_text: Reach, vigilance
+[i]Ascendant 7 — [/i]The Archmother costs {2} less to cast if there are seven or more counters among creatures you control.
+When the Archmother enters, draw two cards, you gain 2 life, and put two +1/+1 counters on target creature. => Reach, vigilance
+[i]Ascendant 7 — [/i]The Archmother costs {2} less to cast if there are seven or more counters among creatures you control.
+When the Archmother enters, you draw two cards, gain 2 life, and put two +1/+1 counters on target creature.
+
+Austere Ascension
+cost:  => {W}{U}
+
+Airdrop
+rules_text: [i]Ascendant 5[/i] — Choose one. If there are five or more counters among creatures you control, you may choose both —
+• Put a +1/+1 counter on target creature you control. It gains flying until end of turn.
+• Tap target artifact or creature. Put two stun counters on it. => [i]Ascendant 5[/i] — Choose one. If there are five or more counters among creatures you control, you may choose both —
+• Put a +1/+1 counter on target creature. It gains flying until end of turn.
+• Tap target artifact or creature. Put two stun counters on it.
+
+The Hideout
+rules_text: This land enters tapped with two +1/+1 counters on it.
+{T}: Add {W} or {U}.
+{1}, {T}: Move a counter from this land to a creature you control. Activate only as a sorcery. => This land enters tapped with three +1/+1 counters on it.
+{T}: Add {W} or {U}.
+{1}, {T}: Move a counter from this land to a creature you control. Activate only as a sorcery.
+
+Gabriel, Judge of Hell
+rules_text: Flying
+[i]Combo — [/i]When Gabriel enters, return target permanent with mana value less than or equal to the number of colors spent to cast him from your graveyard to the battlefield tapped. => Flying
+[i]Combo — [/i]When Gabriel enters, you may discard a card. If you do, return target permanent with mana value less than or equal to the number of colors spent to cast him from your graveyard to the battlefield tapped.
+
+WAR WITHOUT REASON
+rules_text: As an additional cost to cast this spell, discard a card, pay 3 life, or sacrifice a nonland permanent.
+Target creature gets +3/-3 until end of turn. Create two Fuel tokens. [i](They're colorless artifacts with “{T}, Sacrifice this: Add one mana of any color.” and “Sacrifice this at your end step.”)[/i] => As an additional cost to cast this spell, sacrifice an artifact or creature.
+Target creature gets +3/-3 until end of turn. Create a Fuel token. [i](A colorless artifact with “{T}, Sacrifice this: Add one mana of any color.” and “Sacrifice this at your end step.”)[/i]
+
+The Inferno
+
+Layer 2 — LUST
+rules_text: {T}: Add one mana of any color that a land an opponent controls could produce.
+{1}, {T}, Sacrifice this land: Draw a card. => {T}: Add one mana of any color that a land an opponent controls could produce.
+{3}, {T}, Sacrifice this land: Draw a card.
+
+HELL IS FULL
+
+RICOSHOT
+rules_text: [i]Combo — [/i]Draw two cards. You may discard a card. If you do, exile target creature with mana value equal to or less than the number of colors spent to cast this spell.
+Create a Fuel token. [i](It's a colorless artifact with “{T}, Sacrifice this: Add one mana of any color.” and “Sacrifice this at your end step.”)[/i] => [i]Combo — [/i]Draw two cards. You may discard two cards. If you do, destroy target creature with mana value equal to or less than the number of colors spent to cast this spell.
+Create a Fuel token. [i](It's a colorless artifact with “{T}, Sacrifice this: Add one mana of any color.” and “Sacrifice this at your end step.”)[/i]
+
+Clawdeen Wolf
+cost: {3}{BG} => {4}{BG}
+rules_text: [i]Vivid [/i]— When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her. => Ward {2}
+[i]Vivid — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2}
+pt: 2/3 => 3/2
+
+Cleo De Nile
+cost: {2}{WB} => {3}{WB}
+pt: 2/3 => 3/3
+
+Draculaura
+rules_text: [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a Treasure token.
+Exhaust—{W}{U}{B}{R}{G}: Surveil 5. Put each permanent card put into your graveyard this way onto the battlefield. => [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+Exhaust—{3}{W}{U}{B}{R}{G}: Surveil 3. Put each permanent card put into your graveyard this way onto the battlefield.
+
+Frankie Stein
+rules_text: Flash
+[i]Vivid[/i] — When Frankie enters, she deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control. => Flash
+Frankie Stein enters tapped.
+[i]Vivid[/i] — When Frankie enters, she deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control.
+
+Lagoona Blue
+pt: 2/1 => 1/2
+
+Fangtastic Fashion
+rules_text: When Fangtastic Fashion enters, it becomes the color of your choice. Draw a card.
+[i]Vivid[/i] — Equipped creature gets +X/+X and has menace and ward {X}, where X is the number of colors among permanents you control.
+Equip {6} => When Fangtastic Fashion enters, it becomes the color of your choice. Draw a card.
+[i]Vivid[/i] — Equipped creature gets +X/+X and has menace and ward {2}, where X is the number of colors among permanents you control.
+Equip {6}
+
+Class-D Demotion
+rules_text: Destroy target creature. Create a 2/2 black Human creature token with expendable. => Destroy target creature. Create a 2/2 black Human Serf creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Doctor Shaw
+cost: {1}{UB} => {1}{B}
+rules_text: You may cast Doctor Shaw from your graveyard by sacrificing a non-Horror creature in addition to his other costs.
+Flash => You may cast Doctor Shaw from your graveyard if another Human you controlled died this turn.
+Haste
+
+Foundation Guards
+rules_text: When this creature enters, create a 2/2 black Human creature token with expendable.
+[i]Channel[/i] — {1}{B}, Discard this card: Target creature gets +1/+0 and gains indestructible until end of turn. => When this creature enters, create a 2/2 black Human Serf creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Channel[/i] — {1}{B}, Discard this card: Target creature gets +1/+0 and gains indestructible until end of turn.
+
+SCP-049, The Plague Doctor
+cost: {3}{UB} => {2}{B}
+rules_text: {3}, Exile a creature card from your graveyard: Draw a card. Create a 2/2 black Zombie creature token with decayed. Activate only as a sorcery. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Deathtouch
+Whenever a non-Zombie creature dies, create a 2/2 black Zombie creature token with decayed. This ability only triggers once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt: 4/5 => 2/3
+
+SCP-106, The Old Man
+rules_text: Whenever SCP-106 enters or attacks, put a decayed counter on another target creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a creature, put a +1/+1 counter on SCP-106. => Whenever SCP-106 enters, put a decayed counter on another target creature.[i][/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a creature, put a +1/+1 counter on SCP-106.
+
+SCP-173, The Statue
+cost: {WB} => {B}
+rules_text: When SCP-173 enters or blocks, tap it.
+SCP-173 doesn't untap during your untap step.
+Whenever a creature you control dies, untap SCP-173. => SCP-173 doesn't untap during your untap step.
+Whenever SCP-173 enters, attacks, or blocks, tap it.
+Whenever a creature you control dies, untap SCP-173.
+
+SCP-682, Resilient Reptile
+rules_text: Trample
+Sacrifice another creature: SCP-682 gains indestructible until end of turn. Tap it. => Trample, reach
+Sacrifice another creature: SCP-682 gains indestructible until end of turn. Tap it.
+Basic landcycling {2}
+
+Containment Chamber
+rules_text: As this land enters, choose a color other than black.
+{T}, Pay 1 life: Add {B} or one mana of the chosen color. => This land enters tapped. As it enters, choose a color other than black.
+When this land enters, surveil 1.
+{T}: Add {B} or one mana of the chosen color.
+
+Extradimensional Clearing
+
+EXPENDABLES
+
+Springlock Failure
+cost: {1}{B} => {2}{B}
+
+Vanny
+rules_text: Deathtouch
+Exhaust — {4}{B}{B}: Put three +1/+1 counters on Vanny. Each opponent loses X life and you gain X life, where X is the number of artifacts you control. [i](Activate each exhaust ability only once.)[/i] => Deathtouch
+Exhaust — {4}{B}{B}: Put two +1/+1 counters and a menace counter and on Vanny. Each opponent loses X life and you gain X life, where X is the number of artifacts you control. [i](Activate each exhaust ability only once.)[/i]
+
+William Afton
+rules_text: When William Afton enters, mill two cards, then return an artifact or creature card from your graveyard to your hand.
+Disturb—{9}{B}. This cost is reduced by {1} for each artifact you control. [i](You may cast this from your graveyard transformed for its disturb cost.)[/i] => When William Afton enters, mill two cards, then return an artifact or creature card from your graveyard to your hand.
+Disturb—{9}{B}. For each generic mana in this cost, you may tap an untapped artifact you control to pay for {1}. [i](You may cast this from your graveyard transformed for its disturb cost.)[/i]
+
+Ballora
+rules_text: Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+Menace
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you. => Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you.
+pt: 3/2 => 3/3
+
+Dreadbear
+cost: {3}{BG} => {4}{BG}
+rules_text: When you cast Dreadbear, you gain 4 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => When you cast Dreadbear, you gain 4 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When Dreadbear dies, if it had no +1/+1 counters, return it to the battlefield under its owner's control with a +1/+1 counter.)[/i]
+Basic landcycling {2}
+pt: 4/4 => 5/4
+
+The Puppet
+cost: {4}{WB} => {3}{WB}
+pt: 3/4 => 2/3
+
+Black Leg Sanji
+rules_text: Menace
+Sanji can't be equipped.
+[i]Landfall[/i] — Whenever a land you control enters, add {R}{R}.
+{R}: Sanji gets +1/+0 until end of turn. => Menace
+Protection from Equipment
+[i]Landfall[/i] — Whenever a land you control enters, add {R}{R}.
+{R}: Sanji gets +1/+0 until end of turn.
+
+Open Seas
+rules_text: When Open Seas enters, you lose 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield, then shuffle. => When Open Seas enters, you gain 2 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Empire City
+rules_text: {T}, Pay 1 life: Add {R} or {W}.
+{7}, {T}, Sacrifice Empire City: Exile the top two cards of your library. You may play them this turn. This ability costs {1} less to activate for each other land you control. => Empire City enters tapped.
+{T}: Add {R} or {W}.
+{7}, {T}, Sacrifice Empire City: Exile the top two cards of your library. You may play them this turn. This ability costs {1} less to activate for each other land you control.
+
+Rose Quartz
+rules_text: When Rose enters, return up to two target permanent cards from your graveyard to your hand. If they have total mana value 6 or less, return them to the battlefield instead.
+“[i]Welcome to Earth!”[/i] — Whenever a land you control enters, other creatures you control get +1/+1 and gain haste until end of turn. => When Rose enters, return up to two target permanent cards with total mana value 6 or less from your graveyard to the battlefield.
+“[i]Welcome to Earth!”[/i] — Whenever a land you control enters, other creatures you control get +1/+1 and gain trample until end of turn.
+
+It's Over Isn't It
+cost: {1}{W}{W} => {3}{W}{W}
+rules_text: This spell costs {1} less to cast if you attacked with exactly two creatures this turn.
+Exile target creature and its owner's graveyard. => Exile target creature and its owner's graveyard. If you attacked with exactly two creatures this turn, draw a card.
+
+Garnet, Stoic Seer
+rules_text: Vigilance, trample
+[i]Future Vision[/i] — Whenever you attack with exactly two creatures, scry 5, then exile the top card of your library. You may play it this turn. => Vigilance, trample
+[i]Future Vision[/i] — Whenever you attack with exactly two creatures, scry 3, then you may exile the top card of your library. If you do, you may play the exiled card this turn.
+Basic landcycling {2}
+
+Abstract
+cost: {1}{U} => {U}
+rules_text: Flash
+Enchant creature
+When Abstract enters, draw a card.
+Enchanted creature loses all abilities and is an Abstraction creature. Prevent all combat damage it would deal. => Flash
+Enchant creature
+Enchanted creature loses all abilities and is an Abstraction creature with reach. Prevent all combat damage it would deal.
+
+Gangle
+rules_text: Ward {2}
+ Gangle can't be blocked if you've cast a noncreature spell this turn, => Ward {2}
+Gangle can't be blocked if you've cast a noncreature spell this turn,
+
+Jax
+
+Kinger
+rules_text: Reach, defender
+Whenever you cast a noncreature spell, until end of turn, Kinger gets +2/+0 and can attack as though he didn't have defender. => Defender
+Whenever you cast a noncreature spell, until end of turn, Kinger gets +2/+0 and can attack as though he didn't have defender.
+
+Look Inside
+rules_text: This spell costs {1} less to cast if you've cast another noncreature spell this turn.
+Counter target spell unless its controller pays {3}. Surveil 3. => Counter target spell unless its controller pays {3}. Surveil 3.
+
+Straw Hat Luffy
+rules_text: Trample, reach, ward {2}
+[i]Landfall[/i] — Whenever a land you control enters, exile the top card of your library. When you do, choose one —
+• You may play that card this turn.
+• Put a +1/+1 counter on Luffy and create a Food token. => Trample, reach, ward {2}
+[i]Landfall[/i] — Whenever a land you control enters, Luffy explores. If he explores a creature card, you may exile it and may play it this turn. Otherwise, put a +1/+1 counter on him and create a Food token.
+
+Port
+rules_text: {T}, Pay 1 life: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: Draw two cards. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: You draw two cards and gain 2 life. Activate only if you have 5 or less life.
+
+Delayed Slash
+rules_text: Choose one — 
+• Destroy target artifact.
+• Choose target creature. At the beginning of the next end step, Delayed Slash deals 4 damage to it. => This spell can't be countered.
+Choose target creature. At the beginning of the next end step, Delayed Slash deals 4 damage to it.
+
+Shadow Clone
+type: Kindred Enchantment — Ninja => Creature — Ninja
+pt:  => 0/0
+
+Abandon the Village
+cost: {6}{U} => {4}{U}
+rules_text: This spell costs {3} less to cast for each creature you control that it targets.
+Return up to two target creatures to their owners' hand. => This spell costs {2} less to cast for each creature you control that it targets.
+Return up to two target creatures to their owners' hand.
+
+Fifth Beatle
+rules_text: Enchant creature
+When Fifth Beatle enters, enchanted creature gains hexproof and indestructible until end of turn.
+Enchanted creature has boybanding. [i](It can attack in a band with one, two, or three other creatures. It gets +1/+0 for each creature in the band.)[/i] => Flash
+Enchant creature
+When Fifth Beatle enters, enchanted creature gains indestructible until end of turn.
+Enchanted creature has boybanding. [i](It can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i]
+
+George Harrison, Beatle
+rules_text: Boybanding [i](George can attack in a band with one, two, or three other creatures. He gets +1/+0 for each creature in the band.)[/i]
+[i]Here Comes the Sun[/i] — Whenever George attacks, you gain 1 life for each creature in his band.
+Pay 4 life: George gains indestructible until end of turn. Tap him. => Boybanding [i](George can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i]
+[i]Here Comes the Sun[/i] — Whenever George attacks, you gain 1 life for each creature in his band.
+Pay 4 life: George gains indestructible until end of turn. Tap him.
+pt: 2/3 => 3/2
+
+John Lennon, Beatle
+rules_text: Boybanding [i](John can attack in a band with one, two, or three other creatures. He gets +1/+0 for each creature in the band.)[/i]
+Vigilance[i]
+Imagine — [/i]Whenever John attacks, scry X, where X is the number of creatures in his band. If X is 3 or greater, draw a card. => Boybanding [i](John can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i][i]
+Imagine — [/i]Whenever John attacks, scry X, where X is the number of creatures in his band. If X is 3 or greater, draw a card.
+pt: 1/4 => 2/4
+
+Paul Mccartney, Beatle
+rules_text: Boybanding [i](Paul can attack in a band with one, two, or three other creatures. He gets +1/+0 for each creature in the band.)[/i]
+[i]Yesterday [/i]— Whenever Paul attacks, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of creatures in his band. Put a finality counter on that creature. => Boybanding [i](Paul can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i]
+[i]Yesterday [/i]— Whenever Paul attacks, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of creatures in his band. Put a finality counter on that creature.
+
+Ringo Starr, Beatle
+rules_text: Boybanding [i](Ringo can attack in a band with one, two, or three others creatures. He gets +1/+0 for each creature in the band.)[/i]
+[i]Don't Pass Me By [/i]— Whenever Ringo attacks, if he's in a band, choose target creature defending player controls. You choose if and how it blocks this turn. => Boybanding [i](Ringo can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i]
+[i]Don't Pass Me By [/i]— Whenever Ringo attacks, if he's in a band, choose target creature defending player controls. It can't block this turn.
+
+Riz, Devourer
+rules_text: Trample, ward {2}
+When Riz enters, you may sacrifice another creature. If you do, draw a card and put X +1/+1 counters on Riz, where X is the sacrificed creature's power.
+Forestcycling {2G} => You may pay {3}{G} and sacrifice a creature rather than pay Riz's mana cost.
+Undying [i](When Riz dies, if he had no +1/+1 counters, return him to the battlefield under his owner's control with a +1/+1 counter.)[/i]
+Basic landcycling {2}
+
+Underworld Economizing
+rules_text: When this enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i]
+Sacrifice this: Return target creature card from your graveyard to your hand. => When this enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i]
+Exile this enchantment: Return target card from your graveyard to your hand.
+
+Hyperdrug Token
+type: Artifact — Hyperdrug => Token Artifact — Hyperdrug
+
+Gouhin, Black Market Doc
+rules_text: Ward {2}
+Whenever another creature you control leaves the battlefield during your turn, you gain 2 life. If that creature had power 4 or greater, return it to the battlefield with a finality counter on it. => Ward {2}
+Whenever another creature you control leaves during your turn, you gain 2 life. If it had power 4 or greater, return it to the battlefield with a finality counter on it.
+
+Melon, Hybrid Crime Lord
+rules_text: {1}, {T}: Create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them next end step.)[/i]
+Whenever another creature you control with power 4 or greater leaves the battlefield during your turn, put three +1/+1 counters on Melon. => When Melon enters or another creature you control with power 4 or greater leaves during your turn, create two Hyperdrug tokens. [i](They're artifacts with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i]
+pt: 4/3 => 2/3
+
+
+VERSION 14 CHANGELOG
 ====================
 
 It's Over Isn't It added.
