@@ -1,4 +1,271 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Ms Pauling Temp added.
+Abrade added.
+Break Into the Pillar added.
+Cave Adventurer added.
+Dig Deeper added.
+Dwarven Axelord added.
+Forgotten Beast added.
+Martial Trance added.
+Tavern Detour added.
+Urist, Fortress Ruler added.
+Mountain (DF) added.
+Open Tavern added.
+Promising Settlement added.
+The World of Possibilities added.
+DUG TOO DEEP added.
+Demon added.
+Dwarf added.
+Booze added.
+Class-D Demotion added.
+Foundation Guards added.
+SCP-035, Possessed Mask added.
+Human added.
+Zombie added.
+Overgrown Cave added.
+New Inhabitants added.
+Food added.
+Sugar Pits added.
+ARCANUM added.
+Grimaline Smith, Neophyte added.
+Harry Jacket, Neophyte added.
+Miniature Railroad added.
+Occam O'Connell, Chancellor added.
+Remold Blacklaw, Librarian added.
+Secret Ghoul added.
+The Hunter Data added.
+Great Yarmouth Chapter House added.
+The Archives added.
+Hupton Beach Lu'au added.
+Lord Wernon Fatigue added.
+Riz, Hidden Devourer added.
+Juno, Hopeless Romantic added.
+Legosi TEMP added.
+Hyperdrug added.
+
+Repopulate removed.
+Ms. Pauling removed.
+Human Serf removed.
+Riz, Devourer removed.
+Blood Crazed removed.
+Hyperdrug Token removed.
+
+Reach the Top
+rules_text: Ecosystem — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on a creature you control.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card. => [i]Ecosystem[/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on a creature you control.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card.
+
+Emergency Surgery
+rules_text: [i][i]Delirium[/i] — [/i]Choose one, or choose both if there are four or more card types among cards in your graveyard —
+• Target creature you control deals damage equal to its power to another target creature.
+• Mill four cards, then you may return a creature card milled this way to your hand. => [i][i]Delirium[/i] — [/i]Choose one. If there are four or more card types among cards in your graveyard, you may choose both instead —
+• Target creature you control deals damage equal to its power to target creature.
+• Mill four cards, then you may return a creature card milled this way to your hand.
+
+Social Fight
+rules_text: Target creature you control fights target creature you don't control.
+[i][i]Delirium[/i] — [/i]If there are four or more card types among cards in your graveyard, the creature you control gets +2/+2 and gains trample until end of turn before it fights. => [i][i]Delirium[/i] — [/i]Target creature you control gets +2/+2 and gains trample until end of turn if there are four or more card types among cards in your graveyard. Then it fights up to one target creature you don't control.
+
+Breach()
+
+Crash()
+
+Jaunt()
+
+Help()
+
+Spoiling Cells
+
+
+type: Land => 
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => 
+
+Ms. Pauling
+cost: {1}{UR}{UR}{UR} => {2}{UR}{UR}
+pt: 2/2 => 1/2
+
+The Scout, Kind of a Big Deal
+pt: 1/2 => 1/1
+
+Misstitched Alice
+rules_text: Whenever discard a card or sacrifice a nonland permanent during your turn, Misstitched Alice gains first strike and lifelink until end of turn.
+Madness {1}{WB} => Whenever you discard a card or sacrifice a nonland permanent during your turn, Misstitched Alice gains lifelink until end of turn.
+Madness {1}{WB}
+pt: 3/2 => 3/3
+
+Weapon
+type: Token Artifact — Weapon => Token Artifact — Equipment
+
+The Archmother, Austere
+rules_text: Reach, vigilance
+[i]Ascendant 7 — [/i]The Archmother costs {2} less to cast if there are seven or more counters among creatures you control.
+When the Archmother enters, you draw two cards, gain 2 life, and put two +1/+1 counters on target creature. => Indestructible
+[i]Ascendant 7 — [/i]The Archmother costs {2} less to cast if there are seven or more counters among creatures you control.
+When The Archmother enters, put a +1/+1 counter on target creature, then destroy all creatures with no counters.
+
+Class-D Demotion
+rules_text: Destroy target creature. Create a 2/2 black Human Serf creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Destroy target creature. Create a 2/2 black Human Serf creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Foundation Guards
+rules_text: When this creature enters, create a 2/2 black Human Serf creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Channel[/i] — {1}{B}, Discard this card: Target creature gets +1/+0 and gains indestructible until end of turn. => When this creature enters, create a 2/2 black Human Serf creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Channel[/i] — {1}{B}, Discard this card: Target creature gets +1/+0 and gains indestructible until end of turn.
+
+SCP-035, Possessed Mask
+rules_text: When SCP-035 enters, create a 2/2 black Human Serf creature token with expendable and attach SCP-035 to it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +2/+1 and has menace.
+Equip {4} => When SCP-035 enters, create a 2/2 black Human Serf creature token with expendable and attach SCP-035 to it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +2/+1 and has menace.
+Equip {4}
+
+Crack the Diamond
+cost: {R}{R} => {1}{R}
+
+Garnet, Stoic Seer
+rules_text: Vigilance, trample
+[i]Future Vision[/i] — Whenever you attack with exactly two creatures, scry 3, then you may exile the top card of your library. If you do, you may play the exiled card this turn.
+Basic landcycling {2} => Vigilance, trample
+[i]Future Vision[/i] — Whenever you attack with exactly two creatures, scry 3, then you may exile the top card of your library. If you do, you may play the exiled card this turn.
+
+SCP-106, The Old Man
+rules_text: Whenever SCP-106 enters, put a decayed counter on another target creature.[i][/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a creature, put a +1/+1 counter on SCP-106. => Whenever SCP-106 enters, put a decayed counter on another target creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a creature, put a +1/+1 counter on SCP-106.
+
+Dr Kel, Lone Astronomer
+rules_text: Vigilance
+[i]Void[/i] — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => [i]Void[/i] [i]Survival[/i] — At the beginning of your second main phase, if a nonland permanent left the battlefield this turn or a spell was warped this turn, and if Dr Kel is tapped, mill three cards. You may return a creature or land card milled this way to your hand.
+
+Mischievious Ariral
+pt: 2/2 => 1/2
+
+Pagonioplo-Igetis
+cost: {3}{G}{G} => {4}{G}{G}
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Pagonioplo-Igetis enters or you cast a spell from outside of your hand, create a 2/1 green Alien artifact creature token with reach.
+Basic landcycling {2} => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Pagonioplo-Igetis enters or you cast a spell from anywhere but your hand, create a 2/1 green Alien artifact creature token with reach.
+Basic landcycling {2}
+pt: 4/4 => 5/5
+
+Food
+
+Alien
+
+Add-On
+rules_text: Equipped creature gets +2/+0 and has vigilance.
+Equip—Pay {2} or purify. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i] => Equipped creature gets +1/+1 and has vigilance.
+Equip—Pay {2} or purify. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+
+Burning Out
+
+Hugo, Child Creator
+
+Make Your Move
+
+PURIFICATION
+
+The Batter, Holy Purifier
+
+The Judge, Feline Guide
+
+The Queen, Vader Eloha
+rules_text: At the beginning of combat on your turn, purify up to two times, then choose that many. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+• Put a +1/+1 counter on The Queen. 
+• The Queen, Vader Eloha gains flying until end of turn. => At the beginning each combat, you may purify. If you do, choose one. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+• Put a +1/+1 counter on The Queen.
+• The Queen gains flying until end of turn.
+
+Zacharie, Masked Shopkeep
+pt: 2/1 => 1/2
+
+Citizen
+
+Clue
+
+Weapon
+type: Token Artifact — Equipment => Token Artifact — Weapon Equipment
+
+The Nothingness
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i](It has “{T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. [i](It has “{T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Zone 0
+rules_text: As this land enters, choose a color other than white.
+{T}, Pay 1 life: Add {W} or one mana of the chosen color. => This land enters tapped. As this land enters, choose a color other than white.
+When this land enters, you gain 2 life.
+{T}: Add {W} or one mana of the chosen color.
+
+Delirious Leap
+
+Blood Crazed
+cost: {1}{RG} => {2}{G}
+rules_text: Flash
+Enchant creature
+When Blood Crazed enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +2/+1. => Flash
+Enchant creature you control
+When Blood Crazed enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +2/+2 and has trample and attacks each combat if able.
+
+Haru
+rules_text: When Haru enters, choose one. If you control a creature with power 4 or greater, choose any number instead —
+• Draw a card.
+• You may put a land card from your hand onto the battlefield.
+• Return another permanent you control to its owner's hand. => When Haru enters, choose one. If you control a creature with power 4 or greater, you may choose both instead.
+• Mill three cards. Return a land card from your graveyard to your hand.
+• Return a non-Rabbit permanent you control to its owner's hand.
+pt: 1/1 => 1/2
+
+Louis, Rising Star
+rules_text: Flash
+When Louis enters, support 1. [i](Put a +1/+1 counter on up to one other target creature.)[/i]
+Whenever a creature Louis supported leaves the battlefield, you draw cards equal to its power, then discard three cards. => Flash
+When Louis enters, choose another target creature you control. Put a +1/+1 counter on it.
+Whenever the chosen creature leaves the battlefield, you draw cards equal to its power, then discard three cards.
+
+Pina, Meddlesome Classmate
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+Escape—{1}{G}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Provoke [i](Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+
+Underworld Economizing
+
+Gouhin, Black Market Doc
+type: Legendary Creature — Bear Doctor => Legendary Creature — Bear Doctor Warrior
+rules_text: Ward {2}
+Whenever another creature you control leaves during your turn, you gain 2 life. If it had power 4 or greater, return it to the battlefield with a finality counter on it. => Gouhin attacks each combat if able.
+At the beginning of your end step, return up to one creature card from your graveyard to your hand if it was put there this turn. If it has power 4 or greater, return it to the battlefield with a finality counter instead.
+pt: 5/5 => 5/7
+
+Legosi, Carnivore Investigator
+rules_text: Legosi can't block or be blocked by creatures with power 3 or less.
+Whenever another creature you control leaves during your turn, surveil 2. If that creature had power 4 or greater, create two Clue tokens. => Legosi can't block or be blocked by creatures with power 3 or less.
+At the beginning of your end step, investigate if a creature you controlled left this turn. If it had power 4 or greater, investigate again.
+
+Melon, Hybrid Crime Lord
+rules_text: When Melon enters or another creature you control with power 4 or greater leaves during your turn, create two Hyperdrug tokens. [i](They're artifacts with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i] => At the beginning of your end step, create a Hyperdrug token if a creature you controlled left this turn. If it had power 4 or greater, create two instead. [i](They're artifacts with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i]
+pt: 2/3 => 4/3
+
+Shady Bar
+
+
+VERSION 15 CHANGELOG
 ====================
 
 SCP-049 added.
