@@ -1,4 +1,478 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+SCP-1762, Where The Dragons Went added.
+SCP-049, The Plague Doctor added.
+Zombie Token SCP added.
+Dragon Token SCP added.
+Tales of Forgotten Beasts added.
+Dwarven Mine added.
+Corner added.
+Strategic Sacrifice added.
+Queen of the Board added.
+Battle Bishop added.
+Chain Formation added.
+Frontline Reinforcements added.
+Leaping Cavalry added.
+Serve Once More added.
+Towering Rook added.
+Eternal Battlefield added.
+Godless Shrine added.
+Regal War Room added.
+Tense Antechamber added.
+CHECKMATE added.
+Human Soldier added.
+Manoa Lai added.
+Fish Token (END) #1 added.
+Fish Token (END) #3 added.
+Fish Token (END) #5 added.
+FOREVER BLUE added.
+Almost Out of Oxygen added.
+Commerson's Dolphin added.
+Giant Isopod added.
+Humpback Whales added.
+Magu Tapa added.
+Sea Slug Studies added.
+Undersea Encounter added.
+Whale Shark added.
+Indo-Pacific Sailfish added.
+Manoa Lai added.
+Misty Rainforest added.
+The Veiled Sea added.
+Vibrant Atoll added.
+Fish Token (END) #2 added.
+Fish Token (END) #4 added.
+Emergency Triage added.
+Royal Delegation added.
+Mechanoid Scyther added.
+Rec Room added.
+Construct (RIM) added.
+Mechlink added.
+Treasure (RIM) added.
+
+Ancient Danger removed.
+Construct removed.
+Emergency Surgery removed.
+Mechanoid Lancer removed.
+Nomad Encampment removed.
+Familiar Lake removed.
+Zombie Token removed.
+Ichiraku Ramen removed.
+Forgotten Beast removed.
+Foundation Guards removed.
+SCP-035, Possessed Mask removed.
+
+Mitis Assault
+cost: {R}{R} => {1}{R}
+
+Dropwig
+rules_text: Reach
+Ecosystem — Whenever this creature attacks while you control three or more creatures with different powers, this creature gains trample until end of turn.
+{3}{G}: Put a +1/+1 counter on this creature. => Reach
+[i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, this creature gains trample until end of turn.
+{3}{G}: Put a +1/+1 counter on this creature.
+
+Green Lizard
+rules_text: Ecosystem — Whenever this creature attacks while you control three or more creatures with different powers, this creature gains indestructible until end of turn. => [i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, this creature gains indestructible until end of turn.
+
+Reach the Top
+rules_text: [i]Ecosystem[/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on a creature you control.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card. => [i][i]Ecosystem[/i][/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on a creature you control.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card.
+
+Resourceful Slugcat
+rules_text: When Resourceful Slugcat enters, surveil 2.
+Ecosystem — {4}{G}, {T}: Put a +1/+1 counter on target creature you control, then proliferate. Activate only as a sorcery and only if you control three or more creatures with different powers. => When Resourceful Slugcat enters, surveil 2.
+[i]Ecosystem[/i] — {4}{G}, {T}: Put a +1/+1 counter on target creature you control, then proliferate. Activate only as a sorcery and only if you control three or more creatures with different powers.
+
+Duel for Dominance RAIN
+rules_text: Ecosystem — Choose target creature you control and target creature you don't control. If you control three or more creatures with different powers, put a +1/+1 counter on the chosen creature you control. Then the chosen creatures fight each other. => [i]Ecosystem[/i] — Choose target creature you control and target creature you don't control. If you control three or more creatures with different powers, put a +1/+1 counter on the chosen creature you control. Then the chosen creatures fight each other.
+
+Miros Bird
+cost: {4}{G} => {3}{G}{G}
+rules_text: Haste
+Ecosystem — Whenever this creature attacks while you control three or more creatures with different powers, create a 2/1 green Monkey creature token. => Haste
+[i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, create a 2/1 green Monkey creature token.
+Basic landcycling {2}
+
+Moon Prism Power!
+rules_text: Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+Target creature gets +2/+2 and gains lifelink until end of turn.
+If this spell was kicked, you may transform that creature. => Kicker {4} [i](You may pay an additional {4} as you cast this spell.)[/i]
+Target creature gets +2/+2 and gains lifelink until end of turn. If this spell was kicked, draw a card and you may transform that creature.
+
+Breach()
+
+Crash()
+
+Jaunt()
+
+Upgraded Unmaker
+rules_text: Double strike => Double strike
+Basic landcycling {2}
+
+
+type: Land => 
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => 
+
+Airdrop
+type: Sorcery => Instant
+rules_text: [i]Ascendant 5[/i] — Choose one. If there are five or more counters among creatures you control, you may choose both —
+• Put a +1/+1 counter on target creature. It gains flying until end of turn.
+• Tap target artifact or creature. Put two stun counters on it. => [i]Ascendant [/i]— Choose one. If there are three or more counters among creatures you control, you may choose both —
+• Put a +1/+1 counter on target creature. It gains flying until end of turn.
+• Tap target creature. Put two stun counters on it.
+
+Paige, the Bookworm
+rules_text: Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 0-3] When Paige levels up, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4] => Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 1-3] When Paige levels up or becomes level 1, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4]
+special_text: Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 0-3] When Paige levels up, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4] => Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 1-3] When Paige levels up or becomes level 1, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4]
+
+Rem and Friends
+rules_text: [i]Ascendant 5 — [/i]Whenever you put a counter on a creature surveil 1. If there are five or more counters among creatures you control, also create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. This ability triggers only once each turn. => [i]Ascendant — [/i]Whenever you put a counter on a creature surveil 1. If there are three or more counters among creatures you control, also create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. This ability triggers only once each turn.
+
+Sleepwalk
+rules_text: Put a +1/+1 counter on target creature.
+[i]Ascendant 3 — [/i]Then if there are three or more counters among creatures you control, creatures you control gain indestructible until end of turn. => Put a +1/+1 counter on target creature.
+[i]Ascendant — [/i]Then if there are three or more counters among creatures you control, creatures you control gain indestructible until end of turn.
+
+Soul
+type: Artifact — Soul => Token Artifact — Soul
+
+The Archmother, Austere
+cost: {5}{W}{U} => {4}{W}{U}
+rules_text: Indestructible
+[i]Ascendant 7 — [/i]The Archmother costs {2} less to cast if there are seven or more counters among creatures you control.
+When The Archmother enters, put a +1/+1 counter on target creature, then destroy all creatures with no counters. => Indestructible
+When the Archmother enters, put a +1/+1 counter on target creature, then return each other creature with no counters to its owners' hand.
+
+Automaton Hulk
+
+Helldiver Kill-Counter
+rules_text: Reach
+[i]Bloody — [/i]Whenever a creature is dealt two or more excess damage during your turn, this creature deals 1 damage to each opponent. This ability triggers only once each turn. => Reach
+[i]Bloody — [/i]Whenever a creature is dealt excess damage during your turn, this creature deals 1 damage to each opponent.
+
+Helldiver Point-Man
+rules_text: [i]Bloody — [/i]Whenever two or more excess damage is dealt to any creature during your turn, exile the top card of your library. You may play it until the end of your next turn. This ability triggers only once each turn. => [i]Bloody — [/i]Whenever excess damage is dealt to any creature during your turn, exile the top card of your library. You may play it until the end of your next turn. This ability triggers only once each turn.
+
+Helldiver Shieldbearer
+rules_text: [i]Bloody [/i]— When two or more excess damage is dealt to any creature during your turn, put a +1/+1 counter on this creature. This ability triggers only once each turn. => [i]Bloody [/i]— When excess damage is dealt to any creature during your turn, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+
+Helldiver Veteran
+rules_text: This creature has first strike while attacking.
+[i]Bloody — [/i]Whenever a creature is dealt two or more excess damage during your turn, create a 2/1 red Soldier creature token with menace. This ability triggers only once per turn. => This creature has first strike while attacking.
+[i]Bloody — [/i]Whenever a creature is dealt excess damage during your turn, create a 2/1 red Soldier creature token with menace. This ability triggers only once per turn.
+pt: 5/3 => 6/3
+
+Orbital Laser Sweep
+rules_text: Orbital Laser Sweep deals X damage to each creature without flying.
+[i]Bloody — [/i]If 2 or more excess damage was dealt to any creature this way, create a 2/1 red Soldier creature token with menace. => Orbital Laser Sweep deals X damage to each creature without flying.
+[i]Bloody — [/i]If excess damage was dealt to any creature this way, create a 2/1 red Soldier creature token with menace.
+
+Super Earth's Finest
+rules_text: Exile the top two cards of your library. Until the end of your next turn, you may play them.
+[i]Bloody [/i]— If a creature has been dealt two or more excess damage this turn, you may cast this card from your graveyard by paying {2}{R}{R}. If you do, exile it after it resolves. => Exile the top two cards of your library. Until the end of your next turn, you may play them.
+[i]Bloody [/i]— As long as a creature has been dealt excess damage this turn, you may cast this card from your graveyard by paying {2}{R}{R}. If you do, exile it after it resolves.
+
+Liberated Territories
+
+Underworld Economizing
+rules_text: When this enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i]
+Exile this enchantment: Return target card from your graveyard to your hand. => When this enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i]
+{1}, Exile this enchantment: Return target card from your graveyard to your hand.
+
+Gouhin, Black Market Doc
+pt: 5/7 => 5/6
+
+Juno, Hopeless Romantic
+rules_text: When Juno enters, if you cast her from your hand, choose another target creature you control.
+Juno attacks each combat if able.
+When Juno dies while attacking with the chosen creature, you may exile her and may play her for as long as she remains exiled. => When Juno enters, if you cast her from your hand, choose another target creature.
+Juno attacks each combat if able.
+When Juno dies while attacking with the chosen creature, you may exile her and may play her for as long as she's exiled.
+
+Connie Maheswaran
+rules_text: [i]Valiant[/i] — Whenever Connie becomes the target of a spell or ability, she gets +2/+0 until end of turn. This ability triggers only once each turn.
+[i](Melds with Steven Universe.)[/i] => [i]Valiant[/i] — Whenever Connie becomes the target of a spell or ability you control, she gets +2/+0 until end of turn. This ability triggers only once each turn.
+[i](Melds with Steven Universe.)[/i]
+
+Crack the Diamond
+cost: {1}{R} => {R}{R}
+
+Warp Pad
+
+Haruno Sakura
+cost: {1}{R} => {2}{R}
+rules_text: Ninjutsu {R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, exile the top two cards of your library. You may play them until the end of your next turn. => Ninjutsu {1}{R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, you may discard a card. If you do, draw two cards.
+pt: 1/1 => 1/3
+
+Iruka, Academy Instructor
+cost: {1}{UR} => {2}{UR}
+rules_text: Ninjutsu {UR} [i]({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Whenever Iruka enters or attacks, add {U} or {R}. You can't spend this mana to cast spells. This mana lasts until end of turn. => Ninjutsu {1}{UR} [i]({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, put a +1/+1 counter on target creature you control. You may switch its power and toughness until end of turn.
+pt: 2/3 => 2/2
+
+Kakashi, Team 9 Leader
+rules_text: Ninjutsu {1}{U} [i]({U}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Kakashi enters, return another target creature to its owner's hand. If you owned it, put two +1/+1 counters on Kakashi. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Kakashi enters, return another target creature to its owner's hand. If you owned it, put two +1/+1 counters on Kakashi.
+
+Sasuke Uchiha
+rules_text: Menace
+{1}: Harness Sasuke [i](His 👁 ability becomes active.)[/i] Activate only if a legendary creature you controlled left this turn.
+👁 — Sasuke Uchiha gets +1/+2 and has vigilance. => Menace
+Whenever a legendary creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i]
+👁 — Sasuke Uchiha gets +2/+0 and has vigilance.
+pt: 2/2 => 2/1
+
+Unfriendly Rivalry
+cost: {1}{R}{R} => {1}{R}
+rules_text: Enchant creature
+Enchanted creature gets +2/+2.
+When Unfriendly Rivalry enters, enchanted creature deals damage equal to its power to up to one other target creature. => Flash
+Enchant creature you control
+Enchanted creature gets +2/+0.
+When Unfriendly Rivalry enters, enchanted creature fights up to one target creature.
+
+Blinking!
+rules_text: Exile up to one target creature, then return it to the battlefield. Surveil 2.
+{2}{U}, Exile Blinking! from your graveyard: Draw a card. => Exile up to one target creature, then return it to the battlefield. Surveil 2.
+{2}{U}, Exile Blinking! from your graveyard: Surveil 2. Draw a card.
+
+Containment Breach
+cost: {2}{U}{U} => {4}{U}{U}
+rules_text: Surveil 4, then return from your graveyard to your hand up to two cards that were put there from your library this turn. [i](To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Surveil 4, then return from your graveyard to your hand up to two cards that were put there from your library this turn. [i](To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Basic landcycling {2}
+
+SCP-096, The Shy Guy
+rules_text: Trample, ward {3}
+SCP-096 doesn't untap during its controllers untap step.
+SCP-096 must attack each turn if able.
+Whenever you surveil, untap SCP-096. => Trample, ward {3}
+SCP-096 doesn't untap during its controllers untap step.
+SCP-096 attacks each combat if able.
+Whenever you surveil, untap SCP-096.
+Basic landcycling {2}
+
+SCP-131, The Eye Pods
+rules_text: Flash
+When SCP-131 enters, choose one —
+• Support 1. [i](Put a +1/+1 counter on up to one other target creature.)[/i]
+• Surveil 2.
+• Shuffle up to four cards from your graveyard into your library. => Flash
+When SCP-131 enters, choose one —
+• Tap or untap target permanent.
+• Support 1. [i](Put a +1/+1 counter on up to one other target creature.)[/i]
+• Surveil 2.
+
+Special Containment Procedure
+rules_text: Flash
+Enchant artifact or creature
+When this Aura enters, surveil 2.
+Whenever you surveil, tap enchanted permanent. Put a stun counter on it. => Flash
+Enchant creature
+When this Aura enters, surveil 2.
+Whenever you surveil, tap enchanted creature. Put a stun counter on it.
+
+SCP-2521
+rules_text: Vigilance
+Whenever you surveil, you may put on ●●|●●●●●|●●|● X +1/+1 counters, where X is the number of cards you looked at while surveiling. Do this only once each turn.
+{3}{U}: Surveil 1. => Reach, vigilance
+Whenever you surveil, you may put on ●●|●●●●●|●●|● X +1/+1 counters, where X is the number of cards you looked at while surveiling.
+{3}{U}: Surveil 1.
+pt: 2/3 => 1/4
+
+SCP-1048, Builder Bear
+rules_text: Whenever SCP-1048 attacks, you may exile two cards from your graveyard. If you do, create a tapped token that's a copy of SCP-1048, except it's not legendary. => When SCP-1048 enters, surveil 1.
+Whenever SCP-1048 attacks, you may exile three cards from your graveyard. If you do, create a tapped token that's a copy of SCP-1048, except it's not legendary.
+
+Familiar Lake
+rules_text: As Familiar Lake enters, choose a color.
+{T}, Pay 1 life: Add {U} or one mana of the chosen color.
+{1}, {T}, Sacrifice Familiar Lake: Return from your graveyard to your hand target card that were put there from your library this turn. => Familiar Lake enters tapped.
+As Familiar Lake enters, choose a color.
+When Familiar Lake enters, surveil 1.
+{T}: Add {U} or one mana of the chosen color.
+
+Site 13
+
+SCP-743, Chocolate Fountain
+rules_text: When SCP-743 enters, surveil 1 and create a Food token.
+The first time you would gain life each turn, instead create two 1/1 green Insect creature tokens with flying.
+{3}, {T}: Create a Food token. => When SCP-743 enters, surveil 1 and create a Food token.
+The first time you would gain life each turn, instead create two tapped 1/1 green Insect creature tokens with flying.
+{3}, {T}: Surveil 1 and create a Food token.
+
+Dig Deeper
+cost: {1}{R} => {2}{R}
+rules_text: Mill two cards. You may play those cards until the end of your next turn. => Mill two cards. You may play those cards until the end of your next turn.
+Create a tapped Treasure token.
+
+Delirious Leap
+
+Grimaline Smith, Neophyte
+
+Harry Jacket, Neophyte
+
+The Hunter Data
+
+Secret Ghoul
+
+Occam O'Connell, Chancellor
+
+Remold Blacklaw, Librarian
+rules_text: Reach
+[i]Interrogate[/i] — {2}, Discard a card: Exile another target instant or sorcery card from a graveyard. Copy it. You may cast the copy and mana of any type can be spent to cast it. Activate only once each turn and only as a sorcery. => [i]Marksman— [/i]Reach
+When Remold Blacklaw enters, you lose 1 life and create a Clue token.
+As long as you've drawn two or more cards this turn, noncreature spells you cast cost {1} less to cast
+
+Miniature Railroad
+
+Colony Collapse
+
+Warqueen, Mechanical Mind
+rules_text: Hexproof from artifacts
+[+1]: Sacrifice a nontoken, nonland permanent. If you do, draw two cards.
+[-2]: Create a 3/3 colorless Construct artifact creature token.
+[-6]: Create “Mechlink”, a legendary colorless artifact with “Creatures you control get +1/+1, and get +1/+1 if they are an artifact.” => Basic landcycling {2}
+[+1]: Sacrifice a nontoken, nonland permanent. If you do, draw two cards.
+[-2]: Create a 3/3 colorless Construct artifact creature token.
+[-6]: Create Mechlink, a legendary colorless artifact token with “Creatures you control get +1/+1. If they're artifacts, they get +2/+2 instead.”
+special_text: Hexproof from artifacts
+[+1]: Sacrifice a nontoken, nonland permanent. If you do, draw two cards.
+[-2]: Create a 3/3 colorless Construct artifact creature token.
+[-6]: Create “Mechlink”, a legendary colorless artifact with “Creatures you control get +1/+1, and get +1/+1 if they are an artifact.” => Basic landcycling {2}
+[+1]: Sacrifice a nontoken, nonland permanent. If you do, draw two cards.
+[-2]: Create a 3/3 colorless Construct artifact creature token.
+[-6]: Create Mechlink, a legendary colorless artifact token with “Creatures you control get +1/+1. If they're artifacts, they get +2/+2 instead.”
+
+Base Assault
+
+Construction Project
+
+Crafty Caravaneer
+
+Imperial Holdout
+rules_text: Trample
+Imperial Holdout gets +1/+1 for each card types among cards in your graveyard. => [i]Delirium[/i] — This creature gets +X/+X, where X is the number of card types among cards in your graveyard. If X is four or more, it has trample.
+
+Rim Militia
+
+Social Fight
+rules_text: [i][i]Delirium[/i] — [/i]Target creature you control gets +2/+2 and gains trample until end of turn if there are four or more card types among cards in your graveyard. Then it fights up to one target creature you don't control. => Target creature you control fights up to one target creature you don't control.
+[i][i]Delirium[/i] — [/i]If there are four or more card types among cards in your graveyard, the creature you control gets +2/+2 and gains trample until end of turn before it fights.
+
+Caravan Trail
+rules_text: {T}, Sacrifice this land: Search your library for a basic land card and put it onto the battlefield tapped. 
+[i][i]Delirium[/i] — [/i]When this land is sacrificed, if there are four or more card types among cards in your graveyard, create a tapped Treasure token. [i](Count delirium before it enters the graveyard.)[/i] => When this land enters, sacrifice it. Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+{3}, Exile this card from your graveyard: Discard a card, then draw a card.
+
+Uncharted Rimworld
+type: Land — Planet => Land
+
+Complications
+rules_text: Choose one —
+• [i]Reduce Pollution — [/i]Counter target artifact or creature spell.
+• [i]Expand Production — [/i]Search your library for an artifact card, reveal it, and put it into your hand. Then, shuffle. => Choose one —
+• [i]Reduce Pollution — [/i]Counter target artifact or creature spell.
+• [i]Expand Production — [/i]Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+
+The Engineer, Stranded
+rules_text: [i]The Factory Grows —[/i] When this creature enters, create two tapped Assembler tokens. [i](They're colorless artifact tokens with, “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+Artifacts you control have “{2}, {T}: If you don't control a Robot, create a 0/0 colorless Robot artifact creature token. Then, put a +1/+1 counter on target Robot you control.” => Ward {2}
+When the Engineer enters, create two tapped Assembler tokens. [i](They're artifacts with “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+Artifacts you control have “{2}, {T}: If you don't control a Robot, create a 0/0 colorless Robot artifact creature token. Then, put a +1/+1 counter on a Robot you control.”
+
+Logistics Train
+cost: {X}{U}{U} => {1}{U}
+rules_text: Trample
+When this Vehicle enters, draw X cards, then discard a card.
+Crew 2 => Kicker {5}
+When this Vehicle enters, mill three cards, then return one of them to your hand. If this spell was kicked, return all of them to your hand instead.
+Crew 2
+
+Mass-Produced Tank
+rules_text: [i]The Factory Grows — [/i]When this Vehicle enters, create a tapped Assembler token. [i](It's a colorless artifact token with, “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+You may tap an untapped artifact you control rather than pay this Vehicle's crew cost.
+Crew 2 => When this Vehicle enters, create a tapped Assembler token. [i](It's an artifact token with “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+You may tap an untapped artifact you control rather than pay this Vehicle's crew cost.
+Crew 2
+
+Repel the Locals
+rules_text: Return up to two target creatures to their owners' hands.
+Untap up to two creatures or artifacts.
+Basic landcycling {3} => Return up to two target artifacts and/or creatures to their owners' hands.
+Untap up to two creatures or artifacts.
+Basic landcycling {2}
+
+Scramble for Solutions
+rules_text: Draw two cards, then discard a card unless you sacrifice an artifact. => Choose one —
+• Draw two cards, then discard two cards unless you sacrifice an untapped artifact.
+• Tap target artifact or creature. Put two stun counters on it.
+
+Turret Array
+type: Artifact Creature — Wall => Artifact Creature — Robot Wall
+rules_text: Defender
+[i]The Factory Grows — [/i]When this creature enters, create a tapped Assembler token. [i](It's a colorless artifact token with, “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+Assemblers you control have, “{3}, {T}: Tap target creature.” => Defender
+When this creature enters, create a tapped Assembler token. [i](It's an artifact token with “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+Assemblers you control have, “{2}, {T}: Tap target creature.”
+
+Automated Flame-Tank
+type: Artifact Creature — Construct => Artifact Creature — Robot
+rules_text: [i]The Factory Grows — [/i]When this creature enters, you and target opponent each create a tapped Assembler token. [i](They're colorless artifact tokens with, “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+Assemblers you control have, “{1}, {T}: Target artifact creature you control gets +1/+0 until end of turn. Activate only as a sorcery.” => When this creature enters, two target players each create a tapped Assembler token. [i](An artifact with “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+Assemblers you control have, “{1}, {T}: Target artifact creature you control gets +1/+0 until end of turn. Activate only as a sorcery.”
+
+Towering Spidertron
+rules_text: Reach, daunt [i](This creature can't be blocked by creatures with power 2 or less.)[/i]
+When this artifact enters, destroy target nonland permanent an opponent controls.
+{8}: This creature's base power becomes 8. [i](This effect lasts indefinitely.)[/i]
+Basic landcycling {2} => Reach, daunt [i](This creature can't be blocked by creatures with power 2 or less.)[/i]
+When this creature enters, destroy target nonland permanent an opponent controls.
+{8}: This creature's base power becomes 8. [i](This effect lasts indefinitely.)[/i]
+Basic landcycling {2}
+
+Assembly Line
+rules_text: This land enters tapped.
+{T}: Add {U}.
+{3}, {T}: Put a +1/+1 counter on target artifact or Artificer you control. Activate only as a sorcery.
+{6}, {T}: Draw a card. => Hexproof
+This land enters tapped.
+{T}: Add {U}.
+{3}, {T}: Put a +1/+1 counter on target artifact you control. Activate only as a sorcery.
+{6}, {T}: Draw a card.
+
+Nauvis
+
+Robot (FAC)
+cost: {1}{U} => 
+
+Assembler
+type: Artifact — Assembler => Token Artifact — Assembler
+rules_text:  => {T}: Add {C}. This mana can't be spent on nonartifact spells.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Ms Pauling Temp added.
