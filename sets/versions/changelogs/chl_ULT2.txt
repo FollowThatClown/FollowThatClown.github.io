@@ -1,4 +1,272 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Camp Command added.
+Commerson's Dolphin ULT2 added.
+Fish ULT2 1 added.
+Fish ULT2 2 added.
+Fish ULT2 3 added.
+Fish ULT2 4 added.
+Fish ULT2 added.
+
+Rose Quartz removed.
+Fish Token (END) #1 removed.
+Fish Token (END) #3 removed.
+Fish Token (END) #5 removed.
+Manoa Lai removed.
+Fish Token (END) #2 removed.
+Fish Token (END) #4 removed.
+
+Rebar Spear
+
+The Artificer
+rules_text: Flying
+When The Artificer enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+{3}{WU}: Exile The Artificer, then return her to the battlefield under her owner's control. => Flying
+When The Artificer enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{3}{WU}: Exile The Artificer, then return her to the battlefield under her owner's control.
+
+Dorothy Gale
+rules_text: Whenever you wander, you may mill three cards, then return a land card from among them to the battlefield tapped. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[i]No Place Like Home[/i] — {10}{W}{U}{B}{R}{G}: Shuffle each other creature into its owner's library. Create three 2/2 white Human creature tokens. Activate only as a sorcery and only once. => Whenever you wander, you may mill three cards, then return a land card from among them to the battlefield tapped. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+{10}{W}{U}{B}{R}{G}: Shuffle each other creature into its owner's library. Create three 2/2 white Human creature tokens. Activate only once.
+
+Glinda, the Good Witch
+cost: {4}{GW} => {3}{GW}
+rules_text: Flying
+Once during each of your turns, you may play a permanent card with mana value 3 or less from your graveyard. If you do, it enters with a finality counter.
+Basic landcycling {2} => Defender, flying
+Once during each of your turns, you may play a permanent card with mana value 3 or less from your graveyard. If you do, it enters with a finality counter.
+Basic landcycling {2}
+pt: 4/6 => 4/5
+
+
+type: Land => 
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => 
+
+Zooble
+rules_text: As Zooble enters, choose up to X at random from among first strike, lifelink, menace, reach, and vigilance. They enter with those counters and X +1/+1 counters. => As Zooble enters, choose up to X at random from among reach, first strike, vigilance, menace, trample, and haste. They enter with those counters and X +1/+1 counters.
+
+Legosi, Carnivore Investigator
+pt: 5/5 => 4/5
+
+Containment Breach
+rules_text: Surveil 4, then return from your graveyard to your hand up to two cards that were put there from your library this turn. [i](To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Basic landcycling {2} => Surveil 4, then return from your graveyard to your hand up to two cards that were put there from your library this turn.
+Basic landcycling {2}
+
+The Hunter Data
+rules_text: At the beginning of your upkeep, you may draw a card. If you do, exile a card from your hand.
+{2}, Sacrifice The Hunter Data: Choose a card exiled with it. Put it into your hand and the rest into your graveyard. => At the beginning of your upkeep, draw a card, then exile a card from your hand.
+{2}, Sacrifice The Hunter Data: Choose a card exiled with it. Put it into your hand and the rest into your graveyard.
+
+Remold Blacklaw, Librarian
+rules_text: [i]Marksman— [/i]Reach
+When Remold Blacklaw enters, you lose 1 life and create a Clue token.
+As long as you've drawn two or more cards this turn, noncreature spells you cast cost {1} less to cast => [i]Marksman — [/i]Reach
+When Remold Blacklaw enters, you lose 1 life and create a Clue token.
+As long as you've drawn two or more cards this turn, noncreature spells you cast cost {1} less to cast
+
+Joy of Creation
+cost: {2}{B} => {1}{B}{B}
+rules_text: Choose one —
+• Return up to two target artifact and/or creature cards from your graveyard to your hand. You lose 3 life.
+• Target creature gains lifelink and indestructible until end of turn. => Choose one —
+• Return up to two target artifact and/or creature cards from your graveyard to your hand. You lose 3 life.
+• Target artifact creature gains lifelink and indestructible until end of turn.
+
+Ballora
+rules_text: Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 2 life for each creature attacking you. => Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 3 life for each creature attacking you.
+
+Strategic Sacrifice
+rules_text: As an additional cost to cast this spell, sacrifice a creature or sacrifice a modified creature. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Destroy target creature. If the modified creature was sacrificed, draw a card. => As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature. If the creature you sacrificed was modified, draw a card.
+
+Battle Bishop
+rules_text: When this creature enters, you draw a card and lose 1 life.
+Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Lifelink => When this creature enters, draw a card.
+Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Lifelink
+
+Chain Formation
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +1/+0 and gains indestructible.
++{W} — Create two tapped 1/1 white Human Soldier creature tokens. => Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +1/+0 and gains indestructible.
++{W} — Create two 1/1 tapped white Human Soldier creature tokens.
+
+Frontline Reinforcements
+
+Towering Rook
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, put a +1/+1 counter on it. => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, you lose 1 life and put a +1/+1 counter on it.
+
+Black Leg Sanji
+rules_text: Menace
+Protection from Equipment
+[i]Landfall[/i] — Whenever a land you control enters, add {R}{R}.
+{R}: Sanji gets +1/+0 until end of turn. => Menace
+Sanji can't be equipped.
+[i]Landfall[/i] — Whenever a land you control enters, add {R}{R}.
+{R}: Sanji gets +1/+0 until end of turn.
+
+Cat Burglar Nami
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a tapped Treasure token.
+{2}, Sacrifice two artifacts and/or lands: Nami explores. [i](Reveal the top card of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, create a tapped Treasure token.
+Sacrifice two artifacts and/or lands: Nami explores. Activate only as a sorcery. [i](Reveal the top card of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Port
+rules_text: {T}, Pay 1 life: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: You draw two cards and gain 2 life. Activate only if you have 5 or less life. => {T}, Pay 1 life: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: You draw two cards. Activate only if you have 7 or less life.
+
+Sword
+rules_text: Equipped creature gets +1/+0.
+Equip {1} => Equipped creature gets +2/+0.
+Equip {2}
+
+Clawdeen Wolf
+rules_text: Ward {2}
+[i]Vivid — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2} => Ward {1}
+[i]Vivid — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2}
+pt: 3/2 => 2/3
+
+The Cheshire Cat
+rules_text: Lifelink, menace
+Exhaust — {3}{B}, Discard a card: Mill three cards. An opponent separates those cards into two piles. Put one of them into your hand and put X +1/+1 counter on The Cheshire Cat, where X is the number of cards in the other pile. [i](Activate each exhaust ability only once.)[/i] => Menace
+Ward—Discard a card.
+Exhaust — {4}{B}, Discard a card: Mill three cards. An opponent separates them into two piles. Put one into your hand and put X +1/+1 counter on The Cheshire Cat, where X is the number of cards in the other pile.
+pt: 1/1 => 1/2
+
+The Mad Hatter
+rules_text: Flying
+{2}{B}, Exile The Mad Hatter from your graveyard: Create two 2/2 black Horror creature tokens with “This can't block” and “When this attacks, exile it at end of combat.” => Flying
+[i]Unlikely Aid [/i]— {1}{B}, Discard The Mad Hatter: Target creature gets +2/+0 and gains indestructible until end of turn.
+
+Misstitched Alice
+rules_text: Whenever you discard a card or sacrifice a nonland permanent during your turn, Misstitched Alice gains lifelink until end of turn.
+Madness {1}{WB} => Whenever you discard a card or sacrifice a nonland permanent during your turn, Misstitched Alice gains first strike and lifelink until end of turn.
+Madness {1}{WB}
+pt: 3/3 => 3/2
+
+Moon Prism Power!
+rules_text: Kicker {4} [i](You may pay an additional {4} as you cast this spell.)[/i]
+Target creature gets +2/+2 and gains lifelink until end of turn. If this spell was kicked, draw a card and you may transform that creature. => Kicker {4} [i](You may pay an additional {4} as you cast this spell.)[/i]
+Target creature gets +2/+2 and gains lifelink until end of turn.
+If this spell was kicked, draw a card and you may transform that creature.
+
+Rei Hino
+
+Setsuna Meiou
+
+Ami Mizuno
+
+Hotaru Tomoe
+rules_text: Whenever Hotaru or another creature you control enters, gain 1 life.
+{3}{WB}{WB}{WB}: Transform Hotaru. Activate only as a sorcery. => Whenever Hotaru or another creature you control enters, you gain 1 life.
+{3}{WB}{WB}{WB}: Transform Hotaru. Activate only as a sorcery.
+
+Makoto Kino
+pt: 2/2 => 2/1
+
+Minako Aino
+rules_text: First strike
+{2}{RW}{RW}: Transform Minako. Activate only as a sorcery. => During your turn, Minako Aino has first strike
+{2}{RW}{RW}: Transform Minako. Activate only as a sorcery.
+
+Crystal Tokyo
+
+Fruits Parlor Crown
+rules_text: This land enters tapped.
+{T}: Add {W}.
+{1}{W}{W}, {T}: Create a tapped 1/1 green and white Citizen creature token. => This land enters tapped if you c
+{T}: Add {W}.
+{1}{W}{W}, {T}: Create a tapped 1/1 green and white Citizen creature token.
+
+The Moon Kingdom
+
+Reach the Top
+rules_text: [i][i]Ecosystem[/i][/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on a creature you control.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card. => [i]Ecosystem[/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on target creature.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card.
+
+The Bounty Hunter
+
+Collect Call
+
+Confidence Surges
+
+The Jester
+
+Riposte Stance
+
+The Crusader
+cost: {1}{R} => {1}{RW}
+
+The Leper
+cost: {3}{R} => {3}{RG}
+rules_text: Trample
+Ward—Discard a card at random.
+When The Leper enters, discard two cards, then draw a card. => Trample
+When The Leper enters, discard a card.
+Whenever The Leper becomes the target of a spell or ability an opponent controls, exile the top card of your library. You may play it during your next turn.
+pt: 4/6 => 5/6
+
+The Plague Doctor
+cost: {1}{R} => {1}{BR}
+
+Bustling Street
+
+Hamlet
+
+Overflowing Graveyard
+
++STRESS
+
+Mercenary Token
+
+Almost Out of Oxygen
+cost: {4}{U} => {3}{U}
+rules_text: This spell costs {2} less to cast if there are three or more counters among creatures you control.
+The owner of target creature puts it on the top or bottom of their library. => If there are three or more counters among creatures you control, Almost Out of Oxygen costs {2} less to cast.w
+The owner of target creature puts it on the top or bottom of their library.
+
+Commerson's Dolphin
+
+Indo-Pacific Sailfish
+rules_text: Flash
+{3}: Indo-Pacific Sailfish can't be blocked except by creatures with haste until end of turn. => Flash
+{4}: Indo-Pacific Sailfish can't be blocked except by creatures with haste until end of turn.
+
+Magu Tapa
+cost: {4}{U}{U} => {3}{U}{U}
+
+Manoa Lai
+
+Sea Slug Studies
+
+Whale Shark
+rules_text: Whenever Whale Shark enters the battlefield or attacks, target creature you control explores.
+Creatures you control with +1/+1 counters on them have vigilance. => When Whale Shark enters the battlefield or attacks, target creature you control explores.
+Creatures you control with +1/+1 counters on them have vigilance.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Dwarven Mine added.
