@@ -4214,7 +4214,7 @@
 			"name": "Fire Flower",
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Kindred Enchantment — Plant Aura",
+			"type": "Enchantment — Aura",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/155_Fire Flower.png"
@@ -4234,7 +4234,7 @@
 			"name": "Super Mushroom",
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Kindred Enchantment — Fungus Aura",
+			"type": "Enchantment — Aura",
 			"collector_number": "187",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/187_Super Mushroom.png"
@@ -4338,23 +4338,6 @@
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/13_IN ANOTHER CASTLE.png"
-			}
-		},
-		{
-			"name": "Luigi's Mansion OLD",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "27",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/27_Luigi's Mansion OLD_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/27_Luigi's Mansion OLD_front.png"
 			}
 		},
 		{
@@ -5714,23 +5697,13 @@
 			}
 		},
 		{
-			"name": "Fish ULT2 1",
+			"name": "Fish ULT2 2",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Fish",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/14t_Fish ULT2 1.png"
-			}
-		},
-		{
-			"name": "Fish ULT2 2",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Fish",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/15t_Fish ULT2 2.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/14t_Fish ULT2 2.png"
 			}
 		},
 		{
@@ -5738,9 +5711,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Fish",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/16t_Fish ULT2 3.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/15t_Fish ULT2 3.png"
 			}
 		},
 		{
@@ -5748,19 +5721,29 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Fish",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/17t_Fish ULT2 4.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/16t_Fish ULT2 4.png"
 			}
 		},
 		{
-			"name": "Fish ULT2",
+			"name": "Fish ULT2 5",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Fish",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/17t_Fish ULT2 5.png"
+			}
+		},
+		{
+			"name": "Fish ULT2 1",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Fish",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/13t_Fish ULT2.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/13t_Fish ULT2 1.png"
 			}
 		},
 		{
@@ -6308,7 +6291,6 @@
 	1 Anywhere (SMB)
 	1 Princess Party
 	1 IN ANOTHER CASTLE
-	1 Luigi's Mansion OLD
 	1 Exponential Expansion
 	1 Complications
 	1 The Engineer, Stranded

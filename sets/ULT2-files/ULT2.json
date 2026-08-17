@@ -7050,14 +7050,14 @@
             "number": 69,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Until end of turn, target creature you control has base power and toughness 4/4 and gains flying.\nDraw a card.",
+            "rules_text": "Until end of turn, target creature you control has base power and toughness 4/4 and gains flying. Untap it.\nDraw a card.",
             "flavor_text": "[i]The Delirium expresses itself either as uncontrollable flight, or uncontrollable fight.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum"
         },
@@ -7076,7 +7076,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum"
         },
@@ -7095,7 +7095,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum"
         },
@@ -7114,7 +7114,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum"
         },
@@ -7133,7 +7133,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum\n!tokens Clue ULT2"
         },
@@ -7152,7 +7152,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum\n!tokens Clue ULT2"
         },
@@ -7171,7 +7171,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum"
         },
@@ -7190,7 +7190,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum"
         },
@@ -7209,7 +7209,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum"
         },
@@ -7228,7 +7228,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "Anywhere",
             "notes": "!tag Arcanum\n!tapped"
         },
@@ -7266,7 +7266,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum"
         },
@@ -7285,7 +7285,7 @@
             "shape": "normal",
             "set": "ULT2",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ogre Poppenang Productions",
             "alias": "",
             "notes": "!tag Arcanum\n!exportname Island (ARC)"
         },
@@ -8040,7 +8040,7 @@
             "card_name": "Fire Flower",
             "color": "R",
             "rarity": "cube",
-            "type": "Kindred Enchantment \u2014 Plant Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 155,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -8089,11 +8089,11 @@
             "card_name": "Super Mushroom",
             "color": "R",
             "rarity": "cube",
-            "type": "Kindred Enchantment \u2014 Fungus Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 187,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Enchant creature you control\n[i]Stomp[/i] \u2014 When Super Mushroom enters, enchanted creature deals damage equal to its power to target creature an opponent controls.\nPower-up \u2014 {4}{R}: Put two +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Super Mushroom's mana cost if it entered this turn.)[/i]",
+            "rules_text": "Enchant creature you control\n[i]Stomp[/i] \u2014 When Super Mushroom enters, enchanted creature deals damage equal to its power to up to one target battle or creature\nPower-up \u2014 {4}{R}: Put two +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Super Mushroom's mana cost if it entered this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8131,7 +8131,7 @@
             "number": 286,
             "color_identity": "RG",
             "cost": "{3}{RG}",
-            "rules_text": "Rescue 6 \u2014 {RG} [i](You may cast Luigi for {RG}. If you do, when he enters, create a 4 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]\n[i]Jump [/i]\u2014 Luigi has flying during your turn.\nWhen Luigi enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "Rescue 5 \u2014 {RG} [i](You may cast Luigi for {RG}. If you do, when he enters, create a 5 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]\n[i]Jump [/i]\u2014 Luigi has flying during your turn.\nWhen Luigi enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -8150,7 +8150,7 @@
             "number": 300,
             "color_identity": "BR",
             "cost": "{2}{BR}",
-            "rules_text": "Rescue 4 \u2014 {BR} [i](You may cast Daisy for {1}{BR}. If you do, when she enters, create a 4 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]\nMenace\nWhen Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature.",
+            "rules_text": "Rescue 3 \u2014 {1}{BR} [i](You may cast Daisy for {1}{BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]\nMenace\nWhen Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -8199,7 +8199,7 @@
             "number": 302,
             "color_identity": "WR",
             "cost": "{6}{RW}",
-            "rules_text": "Rescue 8 \u2014 {3}{RW} [i](You may cast Peach for {3}{RW}. If you do, when she enters, create an 8 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]\nWhen Peach enters, create a 1/1 red Fungus creature token. You become the monarch.\nOther creatures you control get +2/+0.",
+            "rules_text": "Rescue 7 \u2014 {3}{RW} [i](You may cast Peach for {3}{RW}. If you do, when she enters, create an 7 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]\nWhen Peach enters, create a 1/1 red Fungus creature token. You become the monarch.\nOther creatures you control get +2/+0.",
             "flavor_text": "[i][/i]",
             "pt": "3/6",
             "special_text": "",
@@ -8237,7 +8237,7 @@
             "number": 402,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{3}, {T}, Discard a card: Draw a card. If you discarded a nonland card, create a 1/1 white Spirit creature token with flying. Activate only as a sorcery.",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{3}, {T}: Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Spirit creature token with flying. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8275,7 +8275,7 @@
             "number": 435,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Princess Party enters tapped unless you control a battle or Noble.\n{T}, Pay 1 life: Add one mana of any color.",
+            "rules_text": "Princess Party enters tapped.\n{T}, Pay 1 life: Add one mana of any color.\n{4}, {T}: You become the monarch. Activate only once.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8284,7 +8284,7 @@
             "loyalty": "",
             "artist": "rinabee (rinabele0120)",
             "alias": "",
-            "notes": "!tag Mario\n!tapped"
+            "notes": "!tag Mario\n!tapped\n!tokens The Monarch (SMB)"
         },
         {
             "card_name": "IN ANOTHER CASTLE",
@@ -8304,36 +8304,6 @@
             "artist": "hans tseng",
             "alias": "",
             "notes": "!tag Mario"
-        },
-        {
-            "card_name": "Luigi's Mansion OLD",
-            "color": "",
-            "rarity": "cube",
-            "type": "Land",
-            "number": 27,
-            "color_identity": "WB",
-            "cost": "",
-            "rules_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{20}, {T}: Exile Luigi's Mansion, then return it to the battlefield transformed. This ability costs {1} less to activate for each card you own in exile and in your graveyard.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "ULT2",
-            "loyalty": "",
-            "artist": "didy414",
-            "alias": "",
-            "card_name2": "King Boo",
-            "color2": "WB",
-            "type2": "Legendary Creature \u2014 Spirit",
-            "cost2": "",
-            "rules_text2": "Flying\nWard\u2014Sacrifice three creatures.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "7/7",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "licker610",
-            "alias2": "",
-            "notes": "!tag Mario\n!exportname Luigi's Mansion OLD"
         },
         {
             "card_name": "Castle Token (SMB)",
@@ -10894,7 +10864,7 @@
             "notes": "!exportname Commerson's Dolphin ULT2\n!tag Endless Ocean"
         },
         {
-            "card_name": "Fish ULT2 1",
+            "card_name": "Fish ULT2 2",
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Fish",
@@ -10910,10 +10880,10 @@
             "loyalty": "",
             "artist": "Massi",
             "alias": "",
-            "notes": "!exportname Fish ULT2 1\n!tag Endless Ocean"
+            "notes": "!exportname Fish ULT2 2\n!tag Endless Ocean"
         },
         {
-            "card_name": "Fish ULT2 2",
+            "card_name": "Fish ULT2 3",
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Fish",
@@ -10929,10 +10899,10 @@
             "loyalty": "",
             "artist": "Geni Shpak",
             "alias": "",
-            "notes": "!exportname Fish ULT2 2\n!tag Endless Ocean"
+            "notes": "!exportname Fish ULT2 3\n!tag Endless Ocean"
         },
         {
-            "card_name": "Fish ULT2 3",
+            "card_name": "Fish ULT2 4",
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Fish",
@@ -10948,10 +10918,10 @@
             "loyalty": "",
             "artist": "Massi",
             "alias": "",
-            "notes": "!exportname Fish ULT2 3\n!tag Endless Ocean"
+            "notes": "!exportname Fish ULT2 4\n!tag Endless Ocean"
         },
         {
-            "card_name": "Fish ULT2 4",
+            "card_name": "Fish ULT2 5",
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Fish",
@@ -10967,10 +10937,10 @@
             "loyalty": "",
             "artist": "Gabriel Ramos",
             "alias": "",
-            "notes": "!exportname Fish ULT2 4\n!tag Endless Ocean"
+            "notes": "!exportname Fish ULT2 5\n!tag Endless Ocean"
         },
         {
-            "card_name": "Fish ULT2",
+            "card_name": "Fish ULT2 1",
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Fish",
@@ -10986,7 +10956,7 @@
             "loyalty": "",
             "artist": "Gabriel Ramos",
             "alias": "",
-            "notes": "!exportname Fish ULT2\n!tag Endless Ocean"
+            "notes": "!exportname Fish ULT2 1\n!tag Endless Ocean"
         },
         {
             "card_name": "FOREVER BLUE",
@@ -11350,5 +11320,5 @@
             "notes": "!tag Endless Ocean"
         }
     ],
-    "version": 19
+    "version": 20
 }

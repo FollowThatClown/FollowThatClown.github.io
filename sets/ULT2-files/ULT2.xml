@@ -6579,7 +6579,7 @@ This land has all basic land types.
 		</card>
 		<card>
 			<name>Delirious Leap</name>
-			<text>Until end of turn, target creature you control has base power and toughness 4/4 and gains flying.
+			<text>Until end of turn, target creature you control has base power and toughness 4/4 and gains flying. Untap it.
 Draw a card.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/69_Delirious Leap.png" num="69">ULT2</set>
 			<prop>
@@ -7532,7 +7532,7 @@ Power-up — {5}{R}: Put three +1/+1 counters on enchanted creature. (Activate e
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Kindred Enchantment — Plant Aura</type>
+				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
@@ -7566,13 +7566,13 @@ Target creature you control gets +1/+1 and gains trample until end of turn.</tex
 		<card>
 			<name>Super Mushroom</name>
 			<text>Enchant creature you control
-Stomp — When Super Mushroom enters, enchanted creature deals damage equal to its power to target creature an opponent controls.
+Stomp — When Super Mushroom enters, enchanted creature deals damage equal to its power to up to one target battle or creature
 Power-up — {4}{R}: Put two +1/+1 counters on enchanted creature. (Activate each power-up ability only once. Reduce the cost by Super Mushroom&apos;s mana cost if it entered this turn.)</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/187_Super Mushroom.png" num="187">ULT2</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Kindred Enchantment — Fungus Aura</type>
+				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
@@ -7603,7 +7603,7 @@ When Toad leaves the battlefield, put a +1/+1 counter on up to one target creatu
 		</card>
 		<card>
 			<name>Luigi, Cowardly Companion</name>
-			<text>Rescue 6 — {RG} (You may cast Luigi for {RG}. If you do, when he enters, create a 4 defense Castle Siege battle token an opponent defends which exiles him until it&apos;s defeated.)
+			<text>Rescue 5 — {RG} (You may cast Luigi for {RG}. If you do, when he enters, create a 5 defense Castle Siege battle token an opponent defends which exiles him until it&apos;s defeated.)
 Jump — Luigi has flying during your turn.
 When Luigi enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/286_Luigi, Cowardly Companion.png" num="286">ULT2</set>
@@ -7623,7 +7623,7 @@ When Luigi enters, you may discard a card. If you do, search your library for a 
 		</card>
 		<card>
 			<name>Princess Daisy</name>
-			<text>Rescue 4 — {BR} (You may cast Daisy for {1}{BR}. If you do, when she enters, create a 4 defense Castle Siege battle token an opponent defends which exiles her until it&apos;s defeated.)
+			<text>Rescue 3 — {1}{BR} (You may cast Daisy for {1}{BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it&apos;s defeated.)
 Menace
 When Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/300_Princess Daisy.png" num="300">ULT2</set>
@@ -7665,7 +7665,7 @@ Exile the top two cards of your library. You may play them until the end of your
 		</card>
 		<card>
 			<name>Princess Toadstool, Peach</name>
-			<text>Rescue 8 — {3}{RW} (You may cast Peach for {3}{RW}. If you do, when she enters, create an 8 defense Castle Siege battle token an opponent defends which exiles her until it&apos;s defeated.)
+			<text>Rescue 7 — {3}{RW} (You may cast Peach for {3}{RW}. If you do, when she enters, create an 7 defense Castle Siege battle token an opponent defends which exiles her until it&apos;s defeated.)
 When Peach enters, create a 1/1 red Fungus creature token. You become the monarch.
 Other creatures you control get +2/+0.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/302_Princess Toadstool, Peach.png" num="302">ULT2</set>
@@ -7703,7 +7703,7 @@ Chain Chomp can&apos;t attack players.</text>
 			<name>Luigi&apos;s Mansion</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add one mana of any color.
-{3}, {T}, Discard a card: Draw a card. If you discarded a nonland card, create a 1/1 white Spirit creature token with flying. Activate only as a sorcery.</text>
+{3}, {T}: Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Spirit creature token with flying. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/402_Luigi&apos;s Mansion.png" num="402">ULT2</set>
 			<prop>
 				<layout>normal</layout>
@@ -7736,8 +7736,9 @@ This land has all basic land types.
 		</card>
 		<card>
 			<name>Princess Party</name>
-			<text>Princess Party enters tapped unless you control a battle or Noble.
-{T}, Pay 1 life: Add one mana of any color.</text>
+			<text>Princess Party enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+{4}, {T}: You become the monarch. Activate only once.</text>
 			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/435_Princess Party.png" num="435">ULT2</set>
 			<prop>
 				<layout>normal</layout>
@@ -7748,6 +7749,7 @@ This land has all basic land types.
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
+			<related>The Monarch (SMB)</related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -7765,47 +7767,6 @@ This land has all basic land types.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Luigi&apos;s Mansion OLD</name>
-			<text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{20}, {T}: Exile Luigi&apos;s Mansion, then return it to the battlefield transformed. This ability costs {1} less to activate for each card you own in exile and in your graveyard.
----
-(Back): King Boo</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/27_Luigi&apos;s Mansion OLD_front.png" num="27a">ULT2</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WB</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-			<related attach="transform">King Boo</related>
-		</card>
-		<card>
-			<name>King Boo</name>
-			<text>Flying
-Ward—Sacrifice three creatures.
----
-(Front): Luigi&apos;s Mansion OLD</text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/27_Luigi&apos;s Mansion OLD_back.png" num="27b">ULT2</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Creature — Spirit</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>WB</colors>
-				<coloridentity>WB</coloridentity>
-				<pt>7/7</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Luigi&apos;s Mansion OLD</related>
 		</card>
 		<card>
 			<name>Castle Token (SMB) ULT2</name>
@@ -10275,27 +10236,9 @@ When Commerson&apos;s Dolphin enters the battlefield, it explores.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Fish ULT2 1 ULT2</name>
-			<text></text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/14t_Fish ULT2 1.png" num="14">ULT2</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Fish</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Fish ULT2 2 ULT2</name>
 			<text></text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/15t_Fish ULT2 2.png" num="15">ULT2</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/14t_Fish ULT2 2.png" num="14">ULT2</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10313,7 +10256,7 @@ When Commerson&apos;s Dolphin enters the battlefield, it explores.</text>
 		<card>
 			<name>Fish ULT2 3 ULT2</name>
 			<text></text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/16t_Fish ULT2 3.png" num="16">ULT2</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/15t_Fish ULT2 3.png" num="15">ULT2</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10331,7 +10274,7 @@ When Commerson&apos;s Dolphin enters the battlefield, it explores.</text>
 		<card>
 			<name>Fish ULT2 4 ULT2</name>
 			<text></text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/17t_Fish ULT2 4.png" num="17">ULT2</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/16t_Fish ULT2 4.png" num="16">ULT2</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -10347,9 +10290,27 @@ When Commerson&apos;s Dolphin enters the battlefield, it explores.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Fish ULT2 ULT2</name>
+			<name>Fish ULT2 5 ULT2</name>
 			<text></text>
-			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/13t_Fish ULT2.png" num="13">ULT2</set>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/17t_Fish ULT2 5.png" num="17">ULT2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fish ULT2 1 ULT2</name>
+			<text></text>
+			<set rarity="rare" picurl="https://FollowThatClown.github.io/sets/ULT2-files/img/13t_Fish ULT2 1.png" num="13">ULT2</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

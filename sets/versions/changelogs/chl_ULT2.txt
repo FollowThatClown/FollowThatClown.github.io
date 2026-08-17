@@ -1,4 +1,97 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Fish ULT2 5 added.
+
+Luigi's Mansion OLD removed.
+Fish ULT2 removed.
+
+
+type: Land => 
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => 
+
+Delirious Leap
+rules_text: Until end of turn, target creature you control has base power and toughness 4/4 and gains flying.
+Draw a card. => Until end of turn, target creature you control has base power and toughness 4/4 and gains flying. Untap it.
+Draw a card.
+
+Grimaline Smith, Neophyte
+
+Harry Jacket, Neophyte
+
+The Hunter Data
+
+Hupton Beach Lu'au
+
+Lord Wernon Fatigue
+
+Secret Ghoul
+
+Occam O'Connell, Chancellor
+
+Remold Blacklaw, Librarian
+
+The Archives
+
+Miniature Railroad
+
+Fire Flower
+type: Kindred Enchantment — Plant Aura => Enchantment — Aura
+
+Super Mushroom
+type: Kindred Enchantment — Fungus Aura => Enchantment — Aura
+rules_text: Enchant creature you control
+[i]Stomp[/i] — When Super Mushroom enters, enchanted creature deals damage equal to its power to target creature an opponent controls.
+Power-up — {4}{R}: Put two +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Super Mushroom's mana cost if it entered this turn.)[/i] => Enchant creature you control
+[i]Stomp[/i] — When Super Mushroom enters, enchanted creature deals damage equal to its power to up to one target battle or creature
+Power-up — {4}{R}: Put two +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Super Mushroom's mana cost if it entered this turn.)[/i]
+
+Luigi, Cowardly Companion
+rules_text: Rescue 6 — {RG} [i](You may cast Luigi for {RG}. If you do, when he enters, create a 4 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]
+[i]Jump [/i]— Luigi has flying during your turn.
+When Luigi enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Rescue 5 — {RG} [i](You may cast Luigi for {RG}. If you do, when he enters, create a 5 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]
+[i]Jump [/i]— Luigi has flying during your turn.
+When Luigi enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+Princess Daisy
+rules_text: Rescue 4 — {BR} [i](You may cast Daisy for {1}{BR}. If you do, when she enters, create a 4 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+Menace
+When Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature. => Rescue 3 — {1}{BR} [i](You may cast Daisy for {1}{BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+Menace
+When Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature.
+
+Princess Toadstool, Peach
+rules_text: Rescue 8 — {3}{RW} [i](You may cast Peach for {3}{RW}. If you do, when she enters, create an 8 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create a 1/1 red Fungus creature token. You become the monarch.
+Other creatures you control get +2/+0. => Rescue 7 — {3}{RW} [i](You may cast Peach for {3}{RW}. If you do, when she enters, create an 7 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create a 1/1 red Fungus creature token. You become the monarch.
+Other creatures you control get +2/+0.
+
+Luigi's Mansion
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Discard a card: Draw a card. If you discarded a nonland card, create a 1/1 white Spirit creature token with flying. Activate only as a sorcery. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}: Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Spirit creature token with flying. Activate only as a sorcery.
+
+Princess Party
+rules_text: Princess Party enters tapped unless you control a battle or Noble.
+{T}, Pay 1 life: Add one mana of any color. => Princess Party enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+{4}, {T}: You become the monarch. Activate only once.
+
+Fish ULT2 2
+
+Fish ULT2 3
+
+Fish ULT2 4
+
+Fish ULT2 1
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Camp Command added.
