@@ -1,4 +1,102 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Dwarven Mine added.
+HERO'S JOURNEY added.
+Boss Fight added.
+Cursed Zoologist added.
+The Destroyer of Worlds added.
+Golem, Temple Guardian added.
+Hero of Terraria added.
+King Slime, Mad Monarch added.
+Reach the Zenith added.
+The Wall of Flesh added.
+Delve Deep added.
+Journey's End added.
+Sky Islands added.
+Strange World added.
+The Underworld added.
+Robot (TRA) added.
+Fire Flower added.
+Mario, Pesky Plumber added.
+Super Mushroom added.
+Unexpected Toad added.
+Luigi, Cowardly Companion added.
+Princess Daisy added.
+Princess Rosalina added.
+Princess Toadstool, Peach added.
+Chain Chomp added.
+Luigi's Mansion added.
+Anywhere (SMB) added.
+Princess Party added.
+IN ANOTHER CASTLE added.
+Luigi's Mansion OLD added.
+Castle Token (SMB) added.
+The Monarch (SMB) added.
+Fungus Token (SMB) added.
+The Engineer, Stranded added.
+Automated Flame-Tank added.
+
+Gabriel, Judge of Hell removed.
+WAR WITHOUT REASON removed.
+The Inferno removed.
+Layer 2 — LUST removed.
+V1, Perfect Steel removed.
+Knuckleblaster removed.
+Layer 8 — FRAUD removed.
+HELL IS FULL removed.
+Mannequins removed.
+RICOSHOT removed.
+Sisyphus Prime removed.
+Filths removed.
+Layer 4 — GREED removed.
+Layer 7 — VIOLENCE removed.
+FUEL removed.
+SSADISTIC removed.
+Mountain (DF) removed.
+Zombie removed.
+
+Nico Goldstein
+rules_text: Whenever another creature dies, create an Armament token. This ability triggers only once each turn. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i] => Ward—Pay 2 life
+Whenever another creature dies, create an Armament token. This ability triggers only once each turn. [i](An Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+
+type: Land => 
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => 
+
+Dwarven Mine
+
+Zombie
+rules_text: This creature can't block. => Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt:  => 2/2
+
+Chain Formation
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +2/+0 and gains indestructible.
++{W} — Create two 1/1 white Human Soldier creature tokens. => Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +1/+0 and gains indestructible.
++{W} — Create two tapped 1/1 white Human Soldier creature tokens.
+
+Item
+
+Scramble for Solutions
+rules_text: Choose one —
+• Draw two cards, then discard two cards unless you sacrifice an untapped artifact.
+• Tap target artifact or creature. Put two stun counters on it. => Choose one —
+• Draw two cards, then discard two cards unless you sacrifice an untapped artifact.
+• Tap target creature. Put two stun counters on it.
+
+Turret Array
+rules_text: Defender
+When this creature enters, create a tapped Assembler token. [i](It's an artifact token with “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+Assemblers you control have, “{2}, {T}: Tap target creature.” => Defender, reach
+When this creature enters, create a tapped Assembler token. [i](It's an artifact token with “{T}: Add {C}. This mana can't be spent on nonartifact spells.”)[/i]
+Assemblers you control have, “{2}, {T}: Tap target creature.”
+
+
+VERSION 17 CHANGELOG
 ====================
 
 SCP-1762, Where The Dragons Went added.
