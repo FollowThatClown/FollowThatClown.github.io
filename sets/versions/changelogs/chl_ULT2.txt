@@ -1,4 +1,204 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Chancellor Occam O'Connell added.
+Clue (RE) added.
+Weapon (DMC) added.
+KIRA'S JUSTICE added.
+Gods Of Death Love Apples added.
+Final Test added.
+Kira Cultists added.
+Kira's Task Force added.
+Light Yagami, Would-Be God added.
+Misa Amane, Kira Worshipper added.
+Obsessive Pursuit (DN) added.
+Ryuk, Spirit of Death added.
+L, Immature Investigator added.
+Formless Landscape added.
+Formless Landscape added.
+Yellow Box Warehouse added.
+Citizen (DN) added.
+Clue (DN) added.
+Kira Investigation HQ added.
+EXODIA added.
+The Forbidden One added.
+Forbidden One's Left Arm added.
+Forbidden One's Left Leg added.
+Forbidden One's Right Arm added.
+Forbidden One's Right Leg added.
+Heart of the Cards added.
+The Millennium Puzzle added.
+Obliterating Blast added.
+Ultimate Necross Rebirth added.
+KaibaCorp Battle Box added.
+Portal to the Shadow Realm added.
+Portal to the Shadow Realm added.
+Akizet's Corrucyst added.
+Cavik Thoughtform added.
+Council of Jokzi Ozo added.
+Deep Sea Memory added.
+Don the Mask added.
+Funfriend, System Assistant added.
+Interloper, Outside Observer added.
+LIVING THOUGHTS added.
+Unable to Deviate added.
+BSTRD, Chaotic Daemon added.
+Locus of Recollection added.
+Jumbled Cityscape added.
+Obesk Spire added.
+Demon Token CORU added.
+SCP-1762 added.
+
+Armament removed.
+SCP-049, The Plague Doctor removed.
+Occam O'Connell, Chancellor removed.
+
+
+type: Land => 
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => 
+
+SCP-049
+rules_text: {3}, Exile a creature card from your graveyard: Draw a card. Create a 2/2 black Zombie creature token with decayed. Activate only as a sorcery. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When SCP-049 enters, surveil 2.
+{3}, Exile a creature card from your graveyard: Draw a card. Create a 2/2 black Zombie creature token with decayed. Activate only as a sorcery. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Uncharted Rimworld
+rules_text: {T}: Add {C}.
+{2}, {T}: Choose one that hasn't been chosen —
+• [i]Crashlanded — [/i]Surveil 2.
+• [i]Lost Tribe — [/i]Choose a basic land type. This land gains it.
+• [i]Rich Explorer — [/i]Create a tapped Treasure token. => {T}: Add {C}.
+{1}, {T}: Choose one that hasn't been chosen —
+• [i]Crashlanded — [/i]Surveil 1.
+• [i]Lost Tribe — [/i]Choose a basic land type. This land gains it.
+• [i]Rich Explorer — [/i]Create a tapped Treasure token.
+
+Unexpected Toad
+rules_text: Rescue 2 — {R} [i](If you cast this for {R}, when it enters, create a 2 defense Castle battle token an opponent defends which exiles it until it's defeated.)[/i]
+First strike
+When Toad leaves the battlefield, put a +1/+1 counter on up to one target creature. => Rescue 2 — {R} [i](You may cast this {R}. If you do, when it enters, create a 2 defense Castle battle token an opponent defends which exiles it until it's defeated.)[/i]
+When Toad enters, discard up to two cards, then draw that many cards.
+pt: 1/2 => 2/2
+
+Corner
+rules_text: Exile target artifact, enchantment, or creature with power 4 or greater. => Exile target artifact, enchantment, or tapped creature.
+
+The Leper
+cost: {3}{RG} => {3}{R}
+
+A Little Lie Between Friends
+
+Ada Wong
+
+Glasp
+
+HUNK, the 4th Survivor
+cost: {2}{U}{U} => {3}{U}{U}
+rules_text: Whenever HUNK attacks, you may draw a card. If you do, discard a card.
+Disturb {2}{U}{U}. You can't pay this cost if this card entered your graveyard this turn. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Ward {2}
+Whenever HUNK attacks, you may draw two cards. If you do, discard a card.
+Disturb {3}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+pt: 4/4 => 5/5
+
+Infected Crows
+
+Queen Semiramis
+
+Queen Zenobia
+
+Raccoon Police Department
+
+Rachel Foley
+
+Rebecca Chambers
+
+UMBRELLA CONSPIRACY
+
+William Birkin
+
+Jill Valentine, BSAA
+rules_text: [i]GENESIS Scanner — [/i]Whenever Jill enters or attacks, mill up to two cards. Then if a graveyard has seven or more cards in it, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Disturb {2}{UB}{UB} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Reach
+[i]GENESIS Scanner — [/i]Whenever Jill enters or attacks, mill up to two cards. Then if a graveyard has seven or more cards in it, investigate.
+Disturb {2}{UB}{UB} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Citizen (SM)
+
+Clue (SM)
+
+Crystal Tokyo
+
+Hotaru Tomoe
+rules_text: Whenever Hotaru or another creature you control enters, you gain 1 life.
+{3}{WB}{WB}{WB}: Transform Hotaru. Activate only as a sorcery. => Whenever Hotaru or another creature you control enters, gain 1 life.
+{3}{WB}{WB}{WB}: Transform Hotaru. Activate only as a sorcery.
+
+Makoto Kino
+rules_text: [i]Green Thumb[/i] — When Makoto enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}{GW}{GW}: Transform Makoto. => [i]Green Thumb[/i] — When Makoto enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}{GW}{GW}: Transform Makoto.
+pt: 2/1 => 2/2
+
+Minako Aino
+rules_text: During your turn, Minako Aino has first strike
+{2}{RW}{RW}: Transform Minako. Activate only as a sorcery. => During your turn, Minako has first strike.
+{2}{RW}{RW}: Transform Minako. Activate only as a sorcery.
+
+Rei Hino
+
+Fruits Parlor Crown
+rules_text: This land enters tapped if you c
+{T}: Add {W}.
+{1}{W}{W}, {T}: Create a tapped 1/1 green and white Citizen creature token. => This land enters tapped.
+{T}: Add {W}.
+{1}{W}{W}, {T}: Create a tapped 1/1 green and white Citizen creature token.
+
+Usagi Tsukino
+
+Ami Mizuno
+
+Balrog, Argosax's Second
+
+Berial, Fortuna Terror
+
+Dante, Devil Trigger
+
+DEVIL ARMS
+
+Devil May Cry
+
+Hellbat
+
+Nero, High Roller
+rules_text: Trample
+[i]Devil Bringer[/i] — Reach
+[i]MAX-Act — [/i]Whenever Nero enters or attacks, put a +1/+1 counter on him and a hone counter on each Equipment you control. [i](Each hone counter on an Equipment grants +1/+0 to the equipped creature.)[/i] => Trample
+[i]Devil Trigger[/i] — Reach
+[i]MAX-Act — [/i]Whenever Nero enters or attacks, put a +1/+1 counter on him and a hone counter on each Equipment you control. [i](Each hone counter on an Equipment grants +1/+0 to the equipped creature.)[/i]
+
+The Devil's Tower
+
+Voltaic Black Knight
+
+Mitis Assault
+rules_text: When this creature enters, create an Armament token, then attach it to this creature. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i] => When this creature enters, create a Weapon token, then attach it to this creature. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i]
+
+Jackpot!
+rules_text: Jackpot! deals 3 damage to any target. When a creature is dealt lethal damage this way, create an Armament token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i] => Jackpot! deals 3 damage to any target. When that creature dies this turn, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i]
+
+Nico Goldstein
+rules_text: Ward—Pay 2 life
+Whenever another creature dies, create an Armament token. This ability triggers only once each turn. [i](An Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Ward—Pay 2 life.
+Whenever another creature dies, create a Weapon token. This ability triggers only once each turn. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i]
+
+Nico's Armory
+rules_text: {T}: Add {R}.
+{2}, {T}, Discard a card: Create an Armament token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i] => {T}: Add {R}.
+{1}, {T}, Discard a card: Create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i]
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Fish ULT2 5 added.
