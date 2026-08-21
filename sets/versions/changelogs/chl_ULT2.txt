@@ -1,4 +1,413 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Rose Quartz added.
+Bring Me That Girl added.
+Breach() Transistor added.
+Crash() Transistor added.
+Breach Transistor added.
+Help() Transistor added.
+Jaunt() Transistor added.
+Rainbow Road added.
+Fungus Warrior Token (SMB) added.
+The Monarch added.
+The Mushroom Kingdom added.
+I'll Get You My Pretty added.
+Bring Me That Girl added.
+Kansas added.
+Human (WOZ) added.
+Formaggio, Slick Sneak added.
+Ghiaccio, Icy Berserker added.
+Illuso, Mirror Man added.
+Melone, Distant Admirer added.
+Pesci, Wannabe Gangster added.
+Prosciutto, Hardened Mafioso added.
+Severed and Sent added.
+La Squadra's Betrayal added.
+Risotto, Vengeful Leader added.
+Killer for Hire added.
+Italy added.
+La Squadra Hideout added.
+SABOTEURS added.
+Spirit Horror added.
+Clue (EXEC) added.
+The Radiance, Forgotten Light_front added.
+OF GOD AND VOID added.
+The Radiance, Forgotten Light added.
+Ancient Sickness added.
+The Hollow Knight added.
+The Knight, Returned Traveler added.
+Primal Aspid added.
+Grand Mother Silk added.
+Hornet, Pharloom's Savior added.
+Phantom in the Mist added.
+Enter Pharloom added.
+The Everbloom added.
+Dreamer's Gate added.
+Overgrown Tomb (HK) added.
+The White Palace added.
+Insect Bard (HK) added.
+bad breakup added.
+Billie Eilish added.
+MONSTERMAU5 added.
+Snailiens added.
+Girl's Fight Out added.
+Gustavo Rocque added.
+Kesha, Turning It Up added.
+Essence of the Week added.
+REFRACTION OF HABIT added.
+TURN IT UP! added.
+☆ P4R7Y 4N1M4L5 ☆ added.
+Glowsquid Galaxy added.
+Snails on Venus added.
+Wuhu Island added.
+Party Animal added.
+God of the New World added.
+Shinigami Realm added.
+Shinigami Realm added.
+
+Breach() removed.
+Crash() removed.
+Equip() removed.
+Jaunt() removed.
+Help() removed.
+Anywhere (WOZ) removed.
+Human Token removed.
+Anywhere (SMB) removed.
+The Monarch (SMB) removed.
+Fungus Token (SMB) removed.
+Formless Landscape removed.
+Formless Landscape removed.
+Yellow Box Warehouse removed.
+
+
+type: Basic Land — Island => 
+
+Class-D Demotion
+rules_text: Destroy target creature. Create a 2/2 black Human Serf creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Destroy target creature. Create a 2/2 black Human creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Foundation Guards
+rules_text: When this creature enters, create a 2/2 black Human Serf creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Channel[/i] — {1}{B}, Discard this card: Target creature gets +1/+0 and gains indestructible until end of turn. => When this creature enters, create a 2/2 black Human creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Channel[/i] — {1}{B}, Discard this card: Target creature gets +1/+0 and gains indestructible until end of turn.
+
+SCP-035, Possessed Mask
+rules_text: When SCP-035 enters, create a 2/2 black Human Serf creature token with expendable and attach SCP-035 to it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +2/+1 and has menace.
+Equip {4} => When SCP-035 enters, create a 2/2 black Human creature token with expendable and attach SCP-035 to it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +2/+1 and has menace.
+Equip {4}
+
+Weapon (DMC)
+
+Mitis Assault
+
+Jackpot!
+
+Nico Goldstein
+
+Nico's Armory
+
+From Chin To Tail
+rules_text: [i]Morbid[/i] — From Chin To Tail deals 4 damage to target tapped creature. If a creature died this turn, exile target creature instead. => [i]Morbid[/i] — From Chin To Tail deals 4 damage to target creature if it's tapped. If a creature died this turn, exile that creature instead.
+
+Hawkfrost
+pt: 3/2 => 3/1
+
+Rusty
+
+Ivy, Savior of Harlem
+rules_text: Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [2/4]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5] => Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [2/4]
+[level 1-3] Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5]
+special_text: Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [2/4]
+[level 1-3] Flying
+Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Flying, lifelink
+Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5] => Level up {2} [i]({2}: Put a level counter on this. Level up only as a sorcery.)[/i]
+Flying [2/4]
+[level 1-3] Whenever Ivy attacks, put a +1/+1 counter on another target attacking creature. [3/4]
+[level 4+] Whenever Ivy attacks, put a +1/+1 counter on each other attacking creature. [4/5]
+
+Welcome to the Baroness
+rules_text: Return target creature to its owner's hand. 
+[i]Ascendant 5 — [/i]If there are five or more counters among creatures you control, you may instead have its owner put it on their choice of the top or bottom of their library. => Return target creature to its owner's hand. 
+[i]Ascendant — [/i]If there are three or more counters among creatures you control, you may instead have its owner put it on their choice of the top or bottom of their library.
+
+The Archmother, Austere
+cost: {4}{W}{U} => {5}{W}{U}
+rules_text: Indestructible
+When the Archmother enters, put a +1/+1 counter on target creature, then return each other creature with no counters to its owners' hand. => Indestructible
+When The Archmother enters, put a +1/+1 counter on target creature, then return each other creature with no counters to its owners' hand.
+
+Soul
+type: Token Artifact — Soul => Artifact — Soul
+
+Zooble
+rules_text: As Zooble enters, choose up to X at random from among reach, first strike, vigilance, menace, trample, and haste. They enter with those counters and X +1/+1 counters. => As Zooble enters, choose up to X at random from among reach, first strike, vigilance, menace, trample, and +1/+1. They enter with those counters and X +1/+1 counters.
+
+CAINE
+pt: 5/5 => 
+
+I'll Get You My Pretty
+rules_text: Choose target creature you control and target creature you don't control. The creature you gets +X/+X until end of turn, where X is the number of times you've wandered this turn. Then those creatures fight. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[i]. . . And your little dog, too![/i] — Flashback {4}{G} => Choose target creature you control and target creature you don't control. The creature you gets +X/+X until end of turn, where X is the number of times you've wandered this turn. Then those creatures fight. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+
+Clawdeen Wolf
+rules_text: Ward {1}
+[i]Vivid — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2} => [i]Vivid — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2}
+
+Draculaura
+cost: {4}{BR} => {5}{BR}
+rules_text: [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+Exhaust—{3}{W}{U}{B}{R}{G}: Surveil 3. Put each permanent card put into your graveyard this way onto the battlefield. => [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+Exhaust—{5}{W}{U}{B}{R}{G}: Surveil 5. Put each permanent card put into your graveyard this way onto the battlefield.
+
+Frankie Stein
+rules_text: Flash
+Frankie Stein enters tapped.
+[i]Vivid[/i] — When Frankie enters, she deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control. => [i]Vivid[/i] — When Frankie enters, she deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control.
+
+Spectra, Gossip Ghost
+type: Legendary Enchantment Creature — Spirit => Legendary Creature — Spirit
+rules_text: Flash
+Flying
+When Spectra enters, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => Flying 
+When Spectra enters, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Spoiling Cells
+
+Upgraded Unmaker
+rules_text: Double strike
+Basic landcycling {2} => Double strike
+
+Dog Processor
+type: Artifact Creature — Egg Processor => Artifact Creature — Dog Processor
+
+HUNK, the 4th Survivor
+rules_text: Ward {2}
+Whenever HUNK attacks, you may draw two cards. If you do, discard a card.
+Disturb {3}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Ward {2}
+Whenever HUNK attacks, you may draw two cards. If you do, discard a card.
+Disturb {2}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Rachel Foley
+rules_text: When Rachel enters, she explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Disturb {2}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Rachel enters, she explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Disturb {1}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Jill Valentine, BSAA
+rules_text: Reach
+[i]GENESIS Scanner — [/i]Whenever Jill enters or attacks, mill up to two cards. Then if a graveyard has seven or more cards in it, investigate.
+Disturb {2}{UB}{UB} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Reach
+[i]GENESIS Scanner — [/i]Whenever Jill enters or attacks, you may mill two cards. Then if a graveyard has seven or more cards in it, investigate.
+Disturb {2}{UB}{UB} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+pt: 3/3 => 3/2
+
+Ballora
+cost: {2}{UB} => {2}{B}
+rules_text: Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+[i]Noise Sensitive [/i]— Creatures can't attack you unless their controller pays {2} or 3 life for each creature attacking you. => Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+[i]Noise Sensitive [/i]— Whenever a creature attacks you, that creature's controller loses 1 life and you gain 1 life. This ability triggers only twice each turn.
+
+Chain Chomp
+rules_text: Trample 
+Chain Chomp can't attack players. => Reach, trample 
+Chain Chomp can't attack players.
+
+Fire Flower
+cost: {2}{R} => {2}{R}{R}
+rules_text: Enchant creature
+When Fire Flower enters, it deals 2 damage to each creature except enchanted creature.
+Power-up — {5}{R}: Put three +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Fire Flower's mana cost if it entered this turn.)[/i] => Enchant creature
+When Fire Flower enters, it deals 3 damage to each creature except enchanted creature.
+Power-up — {6}{R}{R}: Put three +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by {R} if Fire Flower it entered this turn.)[/i]
+
+Luigi's Mansion
+
+Mario, Pesky Plumber
+rules_text: Double strike
+[i]Jump[/i] — Mario has flying during your turn. => Double strike
+Ward—Pay 3 life.
+[i]Jump[/i] — Mario has flying while attacking a battle.
+
+Princess Rosalina
+cost: {4}{UR} => {1}{UR}
+pt: 3/4 => 2/1
+
+Super Mushroom
+rules_text: Enchant creature you control
+[i]Stomp[/i] — When Super Mushroom enters, enchanted creature deals damage equal to its power to up to one target battle or creature
+Power-up — {4}{R}: Put two +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Super Mushroom's mana cost if it entered this turn.)[/i] => Enchant creature you control
+[i]Stomp[/i] — When Super Mushroom enters, enchanted creature deals damage equal to its power to up to one target battle or creature.
+Power-up — {4}{R}: Put two +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Super Mushroom's mana cost if it entered this turn.)[/i]
+
+Princess Party
+rules_text: Princess Party enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+{4}, {T}: You become the monarch. Activate only once. => When Princess Party enters, choose a color other than red.
+{T}: Add {C}.
+{T}, Pay 1 life: Add {R} or one mana of the chosen color.
+
+Luigi, Cowardly Companion
+rules_text: Rescue 5 — {RG} [i](You may cast Luigi for {RG}. If you do, when he enters, create a 5 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]
+[i]Jump [/i]— Luigi has flying during your turn.
+When Luigi enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Rescue 4 — {RG} [i](You may cast Luigi for {RG}. If you do, when he enters, create a 5 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]
+[i]Jump [/i]— Luigi has flying while attacking a battle.
+When Luigi enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+pt: 3/4 => 4/5
+
+Princess Daisy
+rules_text: Rescue 3 — {1}{BR} [i](You may cast Daisy for {1}{BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+Menace
+When Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature. => Rescue 4 — {BR} [i](You may cast Daisy for {BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+Menace
+When Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature.
+
+Unexpected Toad
+rules_text: Rescue 2 — {R} [i](You may cast this {R}. If you do, when it enters, create a 2 defense Castle battle token an opponent defends which exiles it until it's defeated.)[/i]
+When Toad enters, discard up to two cards, then draw that many cards. => Rescue 1 — {R} [i](If you cast this for {R}, when it enters, create a 1 defense Castle battle token an opponent defends which exiles it until it's defeated.)[/i]
+When Unexpected Toad enters, you may discard a card. If you do, draw a card.
+
+Princess Toadstool, Peach
+rules_text: Rescue 7 — {3}{RW} [i](You may cast Peach for {3}{RW}. If you do, when she enters, create an 7 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create a 1/1 red Fungus creature token. You become the monarch.
+Other creatures you control get +2/+0. => Rescue 7 — {2}{RW} [i](You may cast Peach for {2}{RW}. If you do, when she enters, create an 7 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create three 1/1 red Fungus Warrior creature tokens.
+During your turn, other creatures you control get +1/+0 and have first strike.
+
+Dorothy Gale
+rules_text: Whenever you wander, you may mill three cards, then return a land card from among them to the battlefield tapped. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+{10}{W}{U}{B}{R}{G}: Shuffle each other creature into its owner's library. Create three 2/2 white Human creature tokens. Activate only once. => Whenever you wander, you may mill three cards, then return a land card from among them to the battlefield tapped. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+{8}{W}{U}{B}{R}{G}: Shuffle each other creature into its owner's library. Create three 2/2 white Human creature tokens. Activate only once.
+pt: 3/3 => 2/3
+
+Lion, the Spineless
+rules_text: Defender, trample
+Whenever you wander, put a +1/+1 counter on Lion. Then if he has power 7 or greater, harness him. [i](His 🦴 ability becomes active. You wander when you play a land from your hand or any card from anywhere else.)[/i]
+🦴 — Lion loses defender and has protection from creatures with menace. => Defender, trample
+Whenever you wander, put a +1/+1 counter on Lion. Then if he has power 6 or greater, harness him. [i](His 🦴 ability becomes active. You wander when you play a land from your hand or any card from anywhere else.)[/i]
+🦴 — Lion loses defender.
+pt: 2/2 => 3/1
+
+Scarecrow, the Brainless
+rules_text: Vigilance, reach
+You may play an additional land each turn.
+{5}{G}: Harness Scarecrow. [i](His 🧠 ability becomes active.)[/i]
+🧠 — Scarecrow gets +3/+0 and “Whenever this attacks, draw a card.” => Reach
+You may play an additional land each turn.
+{5}{G}: Harness Scarecrow. [i](His 🧠 ability becomes active.)[/i]
+🧠 — Scarecrow gets +3/+0 and “Whenever this attacks, draw a card.”
+
+Toto, the Little Dog
+cost: {G} => {1}{G}
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+Whenever you wander, you gain 1 life. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => When Toto enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Escape—{1}{G}, Exile three other cards from your graveyard. [i](You may cast this from your graveyard for its escape cost.)[/i]
+pt: 1/1 => 2/1
+
+Glinda, the Good Witch
+cost: {3}{GW} => {4}{GW}
+pt: 4/5 => 4/6
+
+Emerald City
+rules_text: {T}, Pay 1 life: Add {G}.
+{1}, {T}: Create a Treasure token. Activate only if you've wandered this turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Hideaway 5 [i](When this land enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]
+{T}, Pay 1 life: Add {G}.
+{1}, {T}, Sacrifice Emerald City: You may play the exiled card this turn.
+
+Haru
+
+Gouhin, Black Market Doc
+rules_text: Gouhin attacks each combat if able.
+At the beginning of your end step, return up to one creature card from your graveyard to your hand if it was put there this turn. If it has power 4 or greater, return it to the battlefield with a finality counter instead. => Ward {2}
+At the beginning of your end step, if a creature you controlled left this turn, surveil 2. If that creature had power 4 or greater, draw a card.
+
+Legosi, Carnivore Investigator
+
+Final Test
+rules_text: Put a +1/+1 counter on target creature you control. Until end of turn, it gains your choice of two abilities from among deathtouch, indestructible, or lifelink. => Put a +1/+1 counter on target creature. It gains your choice of two from among deathtouch, indestructible, or lifelink until end of turn.
+
+Kira Cultists
+pt: 1/4 => 0/4
+
+Light Yagami, Would-Be God
+rules_text: [i]The World Is Rotten[/i] — {1}, Sacrifice a nontoken creature: Investigate.
+[i]For Justice — [/i]Whenever you draw a card, Light Yagami gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, create two tapped 1/1 green and white Citizen creature tokens. => [i]The World Is Rotten[/i] — {1}, Sacrifice a nontoken creature: Investigate.
+[i]For Justice — [/i]Whenever you draw a card, Light gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, create a 1/1 green and white Citizen creature token.
+pt: 3/4 => 2/4
+
+Misa Amane, Kira Worshipper
+rules_text: Deathtouch
+[i]Shinigami Eyes[/i] — When Misa enters, lose 1 life and investigate.
+[i]For Justice — [/i]Whenever you draw a card, Misa gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, she gains menace until end of turn. => Deathtouch
+[i]Shinigami Eyes[/i] — When Misa enters, lose 1 life and investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+[i]For Justice — [/i]Whenever you draw a card, Misa gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, she gains menace until end of turn.
+
+Ryuk, Spirit of Death
+cost: {3}{B}{B} => {2}{B}{B}
+rules_text: Flying
+[i]For Fun — [/i]Whenever you draw a card, Ryuk gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, each opponent loses 2 life and you gain 2 life. => [i]For Fun — [/i]Whenever you draw a card, Ryuk gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, he gains flying until end of turn.
+pt: 4/4 => 2/4
+
+L, Immature Investigator
+rules_text: [i]For Justice — [/i]Whenever you draw a card, L gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, he can't be blocked until end of turn.
+Whenever a creature dies, you lose 1 life and investigate. This ability triggers only once each turn. => [i]For Justice — [/i]Whenever you draw a card, L gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, he can't be blocked until end of turn.
+Whenever a creature dies, lose 1 life and investigate. This ability triggers only once each turn.
+pt: 1/2 => 0/2
+
+Kira Investigation HQ
+rules_text: This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Cavik Thoughtform
+rules_text: Flash
+{4}{U}: Draw a card. => Flash
+When this creature dies, draw a card, then discard a card.
+
+Council of Jokzi Ozo
+pt: 2/5 => 3/5
+
+Deep Sea Memory
+rules_text: Flash
+When this enchantment enters, choose target nonland permanent with mana 3 or less. Its owner puts it on their choice of the top or bottom of their library.
+{2}, Sacrifice this enchantment: Draw a card. => Flash
+When this enchantment enters, choose target nonland permanent with mana 4 or less. Its owner puts it on their choice of the top or bottom of their library.
+{3}, Sacrifice this enchantment: Draw a card.
+
+Funfriend, System Assistant
+rules_text: Flying
+This creature gets +2/+0 as long as you control three or more enchantments. => Flying
+This creature gets +1/+0 and has vigilance as long as you control another enchantment.
+
+BSTRD, Chaotic Daemon
+rules_text: When this creature enters, create a 1/1 blue and red Demon enchantment creature token.
+Whenever you draw your second card each turn, target creature can't block Demons this turn. => When this creature enters, create a 1/1 blue and red Demon enchantment creature token.
+Whenever BSTRD attacks, target creature can't block Demons this turn.
+
+Locus of Recollection
+rules_text: When this creature enters, surveil 1.
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature. => Whenever this creature or another enchantment you control enters, surveil 1.
+This creature gets +2/+0 as long as you control another enchantment.
+pt: 3/2 => 2/3
+
+Obesk Spire
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Chancellor Occam O'Connell added.
