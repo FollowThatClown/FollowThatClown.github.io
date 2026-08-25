@@ -1,4 +1,335 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Spirit Token (FNAF) added.
+Mobile Task Force added.
+Site Lockdown added.
+SCP-049, The Plague Doctor added.
+Zombie Token SCP added.
+Artemis, Silver Sister added.
+Crossed Flames added.
+Descura, Nocturnal Staff added.
+Frinos, Cthonic Companion added.
+Hecate, Witch of the Crossroads added.
+Melinoë, Cthonic Nymph added.
+Night's Light added.
+Pressed for Time added.
+Gathering of Shades added.
+The Crossroads added.
+A Moment That Would Never Pass added.
+Rejuvenating Hot Spring added.
+Tent of Rituals added.
+Underworld Arcana added.
+Shade HDS added.
+Jigen, the Marksman added.
+Rebecca, Renaissance Woman added.
+Ami, Prodigal Hacker added.
+Believe in the Thief added.
+Slash of the Zantetsuken added.
+GRAND HEIST added.
+Fujiko, Femme Fatale added.
+Goemon, the Blademaster added.
+Lupin, World's Greatest Thief added.
+Zenigata, Dedicated Agent added.
+Castle Cagliostro added.
+Secret Bolthole added.
+Human Soldier (3RD) added.
+☆ P4R7Y 4N1M4L5 ☆ added.
+Chell, Resourceful Subject added.
+Resolve the Stalemate added.
+Resume Testing added.
+Weighted Companion Cube added.
+Wheatley, Moron Core added.
+Atlas & P-Body added.
+GLaDOS, Insidious Overseer added.
+The Rat Man added.
+Auto Turret added.
+Old Aperture added.
+Turret Opera added.
+Extended Relaxation Center added.
+PORTALS added.
+Portal added.
+Ninja NART added.
+Hiruzen, The Professor added.
+
+Class-D Demotion removed.
+Minato, the Yellow Flash removed.
+Containment Breach removed.
+SCP-049 removed.
+Spirit token removed.
+SCP-1762 removed.
+I'll Get You My Pretty removed.
+
+
+type: Basic Land — Island => 
+
+The Regent
+pt: 0/5 => 0/4
+
+I'll Get You My Pretty
+
+Blood Crazed
+cost: {2}{G} => {1}{G}
+rules_text: Flash
+Enchant creature you control
+When Blood Crazed enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +2/+2 and has trample and attacks each combat if able. => Until end of turn, target creature you control gets +2/+1 and gains trample. It fights up to one target creature an opponent controls.
+
+Riz, Hidden Devourer
+rules_text: You may pay {3}{G} and sacrifice a nontoken creature rather than pay Riz's mana cost.
+Trample
+Undying [i](When Riz dies, if he had no +1/+1 counters, return him to the battlefield under his owner's control with a +1/+1 counter.)[/i]
+Basic landcycling {2} => You may pay {3}{G} and sacrifice a nontoken creature rather than pay Riz's mana cost. If you do, he enters tapped.
+Undying [i](When Riz dies, if he had no +1/+1 counters, return him to the battlefield under his owner's control with a +1/+1 counter.)[/i]
+Basic landcycling {2}
+
+Underworld Economizing
+
+Melon, Hybrid Crime Lord
+
+Shady Bar
+
+Ballora
+rules_text: Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+[i]Noise Sensitive [/i]— Whenever a creature attacks you, that creature's controller loses 1 life and you gain 1 life. This ability triggers only twice each turn. => Living metal [i](Ballora is an artifact creature during your turn.)[/i]
+Menace
+[i]Noise Sensitive [/i]— Whenever one or more creatures attack you, Ballora deals 1 damage to that creature's controller and you gain 1 life.
+pt: 3/3 => 3/2
+
+Joy of Creation
+rules_text: Choose one —
+• Return up to two target artifact and/or creature cards from your graveyard to your hand. You lose 3 life.
+• Target artifact creature gains lifelink and indestructible until end of turn. => Choose one —
+• Return up to two target artifact and/or creature cards from your graveyard to your hand. You lose 2 life.
+• Target creature gets +2/+2 and gains lifelink until end of turn.
+
+Dreadbear
+rules_text: When you cast Dreadbear, you gain 4 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When Dreadbear dies, if it had no +1/+1 counters, return it to the battlefield under its owner's control with a +1/+1 counter.)[/i]
+Basic landcycling {2} => When you cast Dreadbear, you gain 5 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When Dreadbear dies, if it had no +1/+1 counters, return it to the battlefield under its owner's control with a +1/+1 counter.)[/i]
+Basic landcycling {2}
+
+The Puppet
+
+Boss Fight
+type: Sorcery => Instant
+cost: {R} => {1}{R}
+rules_text: Target creature you control fights target creature you don't control. When the creature you don't control dies this turn, put a +1/+1 counter on up to one target creature. => Put a +1/+1 counter on target creature you control. It fights up to one target creature you don't control.
+
+The Destroyer of Worlds
+
+Golem, Temple Guardian
+rules_text: Ward—Pay 3 life
+Golem must be blocked if able.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i] => Ward—Pay 3 life
+Golem must be blocked if able.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i]
+Basic landcycling {2}
+
+Hero of Terraria
+rules_text: Flying
+You may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.
+Modified creatures you control have haste and get +1/+0. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Flying
+You may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.
+Modified creatures you control and get +1/+0. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+The Wall of Flesh
+rules_text: Haste, menace
+The Wall of Flesh attacks each turn if able.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i] => Haste, menace
+The Wall of Flesh attacks each combat if able.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i]
+Basic landcycling {2}
+
+Cat Burglar Nami
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a tapped Treasure token.
+Sacrifice two artifacts and/or lands: Nami explores. Activate only as a sorcery. [i](Reveal the top card of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => [i]Landfall[/i] — Whenever a land you control enters, create a tapped Treasure token.
+{1}, Sacrifice an artifact or land: Nami explores. Activate only as a sorcery. [i](Reveal the top card of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Port
+rules_text: {T}, Pay 1 life: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: You draw two cards. Activate only if you have 7 or less life. => {T}: Add {C}.
+{T}, Pay 1 life: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: Draw two cards. Activate only if you have 7 or less life.
+
+Ghiaccio, Icy Berserker
+cost: {4}{U}{U} => {3}{U}{U}
+pt: 7/4 => 6/4
+
+Illuso, Mirror Man
+cost: {4}{U} => {3}{U}
+rules_text: Ward {2}
+When Illuso enters, choose target creature.[i]
+[/i]At the beginning of each combat, switch the chosen creature's power and toughness. It can't block or be blocked this turn, except by Illuso. => When Illuso enters, choose target creature.[i]
+[/i]At the beginning of each combat, switch the chosen creature's power and toughness. It can't block or be blocked this turn, except by Illuso.
+pt: 4/3 => 4/2
+
+Melone, Distant Admirer
+rules_text: Menace
+When Melone enters, create a 1/1 black Spirit Horror enchantment creature token.
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on up to one target Spirit Horror. => When Melone enters, create a 1/1 black Spirit Horror enchantment creature token.
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on up to one target Spirit Horror.
+
+Pesci, Wannabe Gangster
+cost: {1}{B} => {B}
+rules_text: Reach, deathtouch
+[i]Gone Fishin'[/i] — When Pesci enters, surveil 2. You lose 2 life. => Reach, deathtouch
+[i]Gone Fishin'[/i] — When Pesci enters, surveil 1.
+pt: 2/1 => 1/1
+
+La Squadra's Betrayal
+cost: {5}{U}{B} => {4}{U}{B}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature.
+II, III, IV — Whenever a creature you control deals combat damage to a player this turn, they discard a card. If they can't, they lose 3 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature with mana value 4 or less.
+II, III, IV — Whenever a creature you control deals combat damage to a player this turn, they discard a card. If they can't, they lose 3 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature.
+II, III, IV — Whenever a creature you control deals combat damage to a player this turn, they discard a card. If they can't, they lose 3 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature with mana value 4 or less.
+II, III, IV — Whenever a creature you control deals combat damage to a player this turn, they discard a card. If they can't, they lose 3 life.
+
+Risotto, Vengeful Leader
+cost: {2}{U}{B} => {1}{U}{B}
+rules_text: Menace, ward {1}
+Whenever a creature you control deals combat damage to a player, investigate.
+[i]Lethal Magnetism [/i]— {10}{U}{B}, Sacrifice any number of artifacts: Target player loses 5 life. This ability costs {2} less to activate for each artifact sacrificed to activate it. => Menace
+Whenever a creature you control deals combat damage to a player, investigate.
+[i]Lethal Magnetism [/i]— {10}{U}{B}, Sacrifice any number of artifacts: Target player loses 5 life. This ability costs {2} less to activate for each artifact sacrificed to activate it.
+pt: 3/3 => 2/3
+
+Killer for Hire
+cost: {2}{UB} => {1}{UB}
+rules_text: Flash
+Enchant creature
+Enchanted creature gets +2/+2 and has menace and “Whenever this creature deals combat damage to a player, you lose 1 life and create a Treasure token.” => Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has menace and “Whenever this creature deals combat damage to a player, you lose 1 life and create a Treasure token.”
+
+SCP-131, The Eye Pods
+rules_text: Flash
+When SCP-131 enters, choose one —
+• Tap or untap target permanent.
+• Support 1. [i](Put a +1/+1 counter on up to one other target creature.)[/i]
+• Surveil 2. => Flash
+Vigilance
+When SCP-131 enters, choose one —
+• Surveil 2.
+• Tap or untap target permanent.
+• Put a +1/+1 counter on up to one other target creature.
+
+SCP-1762, Where The Dragons Went
+
+SCP-2521
+rules_text: Reach, vigilance
+Whenever you surveil, you may put on ●●|●●●●●|●●|● X +1/+1 counters, where X is the number of cards you looked at while surveiling.
+{3}{U}: Surveil 1. => Reach, ward {1}
+Whenever you surveil, you may put on ●●|●●●●●|●●|● X +1/+1 counters, where X is the number of cards you looked at while surveiling.
+{3}{U}: Surveil 1.
+pt: 1/4 => 2/3
+
+SCP-1048, Builder Bear
+cost: {1}{U} => {2}
+rules_text: When SCP-1048 enters, surveil 1.
+Whenever SCP-1048 attacks, you may exile three cards from your graveyard. If you do, create a tapped token that's a copy of SCP-1048, except it's not legendary. => When SCP-1048 enters, surveil 1.
+Whenever SCP-1048 attacks, you may exile four cards from your graveyard. If you do, create a tapped token that's a copy of SCP-1048, except it's not legendary.
+
+SCP-096, The Shy Guy
+pt: 8/8 => 6/6
+
+Billie Eilish
+cost: {1}{U} => {2}{U}
+rules_text: Partner with Kesha, Turning It Up [i](When this creature enters, target player may put Kesha into their hand from their library, then shuffle.)[/i]
+Whenever Billie Eilish becomes tapped, another target creature you control can't be blocked until end of turn.
+{1}{U}, {T}: Draw a card, then discard a card. => Partner with Kesha, Turning It Up [i](When this creature enters, target player may put Kesha, Turning It Up into their hand from their library, then shuffle.)[/i]
+{1}{U}, {T}: Draw a card, then discard a card.
+{3}{U}, {T}: Target creature can't be blocked this turn.
+pt: 1/2 => 3/2
+
+MONSTERMAU5
+rules_text: Flash
+When MONSTERMAU5 enters and whenever you spend five or more mana to cast a spell, draw a card.
+Basic landcycling {2} => Flash
+Whenever you spend five or more mana to cast a spell, draw a card.
+Basic landcycling {2}
+
+Snailiens
+rules_text: Flying
+When Snailiens enters and whenever you spend five or more mana to cast a spell, tap target creature you don't control and put a stun counter on it. => Flying
+Whenever you spend five or more mana to cast a spell, tap target creature you don't control and put a stun counter on it.
+
+Essence of the Week
+
+REFRACTION OF HABIT
+rules_text: Kicker {3}
+Choose one. If this spell was kicked, you may choose both instead —
+• Put two +1/+1 counters on target creature you control.
+• Untap target creature. It gains hexproof and indestructible until end of turn. => Kicker {3}
+Choose one. If this spell was kicked, you may choose both instead —
+• Put two +1/+1 counters on target creature.
+• Target creature gains hexproof and indestructible until end of turn.
+
+Snails on Venus
+rules_text: When this land enters, sacrifice it. When you do, search your library for up to one Forest or Island card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
+Cycling {G}{U} [i]({G}{U}, Discard this card: Draw a card.)[/i] => When this land enters, sacrifice it. When you do, search your library for up to one basic Forest or Island card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
+Cycling {G}{U}
+
+George Harrison, Beatle
+rules_text: Boybanding [i](George can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i]
+[i]Here Comes the Sun[/i] — Whenever George attacks, you gain 1 life for each creature in his band.
+Pay 4 life: George gains indestructible until end of turn. Tap him. => Boybanding [i](George can attack in a band with up to three other creatures and gets +1/+0 for each creature in the band.)[/i]
+[i]Here Comes the Sun[/i] — Whenever George attacks, you gain 1 life for each creature in his band.
+Pay 4 life: George gains indestructible until end of turn. Tap him.
+pt: 3/2 => 2/2
+
+John Lennon, Beatle
+rules_text: Boybanding [i](John can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i][i]
+Imagine — [/i]Whenever John attacks, scry X, where X is the number of creatures in his band. If X is 3 or greater, draw a card. => Boybanding [i](John can attack in a band with up to three other creatures and gets +1/+0 for each creature in the band.)[/i][i]
+Imagine — [/i]Whenever John attacks, scry X, where X is the number of creatures in his band. If X is 3 or greater, draw a card.
+pt: 2/4 => 2/3
+
+Paul Mccartney, Beatle
+rules_text: Boybanding [i](Paul can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i]
+[i]Yesterday [/i]— Whenever Paul attacks, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of creatures in his band. Put a finality counter on that creature. => Boybanding [i](Paul can attack in a band with up to three other creatures and gets +1/+0 for each creature in the band.)[/i]
+[i]Yesterday [/i]— Whenever Paul attacks, you may pay {2}. If you do, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of creatures in his band. Put a finality counter on that creature.
+
+Ringo Starr, Beatle
+rules_text: Boybanding [i](Ringo can attack in a band with up to three other creatures and gets +1/+0 for each other creature in the band.)[/i]
+[i]Don't Pass Me By [/i]— Whenever Ringo attacks, if he's in a band, choose target creature defending player controls. It can't block this turn. => Boybanding [i](Ringo can attack in a band with up to three other creatures and gets +1/+0 for each creature in the band.)[/i]
+[i]Don't Pass Me By [/i]— Whenever Ringo attacks, if he's in a band, choose target creature defending player controls. It can't block this turn.
+pt: 2/2 => 2/1
+
+Kakashi, Team 9 Leader
+rules_text: Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Kakashi enters, return another target creature to its owner's hand. If you owned it, put two +1/+1 counters on Kakashi. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Kakashi enters, return another target creature to its owner's hand. If you controlled it, put two +1/+1 counters on Kakashi.
+
+Shadow Clone
+rules_text: Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu, except it isn't legendary and has base toughness 1. => Ninjutsu {2}{U} [i]({2}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu.
+
+Haruno Sakura
+cost: {2}{R} => {1}{R}
+rules_text: Ninjutsu {1}{R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, you may discard a card. If you do, draw two cards. => Ninjutsu {1}{R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Haruno Sakura can't block.
+When Haruno Sakura enters, you may discard a card. If you do, draw two cards.
+pt: 1/3 => 1/2
+
+Iruka, Academy Instructor
+rules_text: Ninjutsu {1}{UR} [i]({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, put a +1/+1 counter on target creature you control. You may switch its power and toughness until end of turn. => Ninjutsu {1}{UR} [i]({UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, put a +1/+1 counter on target creature you control.
+
+Village Hidden in the Leaves
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Rose Quartz added.
