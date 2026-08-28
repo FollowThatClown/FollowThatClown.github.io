@@ -1,4 +1,272 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+ALL CAPS added.
+DANGERDOOM added.
+King Geedorah, the Third Rail added.
+Madvillainy added.
+Metal Face Mask added.
+MF DOOM, the Illest Villain added.
+Operation: DOOMSDAY added.
+Quasimoto and DOOM added.
+Viktor Vaughn, Vaudeville Villain added.
+Sonic Switchboard added.
+Mural of DOOM added.
+New York added.
+Impending DOOM added.
+DOOMbot (MFD) added.
+Torment Nexus added.
+Captain Olimar added.
+Gobble Indiscriminately added.
+Mumuta added.
+Pink Pikmin added.
+Swarm! added.
+Throw! added.
+Yellow Pikmin added.
+Blue Pikmin added.
+Purple Pikmin added.
+Red Pikmin added.
+White Pikmin added.
+Onion added.
+Mysterious Dungeon added.
+PNF-404 added.
+COUNTERS added.
+Pikmin added.
+Beelzebub, the Great Fly added.
+Cerberus, the Triple Demon added.
+The Helltaker added.
+Journey to Hell added.
+Judgement, the High Prosecutor added.
+Justice, the Awesome Demon added.
+Lucifer, CEO of Hell added.
+Malina, the Sour Demon added.
+Modeus, the Eager Demon added.
+Pandemonica, the Tired Demon added.
+Zdrada, the &!%*# Demon added.
+Azazel, the Curious Angel added.
+The Depths of Hell added.
+Helltaker's Kitchen added.
+Demon added.
+Demon added.
+KOOPA KINGDOM added.
+Bowser, Koopa King added.
+Goomba Tower added.
+Hammer Smash added.
+Junior, Royal Painter added.
+Kamek, Peerless Magician added.
+Piranhic Growth added.
+Quickfoot Koopas added.
+Send Forth added.
+Cheep Cheep added.
+Dry Bones added.
+Bowser's Castle added.
+Level Select added.
+The Queen Of All Cosmos added.
+Inch-High Prince added.
+Pigeon Town added.
+Pigeon Town added.
+Roll Up Colossi! added.
+Roll Up Fantasy! added.
+Roll Up History! added.
+Roll Up the Battle! added.
+Roll Up the World! added.
+Royal Rainbow! added.
+The King Of All Cosmos added.
+WE LOVE KATAMARI added.
+Warrior (KD) added.
+Katamari added.
+Lonely Rolling Star added.
+Queen Bee, Mad Monarch added.
+Robot (TRA) ULT2 added.
+Laios Touden added.
+Marcille Donato added.
+A Proper Diet added.
+Cook Monsters added.
+Farmed Golem added.
+Walking Mushroom added.
+Ah, Dungeon Food! added.
+It's Ready! added.
+Senshi of Izganda added.
+Chilchuck Tims added.
+Izutsumi added.
+The First Floor added.
+The Island Dungeon added.
+Merini Village Dining Hall added.
+Food added.
+Kensuke added.
+
+Fevered Dreamland removed.
+King Slime, Mad Monarch removed.
+Robot (TRA) removed.
+Zombie Token SCP removed.
+
+Miros Bird
+rules_text: Haste
+[i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, create a 2/1 green Monkey creature token.
+Basic landcycling {2} => Haste
+[i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, create a 2/1 green Monkey creature token.
+Forestcycling {2}
+
+Der Fluchschütze
+rules_text: Haste
+Whenever Der Fluchschütze attacks, you may sacrifice another creature. If you do, he deals 3 damage to target opponent.
+Basic landcycling {2} => Haste
+Whenever Der Fluchschütze attacks, you may sacrifice another creature. If you do, he deals 3 damage to target opponent.
+Mountaincycling {2}
+
+
+type: Basic Land — Island => 
+
+Pagonioplo-Igetis
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Pagonioplo-Igetis enters or you cast a spell from anywhere but your hand, create a 2/1 green Alien artifact creature token with reach.
+Basic landcycling {2} => Ward {2}
+Whenever Pagonioplo-Igetis enters or you cast a spell from anywhere but your hand, create a 2/1 green Alien artifact creature token with reach.
+Forestcycling {2}
+
+Royal Delegation
+rules_text: At the beginning of combat on your turn, mill three cards, then return a permanent you control to its owner's hand.
+Basic landcycling {2} => At the beginning of combat on your turn, mill three cards, then return a permanent you control to its owner's hand.
+Forestcycling {2}
+
+Repel the Locals
+rules_text: Return up to two target artifacts and/or creatures to their owners' hands.
+Untap up to two creatures or artifacts.
+Basic landcycling {2} => Return up to two target artifacts and/or creatures to their owners' hands.
+Untap up to two creatures or artifacts.
+Islandcycling {2}
+
+Humpback Whales
+rules_text: Vigilance, ward {2}
+Basic landcycling {2} => Vigilance, ward {2}
+Islandcycling {2}
+
+Study Up
+rules_text: Draw three cards. Create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it.
+Basic landcycling {2} => Draw three cards. Create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it.
+Islandcycling {2}
+
+Riz, Hidden Devourer
+rules_text: You may pay {3}{G} and sacrifice a nontoken creature rather than pay Riz's mana cost. If you do, he enters tapped.
+Undying [i](When Riz dies, if he had no +1/+1 counters, return him to the battlefield under his owner's control with a +1/+1 counter.)[/i]
+Basic landcycling {2} => You may pay {3}{G} and sacrifice a nontoken creature rather than pay Riz's mana cost.
+Undying [i](When Riz dies, if he had no +1/+1 counters, return him to the battlefield under his owner's control with a +1/+1 counter.)[/i]
+Forestcycling {2}
+
+Mobile Task Force
+rules_text: When Mobile Task Force enters, surveil 2.
+Whenever you surveil, target creature can't be blocked this turn.
+Basic landcycling {2} => When Mobile Task Force enters, surveil 2.
+Whenever you surveil, target creature can't be blocked this turn.
+Islandcycling {2}
+
+MONSTERMAU5
+rules_text: Flash
+Whenever you spend five or more mana to cast a spell, draw a card.
+Basic landcycling {2} => Flash
+Whenever you spend five or more mana to cast a spell, draw a card.
+Islandcycling {2}
+
+Girl's Fight Out
+rules_text: Put two +1/+1 counters on target creature you control. It gains indestructible until end of turn. That creature fights target creature you don't control.
+Basic landcycling {2} => Put two +1/+1 counters on target creature you control. It gains indestructible until end of turn. That creature fights target creature you don't control.
+Forestcycling {2}
+
+Atlas & P-Body
+pt: 2/3 => 2/2
+
+Steven Universe
+cost: {1}{W} => {2}{W}
+rules_text: Whenever you attack with exactly two creatures, put a +1/+1 counter on target attacking creature.
+{5}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie. => Whenever you attack with exactly two creatures, put a +1/+1 counter on another target attacking creature.
+{5}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie.
+pt: 1/2 => 2/3
+
+Connie Maheswaran
+cost: {R} => {2}{R}
+rules_text: [i]Valiant[/i] — Whenever Connie becomes the target of a spell or ability you control, she gets +2/+0 until end of turn. This ability triggers only once each turn.
+[i](Melds with Steven Universe.)[/i] => Haste
+[i]Valiant[/i] — Whenever Connie becomes the target of a spell or ability you control, she gets +2/+0 until end of turn. This ability triggers only once each turn.
+[i](Melds with Steven Universe.)[/i]
+pt: 2/1 => 2/3
+
+Crack the Diamond
+cost: {R}{R} => {1}{R}
+
+Rose Quartz
+
+Melone, Distant Admirer
+rules_text: When Melone enters, create a 1/1 black Spirit Horror enchantment creature token.
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on up to one target Spirit Horror. => When Melone enters, create a 0/0 black Spirit Horror enchantment creature token and put a +1/+1 counter on it.
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on up to one target Spirit Horror.
+
+Severed and Sent
+rules_text: Each player sacrifices two creatures and investigates twice.
+Basic landcycling {2} => Each player sacrifices two creatures and investigates twice.
+Swampcycling {2}
+
+Zooble
+rules_text: As Zooble enters, choose up to X at random from among reach, first strike, vigilance, menace, trample, and +1/+1. They enter with those counters and X +1/+1 counters. => As Zooble enters, choose up to X at random from among reach, vigilance, menace, trample, haste, and +1/+1. They enter with those counters and X +1/+1 counters.
+
+Gangle
+
+Jax
+rules_text: Menace
+Prowess => Menace
+As long as you've cast a noncreature spell this turn, Jax gets +2/+2.
+
+Kinger
+rules_text: Defender
+Whenever you cast a noncreature spell, until end of turn, Kinger gets +2/+0 and can attack as though he didn't have defender. => Defender
+As long as you've cast a noncreature spell this turn, Kinger gets +3/+0 and can attack as though he didn't have defender.
+pt: 1/4 => 0/4
+
+Pomni
+
+Ragatha
+
+Look Inside
+rules_text: Counter target spell unless its controller pays {3}. Surveil 3. => Look at target player's hand. When you do, choose one —
+• Counter target spell they control unless they pay {3}.
+• Tap target creature they control and put three stun counters on it.
+
+Boss Fight
+type: Instant => Sorcery
+cost: {1}{R} => {R}
+rules_text: Put a +1/+1 counter on target creature you control. It fights up to one target creature you don't control. => Target creature you control fights target creature you don't control. When the creature you don't control dies this turn, put a +1/+1 counter on up to one target creature.
+
+Golem, Temple Guardian
+rules_text: Ward—Pay 3 life
+Golem must be blocked if able.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i]
+Basic landcycling {2} => Ward—Pay 3 life
+Golem must be blocked if able.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i]
+Mountaincycling {2}
+
+Hero of Terraria
+rules_text: Flying
+You may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.
+Modified creatures you control and get +1/+0. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Flying
+You may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.
+Modified creatures you control have haste and get +1/+0. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+The Wall of Flesh
+rules_text: Haste, menace
+The Wall of Flesh attacks each combat if able.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i]
+Basic landcycling {2} => Haste, menace
+The Wall of Flesh attacks each turn if able.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i]
+
+The Destroyer of Worlds
+rules_text: Reach
+Whenever The Destroyer attacks, create a 1/1 red Robot artifact creature token.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i] => Whenever The Destroyer attacks, create a 1/1 red Robot artifact creature token.
+Boss drop [i](When this creature dies, return it to the battlefield transformed under its owner's control.)[/i]
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Spirit Token (FNAF) added.
