@@ -13187,7 +13187,7 @@
             "notes": "!tag MF DOOM"
         },
         {
-            "card_name": "Operation: DOOMSDAY",
+            "card_name": "Operation DOOMSDAY",
             "color": "B",
             "rarity": "cube",
             "type": "Artifact Creature \u2014 Robot Villain",
@@ -14929,7 +14929,7 @@
             "notes": "!tag Helltaker"
         },
         {
-            "card_name": "Zdrada, the &!%*# Demon",
+            "card_name": "Zdrada, the CENSORED Demon",
             "color": "R",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Demon",
@@ -14945,7 +14945,7 @@
             "loyalty": "",
             "artist": "\u30af\u30eb\u30c8\u30f3",
             "alias": "",
-            "notes": "!tag Helltaker"
+            "notes": "!tag Helltaker\n!exportname Zdrada, the CENSORED Demon"
         },
         {
             "card_name": "Azazel, the Curious Angel",
