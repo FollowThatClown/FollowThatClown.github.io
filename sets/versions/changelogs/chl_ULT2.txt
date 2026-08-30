@@ -1,4 +1,114 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+SCP-049, Plague Doctor added.
+Corner added.
+Human Soldier added.
+
+SCP-049, The Plague Doctor removed.
+
+Dante, Devil Trigger
+cost: {4}{RW}{RW} => {4}{R}{R}
+
+Help() Transistor
+
+Spoiling Cells
+
+
+type: Basic Land — Island => 
+
+Draculaura
+rules_text: [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+Exhaust—{3}{W}{U}{B}{R}{G}: Surveil 3. Put each permanent card put into your graveyard this way onto the battlefield. => [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a Treasure token.
+Exhaust—{5}{W}{U}{B}{R}{G}: Surveil 3. Put each permanent card put into your graveyard this way onto the battlefield.
+
+Sturdy Rockman
+rules_text: [i]Federation [/i]— When this creature enters, put X +1/+1 counters on target land you control, where X is the number of creature types among non-Rebel creatures you control. It becomes a 0/0 green Golem Warrior creature and gains haste. It's still a land.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => [i]Federation [/i]— When this creature enters, put X +1/+1 counters on target land you control, where X is the number of creature types among non-Rebel creatures you control. It becomes a 0/0 green Golem Warrior creature and gains haste. It's still a land.
+Forestcycling {2}
+
+Commerson's Dolphin
+
+Manoa Lai
+
+Princess Toadstool, Peach
+cost: {6}{RW} => {6}{RW}{RW}
+
+Strategic Sacrifice
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature. If the creature you sacrificed was modified, draw a card. => As an additional cost to cast this spell, sacrifice a creature or sacrifice a modified creature. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Destroy target creature. If the modified creature was sacrificed, draw a card.
+
+Battle Bishop
+rules_text: When this creature enters, draw a card.
+Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Lifelink => When this creature enters, you draw a card and lose 1 life.
+Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Lifelink
+
+Chain Formation
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +1/+0 and gains indestructible.
++{W} — Create two 1/1 tapped white Human Soldier creature tokens. => Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +2/+0 and gains indestructible.
++{W} — Create two 1/1 white Human Soldier creature tokens.
+
+Frontline Reinforcements
+
+Serve Once More
+cost: {1}{WB} => {WB}
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++{W} — Exile up to two target creatures, then return them to battlefield under their owner's control.
++{2}{B} — Return target creature card from your graveyard to the battlefield tapped. => Spree [i](Choose one or more additional costs.)[/i]
++{1}{W} — Exile up to two target creatures, then return them to battlefield under their owner's control.
++{3}{B} — Return target creature card from your graveyard to the battlefield tapped.
+
+Towering Rook
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, you lose 1 life and put a +1/+1 counter on it. => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Whenever this creature attacks, put a +1/+1 counter on it.
+
+Knife Effect
+cost: {2}{R} => {3}{R}
+rules_text: Enchant creature
+When Knife Effect enters, it deals 3 damage to target creature.
+Enchanted creature gets +3/+0. => Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature gets +3/+0.
+
+Madotsuki, Dream Walker
+rules_text: Whenever you wander, put a loyalty counter on Madotsuki. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a {2}{R} Aura enchantment with enchant creature and “When this enters, it deals 3 damage to target creature” and “Enchanted creature gets +3/+0.”)[/i] => Whenever you wander, put a loyalty counter on Madotsuki. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a 3{R} Aura enchantment with enchant creature and “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature gets +3/+0.”)[/i]
+special_text: Whenever you wander, put a loyalty counter on Madotsuki. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a {2}{R} Aura enchantment with enchant creature and “When this enters, it deals 3 damage to target creature” and “Enchanted creature gets +3/+0.”)[/i] => Whenever you wander, put a loyalty counter on Madotsuki. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a 3{R} Aura enchantment with enchant creature and “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature gets +3/+0.”)[/i]
+
+Kyukkyu-kun
+rules_text: Reach
+Whenever you wander, you may discard a card, then draw a card. If you discarded a nonland card, put a +1/+1 counter on Kyukkyu-kun. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Reach
+Whenever you wander, you may discard a card, then draw a card and put a +1/+1 counter on Kyukkyu-kun. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+pt: 3/3 => 2/3
+
+Takofuusen
+pt: 3/3 => 3/4
+
+Knife Effect
+rules_text: Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to target creature.
+Enchanted creature gets +3/+0. => Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature gets +3/+0.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Uboa added.
