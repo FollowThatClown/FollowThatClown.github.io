@@ -1,4 +1,736 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Uboa added.
+Knife Effect added.
+Light up the Dreamworld added.
+Madotsuki, Dream Walker added.
+Witch Effect added.
+Kyukkyu-kun added.
+Monoko added.
+Seccom Masada-sensei added.
+Takofuusen added.
+The Dream World added.
+Prismatic Vista added.
+WANDER added.
+Knife Effect added.
+Robot TF2 added.
+The Demo, Drunken Cyclops added.
+Mission Dispatch added.
+LITTLE ARMY added.
+Food (DNM) added.
+Demon 1 (HELL) ULT2 added.
+Demon 2 (HELL) ULT2 added.
+Find Cerberus added.
+Clue added.
+DIAGNOSTICS added.
+Doctor's Office added.
+James Wilson, M.D. added.
+Lisa Cuddy, M.D. added.
+Diagnostics Team added.
+House, M.D. added.
+Misdiagnose added.
+Search the Home added.
+Slack Off added.
+Teaching Hospital added.
+Withdrawal Symptoms added.
+Eric Foreman, M.D. added.
+Operating Theater added.
+Anaerobic Lanius added.
+Anti-Ship Battery added.
+Bloodthirsty Mantis added.
+Engi Mechanic added.
+Exit Beacon added.
+FEDERATION added.
+Kestrel Cruiser added.
+Spaceship Captain added.
+Store Station added.
+Sturdy Rockman added.
+Teleport In added.
+Zoltan Crewmate added.
+Junk added.
+Alien added.
+Nebula Cloud added.
+Uncharted Planet added.
+Fish Token (END) #1 added.
+Fish Token (END) #2 added.
+Fish Token (END) #3 added.
+Fish Token (END) #4 added.
+Fish Token (END) #5 added.
+
+The Administrator's Office removed.
+Ms Pauling Temp removed.
+Construct Token removed.
+Mercenary removed.
+Ms. Pauling removed.
+The Demo, Grim Bloody Fable removed.
+The Respawn Machine removed.
+Dwarven Mine removed.
+Corner removed.
+Commerson's Dolphin ULT2 removed.
+Fish ULT2 2 removed.
+Fish ULT2 3 removed.
+Fish ULT2 4 removed.
+Fish ULT2 5 removed.
+Fish ULT2 1 removed.
+The Radiance, Forgotten Light_front removed.
+Empire City removed.
+COUNTERS removed.
+Cerberus, the Triple Demon removed.
+Demon removed.
+Food removed.
+
+Mobile Task Force
+
+Demon
+rules_text: Flying => 
+pt: 3/3 => 1/1
+
+Minako Aino
+
+
+type: Basic Land — Island => 
+
+Class Reunion
+
+Intelligence Room
+rules_text: This land enters tapped.
+When this land enters, surveil 1.
+{T}: Add {U} or {R}.
+{3}, {T}, Exile this land: Shuffle up to three cards from your graveyard into your library. Draw a card. => {T}: Add {U} or {R}. You can't spend this mana to cast spells, except creature spells.
+[i]Capture the Intelligence[/i] — {T}, Team-up 5, Sacrifice Intelligence Room: Put a +1/+1 counter on each creature you control. Activate only as a sorcery. [i](To team-up 5, tap any number of creatures you control with total power 5 or more.)[/i]
+
+The Scout, Kind of a Big Deal
+cost: {UR} => {1}{UR}
+rules_text: Flash
+Scout can't be blocked except by creatures with haste.
+{1}, Sacrifice Scout: Recruit Mercenary. Activate only as a sorcery. [i](Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Mercenary creature token.)[/i] => When The Scout enters, exile the top three cards of your library. Until the end of your next turn, you may play creature cards from among them by teaming-up 2 in addition to their other costs. [i](To team-up 2, tap any number of creatures you control with total power 2 or more.)[/i]
+pt: 1/1 => 2/1
+
+The Soldier, Screaming Eagle
+cost: {2}{UR} => {1}{UR}
+rules_text: Flying
+When Soldier enters, recruit Mercenary. [i](Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Mercenary creature token.)[/i]
+Whenever a creature you control attacks and isn't blocked, it gets +1/+1 until end of turn. => Flying
+Whenever one or more other creatures you control become tapped, The Soldier gets +1/+1 until end of turn.
+pt: 2/2 => 2/1
+
+The Engineer, Frontier Justice
+cost: {1}{UR} => {2}{UR}
+rules_text: When The Engineer enters, create a 1/1 Construct artifact creature token.
+Power-up — {4}{UR}: Put a +1/+1 counter on The Engineer and two +1/+1 counters on up to one target artifact creature. Activate only as a sorcery. [i](Activate only once. Reduce the cost by his mana cost if he entered this turn.)[/i] => When The Engineer enters, create a 2/2 Robot artifact creature token with reach.
+{3}, Team-up 3: Put two +1/+1 counters on The Engineer and up to one target artifact. Activate only as a sorcery and only once. [i](To team-up 3, tap any number of creatures you control with total power 3 or more.)[/i]
+
+The Medic, God Among Men
+rules_text: Whenever another creature you control dies during your turn, recruit Mercenary. This ability triggers only once each turn.
+[i]Ubercharge[/i] — Whenever The Medic attacks, you may exile five cards from your graveyard. If you do, The Medic and up to one other target creature gain protection from everything until end of turn. => Whenever one or more creatures you control become tapped, you may discard a card. If you do, draw a card.
+[i]Ubercharge[/i] — Whenever The Medic attacks, you may exile six cards from your graveyard. If you do, The Medic and up to one other target creature each gain protection from everything until end of turn.
+pt: 2/3 => 3/2
+
+The Pyro, Cruel Dreamer
+rules_text: Whenever The Pyro attacks, add {R}{R}{R}. This mana lasts until end of turn. You can't spend it to cast spells.
+{1}: The Pyro gets +1/-1 until end of turn. => Whenever The Pyro becomes tapped, add {R}{R}{R}. This mana lasts until end of turn. You can't spend it to cast spells.
+{1}: The Pyro gets +1/-1 until end of turn.
+
+The Heavy Weapons Guy
+cost: {4}{UR}{UR} => {3}{UR}
+rules_text: Trample
+{1}{UR}, Discard The Heavy: Choose one —
+• Target creature gets +2/+2 until end of turn.
+• Recruit Mercenary. [i](Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Mercenary creature token.)[/i] => As an additional cost to cast The Heavy, team-up 6. [i](Tap any number of creatures you control with total power 6 or more.)[/i]
+Reach, trample
+pt: 7/7 => 6/6
+
+The Sniper, Professional
+cost: {2}{UR}{UR} => {3}{UR}
+
+The Spy, Mann of Mystery
+cost: {1}{UR} => {4}{UR}
+rules_text: Spy must attack each turn if able.
+At the beginning of combat on your turn, you may have Spy become a copy of another target creature you control until end of turn, except he has base power and toughness 2/3 and is named The Spy. => As The Spy enters, exile the top three cards of each player's library. You may have The Spy enter as a copy of a creature card with mana value 3 or less from among the exiled cards. You may play the other exiled creature cards until the end of your next turn.
+pt: 2/3 => 6/1
+
+Portal
+rules_text: Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat. => Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.
+
+Auto Turret
+cost: {3} => {1}
+rules_text: Reach
+When Auto Turret enters, it deals damage equal to its power to target player unless they discard a card or sacrifice a nonland permanent. => Reach
+When Auto Turret enters, if it isn't a token, you may pay {4}. If you do, create two tokens that are each copies of it.
+pt: 3/2 => 1/2
+
+GLaDOS, Insidious Overseer
+cost: {4}{UB}{UB} => {3}{U}{U}
+rules_text: Reach[i]
+Testing Data [/i]— Whenever GLaDOS or another nontoken creature you control enters, you may pay 2 life. If you do, draw two cards.
+[i]Neurotoxin [/i]— Whenever a creature you control deals combat damage to a player, exile the top five cards of their library. => Reach
+When you cast GLaDOS, create two Portal tokens. [i](Enchantments with “Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i][i]
+[/i]Whenever another nontoken creature you control enters, you may pay 1 life. If you do, draw a card.
+
+Weighted Companion Cube
+rules_text: When this artifact enters, tap target artifact or creature. It doesn't untap during its controller's untap step for as this artifact remains on the battlefield.
+{5}, {T}, Sacrifice this artifact: Draw three cards. Activate only as a sorcery. => When this artifact enters, tap target artifact or creature. It doesn't untap during its controller's untap step for as this artifact remains on the battlefield.
+{6}, {T}, Sacrifice this artifact: Draw four cards. Activate only as a sorcery.
+
+Wheatley, Moron Core
+type: Legendary Artifact Creature — Orb => Legendary Artifact Creature — Orb Robot
+cost: {U} => {1}{U}
+rules_text: Flash
+When Wheatley enters, tap target artifact or creature and put a stun counter on it. => Flash
+When Wheatley enters, tap target artifact or creature and put two stun counters on it.
+
+Old Aperture
+
+The Rat Man
+cost: {1}{UR} => {2}{UR}
+rules_text: When The Rat Man enters, create a Clue token.
+The Rat Man attacks each combat if able. => When The Rat Man enters, draw three cards, then discard a card at random.
+pt: 2/3 => 1/1
+
+Atlas & P-Body
+rules_text: When you cast Atlas & P-Body, create two Portal tokens. [i](They're enchantments with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+When Atlas & P-Body enter, put a +1/+1 counter on target creature. => When you cast Atlas & P-Body, create a Portal token. [i](They're enchantments with “Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+When Atlas & P-Body enter, put two +1/+1 counters on up target creature.
+
+Chell, Resourceful Subject
+rules_text: When Chell enters, create a Portal token. [i](It's an enchantment with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i] => When Chell enters, create a Portal token. [i](It's an enchantment with “Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+
+Resolve the Stalemate
+cost: {3}{U}{U} => {2}{U}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose two target permanents with mana value 1 or greater. Exchange control of them.
+II, III, IV — Create a Portal token. [i](It's an enchantment with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may choose two target permanents with mana value 1 or greater. Exchange control of them.
+II, III — Create a Portal token. [i](It's an enchantment with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose two target permanents with mana value 1 or greater. Exchange control of them.
+II, III, IV — Create a Portal token. [i](It's an enchantment with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may choose two target permanents with mana value 1 or greater. Exchange control of them.
+II, III — Create a Portal token. [i](It's an enchantment with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+​
+
+Resume Testing
+rules_text: Return target creature to its owner's hand. Create a Portal token. [i](An enchantment with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i] => Return target creature to its owner's hand. 
+Create a Portal token. [i](An enchantment with “Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+
+Amethyst, Wild Shapeshifter
+rules_text: Menace, haste
+As Amethyst enters, until end of turn, you may have her become a copy of any creature on the battlefield, except she's a 3/3 Gem enchantment creature with menace and haste named Amethyst, Wild Shapeshifter. => Haste
+As Amethyst enters, until end of turn, you may have her become a copy of any creature on the battlefield, except she's a 3/3 Gem enchantment creature with haste named Amethyst, Wild Shapeshifter.
+pt: 3/3 => 4/2
+
+Connie Maheswaran
+type: Legendary Creature — Human => Legendary Creature — Human Child Warrior
+
+Crack the Diamond
+type: Sorcery => Instant
+rules_text: Choose one —
+• Crack the Diamond deals 4 damage to target creature and 2 damage to you.
+• Exile target artifact. => Choose one —
+• Crack the Diamond deals 3 damage to target creature
+• Destroy target artifact.
+
+Rose Quartz
+type: Legendary Enchantment Creature — Gem Noble => Legendary Enchantment Creature — Gem
+rules_text: When Rose enters, return up to two target permanent cards with total mana value 6 or less from your graveyard to the battlefield.
+“[i]Welcome to Earth!”[/i] — Whenever a land you control enters, other creatures you control get +1/+1 and gain trample until end of turn. => When Rose enters, return up to two target permanent cards with total mana value 6 or less from your graveyard to the battlefield.
+Whenever a land you control enters, other creatures you control get +1/+1 and gain trample until end of turn.
+
+Steven Universe
+type: Legendary Creature — Gem Human => Legendary Creature — Gem Human Child
+cost: {2}{W} => {W}
+rules_text: Whenever you attack with exactly two creatures, put a +1/+1 counter on another target attacking creature.
+{5}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie. => Whenever you attack with exactly two creatures, another target creature gets +1/+2 until end of turn.
+{4}{RW}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie.
+pt: 2/3 => 1/2
+
+Stevonnie
+rules_text: Double strike, vigilance, trample, haste, ward {5} => Double strike, vigilance, trample, haste, ward {4}
+pt: 5/5 => 4/4
+
+Stunning Save
+rules_text: Choose one. If you control exactly two attacking creatures, you may choose both instead.
+• Target creature gets +2/+1 and gains lifelink until end of turn.
+• Target creature gains hexproof and indestructible until end of turn. => Choose one. If you control exactly two attacking creatures, you may choose both instead.
+• Target creature gets +2/+0 and gains lifelink until end of turn.
+• Target creature gains hexproof and indestructible until end of turn.
+
+Gobble Indiscriminately
+rules_text: Mill three cards. When you do, choose one —
+• Return a creature or land card from your graveyard to your hand.
+• Destroy target artifact or enchantment. => Choose one —
+• Mill two cards, then return a creature card from your graveyard to your hand.
+• Destroy target artifact.
+
+Mumuta
+
+Mysterious Dungeon
+rules_text: When Mysterious Dungeon enters, you lose 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield, then shuffle. => When Mysterious Dungeon enters, you lose 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Onion
+rules_text: When Onion enters, surveil 4.
+{4}, {T}, Sacrifice Onion: Put any number of creature cards with total power 4 or less from your graveyard onto the battlefield tapped. => When Onion enters, surveil 3.
+{5}, {T}, Sacrifice Onion: Put any number of creature cards with total power 3 or less from your graveyard onto the battlefield tapped.
+
+Purple Pikmin
+cost: {5}{G} => {5}{G}{G}
+rules_text: Purple Pikmin costs {1} less to cast for each modified creature you control.
+Trample
+[i]Body Slam [/i]— When Purple Pikmin enters, it deals damage equal to its toughness to up to one target creature. => Purple Pikmin costs {1} less to cast for each +1/+1 counter among creatures you control.
+Trample
+pt: 4/5 => 6/6
+
+Throw!
+cost: {G} => {1}{G}
+rules_text: Teamwork 3 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 3 or more.)[/i]
+Target creature you control gets +3/+3 until end of turn if this spell was cast using teamwork. Then it fights up to one target creature an opponent controls. => Teamwork 3 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 3 or more.)[/i]
+Target creature you control gets +3/+3 until end of turn. If this spell was cast using teamwork, it fights up to one target creature.
+
+Pikmin
+rules_text: This creature enters with a +1/+1 counter on it. => [i]This creature enters with some number of +1/+1 counters on it.[/i]
+
+Blue Pikmin
+cost: {1}{GU} => {2}{GU}
+rules_text: Ward {1}
+When Blue Pikmin enters, pluck. [i](Put a +1/+1 counter on target creature, or create a 0/0 Pikmin with the counter on it.)[/i]
+Other modified creatures you control have ward {1}. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Ward {2}
+When Blue Pikmin enters, pluck 2. [i](Put two +1/+1 counters on target creature, or create a tapped 0/0 Pikmin with the counters.)[/i]
+Other modified creatures you control have ward {2}.
+
+Captain Olimar
+rules_text: Haste
+[i]Charge! [/i]— Whenever Captain Olimar becomes tapped, other modified creatures you control get +2/+1 and gain trample until end of turn. => Haste
+[i]Charge! [/i]— Whenever Captain Olimar becomes tapped, modified creatures you control get +2/+1 and gain trample until end of turn.
+
+Pink Pikmin
+rules_text: Defender, flying, ward {3}
+Other modified creatures you control get +1/+1.
+Whenever you attack, pluck. If you pluck a token this way, it enters tapped. [i](Put a +1/+1 counter on target creature, or create a 0/0 Pikmin with the counter on it.)[/i] => Defender, flying, ward {3}
+Other modified creatures you control get +1/+1.
+Whenever you attack, pluck. If you pluck a token, it enters tapped. [i](Put a +1/+1 counter on target creature, or create a tapped 0/0 Pikmin with the counter on it.)[/i]
+
+Red Pikmin
+rules_text: Trample
+When Red Pikmin enters, pluck. [i](Put a +1/+1 counter on target creature, or create a 0/0 Pikmin with the counter on it.)[/i]
+Other modified creatures you control have trample. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Trample
+When Red Pikmin enters pluck 2. [i](Put two +1/+1 counters on target creature, or create a tapped 0/0 Pikmin with the counters.)[/i]
+Other modified creatures you control have trample.
+pt: 2/2 => 1/1
+
+Swarm!
+rules_text: Pluck twice. Each nontoken creature you plucked deals damage equal to its power to target creature an opponent controls. [i](To pluck, put a +1/+1 counter on target creature, or create a 0/0 Pikmin with the counter on it.)[/i] => Pluck twice. Each nontoken creature you plucked deals damage equal to its power to target creature an opponent controls. [i](To pluck, put a +1/+1 counter on target creature, or create a tapped 0/0 Pikmin with the counter.)[/i]
+
+White Pikmin
+rules_text: Vigilance
+When White Pikmin enters, pluck. [i](Put a +1/+1 counter on target creature, or create a 0/0 Pikmin with the counter on it.)[/i]
+Other modified creatures you control have vigilance. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Vigilance
+When White Pikmin enters, pluck 2. [i](Put two +1/+1 counters on target creature, or create a tapped 0/0 Pikmin with the counters.)[/i]
+Other modified creatures you control have vigilance.
+pt: 2/2 => 1/1
+
+Yellow Pikmin
+rules_text: Reach
+When Yellow Pikmin enters, pluck. [i](Put a +1/+1 counter on target creature, or create a 0/0 Pikmin with the counter on it.)[/i]
+Other modified creatures you control have reach. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Reach
+When Yellow Pikmin enters, pluck. [i](Put a +1/+1 counter on target creature, or create a tapped 0/0 Pikmin with the counter on it.)[/i]
+Other modified creatures you control have reach. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Clawdeen Wolf
+rules_text: [i]Vivid — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2} => Ward {2}
+[i]Vivid — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2}
+
+Draculaura
+rules_text: [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+Exhaust—{5}{W}{U}{B}{R}{G}: Surveil 5. Put each permanent card put into your graveyard this way onto the battlefield. => [i]Vivid[/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+Exhaust—{3}{W}{U}{B}{R}{G}: Surveil 3. Put each permanent card put into your graveyard this way onto the battlefield.
+
+Fangtastic Fashion
+cost: {1} => {3}
+rules_text: When Fangtastic Fashion enters, it becomes the color of your choice. Draw a card.
+[i]Vivid[/i] — Equipped creature gets +X/+X and has menace and ward {2}, where X is the number of colors among permanents you control.
+Equip {6} => Flash
+When Fangtastic Fashion enters, it becomes the color of your choice. Attach it to target creature.
+Equipped creature gets +3/+3.
+[i]Vivid[/i] — Equip {10}. This ability costs {X} less to activate, where X is the number of colors among permanents you control.
+
+Spectra, Gossip Ghost
+rules_text: Flying 
+When Spectra enters, target creature you control connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => Flash
+Flying
+When Spectra enters, she connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Kensuke
+
+A Proper Diet
+rules_text: Target creature you control gains indestructible until end of turn. If it's attacking, it also gets +2/+2 and gains lifelink until end of turn. => Target creature you control gains hexproof and indestructible until end of turn. If it's attacking, it also gets +2/+2 and gains lifelink until end of turn.
+
+Izutsumi
+rules_text: Izutsumi has deathtouch as long as she's attacking.
+Pay 2 life: Create a Treasure token. Activate only if Izutsumi dealt combat damage to an opponent this turn, and only once each turn. => Izutsumi has deathtouch as long as she's attacking.
+Whenever Izutsumi deals combat damage to a player, you may pay 2 life. If you do, create a Treasure token.
+
+Merini Village Dining Hall
+
+The First Floor
+
+The Island Dungeon
+
+Senshi of Izganda
+
+Laios Touden
+rules_text: When Laios enters, create Kensuke, a colorless Food Equipment artifact token with “Equippped creature has first strike”, “{2}, {T}, Sacrifice this artifact: You gain 3 life” and Equip {2}.
+Whenever Laios attacks, he and up to one other target creature each gain lifelink until end of turn.
+Whenever you gain life for the first time each turn, put a +1/+1 counter on Laios. => When Laios enters, create Kensuke, a colorless Food Equipment artifact token with “Equippped creature has first strike”, “{2}, {T}, Sacrifice this artifact: You gain 3 life” and Equip {2}.
+Whenever Laios attacks, target creature gains lifelink until end of turn.
+Whenever you gain life for the first time each turn, put a +1/+1 counter on Laios.
+
+Azazel, the Curious Angel
+pt: 2/3 => 2/2
+
+Beelzebub, the Great Fly
+cost: {6}{R}{R} => {5}{R}{R}
+
+The Helltaker
+rules_text: Trample
+Whenever The Helltaker becomes the target of a spell or an ability an opponent controls, he deals 2 damage to them.
+Whenever The Helltaker deals damage to a player, create that many 1/1 red Demon creature tokens. => Trample
+Ward—Pay 3 life.
+Whenever the Helltaker deals damage to an opponent, create half that many 1/1 red Demon creature tokens, rounded down.
+pt: 5/4 => 5/5
+
+Zdrada, the CENSORED Demon
+
+A Moment That Would Never Pass
+rules_text: This land enters tapped.
+{T}: Add {U}.
+{6}{U}, {T}: Transform this land. This ability costs {X} less to activate, where X is the greatest mana value among spells you've cast this turn plus the amount of mana you've spent on splice costs this turn. => {T}, Pay 1 life: Add {U}.
+{7}{U}{U}, {T}: Transform this land. This ability costs {X} less to activate, where X is the greatest mana value among spells you've cast this turn plus the amount of mana you've spent on splice costs this turn.
+
+Frinos, Cthonic Companion
+rules_text: Flash
+When Frinos enters, you may change the target of up to one target instant or sorcery spell with a single target to Frinos. If you don't, put a +1/+1 counter on him and scry 1.
+{T}: Add {U}. Spend this mana only to cast instant and sorcery spells. => Flash
+When Frinos enters, you may change the target of up to one target instant or sorcery spell with a single target to Frinos. If you don't, put a +1/+1 counter on him.
+{T}: Add {U}. Spend this mana only to cast instant and sorcery spells.
+
+Melinoë, Cthonic Nymph
+rules_text: Whenever you cast a noncreature spell, put a +1/+1 counter on Melinoë. This ability triggers only once each turn.
+Each instant and sorcery card in your hand has splice onto instant or sorcery. The splice cost is equal to its mana cost. [i](As you cast an instant or sorcery spell, you may reveal a sorcery card from your hand and pay its splice cost. If you do, add that card's effects to that spell.)[/i] => As long as Melinoë attacked this turn, each instant and sorcery card in your hand has splice onto instant or sorcery. The splice cost is equal to its mana cost. [i](As you cast an instant or sorcery spell, you may reveal a sorcery card from your hand and pay its splice cost. If you do, add that card's effects to that spell.)[/i]
+pt: 2/3 => 3/4
+
+Night's Light
+type: Instant => Sorcery
+rules_text: Scry 1, then draw a card.
+Splice onto instant or sorcery—{1}{U}, Discard a card. [i](As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)[/i] => Surveil 1, then draw a card.
+Splice onto instant or sorcery—{1}{U}, Discard a card. [i](As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)[/i]
+
+Pressed for Time
+rules_text: Choose one:
+• Counter target spell.
+• Exile target creature and put two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i] => Choose one —
+• Counter target spell.
+• Exile target creature and put two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it's a creature, it has haste.)[/i]
+
+Gathering of Shades
+rules_text: Create two 1/1 black Shade creature tokens with flying, then scry 1.
+Splice onto instant or sorcery—{2}{UB}{UB}, Pay 3 life. [i](As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)[/i] => Create two 1/1 black Shade creature tokens with flying, then surveil 1.
+Splice onto instant or sorcery—{2}{UB}{UB}, Pay 3 life. [i](As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)[/i]
+
+DANGERDOOM
+rules_text: Deathtouch
+Impending 2—{1}{B}{B} [i](If you cast this spell for its impending cost, it enters with two time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Whenever DANGERDOOM enters or a time counter is removed from it, target opponent discards a card. => Deathtouch
+Impending 3—{2}{B} [i](If you cast this spell for its impending cost, it enters with three time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+When DANGERDOOM enters or the last time counter is removed from it, target opponent discards a card.
+
+King Geedorah, the Third Rail
+rules_text: Menace
+Impending 4—{2}{B} [i](If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+When King Geedorah enters, he deals 3 damage to any target and you gain 3 life. => Menace
+Impending 4—{2}{B} [i](If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+When King Geedorah enters, he deals 3 damage to any target and you gain 3 life.
+pt: 5/5 => 5/4
+
+Metal Face Mask
+rules_text: When this Equipment enters, target creature an opponent controls gets -3/-3 until end of turn.
+Equipped creature gets +1/+0, has menace, and is a Villain in addition to its other types.
+Equip {3} => When this Equipment enters, target creature an opponent controls gets -3/-3 until end of turn.
+Equipped creature gets +1/+0, has menace, and is a Villain in addition to its other types.
+Equip {4}
+
+MF DOOM, the Illest Villain
+rules_text: Impending 4—{2}{B}{B} [i](If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Whenever MF DOOM enters or a time counter is removed from him, exile the top card of target opponent's library. You may look at and play it for as long as it remains exiled. Mana of any color can be spent to cast spells this way. => Impending 4—{4}{B} [i](If you cast this for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+Whenever MF DOOM enters or a time counter is removed from him, exile the top card of target opponent's library. You may play it for as long as it remains exiled, and may spend mana of any type to cast spells this way.
+
+New York
+
+Quasimoto and DOOM
+rules_text: Flash
+Impending 3—{1}{B} [i](If you cast this spell for its impending cost, it enters with three time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Whenever Quasimoto and DOOM enter or attack, target creature gets +1/+1 and gains lifelink until end of turn. => Flash
+Impending 3—{1}{B} [i](If you cast this for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+When Quasimoto and DOOM enters or the last time counter is removed from it, put a +1/+1 counter on target creature. It gains lifelink until end of turn.
+
+Sonic Switchboard
+rules_text: At the beginning of your end step, you may exile target nonland permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. => At the beginning of your end step, exile up to one target nonland permanent you control. Return it to the battlefield under your control at the beginning of the next end step.
+
+Viktor Vaughn, Vaudeville Villain
+rules_text: Deathtouch
+Pay 3 life: Copy target triggered ability you control from a nonland permanent source. You may choose new targets for the copy. Activate only during your turn, and only once each turn. => Menace
+Pay 3 life: Copy target triggered ability you control from a nonland permanent source. You may choose new targets for the copy. Activate only during your turn, and only once each turn.
+
+Madvillainy
+rules_text: When this enchantment enters, create a 3/3 colorless Robot Villain artifact creature with flying named DOOMbot.
+{2}{B}, Sacrifice this enchantment: Creatures you control get +1/+0 and gain menace until end of turn. => When this enchantment enters, create a 3/3 colorless Robot Villain artifact creature with flying named DOOMbot.
+{5}{B}, Sacrifice this enchantment: Creatures you control get +1/+0 and gain menace until end of turn.
+
+Operation DOOMSDAY
+rules_text: Impending 2—{B}{B}{B} [i](If you cast this spell for its impending cost, it enters with two time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+When this artifact enters or attacks, you lose 1 life and create a 3/3 colorless Robot Villain artifact creature with flying named DOOMbot. => Impending 2—{2B}{2B}{2B} [i](If you cast this for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+When this artifact enters or attacks, you lose 1 life and create a 3/3 colorless Robot Villain artifact creature with flying named DOOMbot.
+
+Full Moon Gathering
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{2}, {T}: Choose a color and a type. Add an amount of mana of the chosen color equal to the number of creatures you control of the chosen type. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{4}, {T}: Put a +1/+1 counter on each creature you control. Activate only if a creature died this turn.
+
+Tigerstar
+pt: 2/5 => 4/4
+
+Rusty
+rules_text: Discard a nonland card: Rusty gains indestructible until end of turn. Tap it.
+Whenever Rusty becomes tapped, create a 1/1 white Warrior Cat creature token.
+When Rusty attacks with two or more other creatures, transform it. => Discard a card: Rusty gains indestructible until end of turn. Tap it.
+Whenever Rusty becomes tapped, you may pay {1}. If you do, create a 1/1 white Warrior Cat creature token.
+When Rusty attacks with two or more other creatures, transform it.
+
+Silverstream
+rules_text: Flash
+When Silverstream dies, create two 1/1 white Warrior Cat creature tokens.
+Evoke {1}{GW} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flash
+When Silverstream dies, create two 1/1 white Warrior Cat creature tokens.
+Evoke {3}{GW} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Yellowfang
+rules_text: When Yellowfang enters, create a 1/1 white Warrior Cat creature token.
+Sacrifice a creature: Scry 1. => When Yellowfang enters, create a 1/1 white Warrior Cat creature token.
+Sacrifice a creature: Surveil 1.
+pt: 1/2 => 1/1
+
+Dwarven Axelord
+rules_text: Haste
+[i]Threshold[/i] — As long as you have seven or more cards in your graveyard, this creature gets +2/+1 and has menace. => Haste
+[i]Threshold[/i] — As long as you have seven or more cards in your graveyard, this creature gets +1/+2 and has menace.
+
+Tales of Forgotten Beasts
+rules_text: When this enchantment enters, it deals 4 damage to target creature. Surveil 1.
+[i]Threshold[/i] — {1}{R}: This enchantment becomes a 6/6 Elder Beast enchantment creature. Activate only once, as a sorcery, and if you have seven or more cards in your graveyard. => When this enchantment enters, it deals 4 damage to target creature. Surveil 1.
+[i]Threshold[/i] — {3}{R}: This enchantment becomes a 6/6 Elder Beast enchantment creature. Activate only once, as a sorcery, and if you have seven or more cards in your graveyard.
+
+Urist, Fortress Ruler
+cost: {2}{R}{R} => {3}{R}{R}
+pt: 4/3 => 5/4
+
+Demon
+rules_text:  => Flying
+pt: 1/1 => 3/3
+
+Dig Deeper
+
+Almost Out of Oxygen
+cost: {3}{U} => {4}{U}
+rules_text: If there are three or more counters among creatures you control, Almost Out of Oxygen costs {2} less to cast.w
+The owner of target creature puts it on the top or bottom of their library. => This spell costs {2} less to cast if there are three or more counters among creatures you control.
+The owner of target creature puts it on the top or bottom of their library.
+
+Humpback Whales
+rules_text: Vigilance, ward {2}
+Islandcycling {2} => Vigilance, ward {2}
+Basic landcycling {2}
+
+Indo-Pacific Sailfish
+rules_text: Flash
+{4}: Indo-Pacific Sailfish can't be blocked except by creatures with haste until end of turn. => Flash
+{3}: Indo-Pacific Sailfish can't be blocked except by creatures with haste until end of turn.
+
+Magu Tapa
+cost: {3}{U}{U} => {4}{U}{U}
+rules_text: Flash
+Menace
+When Magu Tapa enters the battlefield, return target creature with lesser power to its owner's hand.
+Nonbasic landcycling {2} [i]({2}, Discard this card: Search your library for a land card, reveal it, put it into your hand, then shuffle.)[/i] => Flash
+Menace
+When Magu Tapa enters the battlefield, return target creature with lesser power to its owner's hand.
+Nonbasic landcycling {2}
+
+Sea Slug Studies
+
+Undersea Encounter
+rules_text: Choose one—
+• Put a +1/+1 counter on target creature you control. It can't be blocked until end of turn.
+• Target creature you control explores, then it explores again. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)[/i] => Choose one —
+• Return target creature to its owner's hand.
+• Target creature you control explores, then it explores again. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)[/i]
+
+Whale Shark
+rules_text: When Whale Shark enters the battlefield or attacks, target creature you control explores.
+Creatures you control with +1/+1 counters on them have vigilance. => At the beginning of combat on your turn, target creature you control explores.
+Creatures you control with +1/+1 counters on them have vigilance.
+
+Commerson's Dolphin
+rules_text: Squad {2}{U} [i](As an additional cost to cast this spell, you may pay {2}{U} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When Commerson's Dolphin enters the battlefield, it explores. => Squad—{U}, Discard a land card. [i](As an additional cost to cast this spell, you may pay {U}, Discard a land card any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When Commerson's Dolphin enters the battlefield, it explores.
+
+Manoa Lai
+
+Kira Cultists
+pt: 0/4 => 2/3
+
+Ryuk, Spirit of Death
+pt: 2/4 => 2/5
+
+Kira's Task Force
+rules_text: Reach
+[i]For Justice — [/i]Whenever you draw a card, this creature gets +1/+0 until end of turn.
+When this creature enters or dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Reach
+[i]For Justice — [/i]Whenever you draw a card, this creature gets +1/+0 until end of turn.
+When this creature enters or dies, investigate.
+
+L, Immature Investigator
+rules_text: [i]For Justice — [/i]Whenever you draw a card, L gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, he can't be blocked until end of turn.
+Whenever a creature dies, lose 1 life and investigate. This ability triggers only once each turn. => [i]For Justice — [/i]Whenever you draw a card, L gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, he can't be blocked until end of turn.
+Whenever a creature dies, you may pay 1 life. If you do, investigate. Do this only once each turn.
+
+Misa Amane, Kira Worshipper
+rules_text: Deathtouch
+[i]Shinigami Eyes[/i] — When Misa enters, lose 1 life and investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+[i]For Justice — [/i]Whenever you draw a card, Misa gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, she gains menace until end of turn. => Deathtouch
+[i]Shinigami Eyes[/i] — When Misa enters, you lose 1 life and investigate.
+[i]For Justice — [/i]Whenever you draw a card, Misa gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, she gains menace until end of turn.
+pt: 1/2 => 2/1
+
+Insect Bard (HK)
+rules_text: Reach => Reach
+Spider Gods you control get -2/-0.
+
+Ancient Sickness
+cost: {1}{B}{B} => {3}{B}
+rules_text: Kicker {2}{G} [i](You may pay an additional {2}{G} as you cast this spell.)[/i]
+All creatures get -2/-2 until end of turn. When they do, if this spell was kicked, return a creature card with mana value X or less from your graveyard to the battlefield, where X is the number of creatures that died this turn. => Kicker {1}{G} [i](You may pay an additional {1}{G} as you cast this spell.)[/i]
+All creatures get -3/-3 until end of turn. When they do, if this spell was kicked, return a creature card with mana value X or less from your graveyard to the battlefield, where X is the number of creatures that died this turn.
+
+Grand Mother Silk
+cost: {4}{G}{G} => {5}{G}
+rules_text: Vigilance, trample, reach
+When Grand Mother Silk enters, if you cast her, create three 1/1 green Insect Bard creature tokens with reach.
+Grand Mother Silk gets -2/-0 for each Bard you control. => Vigilance, trample, reach
+When Grand Mother Silk enters, if you cast her, create three 1/1 green Insect Bard creature tokens with reach and “Spider Gods you control get -2/-0.”
+Evoke {3}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 6/6 => 6/5
+
+Phantom in the Mist
+rules_text: You may look at the top card of your library at any time.
+[i]Exhaust Organ — [/i]Whenever Phantom attacks, target creature explores. If it has power 4 or greater, it explores twice instead. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => You may look at the top card of your library at any time.
+Whenever Phantom attacks, if target creature has power 4 or greater, it explores twice. Otherwise, it explores once. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Primal Aspid
+cost: {1}{B} => {B}
+rules_text: Flying
+When this creature enters, surveil 2. => Deathtouch, flying
+When this creature enters, surveil 2. You lose 2 life.
+pt: 1/3 => 1/1
+
+The Everbloom
+cost: {3}{B}{G} => {X}{BG}
+rules_text: When The Everbloom enters, return target creature card from your graveyard to the battlefield and attach The Everbloom to it.
+Equipped creature gets +1/+1 and has vigilance.
+Equip {2} => When The Everbloom enters, return target creature card with mana value X or less from your graveyard to the battlefield and attach The Everbloom to it.
+Equipped creature gets +2/+2.
+Equip {2}
+
+The Radiance, Forgotten Light
+cost: {8} => {5}
+rules_text: Flying, ward {3}
+As an additional cost to cast this spell, exile a card from your hand. => Flying, vigilance, ward {2}
+As an additional cost to cast this spell, exile two creatures you control.
+pt: 8/8 => 7/7
+
+Hornet, Pharloom's Savior
+cost: {2}{G}{G} => {3}{G}
+pt: 3/3 => 3/2
+
+Dry Bones
+rules_text: World 8 — This creature gets +2/+2 as long as you control eight or more lands.
+{2}{BG}: Return this card from your graveyard to your hand. => [i]World 8[/i] — This creature gets +2/+2 as long as you control eight or more lands.
+{2}{BG}: Return this card from your graveyard to your hand.
+
+Goomba Tower
+rules_text: Reach, vigilance
+World 8 — As long as you control eight or more lands, this creature gets +2/+2. => Reach, vigilance
+[i]World 8[/i] — As long as you control eight or more lands, this creature gets +2/+2.
+
+Hammer Smash
+rules_text: Target creature you control gets +1/+0 until end of turn, then deals damage equal to its power to target creature you don't control.
+World 8 — If you control eight or more lands, draw a card. => Target creature you control gets +1/+0 until end of turn, then deals damage equal to its power to target creature you don't control.
+[i]World 8[/i] — If you control eight or more lands, draw a card.
+
+Junior, Royal Painter
+rules_text: Trample
+Whenever Junior attacks, mill two cards. Until end of turn, you may play land cards from your graveyard. 
+World 8 — Once during each of your turns, as long as you control eight or more lands, you may cast a creature spell from your graveyard. If you do, it enters with a finality counter on it. => Trample
+Whenever Junior attacks, mill two cards. Until end of turn, you may play land cards from your graveyard. 
+[i]World 8[/i] — Once during each of your turns, as long as you control eight or more lands, you may cast a creature spell from your graveyard. If you do, it enters with a finality counter on it.
+
+Kamek, Peerless Magician
+rules_text: Flash
+Reach
+World 8 — {3}{G}{G}, Exile Kamek from your graveyard: One or two target creatures each get +3/+3 and gain trample until end of turn. Activate only as a sorcery and only if you control eight or more lands. => Flash
+Reach
+[i]World 8[/i] — {3}{G}{G}, Exile Kamek from your graveyard: One or two target creatures each get +3/+3 and gain trample until end of turn. Activate only as a sorcery and only if you control eight or more lands.
+
+Send Forth
+rules_text: Target creature gets +2/+2 until end of turn.
+World 8 — {2}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery and only if you control eight or more lands. => Target creature gets +2/+2 until end of turn.
+[i]World 8[/i] — {2}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery and only if you control eight or more lands.
+
+Fire Flower
+cost: {2}{R}{R} => {3}{R}
+
+Mario, Pesky Plumber
+cost: {2}{R}{R} => {3}{R}
+
+Unexpected Toad
+rules_text: Rescue 1 — {R} [i](If you cast this for {R}, when it enters, create a 1 defense Castle battle token an opponent defends which exiles it until it's defeated.)[/i]
+When Unexpected Toad enters, you may discard a card. If you do, draw a card. => Rescue 1 — {R} [i](If you cast this for {R}, when it enters, create a 1 defense Castle battle token an opponent defends which exiles it until it's defeated.)[/i]
+When Unexpected Toad enters, exile the top card of your library. You may play it until the end of your next turn.
+pt: 2/2 => 2/1
+
+Luigi, Cowardly Companion
+pt: 4/5 => 4/4
+
+Princess Daisy
+rules_text: Rescue 4 — {BR} [i](You may cast Daisy for {BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+Menace
+When Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature. => Rescue 3 — {BR} [i](You may cast Daisy for {BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+Menace
+When Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature.
+
+Rainbow Road
+rules_text: {T}: Add {C}.
+{1}, {T}, : Add one mana of any color. If you spend this mana to cast a creature spell, until end of turn, it gets +1/+1 and gains haste and can't attack players. => {T}: Add one mana of any color. You can't spend this mana to cast spells, except creature spells. When you do, until end of turn, that creature gains haste and can't attack players.
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Operation DOOMSDAY added.
