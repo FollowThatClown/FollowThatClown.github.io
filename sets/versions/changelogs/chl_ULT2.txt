@@ -1,4 +1,78 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+Demon 1 (HELL) ULT2 added.
+Less Obsessive Pursuit added.
+SCP-049, The Plague Doctor added.
+Diagnostics Breakout added.
+Directive A-113 added.
+RE-CYCLING added.
+AUTO, Axiom Pilot added.
+The Axiom added.
+EVE, Endeared Evaluator added.
+Fire Extinguisher added.
+M-O, Scrutinous Janitor added.
+SECUR-T Detail added.
+WALL-E, Recycling Scavenger added.
+Ash Barrens (WLE) added.
+Ash Barrens (WLE) added.
+Axiom Grounds added.
+Buy N Large Ruins added.
+Mountainous Junkheaps added.
+Ramshackle Home added.
+Clue (WLE) added.
+
+SCP-049, Plague Doctor removed.
+Obsessive Pursuit (DN) removed.
+
+
+type: Basic Land — Island => 
+
+Judgement, the High Prosecutor
+rules_text: First strike
+Judgement can't block.
+Whenever Judgement attacks, you may pay {1}{R}. If you do, she must be blocked each combat if able until end of turn. => First strike
+Judgement attacks each combat if able.
+Whenever Judgement attacks, you may pay {1}{R}. If you do, she must be blocked each combat if able until end of turn.
+pt: 4/3 => 4/4
+
+Modeus, the Eager Demon
+
+Beelzebub, the Great Fly
+rules_text: This spell can't be countered.
+Flying
+When Beelzebub enters, each creature you control deals 1 damage to any target. => This spell can't be countered.
+Flying
+When Beelzebub enters, for each creature you control, that creature deals 1 damage to any target.
+
+Demon 2 (HELL) ULT2
+
+Light Yagami, Would-Be God
+
+Ryuk, Spirit of Death
+rules_text: [i]For Fun — [/i]Whenever you draw a card, Ryuk gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, he gains flying until end of turn. => Deathtouch, flying
+[i]For Fun — [/i]Whenever you draw a card, Ryuk gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, each other creature also gets +1/+0 until end of turn.
+pt: 2/5 => 2/4
+
+Clue (DN)
+
+Mobile Task Force
+
+Site Lockdown
+type: Sorcery => Instant
+rules_text: Return up to two target nonland permanents to their owners' hands.
+{1}{U}, Discard Site Lockdown: Surveil 1, then draw a card. => Return up to two target nonland permanents to their owners' hands.
+{1}{U}, Discard Site Lockdown: Surveil 2. Draw a card.
+
+SCP-2521
+rules_text: Reach, ward {1}
+Whenever you surveil, you may put on ●●|●●●●●|●●|● X +1/+1 counters, where X is the number of cards you looked at while surveiling.
+{3}{U}: Surveil 1. => Reach
+Whenever you surveil, you may put on ●●|●●●●●|●●|● X +1/+1 counters, where X is the number of cards you looked at while surveiling.
+{3}{U}: Surveil 2.
+
+
+VERSION 28 CHANGELOG
 ====================
 
 Deconstruct added.
