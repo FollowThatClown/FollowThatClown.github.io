@@ -1,4 +1,408 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+Deconstruct added.
+Human Soldier added.
+Castle (SMB) added.
+Spirit (SMB) added.
+Fungus Warrior SMB) added.
+Demon 1 (HELL) ULT2 added.
+
+EXODIA removed.
+Portal to the Shadow Realm removed.
+Portal to the Shadow Realm removed.
+Legosi TEMP removed.
+Killer for Hire removed.
+Look Inside removed.
+Luigi's Mansion removed.
+Castle Token (SMB) removed.
+Fungus Warrior Token (SMB) removed.
+
+Silk Maiden Alice
+rules_text: Deathtouch
+Whenever discard a card or sacrifice a nonland permanent during your turn, you may put a +1/+1 counter on target creature. Do this only once each turn.
+Madness {1}{BG} => Deathtouch
+Whenever you discard a card or sacrifice a nonland permanent during your turn, you may put a +1/+1 counter on target creature. Do this only once each turn.
+Madness {1}{BG}
+
+
+type: Basic Land — Island => 
+
+Jax
+rules_text: Menace
+As long as you've cast a noncreature spell this turn, Jax gets +2/+2. => Menace
+Whenever you cast a noncreature spell, Jax connives. This ability triggers only once each turn. [i](Draw a card, then discard a card. If you discarded a nonland, put a +1/+1 counter on Jax.)[/i]
+
+Torment Nexus
+
+Uboa
+rules_text: Menace
+When Uboa enters, shuffle target permanent into its owner's library. => Menace
+When Uboa enters, the owner of target permanent shuffles it into their library.
+
+Knife Effect
+cost: {3}{R} => {2}{R}
+rules_text: Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature gets +3/+0. => Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature has first strike.
+
+Madotsuki, Dream Walker
+rules_text: Whenever you wander, put a loyalty counter on Madotsuki. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a 3{R} Aura enchantment with enchant creature and “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature gets +3/+0.”)[/i] => Whenever a land you control enters, put two loyalty counters on Madotsuki.
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a {3}{R} Aura enchantment with enchant creature and “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature has first strike.”)[/i]
+special_text: Whenever you wander, put a loyalty counter on Madotsuki. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i]
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a 3{R} Aura enchantment with enchant creature and “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature gets +3/+0.”)[/i] => Whenever a land you control enters, put two loyalty counters on Madotsuki.
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a {3}{R} Aura enchantment with enchant creature and “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature has first strike.”)[/i]
+
+Witch Effect
+rules_text: Flash
+Enchant creature
+When Witch Effect enters, enchanted creature gains flying until end of turn.
+Enchanted creature gets +2/+2. => Flash
+Enchant creature
+When Witch Effect enters, enchanted creature gets +2/+2 until end of turn until end of turn.
+Enchanted creature has flying.
+
+Kyukkyu-kun
+rules_text: Reach
+Whenever you wander, you may discard a card, then draw a card and put a +1/+1 counter on Kyukkyu-kun. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Reach
+[i]Scrub [/i]— Whenever a land you control enters, you may discard a card. If you do, draw a card and put a +1/+1 counter on Kyukkyu-kun.
+
+Monoko
+rules_text: Trample
+[i]Extra Bits [/i]— Whenever you wander, Monoko gets +2/+0 until end of turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Trample
+[i]Extra Bits [/i]— Whenever a land you control enters, Monoko gets +2/+0 until end of turn.
+
+Seccom Masada-sensei
+rules_text: [i]Crash Land[/i] — Whenever you wander, you may exile the top card of your library. You may cast it this turn if it's a spell by paying 2 life in addition to its other costs. Do this only once each turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Ward—Pay 3 life.
+[i]Crash Land[/i] — Whenever a land you control enters, you may exile the top card of your library. You may cast it this turn if it's a spell by paying 3 life in addition to its other costs.
+pt: 3/2 => 3/3
+
+Takofuusen
+rules_text: Flying
+[i]Drum Beat[/i] — Whenever you wander, other creatures you control gets +1/+1 until end of turn. [i](You wander when you play a land from your hand or any card from anywhere else.)[/i] => Flying
+[i]Drum Beat[/i] — Whenever a land you control enters, up to one other target creature gets +2/+2 until end of turn.
+
+Knife Effect
+rules_text: Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature gets +3/+0. => Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature has first strike.
+
+Strategic Sacrifice
+rules_text: As an additional cost to cast this spell, sacrifice a creature or sacrifice a modified creature. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Destroy target creature. If the modified creature was sacrificed, draw a card. => As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature. If a modified creature was sacrificed, draw a card.
+
+Battle Bishop
+rules_text: When this creature enters, you draw a card and lose 1 life.
+Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Lifelink => When this creature enters, draw a card.
+Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Lifelink
+
+Chain Formation
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +2/+0 and gains indestructible.
++{W} — Create two 1/1 white Human Soldier creature tokens. => Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +1/+0 and gains indestructible.
++{W} — Create two tapped 1/1 white Human Soldier creature tokens.
+
+Leaping Cavalry
+rules_text: Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Pay 1 life: This creature gains flying until end of turn. => Backup 1 [i](When this creature enters, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)[/i]
+Pay 2 life: This creature gains flying until end of turn.
+pt: 2/1 => 2/2
+
+Serve Once More
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++{1}{W} — Exile up to two target creatures, then return them to battlefield under their owner's control.
++{3}{B} — Return target creature card from your graveyard to the battlefield tapped. => Spree [i](Choose one or more additional costs.)[/i]
++{W} — Exile target creature, then return it to battlefield under its owner's control with a +1/+1 counter on it.
++{1}{B} — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Fire Flower
+rules_text: Enchant creature
+When Fire Flower enters, it deals 3 damage to each creature except enchanted creature.
+Power-up — {6}{R}{R}: Put three +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by {R} if Fire Flower it entered this turn.)[/i] => Enchant creature
+When Fire Flower enters, it deals 3 damage to each creature except enchanted creature.
+Power-up — {7}{R}: Put three +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Fire Flower's mana cost if it entered this turn.)[/i]
+
+Super Mushroom
+cost: {2}{R} => {1}{R}
+rules_text: Enchant creature you control
+[i]Stomp[/i] — When Super Mushroom enters, enchanted creature deals damage equal to its power to up to one target battle or creature.
+Power-up — {4}{R}: Put two +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Super Mushroom's mana cost if it entered this turn.)[/i] => Enchant creature you control
+[i]Stomp[/i] — When Super Mushroom enters, enchanted creature deals damage equal to its power to up to one target battle or creature.
+Power-up — {5}{R}: Put two +1/+1 counters on enchanted creature. [i](Activate each power-up ability only once. Reduce the cost by Super Mushroom's mana cost if it entered this turn.)[/i]
+
+Unexpected Toad
+cost: {1}{R} => {2}{R}
+rules_text: Rescue 1 — {R} [i](If you cast this for {R}, when it enters, create a 1 defense Castle battle token an opponent defends which exiles it until it's defeated.)[/i]
+When Unexpected Toad enters, exile the top card of your library. You may play it until the end of your next turn. => Rescue 2 — {1}{R} [i](If you cast this for {1}{R}, when it enters, create a 2 defense Castle battle token an opponent defends which exiles it until it's defeated.)[/i]
+When Unexpected Toad enters, exile the top two cards of your library. You may play them until the end of your next turn.
+pt: 2/1 => 2/2
+
+Luigi, Cowardly Companion
+cost: {3}{RG} => {4}{RG}
+rules_text: Rescue 4 — {RG} [i](You may cast Luigi for {RG}. If you do, when he enters, create a 5 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]
+[i]Jump [/i]— Luigi has flying while attacking a battle.
+When Luigi enters, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Rescue 4 — {1}{RG} [i](You may cast Luigi for {RG}. If you do, when he enters, create a 4 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]
+[i]Jump [/i]— Luigi has flying while attacking a battle.
+When Luigi enters, create two 1/1 colorless Spirit creature tokens.
+
+Princess Daisy
+cost: {2}{BR} => {3}{BR}
+rules_text: Rescue 3 — {BR} [i](You may cast Daisy for {BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+Menace
+When Daisy enters, you may discard a card. If you do, she deals damage equal to her power to up to one target battle or creature. => Rescue 3 — {1}{BR} [i](You may cast Daisy for {1}{BR}. If you do, when she enters, create a 3 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+Daisy has menace while attacking a battle.
+When Daisy enters, she deals damage equal to her power to target battle or creature.
+pt: 3/2 => 3/3
+
+Princess Rosalina
+rules_text: Flying
+Prowess => Flying
+
+Princess Toadstool, Peach
+cost: {6}{RW}{RW} => {6}{RW}
+rules_text: Rescue 7 — {2}{RW} [i](You may cast Peach for {2}{RW}. If you do, when she enters, create an 7 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create three 1/1 red Fungus Warrior creature tokens.
+During your turn, other creatures you control get +1/+0 and have first strike. => Rescue 6 — {2}{RW} [i](You may cast Peach for {2}{RW}. If you do, when she enters, create an 6 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create three 1/1 red Fungus Warrior creature tokens.
+Other creatures you control get +2/+0.
+pt: 3/6 => 2/4
+
+Chain Chomp
+cost: {2} => {3}
+rules_text: Reach, trample 
+Chain Chomp can't attack players. => Defender, reach
+{T}: Chain Chomp deals 1 damage to target player or battle.
+pt: 3/2 => 4/3
+
+Rainbow Road
+rules_text: {T}: Add one mana of any color. You can't spend this mana to cast spells, except creature spells. When you do, until end of turn, that creature gains haste and can't attack players. => {T}: Add {C}.
+{1}, {T}, : Add one mana of any color. If you spend this mana to cast a creature spell, until end of turn, it gets haste and trample and can't attack players.
+
+Formaggio, Slick Sneak
+cost: {2}{U} => {1}{U}
+rules_text: At the beginning of combat on your turn, target creature gets -2/-0 and gains skulk until end of turn. [i](It can't be blocked by creatures with greater power.)[/i] => Whenever Formaggio attacks, you may have target creature you control get -2/-0. If you do, it can't be blocked by creatures with greater power this turn.
+pt: 3/2 => 3/1
+
+Ghiaccio, Icy Berserker
+rules_text: Trample, ward {2}
+Ghiaccio attacks each combat if able.
+{1}{U}, Discard Ghiaccio: Tap target artifact or creature. Put two stun counters on it. => When Ghiaccio enters or deals combat damage to a player, tap up to one target artifact or creature and put two stun counters on it.
+{1}{U}: Put Ghiaccio from your hand onto the battlefield tapped with four stun counters on him.
+
+Prosciutto, Hardened Mafioso
+rules_text: [i]Withering Aura[/i]— When Prosciutto enters, discard up to two cards. If you discarded one, target creature gets -3/-3 until end of turn. If you discarded two, each creature except himself gets -3/-3 until end of turn. => Deathtouch
+[i]Withering Aura[/i]— When Prosciutto enters, discard up to two cards. If you discarded one, target creature gets -3/-3 until end of turn. If you discarded two, each creature except himself gets -3/-3 until end of turn.
+pt: 3/3 => 2/3
+
+La Squadra's Betrayal
+cost: {4}{U}{B} => {3}{U}{B}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature with mana value 4 or less.
+II, III, IV — Whenever a creature you control deals combat damage to a player this turn, they discard a card. If they can't, they lose 3 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature with mana value 3 or less.
+II, III, IV — Whenever a creature you control deals combat damage to a player this turn, they discard a card. If they can't, they lose 3 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature with mana value 4 or less.
+II, III, IV — Whenever a creature you control deals combat damage to a player this turn, they discard a card. If they can't, they lose 3 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature with mana value 3 or less.
+II, III, IV — Whenever a creature you control deals combat damage to a player this turn, they discard a card. If they can't, they lose 3 life.
+
+Risotto, Vengeful Leader
+rules_text: Menace
+Whenever a creature you control deals combat damage to a player, investigate.
+[i]Lethal Magnetism [/i]— {10}{U}{B}, Sacrifice any number of artifacts: Target player loses 5 life. This ability costs {2} less to activate for each artifact sacrificed to activate it. => Menace
+Whenever a creature you control deals combat damage to a player, investigate.
+[i]Lethal Magnetism [/i]— {8}{U}{B}, Sacrifice any number of artifacts: Target player loses 5 life. This ability costs {2} less to activate for each artifact sacrificed to activate it.
+
+Melone, Distant Admirer
+rules_text: When Melone enters, create a 0/0 black Spirit Horror enchantment creature token and put a +1/+1 counter on it.
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on up to one target Spirit Horror. => When Melone enters, create a 0/0 black Spirit Horror enchantment creature token and put a +1/+1 counter on it.
+Whenever a creature you control deals combat damage to a player, you may pay 1 life. If you do, put a +1/+1 counter on up to one target Spirit Horror.
+
+Chell, Resourceful Subject
+rules_text: When Chell enters, create a Portal token. [i](It's an enchantment with “Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i] => When Chell enters, create a Portal token. [i](It's an enchantment with “{1}, Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+pt: 2/2 => 2/3
+
+GLaDOS, Insidious Overseer
+cost: {3}{U}{U} => {4}{U}{U}
+rules_text: Reach
+When you cast GLaDOS, create two Portal tokens. [i](Enchantments with “Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i][i]
+[/i]Whenever another nontoken creature you control enters, you may pay 1 life. If you do, draw a card. => Reach
+When you cast GLaDOS, create two Portal tokens. [i](Enchantments with “{1}, Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i][i]
+[/i]Whenever another nontoken creature you control enters, draw a card.
+pt: 4/5 => 6/7
+
+Resolve the Stalemate
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may choose two target permanents with mana value 1 or greater. Exchange control of them.
+II, III — Create a Portal token. [i](It's an enchantment with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may choose two target permanents with mana value 1 or greater. Exchange control of them.
+II, III — Create a Portal token. [i](It's an enchantment with “{1}, Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may choose two target permanents with mana value 1 or greater. Exchange control of them.
+II, III — Create a Portal token. [i](It's an enchantment with “Whenever a creature you control attacks, you may exile it and this Portal. If you do, return the creature to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may choose two target permanents with mana value 1 or greater. Exchange control of them.
+II, III — Create a Portal token. [i](It's an enchantment with “{1}, Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+​
+
+Resume Testing
+rules_text: Return target creature to its owner's hand. 
+Create a Portal token. [i](An enchantment with “Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i] => Return target nonland permanent to its owner's hand. Create a Portal token. [i](An enchantment with “{1}, Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+
+Weighted Companion Cube
+rules_text: When this artifact enters, tap target artifact or creature. It doesn't untap during its controller's untap step for as this artifact remains on the battlefield.
+{6}, {T}, Sacrifice this artifact: Draw four cards. Activate only as a sorcery. => When this artifact enters, tap up to one target artifact or creature. It can't become untapped for as this artifact remains on the battlefield.
+{3}, {T}, Sacrifice this artifact: Draw three cards. Activate only as a sorcery.
+
+Wheatley, Moron Core
+pt: 0/3 => 0/4
+
+Atlas & P-Body
+rules_text: When you cast Atlas & P-Body, create a Portal token. [i](They're enchantments with “Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+When Atlas & P-Body enter, put two +1/+1 counters on up target creature. => When you cast Atlas & P-Body, create a Portal token. [i](They're enchantments with “{1}, Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+When Atlas & P-Body enter, put two +1/+1 counters on up target creature.
+pt: 2/2 => 2/3
+
+The Rat Man
+
+Portal
+rules_text: Sacrifice this Portal: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat. => {1}, Sacrifice this: When target creature you control attacks this turn, exile it and return it to the battlefield tapped and attacking under your control. It has flying this combat.
+
+Blood Crazed
+type: Enchantment — Aura => Instant
+rules_text: Until end of turn, target creature you control gets +2/+1 and gains trample. It fights up to one target creature an opponent controls. => Target creature you control gets +2/+1 and gains trample until end of turn. It fights up to one target creature an opponent controls.
+
+Haru
+rules_text: When Haru enters, choose one. If you control a creature with power 4 or greater, you may choose both instead.
+• Mill three cards. Return a land card from your graveyard to your hand.
+• Return a non-Rabbit permanent you control to its owner's hand. => When Haru enters, mill three cards, then return a creature card with power 4 or greater or a land card from your graveyard to your hand.
+
+Louis, Rising Star
+rules_text: Flash
+When Louis enters, choose another target creature you control. Put a +1/+1 counter on it.
+Whenever the chosen creature leaves the battlefield, you draw cards equal to its power, then discard three cards. => When Louis enters, choose another target creature you control. Put a +1/+1 counter on it.
+Whenever the chosen creature leaves the battlefield, you may draw cards equal to its power. If you do, discard three cards.
+pt: 2/2 => 2/3
+
+Riz, Hidden Devourer
+pt: 6/4 => 6/3
+
+Gouhin, Black Market Doc
+cost: {4}{GW} => {3}{GW}
+rules_text: Ward {2}
+At the beginning of your end step, if a creature you controlled left this turn, surveil 2. If that creature had power 4 or greater, draw a card. => At the beginning of your end step, if a creature you controlled left this turn, you gain 3 life. If that creature had power 4 or greater, draw a card.
+pt: 5/6 => 4/5
+
+Legosi, Carnivore Investigator
+cost: {3}{GU} => {2}{GU}
+rules_text: Legosi can't block or be blocked by creatures with power 3 or less.
+At the beginning of your end step, investigate if a creature you controlled left this turn. If it had power 4 or greater, investigate again. => Trample
+Prevent all combat damage Legosi would deal to creatures with power 3 or less.
+At the beginning of your end step, investigate if a creature you controlled left this turn. If it had power 4 or greater, investigate three times instead.
+
+
+Melon, Hybrid Crime Lord
+rules_text: At the beginning of your end step, create a Hyperdrug token if a creature you controlled left this turn. If it had power 4 or greater, create two instead. [i](They're artifacts with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i] => At the beginning of your end step, create a Hyperdrug token if a creature you controlled left this turn. If it had power 4 or greater, create three instead. [i](They're artifacts with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them at the beginning of the next end step.)[/i]
+
+The Black Market
+
+Quiet Cityscape
+rules_text: When Quiet Cityscape enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{5}, Exile Quiet Cityscape from your graveyard: Draw a card. => When this land enters, you gain 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Shady Bar
+rules_text: When Shady Bar enters, create a Hyperdrug token. [i](It's an artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them next end step.)[/i]
+{T}: Add {C}. => When this land enters, create a Hyperdrug token. [i](An artifact with “{T}, Sacrifice this: Target creature you control gets +1/+1. Blitz it. Activate only as a sorcery.” Blitzed creatures gain haste and “When this dies, draw a card.” Sacrifice them next end step.)[/i]
+{T}: Add {C}.
+
+Captain Olimar
+rules_text: Haste
+[i]Charge! [/i]— Whenever Captain Olimar becomes tapped, modified creatures you control get +2/+1 and gain trample until end of turn. => Haste
+[i]Charge! [/i]— Whenever Captain Olimar becomes tapped, modified creatures you control get +2/+0 and gain trample until end of turn.
+
+Throw!
+cost: {1}{G} => {G}
+rules_text: Teamwork 3 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 3 or more.)[/i]
+Target creature you control gets +3/+3 until end of turn. If this spell was cast using teamwork, it fights up to one target creature. => Teamwork 3 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 3 or more.)[/i]
+Choose one. If this spell was cast using teamwork, you may choose both instead.
+• Target creature gets +2/+2 until end of turn.
+• Target creature you control fights another target creature.
+
+The Radiance, Forgotten Light
+rules_text: Flying, vigilance, ward {2}
+As an additional cost to cast this spell, exile two creatures you control. => Flying, ward {2}
+As an additional cost to cast this spell, exile two creatures you control.
+
+Primal Aspid
+rules_text: Deathtouch, flying
+When this creature enters, surveil 2. You lose 2 life. => Deathtouch, flying
+When this creature enters, surveil 1. You lose 1 life.
+
+King Geedorah, the Third Rail
+pt: 5/4 => 5/5
+
+Operation DOOMSDAY
+rules_text: Impending 2—{2B}{2B}{2B} [i](If you cast this for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+When this artifact enters or attacks, you lose 1 life and create a 3/3 colorless Robot Villain artifact creature with flying named DOOMbot. => Impending 2—{2B}{2B}{2B} [i](If you cast this for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+When this artifact enters or attacks, you gain 1 life and create a 3/3 colorless Robot Villain artifact creature with flying named DOOMbot.
+
+Quasimoto and DOOM
+rules_text: Flash
+Impending 3—{1}{B} [i](If you cast this for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+When Quasimoto and DOOM enters or the last time counter is removed from it, put a +1/+1 counter on target creature. It gains lifelink until end of turn. => Flash
+Impending 3—{1}{B} [i](If you cast this for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter.)[/i]
+When Quasimoto and DOOM enters, put a +1/+1 counter on target creature. It gains lifelink until end of turn.
+pt: 2/2 => 4/2
+
+Sonic Switchboard
+cost: {5} => {6}
+rules_text: At the beginning of your end step, exile up to one target nonland permanent you control. Return it to the battlefield under your control at the beginning of the next end step. => At the beginning of your end step, exile up to one target nonland permanent you control. Return it to the battlefield under your control.
+
+Frinos, Cthonic Companion
+rules_text: Flash
+When Frinos enters, you may change the target of up to one target instant or sorcery spell with a single target to Frinos. If you don't, put a +1/+1 counter on him.
+{T}: Add {U}. Spend this mana only to cast instant and sorcery spells. => Flash
+When Frinos enters, you may change the target of up to one target instant or sorcery spell with a single target to Frinos. If you don't, surveil 1.
+{T}: Add {U}. You can't spend this mana to cast creature spells.
+
+Search the Home
+rules_text: Flash
+Enchant creature
+Enchanted creature gets +1/+2 and can't be blocked.
+Whenever enchanted creature deals combat damage to a player, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Flash
+Enchant creature
+Enchanted creature gets +1/+2 and can't be blocked.
+Whenever enchanted creature deals combat damage to a player, investigate.
+
+Withdrawal Symptoms
+rules_text: Enchant creature
+When this Aura enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you draw a card, tap enchanted creature. It loses all abilities until end of turn. => Enchant creature
+When this Aura enters, investigate.
+Whenever you draw a card, tap enchanted creature. It loses all abilities until end of turn.
+
+
+VERSION 27 CHANGELOG
 ====================
 
 SCP-049, Plague Doctor added.
