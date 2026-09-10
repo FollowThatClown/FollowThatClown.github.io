@@ -1,4 +1,1757 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+bad breakup added.
+Billie Eilish added.
+MONSTERMAU5 added.
+Snailiens added.
+Cici, Whatever She Wants added.
+Girl's Fight Out added.
+Gustavo Rocque added.
+Kesha, Turning It Up added.
+Essence of the Week added.
+REFRACTION OF HABIT added.
+TURN IT UP! added.
+☆ P4R7Y 4N1M4L5 ☆ added.
+Glowsquid Galaxy added.
+Snails on Venus added.
+Wuhu Island added.
+Party Animal added.
+Ribbit added.
+Ninja Tools added.
+Ninja added.
+Ghoul's Night Out added.
+Happy Haunt added.
+You're My Prisoner Now added.
+Royal Reflection added.
+Duet Performance added.
+Dubious Cake added.
+Clue (EXEC) added.
+Fish ULT2 1 added.
+Fish ULT2 2 added.
+Fish ULT2 3 added.
+Fish ULT2 4 added.
+Fish ULT2 5 added.
+Leopard Seal added.
+Knight's Resting Place added.
+Super Sailor Moon added.
+Return the Stars! added.
+Demon Token (CORU) added.
+Memory Token added.
+Akizet, Fierce Protector added.
+Akizet's Corrucyst added.
+BSTRD, Chaotic Daemon added.
+Council of Jokzi Ozo added.
+Deep Encounter added.
+Funfriend, System Assistant added.
+Gakvu Thoughtform added.
+Interloper, Outside Observer added.
+Jumbled Cityscape added.
+LIVING THOUGHTS added.
+Recollection Locus added.
+Unable to Deviate added.
+Obesk Spire added.
+City Outskirts added.
+The Chase Eternal added.
+Human Soldier (3RD) added.
+Fujiko, Femme Fatale added.
+
+Creepover removed.
+Ghoulish Get-Together removed.
+Ninja NART removed.
+Ursula the Sea Witch removed.
+Clue removed.
+Fish ULT2 removed.
+Pink Pikmin removed.
+Weapon (DMC) removed.
+Prismatic Vista (KD) removed.
+Usagi Tsukino removed.
+Vanny removed.
+
+Critical Breach
+
+Doctor Shaw
+
+EXPENDABLES
+
+SCP-049, The Plague Doctor
+
+SCP-106, The Old Man
+
+SCP-682, Resilient Reptile
+
+Containment Chamber
+
+Extradimensional Clearing
+
+Foundation Corridor
+
+SCP-173, The Statue
+
+Bad Sun
+
+Dr Kel, Lone Astronomer
+
+Insomniac
+
+Killer Wisp
+
+Mischievious Ariral
+
+Overgrown Cave
+
+Pagonioplo-Igetis
+
+PARANORMAL
+
+Sudden Cliff
+
+The Antibreather
+
+Abandoned Village
+
+Dunkeltaler Forest
+
+Earth
+
+Ride the ATV
+
+Delirious Leap
+
+Grimaline Smith, Neophyte
+
+Harry Jacket, Neophyte
+
+The Hunter Data
+
+Hupton Beach Lu'au
+
+Lord Wernon Fatigue
+
+Secret Ghoul
+
+Chancellor Occam O'Connell
+
+Remold Blacklaw, Librarian
+
+The Archives
+
+Great Yarmouth Chapter House
+
+Miniature Railroad
+
+ARCANUM
+
+Automated Flame-Tank
+
+Reach the Top
+
+The Bounty Hunter
+
+Camp Command
+
+Collect Call
+
+Confidence Surges
+
+The Jester
+
+Riposte Stance
+
+The Crusader
+
+The Leper
+
+The Plague Doctor
+
+Bustling Street
+
+Hamlet
+
+Overflowing Graveyard
+
++STRESS
+
+The Forbidden One
+
+Forbidden One's Left Arm
+
+Forbidden One's Left Leg
+
+Forbidden One's Right Arm
+
+Forbidden One's Right Leg
+
+Heart of the Cards
+
+The Millennium Puzzle
+
+Obliterating Blast
+
+Ultimate Necross Rebirth
+
+KaibaCorp Battle Box
+
+Bring Me That Girl
+
+Bring Me That Girl
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => 
+
+Class Reunion
+
+Intelligence Room
+
+The Demo, Drunken Cyclops
+
+The Scout, Kind of a Big Deal
+
+The Soldier, Screaming Eagle
+
+The Engineer, Frontier Justice
+
+The Medic, God Among Men
+
+The Pyro, Cruel Dreamer
+
+The Heavy Weapons Guy
+
+The Sniper, Professional
+
+The Spy, Mann of Mystery
+
+From Chin To Tail
+
+Full Moon Gathering
+
+Hawkfrost
+
+Jayfeather
+
+Squirrelflight
+
+Starclan's Judgement
+
+The Moonpool
+
+Tigerstar
+
+WARRIORS
+
+Silverstream
+
+Yellowfang
+
+Anaerobic Lanius
+
+Anti-Ship Battery
+
+Bloodthirsty Mantis
+
+Engi Mechanic
+
+Exit Beacon
+
+FEDERATION
+
+Kestrel Cruiser
+
+Spaceship Captain
+
+Store Station
+
+Sturdy Rockman
+
+Teleport In
+
+Zoltan Crewmate
+
+Nebula Cloud
+
+Uncharted Planet
+
+Abrade
+
+Break Into the Pillar
+
+Cave Adventurer
+
+Dwarven Axelord
+
+Martial Trance
+
+Open Tavern
+
+Tales of Forgotten Beasts
+
+Tavern Detour
+
+Urist, Fortress Ruler
+
+Dwarven Mine
+
+Promising Settlement
+
+The World of Possibilities
+
+Dig Deeper
+
+DUG TOO DEEP
+
+Cheep Cheep
+
+Dry Bones
+
+Hammer Smash
+
+Junior, Royal Painter
+
+Kamek, Peerless Magician
+
+KOOPA KINGDOM
+
+Level Select
+
+Piranhic Growth
+
+Quickfoot Koopas
+
+Bowser's Castle
+
+Corner
+
+Strategic Sacrifice
+
+Queen of the Board
+
+Battle Bishop
+
+Chain Formation
+
+Frontline Reinforcements
+
+Leaping Cavalry
+
+Serve Once More
+
+Towering Rook
+
+Eternal Battlefield
+
+Godless Shrine
+
+Regal War Room
+
+Tense Antechamber
+
+CHECKMATE
+
+Blood Crazed
+
+Haru
+
+Louis, Rising Star
+
+Pina, Meddlesome Classmate
+
+Riz, Hidden Devourer
+
+Underworld Economizing
+
+Gouhin, Black Market Doc
+
+Juno, Hopeless Romantic
+
+Melon, Hybrid Crime Lord
+
+The Black Market
+
+Quiet Cityscape
+
+Shady Bar
+
+NATURAL SELECTION
+
+ALL CAPS
+
+DANGERDOOM
+
+King Geedorah, the Third Rail
+
+Madvillainy
+
+Metal Face Mask
+
+MF DOOM, the Illest Villain
+
+Operation DOOMSDAY
+
+Quasimoto and DOOM
+
+Viktor Vaughn, Vaudeville Villain
+
+Mural of DOOM
+
+New York
+
+Impending DOOM
+
+Crossed Flames
+
+Descura, Nocturnal Staff
+
+Frinos, Cthonic Companion
+
+Hecate, Witch of the Crossroads
+
+Melinoë, Cthonic Nymph
+
+Night's Light
+
+Pressed for Time
+
+Gathering of Shades
+
+The Crossroads
+
+Rejuvenating Hot Spring
+
+Tent of Rituals
+
+Underworld Arcana
+
+Mobile Task Force
+
+Monkey Token RAIN
+
+Servo
+
+Soldier
+
+Human
+
+Zombie
+
+Food
+
+Alien
+
+Item
+
+Human Soldier
+
+Mercenary Token
+
+Human Soldier (3RD)
+
+Robot TF2
+
+Kensuke
+
+Warrior Cat
+
+Clan Territory
+
+Rusty
+
+Junk
+
+Alien
+
+Demon
+
+Booze
+
+Dwarf
+
+Bowser, Koopa King
+
+Goomba Tower
+
+Send Forth
+
+Human Soldier
+
+Human Soldier
+
+Legosi, Carnivore Investigator
+
+Hyperdrug
+
+Sonic Switchboard
+
+DOOMbot (MFD)
+
+Artemis, Silver Sister
+
+A Moment That Would Never Pass
+
+Shade HDS
+
+Human Soldier (3RD)
+
+Fire Flower
+
+Super Mushroom
+
+Unexpected Toad
+
+Princess Daisy
+
+Princess Rosalina
+
+Princess Toadstool, Peach
+
+Chain Chomp
+
+The Mushroom Kingdom
+
+Princess Party
+
+IN ANOTHER CASTLE
+
+Castle (SMB)
+
+The Monarch
+
+Spirit (SMB)
+
+Fungus Warrior (SMB)
+
+Luigi, Cowardly Companion
+
+Mario, Pesky Plumber
+
+Rainbow Road
+
+Human Soldier (3RD)
+
+Clue (HOUSE)
+
+DIAGNOSTICS
+
+Doctor's Office
+
+Diagnostics Team
+
+Misdiagnose
+
+Slack Off
+
+Teaching Hospital
+
+Withdrawal Symptoms
+
+Operating Theater
+
+James Wilson, M.D.
+
+Lisa Cuddy, M.D.
+
+Search the Home
+
+House, M.D.
+
+Eric Foreman, M.D.
+
+Mobile Task Force
+
+Breach() Transistor
+
+Crash() Transistor
+
+Equip()
+
+Help() Transistor
+
+Jaunt() Transistor
+
+Red, Lone Voice
+
+Royce, Fallen Architect
+
+Spoiling Cells
+
+Upgraded Unmaker
+
+The Transistor
+
+Prismatic Vista (Transistor)
+
+Anywhere (Transistor)
+
+Dog Processor
+
+Egg Processor
+
+Heir to the Stars
+
+His Majesty's Guards
+
+His Majesty's Swordbearers
+
+His Majesty's Bulwark
+
+Furnace
+
+Solar Strike
+
+The Sealed Throne
+
+The Spire
+
+Heirloom Hammer
+
+The Regent
+
+Tanx, Khimera King
+
+Sovereign Blade
+
+Weapon (STS2)
+
+Beat Into Shape
+
+Blinking!
+
+Mobile Task Force
+
+SCP-131, The Eye Pods
+
+SCP-1762, Where The Dragons Went
+
+Site Lockdown
+
+Special Containment Procedure
+
+SCP-2521
+
+SCP-049
+
+SCP-1048, Builder Bear
+
+Familiar Lake
+
+Site 13
+
+SURVEILLANCE
+
+Zombie Token SCP
+
+Dragon Token SCP
+
+Add-On
+
+Burning Out
+
+Hugo, Child Creator
+
+Make Your Move
+
+New Inhabitants
+
+PURIFICATION
+
+The Batter, Holy Purifier
+
+The Judge, Feline Guide
+
+The Queen, Vader Eloha
+
+Zacharie, Masked Shopkeep
+
+Clue (OFF)
+
+Weapon (OFF)
+
+Citizen
+
+Food
+
+Sugar Pits
+
+The Nothingness
+
+Zone 0
+
+Laios Touden
+
+Marcille Donato
+
+A Proper Diet
+
+Act Big
+
+Cook Monsters
+
+Walking Mushroom
+
+Ah, Dungeon Food!
+
+It's Ready!
+
+Senshi of Izganda
+
+Chilchuck Tims
+
+Izutsumi
+
+Farmed Golem
+
+The First Floor
+
+The Island Dungeon
+
+Merini Village Dining Hall
+
+Food (DNM)
+
+Kensuke
+
+Diagnostics Breakout
+
+Directive A-113
+
+RE-CYCLING
+
+AUTO, Axiom Pilot
+
+The Axiom
+
+EVE, Endeared Evaluator
+
+Fire Extinguisher
+
+GO-4, Gopherbot
+
+M-O, Scrutinous Janitor
+
+SECUR-T Detail
+
+WALL-E, Recycling Scavenger
+
+Ash Barrens (WLE)
+
+Axiom Grounds
+
+Buy N Large Ruins
+
+Mountainous Junkheaps
+
+Ramshackle Home
+
+Clue (WLE)
+
+Beelzebub, the Great Fly
+
+Find Cerberus
+
+The Helltaker
+
+Journey to Hell
+
+Judgement, the High Prosecutor
+
+Justice, the Awesome Demon
+
+Lucifer, CEO of Hell
+
+Malina, the Sour Demon
+
+Modeus, the Eager Demon
+
+Pandemonica, the Tired Demon
+
+Zdrada, the CENSORED Demon
+
+Azazel, the Curious Angel
+
+The Depths of Hell
+
+Helltaker's Kitchen
+
+The Sin Machine
+
+Demon 1 (HELL)
+
+Demon 2 (HELL)
+
+TOTAL LIBERATION
+
+Automaton Hulk
+
+Bile Titan
+
+Explosive End
+
+Helldiver Kill-Counter
+
+Helldiver Point-Man
+
+Helldiver Shieldbearer
+
+Helldiver Veteran
+
+Illuminate Harvester
+
+Orbital Laser Sweep
+
+Overwhelming Firepower
+
+Reinforce
+
+Super Earth's Finest
+
+Liberated Territories
+
+Staging Ground
+
+Soldier (HLD)
+
+Seven, the Aspirant
+
+Ivy, Savior of Harlem
+
+Rem and Friends
+
+Sleepwalk
+
+The Doorman, Humble Servant
+
+Study Up
+
+Welcome to the Baroness
+
+The Archmother, Austere
+
+Austere Ascension
+
+Airdrop
+
+Paige, the Bookworm
+
+Archmother's Stronghold
+
+Cornerstore
+
+The Cursed Apple
+
+The Hideout
+
+Spirit (DLK) 1
+
+Spirit (DLK) 2
+
+Soul (DLK)
+
+HERO'S JOURNEY
+
+Boss Fight
+
+Callous Demon
+
+Cursed Zoologist
+
+Delve Deep
+
+The Destroyer of Worlds
+
+Golem, Temple Guardian
+
+Hero of Terraria
+
+Queen Bee, Mad Monarch
+
+Reach the Zenith
+
+The Wall of Flesh
+
+Journey's End
+
+Sky Islands
+
+Strange World
+
+The Underworld
+
+Robot (TRA) ULT2
+
+Base Assault
+
+Caravan Trail
+
+Colony Collapse
+
+Construction Project
+
+Emergency Triage
+
+Imperial Holdout
+
+Mechlink
+
+Rare Thrumbo
+
+Rec Room
+
+Rim Militia
+
+Royal Delegation
+
+Social Fight
+
+Construct (RIM)
+
+Treasure (RIM)
+
+Warqueen, Mechanical Mind
+
+Mechanoid Scyther
+
+Uncharted Rimworld
+
+Complications
+
+Crash Site
+
+Exponential Expansion
+
+Logistics Train
+
+Power Lines
+
+Repel the Locals
+
+Scramble for Solutions
+
+Towering Spidertron
+
+Robot (FAC)
+
+The Factory Must Grow
+
+Assembler
+
+Assembly Line
+
+Nauvis
+
+Mass-Produced Tank
+
+Turret Array
+
+The Engineer, Stranded
+
+Construct (UNV)
+
+Spider (UNV)
+
+An Ideal World
+
+Gleaming Sigilyph
+
+Growing Tympoles
+
+Indomitable Boldore
+
+Lostlorn Forest
+
+N
+
+Nimbasa City
+
+N's Servine
+
+Prissy Purrloin
+
+Seed Bomb
+
+Strength of Ideals
+
+Tricky Zorua
+
+Lizard (UNV)
+
+Spinning Klink
+
+Snack Time
+
+Chargestone Cave
+
+Return the Stars!
+
+Knight's Resting Place
+
+The Mimic
+
+Ballora
+
+Dreadbear
+
+Freddy Fazbear's Pizza
+
+Indoor Attraction
+
+Joy of Creation
+
+Lefty
+
+LIVING METAL
+
+Scrap Baby
+
+Springlock Failure
+
+Springtrap
+
+William Afton
+
+Spirit Token (FNAF)
+
+The Puppet
+
+Dubious Cake
+
+Zooble
+cost: {X}{1} => {5}
+rules_text: As Zooble enters, choose up to X at random from among reach, vigilance, menace, trample, haste, and +1/+1. They enter with those counters and X +1/+1 counters. => Ward {2}
+Whenever you cast a noncreature spell, put two +1/+1 counters on Zooble. This ability triggers only once each turn.
+pt: 0/0 => 4/4
+
+Abstract
+
+CAINE
+
+Deconstruct
+
+Gangle
+rules_text: Ward {2}
+Gangle can't be blocked if you've cast a noncreature spell this turn, => Whenever you cast a noncreature spell, you may switch Gangle's power and toughness until end of turn.
+pt: 2/1 => 1/3
+
+Jax
+
+Kinger
+rules_text: Defender
+As long as you've cast a noncreature spell this turn, Kinger gets +3/+0 and can attack as though he didn't have defender. => Vigilance
+As long as you've cast a noncreature spell this turn, Kinger gets +2/+0.
+pt: 0/4 => 1/3
+
+Pomni
+
+Ragatha
+cost: {2}{WU} => {3}{WU}
+rules_text: Whenever you attack, if you've cast a noncreature spell this turn, support 1. [i](Put a +1/+1 counter on up to one other target creature.)[/i] => Whenever you cast a noncreature spell, you may support 2. Do this only once each turn. [i](Put a +1/+1 counter on up to two other target creatures.)[/i]
+pt: 2/3 => 3/3
+
+The Amazing Digital Circus
+
+Torment Nexus
+
+ADVENTURE!
+
+On an Adventure
+
+Captain Olimar
+rules_text: Haste
+[i]Charge! [/i]— Whenever Captain Olimar becomes tapped, modified creatures you control get +2/+0 and gain trample until end of turn. => Haste
+[i]Charge! [/i]— Whenever Captain Olimar becomes tapped, modified creatures you control get +2/+1 and gain trample until end of turn.
+
+Gobble Indiscriminately
+
+Mumuta
+cost: {3}{G} => {1}{G}
+rules_text: Whenever Mumuta attacks, put a +1/+1 counter on another target creature you control without a +1/+1 counter on it. => {T}: Add {G}.
+pt: 3/4 => 1/3
+
+Purple Pikmin
+
+Swarm!
+type: Sorcery => Enchantment
+rules_text: Pluck three times. You gain 3 life. [i](To pluck, put a +1/+1 counter on target creature, or create a tapped 0/0 Pikmin with the counter.)[/i] => When Swarm! enters, pluck 2. [i](Put two +1/+1 counters on target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+Whenever you attack, target creature you control gets +X/+X and gains trample until end of turn, where X is the number of counters among creatures you control.
+
+Throw!
+
+Yellow Pikmin
+cost: {1}{G} => {2}{G}
+rules_text: Reach
+When Yellow Pikmin enters, pluck. [i](Put a +1/+1 counter on target creature, or create a tapped 0/0 Pikmin with the counter on it.)[/i]
+Other modified creatures you control have reach. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Reach
+When Yellow Pikmin enters, pluck 2. [i](Put two +1/+1 counter on another target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+Other modified creatures you control have reach. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+pt: 1/1 => 1/2
+
+Blue Pikmin
+rules_text: Ward {1}
+When Blue Pikmin enters, pluck 2. [i](Put two +1/+1 counters on target creature, or create a tapped 0/0 Pikmin with the counters.)[/i]
+Other modified creatures you control have ward {1}. => Blue Pikmin can't be blocked by creatures with power 2 or less.
+When Blue Pikmin enters, pluck 2. [i](Put two +1/+1 counters on another target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+Other modified creatures you control can't be blocked by creatures with power 2 or less.
+
+Red Pikmin
+rules_text: Trample
+When Red Pikmin enters pluck 2. [i](Put two +1/+1 counters on target creature, or create a tapped 0/0 Pikmin with the counters.)[/i]
+Other modified creatures you control have trample. => Trample
+When Red Pikmin enters pluck 2. [i](Put two +1/+1 counters on another target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+Other modified creatures you control have trample.
+
+White Pikmin
+rules_text: Vigilance
+When White Pikmin enters, pluck 2. [i](Put two +1/+1 counters on target creature, or create a tapped 0/0 Pikmin with the counters.)[/i]
+Other modified creatures you control have vigilance. => Vigilance
+When White Pikmin enters, pluck 2. [i](Put two +1/+1 counters on another target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+Other modified creatures you control have vigilance.
+
+Onion
+
+Mysterious Dungeon
+
+PNF-404
+
+LITTLE ARMY
+
+Pikmin
+
+Abandon the Village
+
+Kakashi, Team 9 Leader
+
+Sasuke Uchiha
+rules_text: Menace
+Whenever a legendary creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i] [i](Once harnessed, its I{N}{F} ability is active.)[/i]
+👁 — Sasuke Uchiha gets +2/+0 and has vigilance. => Menace
+Whenever a legendary creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i]
+👁 — Sasuke Uchiha gets +2/+0 and has vigilance.
+
+Shadow Clone
+
+Haruno Sakura
+
+Naruto Uzumaki
+rules_text: {8}{R}: Harness Naruto Uzumaki [i](His 🦊 ability becomes active.)[/i] This ability costs {2} less to activate for each creature you controlled that entered and/or left the battlefield this turn. Activate only as a sorcery. [i](Once harnessed, its I{N}{F} ability is active.)[/i]
+🦊 — Naruto Uzumaki is a 9/9 Demon Fox. => {8}{R}: Harness Naruto Uzumaki [i](His 🦊 ability becomes active.)[/i] This ability costs {2} less to activate for each creature you controlled that entered and/or left the battlefield this turn. Activate only as a sorcery.
+🦊 — Naruto Uzumaki is a 9/9 Demon Fox.
+
+Unfriendly Rivalry
+
+Hiruzen, The Professor
+
+Iruka, Academy Instructor
+
+Ichiraku Ramen
+
+Prismatic Vista (NART)
+
+Village Hidden in the Leaves
+
+NINJAS (BELIEVE IT!)
+
+Clawdeen Wolf
+
+Cleo De Nile
+cost: {3}{WB} => {1}{WB}
+
+Creepover
+
+Draculaura
+rules_text: [i][i]Vivid[/i][/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a Treasure token.
+Exhaust—{5}{W}{U}{B}{R}{G}: Surveil 3. Put each permanent card put into your graveyard this way onto the battlefield. => [i][i]Vivid[/i][/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+Exhaust—{5}{W}{U}{B}{R}{G}: Surveil 3. Put each permanent card put into your graveyard this way onto the battlefield.
+
+Fangtastic Fashion
+rules_text: Flash
+When Fangtastic Fashion enters, it becomes the color of your choice. Attach it to target creature.
+Equipped creature gets +3/+3.
+[i][i]Vivid[/i][/i] — Equip {10}. This ability costs {X} less to activate, where X is the number of colors among permanents you control. => Flash
+When Fangtastic Fashion enters, it becomes the color of your choice. Attach it to target creature. That creature gains indestructible until end of turn.
+Equipped creature gets +2/+0.
+Equip {2}
+
+Frankie Stein
+
+FREAKY, CHIC, AND FLY
+
+Ghoulia Yelps
+
+Lagoona Blue
+
+Robecca Steam
+rules_text: When Robecca enters, you draw a card and lose 1 life.
+When Robecca dies as a creature, return her to the battlefield as an artifact. [i](She's not a creature. She probably never will be again. Sorry.)[/i] => When Robecca enters, draw a card.
+When Robecca dies as a creature, return her to the battlefield as an artifact. [i](She's not a creature. She probably never will be again. Sorry.)[/i]
+
+Spectra, Gossip Ghost
+
+Bolt of Inspiration
+
+It's Over Isn't It
+
+Pearl, Loyal Renegade
+
+Steven Universe
+
+Stunning Save
+
+Amethyst, Wild Shapeshifter
+
+Connie Maheswaran
+
+Crack the Diamond
+
+Rose Quartz
+
+Garnet, Stoic Seer
+
+Mission Dispatch
+rules_text: {T}, Pay 1 life: Add {R} or {W}.
+{3}, {T}, Sacrifice Empire City: Exile the top two cards of your library. You may play them until the end of your next turn. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {R} or {W}.
+{3}, {T}, Sacrifice Mission Dispatch: Exile the top two cards of your library. You may play them until the end of your next turn. Activate only if you have 7 or less life.
+
+Prismatic Vista (SU)
+
+Warp Pad
+
+. . . AND STEVEN!
+
+Stevonnie
+
+Alice Liddell
+
+The Cheshire Cat
+rules_text: Menace
+Ward—Discard a card.
+Exhaust — {4}{B}, Discard a card: Mill three cards. An opponent separates them into two piles. Put one into your hand and put X +1/+1 counter on The Cheshire Cat, where X is the number of cards in the other pile. => Menace
+Exhaust — {4}{B}, Discard a card: Mill three cards. An opponent separates them into two piles. Put one into your hand and put X +1/+1 counter on The Cheshire Cat, where X is the number of cards in the other pile.
+
+Hysterical Outburst
+
+The Mad Hatter
+cost: {3}{B}{B} => {4}{B}{B}
+rules_text: Flying
+When The Mad Hatter enters, return target creature card with mana value 3 or less from your graveyard to your hand.
+Swampcycling {2} => Flying
+When The Mad Hatter enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Swampcycling {2}
+pt: 5/4 => 5/5
+
+Out of House and Home
+
+Misstitched Alice
+
+Royal Suit Alice
+
+Silk Maiden Alice
+
+Siren Alice
+
+Card Kingdom
+
+Wonderland
+
+INTO MADNESS
+
+Horror Token
+
+Black Leg Sanji
+
+Cause Trouble
+
+Delayed Slash
+
+The Mysterious Sogeking
+
+Pirate Hunter Zoro
+
+Awareness Training
+
+Tony Tony Chopper
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+{5}: Chopper becomes a 5/6 Elk Human with reach. Activate only as a sorcery.
+{10}: Chopper becomes a 10/12 Elk Horror with reach and trample. Activate only as a sorcery. => [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+{5}: Chopper becomes a 5/6 Elk Human. Activate only as a sorcery.
+{10}: Chopper becomes a 10/12 Elk Horror with trample. Activate only as a sorcery.
+
+Devil Child Nico Robin
+
+Straw Hat Luffy
+
+Cat Burglar Nami
+
+The Grand Line
+
+Open Seas
+
+Port
+
+LANDFALL
+
+Sword (OP)
+
+Ursula the Sea Witch
+
+Abbey Road
+
+Band Manager Bri
+
+BANDING
+
+Bigger than Jesus
+
+Communal Bath
+rules_text: As Communal Bath enters, choose a color other than white.
+{T}, Pay 1 life: Add {W} or one mana of the chosen color.
+{4}{W}, {T}, Sacrifice Communal Bath: Draw two cards. This ability costs {1} less to activate for each creature you attacked with this turn. => As Communal Bath enters, choose a color other than white.
+{T}: Add {C}.
+{T}, Pay 1 life: Add {W} or one mana of the chosen color.
+
+Fifth Beatle
+
+George Harrison, Beatle
+
+John Lennon, Beatle
+
+Magical Mystery Tour
+cost: {3}{W} => {2}{W}
+rules_text: Enchant creature
+When this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.
+Enchanted creature gets +2/+2 and has ward {4}. => Enchant creature
+When this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.
+Enchanted creature gets +2/+1 and has ward {2}.
+
+Paul Mccartney, Beatle
+
+Ringo Starr, Beatle
+
+Yoko Ono, Avant Gardist
+
+Chell, Resourceful Subject
+
+GLaDOS, Insidious Overseer
+
+Resolve the Stalemate
+
+Resume Testing
+
+Weighted Companion Cube
+rules_text: When this artifact enters, tap up to one target artifact or creature. It can't become untapped for as this artifact remains on the battlefield.
+{3}, {T}, Sacrifice this artifact: Draw three cards. Activate only as a sorcery. => When this artifact enters, tap up to one target artifact or creature. It can't become untapped for as this artifact remains on the battlefield.
+{2}, {T}, Sacrifice this artifact: Draw two cards. Activate only as a sorcery.
+
+Wheatley, Moron Core
+
+Atlas & P-Body
+
+The Rat Man
+
+Auto Turret
+
+Old Aperture
+
+Turret Opera
+
+Extended Relaxation Center
+
+PORTALS
+
+Portal
+
+Distant Vista
+
+Eye-Palm Effect
+rules_text: Flash
+Enchant creature you control
+When Eye-Palm Effect enters, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+Enchanted creature has reach. => Enchant creature
+When Eye-Palm Effect enters, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+Enchanted creature gets +2/+2 and has reach.
+
+Knife Effect
+rules_text: Flash
+Enchant creature you control
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature has first strike. => Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature has first strike.
+
+Knife Effect
+
+Kyukkyu-kun
+
+Lamp Effect
+
+Monoko
+
+Seccom Masada-sensei
+
+Takofuusen
+
+The Dream World
+
+Uboa
+pt: 5/1 => 6/2
+
+WANDER
+
+Witch Effect
+rules_text: Flash
+Enchant creature you control
+When Witch Effect enters, enchanted creature gets +2/+2 until end of turn.
+Enchanted creature has flying. => Flash
+Enchant creature
+When Witch Effect enters, enchanted creature gets +2/+2 until end of turn.
+Enchanted creature has flying.
+
+Madotsuki, Dream Walker
+rules_text: Whenever a land you control enters, put two loyalty counters on Madotsuki.
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a {3}{R} Aura enchantment with enchant creature you control. It has “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature has first strike.”)[/i] => Whenever a land you control enters, put a loyalty counter on Madotsuki.
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a {2}{R} Aura enchantment with enchant creature you control. It has “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature has first strike.”)[/i]
+special_text: Whenever a land you control enters, put two loyalty counters on Madotsuki.
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a {3}{R} Aura enchantment with enchant creature you control. It has “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature has first strike.”)[/i] => Whenever a land you control enters, put a loyalty counter on Madotsuki.
+[-1]: Exile the top two cards of your library. You may play them until the end of your next turn.
+[-3]: Create a Knife Effect token. [i](It's a {2}{R} Aura enchantment with enchant creature you control. It has “When this enters, it deals 3 damage to up to one target creature” and “Enchanted creature has first strike.”)[/i]
+loyalty: 4 => 5
+
+Formaggio, Slick Sneak
+
+Ghiaccio, Icy Berserker
+rules_text: When Ghiaccio enters or deals combat damage to a player, tap up to one target artifact or creature and put two stun counters on it.
+{1}{U}: Put Ghiaccio from your hand onto the battlefield tapped with four stun counters on him. => When Ghiaccio enters or deals combat damage to a player, tap up to one target artifact or creature and put two stun counters on it.
+{1}{U}: Put Ghiaccio from your hand onto the battlefield tapped with three stun counters on him.
+
+Illuso, Mirror Man
+
+La Squadra Hideout
+
+Pesci, Wannabe Gangster
+
+Prosciutto, Hardened Mafioso
+
+SABOTEURS
+
+Spirit Horror
+
+Italy
+
+La Squadra's Betrayal
+
+Risotto, Vengeful Leader
+
+Severed and Sent
+
+Melone, Distant Admirer
+
+Killer for Hire
+
+Commerson's Dolphin ULT2
+rules_text: [i](This token's mana cost is {2}{U})[/i]
+When Commerson's Dolphin enters the battlefield, it explores. => [i](This token's mana cost is {1}{U}{U})[/i]
+When Commerson's Dolphin enters the battlefield, target creature explores.
+
+Almost Out of Oxygen
+
+FOREVER BLUE
+
+Giant Isopod
+
+Humpback Whales
+
+Indo-Pacific Sailfish
+
+Magu Tapa
+
+Misty Rainforest
+
+Sea Slug Studies
+
+The Veiled Sea
+
+Undersea Encounter
+rules_text: Choose one—
+• Return target nonland permanent to its owner's hand.
+Target creature you control explores, then explores again. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)[/i] => Choose one—
+• Return target creature to its owner's hand.
+• Target creature you control explores, then it explores again. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)[/i]
+
+Whale Shark
+
+Manoa Lai
+
+Commerson's Dolphin
+cost: {2}{U} => {1}{U}{U}
+rules_text: Squad—{1}, Discard a land card [i](As an additional cost to cast this spell, you may pay its squad cost any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When Commerson's Dolphin enters the battlefield, it explores. => Squad—{U}, Discard a land card [i](As an additional cost to cast this spell, you may pay its Squad cost any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When Commerson's Dolphin enters the battlefield, target creature explores.
+
+Insect Bard (HK)
+
+Ancient Sickness
+
+Cornifer, Cartographer
+rules_text: [i]Lost and Found — [/i]When this creature enters, target creature explores twice if its power is 4 or greater. Otherwise, it explores once. [i](To have a creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Flash
+[i]Lost and Found — [/i]When this creature enters, target creature explores twice if its power is 4 or greater. Otherwise, it explores once. [i](To have a creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)[/i]
+
+Dreamer's Gate
+
+Enter Pharloom
+
+Grand Mother Silk
+
+Hornet, Pharloom's Savior
+
+Infected Hopper
+
+OF GOD AND VOID
+
+Remembered Everbloom
+
+The Hollow Knight
+
+The Knight, Returned Traveler
+
+The Radiance, Forgotten Light
+
+Overgrown Tomb (HK)
+
+The White Palace
+
+Citizen (SM)
+
+Clue (SM)
+
+Ami Mizuno
+rules_text: When Ami enters, investigate.
+{2}{WU}: Transform Ami. Activate only as a sorcery. => When Ami enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{2}{WU}: Transform Ami. Activate only as a sorcery.
+
+Crystal Tokyo
+
+Fruits Parlor Crown
+
+Hotaru Tomoe
+
+MAKE UP!
+
+Makoto Kino
+
+Minako Aino
+
+Moon Healing Escalation!
+
+Moon Prism Power!
+
+Rei Hino
+
+Setsuna Meiou
+
+Shabon Spray
+
+The Moon Kingdom
+
+A Little Lie Between Friends
+
+Ada Wong
+
+Glasp
+
+HUNK, the 4th Survivor
+
+Infected Crows
+
+Rachel Foley
+
+Rebecca Chambers
+
+UMBRELLA CONSPIRACY
+
+William Birkin
+
+Clue (RE)
+
+House Beneviento
+
+Marvin Branagh
+
+Raccoon Police Department
+
+Jill Valentine, BSAA
+rules_text: Reach
+[i]GENESIS Scanner — [/i]Whenever Jill enters or attacks, mill up to two cards. Then if a graveyard has seven or more cards in it, investigate.
+Disturb {2}{UB}{UB} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Reach
+[i]GENESIS Scanner — [/i]Whenever Jill enters or attacks, mill up to two cards. Then if a graveyard has seven or more cards in it, investigate.
+Disturb {3}{UB}{UB} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Queen Semiramis
+
+Queen Zenobia
+
+Inch-High Prince
+
+Pigeon Town
+
+Roll Up Colossi!
+
+Roll Up Fantasy!
+
+Roll Up History!
+
+Roll Up the Battle!
+
+Roll Up the World!
+rules_text: When this enchantment enters, sacrifice any number of creatures. Roll X, where X is their total power. 
+Your Katamari has ward {3}.
+[i][i]Channel[/i] — [/i]{G}, Discard this card: Target creature gains hexproof until end of turn. => When this enchantment enters, sacrifice any number of creatures. Roll X, where X is their power. 
+Your Katamari has ward {3}.
+[i][i]Channel[/i] — [/i]{G}, discard this card: Target creature gains hexproof until end of turn.
+
+Royal Rainbow!
+
+The King Of All Cosmos
+rules_text: Reach, trample
+Whenever The King Of All Cosmos enters or attacks, choose one — 
+• [i]Send the Prince[/i] — Roll 3.
+• [i]Make A Star — [/i]Sacrifice your Katamari. Draw cards equal to its power, then discard three cards.
+Forestcycling {2} => Reach, trample
+Whenever The King enters or attacks, choose one— 
+• [i]Send the Prince[/i] — Roll 3.
+• [i]Make A Star — [/i]Sacrifice your Katamari. Draw cards equal to its power, then discard two cards.
+Forestcycling {2}
+
+The Queen Of All Cosmos
+
+WE LOVE KATAMARI
+
+Prismatic Vista (KD)
+
+Warrior (KD)
+
+Katamari
+
+Lonely Rolling Star
+
+Final Test
+
+God of the New World
+
+I Win, L!
+
+Kira Cultists
+pt: 1/4 => 2/3
+
+KIRA'S JUSTICE
+
+L, Immature Investigator
+
+Light Yagami, Would-Be God
+rules_text: [i]Jusr As Planned[/i] — When Light enters, choose the name of a creature on the battlefield. Destroy all creatures with that name.
+[i]Seeking Justice — [/i]Whenever you draw a card, Light gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, create a 1/1 green and white Citizen creature token. => [i]Just As Planned[/i] — When Light enters, choose the name of a creature on the battlefield. Destroy all creatures with that name.
+[i]Seeking Justice — [/i]Whenever you draw a card, Light gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, create a 1/1 green and white Citizen creature token.
+
+L's Endgame
+
+Matsuda Touta, Go-Getter
+rules_text: Lifelink
+When Matsuda enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Activated abilities of creatures you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana. => Lifelink
+When Matsuda enters, create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+
+Misa Amane, Kira Worshipper
+
+Ryuk, Spirit of Death
+
+Shinigami Realm
+
+Yellow Box Warehouse
+
+Citizen (DN)
+
+Clue (DN)
+
+Weapon (DN)
+
+Kira Investigation HQ
+
+Berial, Fortuna Terror
+
+Balrog, Argosax's Second
+rules_text: Menace
+[i]Devil Arm — [/i]When Balrog dies, exile him. While he's exiled, you may cast his other face, and it costs {2} more to cast this way. => Menace
+[i]Devil Arm[/i] — When Balrog dies, exile him. While he's exiled, you may cast his other face, and it costs {2} more to cast this way.
+
+Dante, Devil Trigger
+
+DEVIL ARMS
+
+Hellbat
+
+Mitis Assault
+
+Nero, High Roller
+
+Nevan, Lightning Contralto
+
+Nico Goldstein
+
+Nico's Armory
+
+The Devil's Tower
+
+V-Divider
+
+Voltaic Black Knight
+
+Devil May Cry
+
+Ami, Prodigal Hacker
+
+Believe in the Thief
+
+Castle Cagliostro
+
+Fujiko, Femme Fatale
+rules_text: Fujiko can't be blocked by creatures with power 2 or greater.
+When Fujiko deals combat damage to a player, look at the top card of any number of target players' libraries. You may mill a card. => Fujiko can't be blocked by creatures with power 3 or greater.
+When Fujiko deals combat damage to a player, look at the top card of any number of target players libraries. You may mill a card.
+pt: 2/1 => 2/2
+
+Goemon, the Blademaster
+
+GRAND HEIST
+
+Jigen, the Marksman
+rules_text: Reach
+When Jigen enters, he deal 3 damage to up to one target creature.
+Jigen has first strike and deathtouch as long as you've committed a crime this turn. => Reach
+When Jigen enters, he deals 3 damage to up to one target creature.
+Jigen has first strike and deathtouch as long as you've committed a crime this turn.
+
+Lupin, World's Greatest Thief
+
+Rebecca, Renaissance Woman
+
+Secret Bolthole
+rules_text: {T}: Add {C}.
+{T}, Pay 1 life: Add {B} or {R}.
+{2}, {T}, Sacrifice Secret Bolthole: It deals 2 damage to target opponent. Activate only as a sorcery. => Secret Bolthole enters tapped.
+{T}: Add {B} or {R}.
+{1}{BR}, {T}, Sacrifice Secret Bolthole: Secret Bolthole deals 2 damage to target opponent. Activate only as a sorcery.
+
+Slash of the Zantetsuken
+
+Zenigata, Dedicated Agent
+rules_text: When Zenigata enters, create a 1/1 white Human Soldier creature token. If you've committed a crime this turn, create three of those tokens instead. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+Basic landcycling {2} => When Zenigata enters, create a 1/1 white Human Soldier creature token. If you've committed a crime this turn, create two of those tokens instead. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+Basic landcycling {2}
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Clue (HOUSE) added.
