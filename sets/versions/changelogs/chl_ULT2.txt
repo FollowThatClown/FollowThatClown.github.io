@@ -1,4 +1,1720 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+Zombie (SCP) added.
+Dragon (SCP) added.
+Duel for Dominance (RAIN) added.
+Five Pebbles added.
+Abandoned Expanse added.
+Drainage Systems added.
+Monkey Token (RAIN) added.
+Mutant Token (RAIN) added.
+Vanny added.
+Retro Office added.
+Uchiha Sasuke added.
+Uzumaki Naruto added.
+Ninja (NART) added.
+
+Duel for Dominance RAIN removed.
+Prismatic Vista RAIN removed.
+Bring Me That Girl removed.
+Bring Me That Girl removed.
+Bring Me That Girl removed.
+Monkey Token RAIN removed.
+Springtrap removed.
+Zombie Token SCP removed.
+Dragon Token SCP removed.
+Sasuke Uchiha removed.
+Naruto Uzumaki removed.
+
+Commencement
+
+Compound Generator
+
+Having Fallen, It Was Blood
+
+Once in a Lullaby
+
+Simulacrum
+
+The Captain
+
+The Commando
+
+The Engineer
+
+The Loader
+
+Der Fluchschütze
+
+Discipline
+
+Focus Fire
+
+Front of the Smoke War
+
+Graze the Grass
+
+Liu Assoc. Footsoldier
+
+Old G. Corp Footsoldier
+
+R. Corp 4th Pack Rabbit
+
+The 4th Front of the Smoke War
+
+The City
+
+The Smoke War
+
+Valiant Thumb Sodalto
+
+MONSOON
+
+The Artificer
+
+Mithrix, King of Nothing
+
+They Might as Well Be Dead
+
+Prismatic Vista (SU)
+
+Automated Flame-Tank
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => 
+
+Class Reunion
+
+Intelligence Room
+
+The Demo, Drunken Cyclops
+
+The Scout, Kind of a Big Deal
+
+The Soldier, Screaming Eagle
+
+The Engineer, Frontier Justice
+
+The Medic, God Among Men
+
+The Pyro, Cruel Dreamer
+
+The Heavy Weapons Guy
+
+The Sniper, Professional
+
+The Spy, Mann of Mystery
+
+From Chin To Tail
+
+Full Moon Gathering
+
+Hawkfrost
+
+Jayfeather
+
+Squirrelflight
+
+Starclan's Judgement
+
+The Moonpool
+
+Tigerstar
+
+WARRIORS
+
+Silverstream
+
+Yellowfang
+
+Cheep Cheep
+
+Dry Bones
+
+Hammer Smash
+
+Junior, Royal Painter
+
+Kamek, Peerless Magician
+
+KOOPA KINGDOM
+cost:  => {G}
+
+Level Select
+
+Piranhic Growth
+
+Quickfoot Koopas
+
+Bowser's Castle
+
+ALL CAPS
+
+DANGERDOOM
+
+King Geedorah, the Third Rail
+
+Madvillainy
+
+Metal Face Mask
+
+MF DOOM, the Illest Villain
+
+Operation DOOMSDAY
+
+Quasimoto and DOOM
+
+Viktor Vaughn, Vaudeville Villain
+
+Mural of DOOM
+
+New York
+
+Impending DOOM
+
+Servo
+
+Soldier
+
+Item
+
+Robot TF2
+
+Kensuke
+
+Warrior Cat
+
+Clan Territory
+
+Rusty
+
+Bowser, Koopa King
+
+Goomba Tower
+
+Send Forth
+
+Sonic Switchboard
+
+DOOMbot (MFD)
+
+Human Soldier (3RD)
+
+Clue (HOUSE)
+
+DIAGNOSTICS
+cost:  => {U}
+
+Doctor's Office
+
+Diagnostics Team
+
+Misdiagnose
+
+Slack Off
+
+Teaching Hospital
+
+Withdrawal Symptoms
+
+Operating Theater
+
+James Wilson, M.D.
+
+Lisa Cuddy, M.D.
+
+Search the Home
+
+House, M.D.
+
+Eric Foreman, M.D.
+
+Breach() Transistor
+
+Crash() Transistor
+
+Equip()
+
+Help() Transistor
+
+Jaunt() Transistor
+
+Red, Lone Voice
+
+Royce, Fallen Architect
+
+Spoiling Cells
+
+Upgraded Unmaker
+
+The Transistor
+
+Prismatic Vista (Transistor)
+
+Anywhere (Transistor)
+
+Dog Processor
+
+Egg Processor
+
+Laios Touden
+rules_text: When Laios enters, create Kensuke, a colorless Food Equipment artifact token with “Equippped creature has first strike”, “{2}, {T}, Sacrifice this artifact: You gain 3 life” and Equip {2}.
+Whenever Laios attacks, up to one target creature gains lifelink until end of turn.
+Whenever you gain life for the first time each turn, put a +1/+1 counter on Laios. => When Laios enters, create Kensuke, a colorless Food Equipment artifact token with “Equippped creature has first strike”, “{2}, {T}, Sacrifice this artifact: You gain 3 life” and Equip {2}.
+Whenever Laios attacks, target creature gains lifelink until end of turn.
+Whenever you gain life for the first time each turn, put a +1/+1 counter on Laios.
+
+Marcille Donato
+
+A Proper Diet
+
+Act Big
+
+Cook Monsters
+
+Walking Mushroom
+
+Ah, Dungeon Food!
+
+It's Ready!
+
+Senshi of Izganda
+
+Chilchuck Tims
+
+Izutsumi
+
+Farmed Golem
+
+The First Floor
+
+The Island Dungeon
+
+Merini Village Dining Hall
+
+Food (DNM)
+
+Diagnostics Breakout
+
+Directive A-113
+
+RE-CYCLING
+
+AUTO, Axiom Pilot
+
+The Axiom
+
+EVE, Endeared Evaluator
+
+Fire Extinguisher
+
+GO-4, Gopherbot
+
+M-O, Scrutinous Janitor
+
+SECUR-T Detail
+
+WALL-E, Recycling Scavenger
+
+Ash Barrens (WLE)
+
+Axiom Grounds
+
+Buy N Large Ruins
+
+Mountainous Junkheaps
+
+Ramshackle Home
+
+Clue (WLE)
+
+Find Cerberus
+
+The Helltaker
+
+Journey to Hell
+
+Judgement, the High Prosecutor
+
+Justice, the Awesome Demon
+
+Lucifer, CEO of Hell
+
+Malina, the Sour Demon
+
+Modeus, the Eager Demon
+
+Pandemonica, the Tired Demon
+
+Zdrada, the CENSORED Demon
+
+Azazel, the Curious Angel
+
+The Depths of Hell
+
+Helltaker's Kitchen
+
+The Sin Machine
+
+Demon 1 (HELL)
+
+Demon 2 (HELL)
+
+TOTAL LIBERATION
+cost:  => {R}
+
+Automaton Hulk
+
+Bile Titan
+
+Explosive End
+
+Helldiver Kill-Counter
+
+Helldiver Point-Man
+
+Helldiver Shieldbearer
+
+Helldiver Veteran
+
+Illuminate Harvester
+
+Orbital Laser Sweep
+
+Overwhelming Firepower
+
+Reinforce
+
+Super Earth's Finest
+
+Liberated Territories
+
+Staging Ground
+
+Soldier (HLD)
+
+Seven, the Aspirant
+
+Ivy, Savior of Harlem
+
+Rem and Friends
+
+Sleepwalk
+
+The Doorman, Humble Servant
+
+Study Up
+
+Welcome to the Baroness
+
+The Archmother, Austere
+
+Austere Ascension
+
+Airdrop
+
+Archmother's Stronghold
+
+Cornerstore
+
+The Cursed Apple
+
+The Hideout
+
+Spirit (DLK) 1
+
+Spirit (DLK) 2
+
+Soul (DLK)
+
+HERO'S JOURNEY
+cost:  => {R}
+
+Boss Fight
+
+Callous Demon
+
+Cursed Zoologist
+
+Delve Deep
+
+The Destroyer of Worlds
+
+Golem, Temple Guardian
+
+Hero of Terraria
+
+Queen Bee, Mad Monarch
+
+Reach the Zenith
+
+The Wall of Flesh
+
+Journey's End
+
+Sky Islands
+
+Strange World
+
+The Underworld
+
+Robot (TRA) ULT2
+
+Base Assault
+
+Caravan Trail
+
+Colony Collapse
+cost:  => {G}
+
+Construction Project
+
+Emergency Triage
+
+Imperial Holdout
+
+Mechlink
+
+Rare Thrumbo
+
+Rec Room
+
+Rim Militia
+
+Royal Delegation
+
+Social Fight
+
+Construct (RIM)
+
+Treasure
+
+Warqueen, Mechanical Mind
+
+Mechanoid Scyther
+
+Uncharted Rimworld
+
+Complications
+
+Crash Site
+
+Exponential Expansion
+cost:  => {U}
+
+Logistics Train
+
+Power Lines
+
+Repel the Locals
+
+Scramble for Solutions
+
+Towering Spidertron
+
+Robot (FAC)
+
+The Factory Must Grow
+
+Assembler
+
+Assembly Line
+
+Nauvis
+
+Mass-Produced Tank
+
+Turret Array
+
+The Engineer, Stranded
+
+Construct (UNV)
+
+Spider (UNV)
+
+An Ideal World
+cost:  => {G}
+
+Gleaming Sigilyph
+
+Growing Tympoles
+
+Indomitable Boldore
+
+Lostlorn Forest
+
+N
+
+Nimbasa City
+
+N's Servine
+
+Prissy Purrloin
+
+Seed Bomb
+
+Strength of Ideals
+
+Tricky Zorua
+
+Lizard (UNV)
+
+Spinning Klink
+
+Snack Time
+
+Chargestone Cave
+
+Return the Stars!
+
+Ribbit
+
+It's Over Isn't It
+
+Pearl, Loyal Renegade
+
+Steven Universe
+
+Stunning Save
+
+You're My Prisoner Now
+
+Amethyst, Wild Shapeshifter
+
+Connie Maheswaran
+
+Crack the Diamond
+
+Rose Quartz
+
+Garnet, Stoic Seer
+
+Mission Dispatch
+
+Prismatic Vista (SU)
+
+Warp Pad
+
+. . . AND STEVEN!
+
+Stevonnie
+
+Alice Liddell
+
+The Cheshire Cat
+
+Hysterical Outburst
+
+The Mad Hatter
+
+Out of House and Home
+
+Royal Reflection
+
+Misstitched Alice
+
+Royal Suit Alice
+
+Silk Maiden Alice
+
+Siren Alice
+
+Card Kingdom
+
+Wonderland
+
+INTO MADNESS
+
+Horror Token
+
+Duet Performance
+
+Abbey Road
+
+Band Manager Bri
+
+BANDING
+
+Bigger than Jesus
+
+Communal Bath
+
+Fifth Beatle
+
+George Harrison, Beatle
+
+John Lennon, Beatle
+
+Magical Mystery Tour
+
+Paul Mccartney, Beatle
+
+Ringo Starr, Beatle
+
+Yoko Ono, Avant Gardist
+
+Commerson's Dolphin ULT2
+
+Fish ULT2 1
+
+Fish ULT2 2
+
+Fish ULT2 3
+
+Fish ULT2 4
+
+Fish ULT2 5
+
+Almost Out of Oxygen
+
+FOREVER BLUE
+
+Giant Isopod
+
+Humpback Whales
+
+Indo-Pacific Sailfish
+
+Leopard Seal
+
+Magu Tapa
+
+Misty Rainforest
+
+Sea Slug Studies
+
+The Veiled Sea
+
+Undersea Encounter
+
+Whale Shark
+
+Manoa Lai
+
+Commerson's Dolphin
+
+Insect Bard (HK)
+
+Ancient Sickness
+
+Cornifer, Cartographer
+
+Dreamer's Gate
+
+Enter Pharloom
+
+Grand Mother Silk
+
+Hornet, Pharloom's Savior
+
+Infected Hopper
+
+Knight's Resting Place
+
+OF GOD AND VOID
+
+Remembered Everbloom
+
+The Hollow Knight
+
+The Knight, Returned Traveler
+
+The Radiance, Forgotten Light
+
+Overgrown Tomb (HK)
+
+The White Palace
+
+Citizen (SM)
+
+Clue (SM)
+
+Ami Mizuno
+
+Crystal Tokyo
+
+Fruits Parlor Crown
+
+Hotaru Tomoe
+
+MAKE UP!
+
+Makoto Kino
+
+Minako Aino
+
+Moon Healing Escalation!
+
+Moon Prism Power!
+
+Rei Hino
+
+Setsuna Meiou
+
+Shabon Spray
+
+Super Sailor Moon
+
+The Moon Kingdom
+
+A Little Lie Between Friends
+
+Ada Wong
+
+Glasp
+
+HUNK, the 4th Survivor
+
+Infected Crows
+
+Rachel Foley
+
+Rebecca Chambers
+
+UMBRELLA CONSPIRACY
+
+William Birkin
+
+Clue (RE)
+
+House Beneviento
+
+Marvin Branagh
+
+Raccoon Police Department
+
+Jill Valentine, BSAA
+
+Queen Semiramis
+
+Queen Zenobia
+
+Inch-High Prince
+
+Pigeon Town
+
+Return the Stars!
+
+Roll Up Colossi!
+
+Roll Up Fantasy!
+
+Roll Up History!
+
+Roll Up the Battle!
+
+Roll Up the World!
+
+Royal Rainbow!
+
+The King Of All Cosmos
+
+The Queen Of All Cosmos
+
+WE LOVE KATAMARI
+
+Prismatic Vista (KD)
+
+Warrior (KD)
+
+Katamari
+
+Lonely Rolling Star
+
+Final Test
+
+God of the New World
+
+I Win, L!
+
+Kira Cultists
+
+KIRA'S JUSTICE
+
+L, Immature Investigator
+
+Light Yagami, Would-Be God
+
+L's Endgame
+
+Matsuda Touta, Go-Getter
+
+Misa Amane, Kira Worshipper
+
+Ryuk, Spirit of Death
+
+Shinigami Realm
+
+Yellow Box Warehouse
+
+Citizen (DN)
+
+Clue (DN)
+
+Weapon (DN)
+
+Kira Investigation HQ
+
+Berial, Fortuna Terror
+
+Balrog, Argosax's Second
+
+Dante, Devil Trigger
+
+DEVIL ARMS
+
+Hellbat
+
+Mitis Assault
+
+Nero, High Roller
+
+Nevan, Lightning Contralto
+
+Nico Goldstein
+
+Nico's Armory
+
+The Devil's Tower
+
+V-Divider
+
+Voltaic Black Knight
+
+Devil May Cry
+
+Demon Token (CORU)
+
+Memory Token
+
+Akizet, Fierce Protector
+
+Akizet's Corrucyst
+
+BSTRD, Chaotic Daemon
+
+Council of Jokzi Ozo
+
+Deep Encounter
+
+Funfriend, System Assistant
+
+Gakvu Thoughtform
+pt: 2/1 => 2/2
+
+Interloper, Outside Observer
+
+Jumbled Cityscape
+
+LIVING THOUGHTS
+
+Recollection Locus
+
+Unable to Deviate
+
+Obesk Spire
+
+City Outskirts
+
+The Chase Eternal
+
+Ami, Prodigal Hacker
+
+Believe in the Thief
+
+Castle Cagliostro
+
+Fujiko, Femme Fatale
+
+Fujiko, Femme Fatale
+
+Goemon, the Blademaster
+
+GRAND HEIST
+
+Jigen, the Marksman
+
+Lupin, World's Greatest Thief
+
+Rebecca, Renaissance Woman
+
+Secret Bolthole
+
+Slash of the Zantetsuken
+
+Zenigata, Dedicated Agent
+
+Beat Into Shape
+
+Furnace
+
+Heir to the Stars
+
+Heirloom Hammer
+
+His Majesty's Bulwark
+
+His Majesty's Guards
+
+His Majesty's Swordbearers
+
+The Regent
+
+Solar Strike
+
+Tanx, Khimera King
+
+The Sealed Throne
+
+The Spire
+
+Sovereign Blade
+
+Weapon (STS2)
+
+Formaggio, Slick Sneak
+
+Ghiaccio, Icy Berserker
+
+Illuso, Mirror Man
+
+Melone, Distant Admirer
+
+Pesci, Wannabe Gangster
+
+Prosciutto, Hardened Mafioso
+
+Severed and Sent
+
+La Squadra's Betrayal
+
+Risotto, Vengeful Leader
+
+Killer for Hire
+
+Italy
+
+La Squadra Hideout
+
+SABOTEURS
+cost:  => {U}{B}
+
+Spirit Horror
+
+Clue (EXEC)
+
+Captain Olimar
+
+Gobble Indiscriminately
+
+Mumuta
+
+Purple Pikmin
+
+Swarm!
+
+Throw!
+
+Yellow Pikmin
+
+Blue Pikmin
+
+Red Pikmin
+
+White Pikmin
+
+Onion
+
+Mysterious Dungeon
+
+PNF-404
+
+LITTLE ARMY
+
+Pikmin
+
+Distant Vista
+
+Eye-Palm Effect
+
+Knife Effect
+
+Knife Effect
+
+Kyukkyu-kun
+
+Lamp Effect
+
+Monoko
+
+Seccom Masada-sensei
+
+Takofuusen
+
+The Dream World
+
+Uboa
+
+WANDER
+cost:  => {R}
+
+Witch Effect
+
+Madotsuki, Dream Walker
+
+Fire Flower
+
+Mario, Pesky Plumber
+
+Princess Daisy
+
+Super Mushroom
+
+Unexpected Toad
+
+Lady Bow
+
+Luigi, Cowardly Companion
+
+Princess Rosalina
+
+Princess Toadstool, Peach
+
+The Mushroom Kingdom
+
+Princess Party
+
+IN ANOTHER CASTLE
+
+Castle (SMB)
+
+Spirit (SMB)
+
+Fungus Warrior (SMB)
+
+bad breakup
+
+Billie Eilish
+
+Snailiens
+
+Girl's Fight Out
+
+Gustavo Rocque
+
+Kesha, Turning It Up
+
+Cici, Whatever She Wants
+
+Essence of the Week
+
+REFRACTION OF HABIT
+
+TURN IT UP!
+
+☆ P4R7Y 4N1M4L5 ☆
+
+Glowsquid Galaxy
+
+Snails on Venus
+
+Wuhu Island
+
+Party Animal
+
+Clawdeen Wolf
+
+Cleo De Nile
+
+Draculaura
+
+Frankie Stein
+
+Ghoulia Yelps
+
+Lagoona Blue
+
+Robecca Steam
+
+Spectra, Gossip Ghost
+
+Fangtastic Fashion
+
+Creepover
+
+Happy Haunt
+
+FREAKY, CHIC, AND FLY
+
+Bolt of Inspiration
+
+Ghoul's Night
+
+Zooble
+
+Abstract
+
+CAINE
+
+Deconstruct
+
+Gangle
+
+Ribbit
+
+Jax
+
+Kinger
+
+Pomni
+
+Ragatha
+
+The Amazing Digital Circus
+
+Torment Nexus
+
+ADVENTURE!
+
+On an Adventure
+
+Junk
+
+Chain Chomp
+
+Rainbow Road
+
+MONSTERMAU5
+
+Anaerobic Lanius
+
+Anti-Ship Battery
+
+Engi Mechanic
+
+FTL Jump
+
+Spaceship Captain
+
+Sturdy Rockman
+
+Teleport In
+
+Zoltan Crewmate
+
+Bloodthirsty Mantis
+
+Kestrel Cruiser
+
+Exit Beacon
+
+Mining Colony
+
+Nebula Cloud
+
+Store Station
+
+Uncharted Planet
+
+FEDERATION
+
+Junk (FED)
+
+Robot
+
+Corner
+
+Strategic Sacrifice
+
+Queen of the Board
+
+Battle Bishop
+
+Chain Formation
+
+Coercive Plan
+
+Frontline Reinforcements
+
+Leaping Cavalry
+
+Serve Once More
+
+Towering Rook
+
+Divided Landscape
+
+Eternal Battlefield
+
+Godless Shrine
+
+Regal War Room
+
+Tense Antechamber
+
+CHECKMATE
+
+Human Soldier
+
+The Judge, Feline Guide
+
+Make Your Move
+
+New Inhabitants
+
+Stay In Your Coma
+
+Zacharie, Masked Shopkeep
+
+The Batter, Holy Purifier
+
+Burning Out
+
+Hugo, Child Creator
+
+The Queen, Vader Eloha
+
+Add-On
+
+The Nothingness
+
+Sugar Pits
+
+Zone 0
+rules_text: This land enters tapped. As this land enters, choose a color other than white.
+When this land enters, you gain 2 life.
+{T}: Add {W} or one mana of the chosen color. => This land enters tapped. As it does, choose a color other than white.
+When this land enters, you gain 2 life.
+{T}: Add {W} or one mana of the chosen color.
+
+PURIFICATION
+
+Citizen
+
+Clue (OFF)
+
+Food (OFF)
+
+Weapon (OFF)
+
+The Antibreather
+
+Danger Sense
+
+Insomniac
+
+Mischievious Ariral
+
+Pagonioplo-Igetis
+
+Ride the ATV
+
+Sudden Cliff
+
+Bad Sun
+
+Dr Kel, Lone Astronomer
+
+Killer Wisp
+
+Abandoned Village
+
+Dunkeltaler Forest
+
+Earth
+
+Overgrown Cave
+
+PARANORMAL
+
+Alien
+
+Food
+
+Delirious Leap
+
+Grimaline Smith, Neophyte
+
+Harry Jacket, Neophyte
+
+The Hunter Data
+
+Hupton Beach Lu'au
+
+Lord Wernon Fatigue
+
+Secret Ghoul
+
+Solar Sorcery
+
+Occam O'Connell, Chancellor
+
+Remold Blacklaw, Librarian
+
+The Archives
+
+Great Yarmouth Chapter House
+
+Miniature Railroad
+
+ARCANUM
+
+Abrade
+
+Break Into the Pillar
+
+Cave Adventurer
+
+Dig Deeper
+
+Dwarven Axelord
+
+Martial Trance
+
+Merchant Caravan
+
+Tales of Forgotten Beasts
+
+Tavern Detour
+
+Urist, Fortress Ruler
+
+Dwarven Mine
+
+Open Tavern
+
+Promising Settlement
+
+The World of Possibilities
+
+DUG TOO DEEP
+
+Demon
+
+Dwarf
+
+Booze
+
+Class-D Demotion
+
+Critical Breach
+
+Doctor Shaw
+
+Foundation Guards
+
+Memetic Agent
+
+SCP-049, The Plague Doctor
+
+SCP-106, The Old Man
+
+SCP-173, The Statue
+
+SCP-035, Possessed Mask
+
+SCP-682, Resilient Reptile
+
+Containment Chamber
+
+Extradimensional Clearing
+
+Foundation Corridor
+
+EXPENDABLES
+
+Human (EXP)
+
+Zombie (EXP)
+
+Ninja
+
+Black Leg Sanji
+
+Cause Trouble
+
+Delayed Slash
+
+The Mysterious Sogeking
+
+Pirate Hunter Zoro
+
+Awareness Training
+
+Tony Tony Chopper
+
+Devil Child Nico Robin
+
+Straw Hat Luffy
+
+Cat Burglar Nami
+
+The Grand Line
+
+Open Seas
+
+Port
+
+LANDFALL
+
+Sword (OP)
+
+Treasure
+
+Blinking!
+
+Consider
+
+Special Containment Procedure
+
+Familiar Lake
+rules_text: Familiar Lake enters tapped. As it does, choose a color.
+When Familiar Lake enters, surveil 1.
+{T}: Add {U} or one mana of the chosen color. => When Familiar Lake enter, surveil 1.
+{T}: Add {C}.
+{1}, {T}, Sacrifice Familiar Lake: Search your library for an Island, put it onto the battlefield, then shuffle.
+
+Site 13
+
+Mobile Task Force
+
+SCP-131, The Eye Pods
+
+Site Lockdown
+
+SCP-2521
+
+SCP-1048, Builder Bear
+type: Legendary Artifact Creature — Bear => Artifact Creature — Bear
+cost: {2} => {1}{U}
+rules_text: As an additional cost to cast this spell, you may exile four cards from your graveyard. If you do, copy this spell. [i](The copy becomes a token.)[/i]
+When SCP-1048 enters, surveil 1. => When you cast this spell, you may exile two noncreature cards from your graveyard and/or two creature cards from your graveyard. Copy this spell for each two cards exiled.
+When SCP-1048 enters, surveil 1.
+
+SCP-049
+
+SCP-1762, Where The Dragons Went
+
+SURVEILLANCE
+
+Paige, the Bookworm
+rules_text: Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 1-3] When Paige levels up or becomes level 1, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4] => Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [3/3]
+[level 1-3] When Paige levels up or becomes level 1, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [3/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [4/4]
+pt: 2/3 => 3/3
+special_text: Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [2/3]
+[level 1-3] When Paige levels up or becomes level 1, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [2/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [3/4] => Level up {2}{WU} [i]({2}{WU}: Put a level counter on this. Level up only as a sorcery.)[/i] [3/3]
+[level 1-3] When Paige levels up or becomes level 1, create a 0/0 blue Spirit creature token. Put a +1/+1 counter on it. [3/4]
+[level 4+] When Paige levels up, create a 0/0 blue Spirit creature token. Put two +1/+1 counters on it. [4/4]
+
+Coalescipede
+rules_text: This creature enters with X +1/+1 counters on it.
+When this creature dies, if it had a +1/+1 counter on it, return it to the battlefield and it loses all abilities. => Trample
+This creature enters with X +1/+1 counters on it.
+When this creature dies, if it's not a token, create a token that's a copy of it.
+
+Dropwig
+rules_text: Reach
+[i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, this creature gains trample until end of turn.
+{3}{G}: Put a +1/+1 counter on this creature. => Reach
+[i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, this creature must be blocked this turn if able.
+
+FOOD CHAIN
+
+Green Lizard
+
+Miros Bird
+cost: {3}{G}{G} => {4}{G}
+
+Reach the Top
+rules_text: [i]Ecosystem[/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on target creature.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card. => [i]Ecosystem[/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on a creature you control.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card.
+
+Resourceful Slugcat
+rules_text: When Resourceful Slugcat enters, surveil 2.
+[i]Ecosystem[/i] — {4}{G}, {T}: Put a +1/+1 counter on target creature you control, then proliferate. Activate only as a sorcery and only if you control three or more creatures with different powers. => When this creature enters, surveil 2.
+{3}, Sacrifice this creature: Choose one—
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard.
+
+Towering Rain Deer
+rules_text: Reach
+This creature can't be blocked by creatures with power 2 or less.
+{2}{G}, Discard this card: Put two +1/+1 counters on target creature. Surveil 2. => Reach
+This creature can't be blocked by creatures with power 2 or less.
+[i]Carry[/i] — {2}{G}, Discard this card: Put two +1/+1 counters on target creature. Surveil 2.
+
+Rebar Spear
+cost: {4} => {2}
+rules_text: When this Equipment enters, create a 2/1 green Monkey creature token. When you do, attach this to target creature you control.
+Equipped creature gets +2/+1.
+Equip {2} => When this Equipment enters, create a 2/1 green Monkey creature token. When you do, attach this Equipment to target creature you control.
+Equipped creature gets +2/+1.
+Equip {2}
+
+Garbage Wastes
+
+Iterator's Chamber
+
+Ballora
+pt: 3/2 => 3/3
+
+Joy of Creation
+cost: {1}{B} => {2}{B}
+rules_text: Choose one —
+• Return up to two target artifact and/or creature cards from your graveyard to your hand.
+• Target creature gets +2/+2 and gains lifelink until end of turn. => Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Put two +1/+1 counters on target creature. It gains lifelink and indestructible until end of turn.
+
+Lefty
+
+Springlock Failure
+
+William Afton
+rules_text: When William Afton enters, mill three cards, then you may return an artifact or creature card from your graveyard to your hand. If you do, you lose 2 life.
+Disturb—{9}{B}. For each generic mana in this cost, you may tap an untapped artifact you control to pay for {1}. [i](You may cast this from your graveyard transformed for its disturb cost.)[/i] => When William Afton dies, mill three cards, then you may return an artifact or creature card from your graveyard to your hand.
+Disturb—{9}{B}. For each generic mana in this cost, you may tap an untapped artifact you control to pay for {1}. [i](You may cast this from your graveyard transformed for its disturb cost.)[/i]
+
+Dreadbear
+rules_text: When you cast Dreadbear, you gain 5 life.
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+Undying [i](When Dreadbear dies, if it had no +1/+1 counters, return it to the battlefield under its owner's control with a +1/+1 counter.)[/i]
+Basic landcycling {2} => Flash
+Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+When Dreadbear enters, you gain 5 life.
+Basic landcycling {2}
+pt: 5/4 => 5/6
+
+The Mimic
+cost: {2}{UB} => {3}{UB}
+rules_text: Living metal [i](The Mimic is an artifact creature during your turn.)[/i]
+As The Mimic enters, exile the top four cards of an opponent's library. You may have The Mimic enter as a copy of any artifact or creature card exiled this way, except it's a 3/3 artifact with living metal. => Flash
+Living metal [i](The Mimic is an artifact creature during your turn.)[/i]
+As The Mimic enters, exile the top five cards of an opponent's library. You may have The Mimic enter as a copy of any artifact or creature card among the exiled cards, except it's a 3/3 artifact with living metal. [i](It loses all other types.)[/i]
+
+The Puppet
+
+Scrap Baby
+
+Freddy Fazbear's Pizza
+
+Indoor Attraction
+rules_text: When Indoor Attraction enters, you gain 1 life and sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped with a hexproof counter on it, then shuffle. It becomes an artifact in addition to its other types. => {T}, Sacrifice Indoor Attraction: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Put a hexproof counter on it. It becomes an artifact in addition to its other types.
+
+LIVING METAL
+
+Spirit Token (FNAF)
+
+Caroline, Faithful Assistant
+
+Chell, Resourceful Subject
+
+Message from the Moon
+
+Resolve the Stalemate
+rules_text: Exchange control of two target creatures.
+Cycling {2}
+When you cycle Resolve the Stalemate, create a Portal token. [i](It's an enchantment with “{1}, Sacrifice this: When target creature you control attacks this turn, exile it, then return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i] => Choose one —
+• Exchange control of two target creatures.
+• Draw four cards, then discard two cards. Create two Portal tokens. [i](Enchantments with “{1}, Sacrifice this: When target creature you control attacks this turn, exile it, then return it to the battlefield tapped and attacking under your control. It has flying this combat.”)[/i]
+
+Resume Testing
+
+Weighted Companion Cube
+rules_text: When this artifact enters, tap up to one target artifact or creature. It can't become untapped for as this artifact remains on the battlefield.
+{2}, {T}, Sacrifice this artifact: Draw three cards. Activate only as a sorcery. => When this artifact enters, tap target artifact or creature an opponent controls. It can't become untapped for as long as this artifact remains on the battlefield.
+{T}: Add {C}. You can't spend this mana to cast nonartifact spells.
+
+Wheatley, Moron Core
+
+Atlas & P-Body
+
+Rat Man
+pt: 2/2 => 2/1
+
+Auto Turret
+pt: 2/1 => 1/3
+
+Old Aperture
+
+Turret Opera
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+[i]Channel[/i] — {U}, Discard Turret Opera: Untap target creature. It gets +1/+1 and gains reach until end of turn. => This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+[i]Channel[/i] — {2}, Discard Turret Opera: Untap target creature. It gets +2/+1 and gains reach until end of turn.
+
+Extended Relaxation Center
+
+PORTALS
+cost:  => {U}
+
+Portal
+
+Moon Rock
+
+Abandon the Village
+
+Kakashi, Team 9 Leader
+pt: 3/3 => 3/2
+
+Shadow Clone
+
+Iruka, Academy Instructor
+
+Rasengan
+
+Hiruzen, The Professor
+rules_text: Ninjutsu {1}{U}{R} [i]({1}{U}{R}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Hiruzen has flying while attacking.
+When Hiruzen enters, create a 1/1 red Ninja creature token. If Hiruzen is attacking, the token enters tapped and attacking.
+Other attacking creatures you control get +1/+0. => Ninjutsu {1}{U}{R}
+Hiruzen has flying while attacking.
+When Hiruzen enters, create a 1/1 red Ninja creature token. If Hiruzen is attacking, the token enters tapped and attacking.
+Other attacking creatures you control get +1/+0.
+pt: 3/2 => 3/3
+
+Haruno Sakura
+rules_text: Ninjutsu {1}{UR} [i]({1}{UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, you may discard a card. If you do, draw two cards. => Ninjutsu {1}{UR} [i]({1}{UR}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Haruno Sakura enters, you may discard two cards. If you do, draw three cards.
+
+Ninja Tools
+rules_text: Flash
+Whenever Ninja Tools or another creature you control enters, you may attach Ninja Tools to target creature. If you do, unattach it at the beginning of the next end step.
+Equipped creature gets +2/+2.
+Equip {4} => Flash
+Whenever Ninja Tools or another creature you control enters, you may attach Ninja Tools to target creature. If you do, unattach it at the beginning of the next end step.
+Equipped creature gets +2/+1.
+Equip {4}
+
+Ichiraku Ramen
+rules_text: Ichiraku Ramen enters tapped unless you pay {1}.
+{T}: Add {U} or {R}.
+{3}, {T}, Sacrifice Ichiraku Ramen: Draw a card. Create a Treasure token. => Ichiraku Ramen enters tapped unless you pay {1}.
+{T}: Add {U} or {R}.
+{2}, {T}, Sacrifice Ichiraku Ramen: Draw a card. Create a Treasure token.
+
+Prismatic Vista (NART)
+
+Village Hidden in the Leaves
+
+NINJAS (BELIEVE IT!)
+
+
+VERSION 39 CHANGELOG
 ====================
 
 Treasure added.
