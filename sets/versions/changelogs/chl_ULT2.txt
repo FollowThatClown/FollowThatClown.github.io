@@ -1,4 +1,838 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+Clue added.
+Blood ULT2 added.
+
+WITHER AWAY added.
+Aristocrat Hemophile added.
+Blood Transfusion added.
+Crimson Awakener added.
+Cult Curator added.
+Domesticated Bloodletter added.
+Eager Disciple added.
+Lord Vladimir, Crimson Reaper added.
+Parasitic Pigeons added.
+Savor Each Morsel added.
+Tides of Blood added.
+Black Rose Antechamber added.
+The Crimson Banquet Hall added.
+The Gray Apothecary added.
+Ravenbloom Conservatory added.
+Blood (VLD) added.
+Alucard, Son of Dracula added.
+Death, The Grim Reaper added.
+Dracula, Lord of Darkness added.
+Franken, the Creature added.
+Have At You! added.
+MONSTER DANCE added.
+Phantom Bat added.
+Queen Medusa added.
+What a Horrible Night added.
+Mummy Men added.
+Vast Legions of Darkness added.
+Castle Clocktower added.
+Castle Courtyard added.
+Castle Keep Stairway added.
+Castlevania added.
+Zombie (CVN) added.
+Aura Curse (CVN) added.
+Gorgon (CVN) added.
+Igor (CVN) added.
+Brave The First Floor added.
+Fractal Mutation added.
+Hapless Tenants added.
+Hellen, Green-Thumb Maniac added.
+Joel, Tooth Child added.
+Leigh, Grinner added.
+Look Outside added.
+MONSTROSITIES added.
+Toxic Paintling added.
+Whiskey Flask added.
+Sam, Restless Recluse added.
+Elevator added.
+Infested Crawlspace added.
+Mutt's Fish And Chips added.
+The Rooftops added.
+Teeth Hell added.
+Rat Mutant added.
+Lisa Garland added.
+Letters from the Dead added.
+Sack the Apartment added.
+Endless House added.
+Inexplicable Location added.
+Silent Hill added.
+Cleric (SLH) added.
+Chained Door added.
+Heather Mason added.
+James Sunderland added.
+LISA added.
+Tended by Valtiel added.
+Pyramid Head added.
+God added.
+Combine and Conquer added.
+Hydro Turret added.
+Plort Market added.
+Hunter Slime added.
+Tabby Slime added.
+Assimilating Tarr added.
+Pink Slime added.
+Rad Slime added.
+Feral Slam added.
+Slime Vine added.
+Lebeau Ranch added.
+Mochi Manor added.
+Llanowar Reborn (SLM) added.
+The Slimeulation added.
+Glass Desert added.
+Quantum Gate Expedition added.
+Glitch Slime added.
+Atomic Fire added.
+Bridge to Hell added.
+Former Hell added.
+Hell Raven added.
+SUBTERRANEAN SUN added.
+Troublesome Oni added.
+Zombie Fairy added.
+Spirit (SA) added.
+Chireiden added.
+Control Rod added.
+Green-Eyed Monster added.
+Koishi, Unthinking Impulse added.
+Rin, Spirit Carrier added.
+Yuugi, Ex-Deva added.
+Satori, Feared and Reviled added.
+Utsuho, Divine Flame added.
+
+Food (DNM) removed.
+Human Soldier (3RD) removed.
+Fan (FLA) removed.
+Junk removed.
+Clue (EXEC) removed.
+
+The Axiom
+rules_text: When this Spacecraft enters or attacks, draw two cards, then discard two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+If you would draw a card, draw two cards instead. [7/7]
+ => When this Spacecraft enters or attacks, draw two cards, then discard two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)[/i]
+[level 9+] Flying
+If you would draw a card, draw two cards instead. [7/7]
+
+special_text: When this Spacecraft enters or attacks, draw two cards, then discard two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+If you would draw a card, draw two cards instead. [7/7]
+ => When this Spacecraft enters or attacks, draw two cards, then discard two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)[/i]
+[level 9+] Flying
+If you would draw a card, draw two cards instead. [7/7]
+
+
+Soul (DLK)
+type: Artifact — Soul => Token Artifact — Soul
+
+Laios Touden
+
+Marcille Donato
+
+A Proper Diet
+
+Cook Monsters
+
+Walking Mushroom
+
+Ah, Dungeon Food!
+
+It's Ready!
+
+Senshi of Izganda
+
+Chilchuck Tims
+
+Izutsumi
+
+Farmed Golem
+
+The First Floor
+
+The Island Dungeon
+
+Merini Village Dining Hall
+
+Ninja Tools
+
+Abandon the Village
+
+Haruno Sakura
+
+Iruka, Academy Instructor
+
+Kakashi, Team 9 Leader
+
+NINJAS (BELIEVE IT!)
+
+Rasengan
+
+Shadow Clone
+
+Uchiha Sasuke
+
+Uzumaki Naruto
+
+Ninja (NART)
+
+Prismatic Vista (NART)
+
+Village Hidden in the Leaves
+
+Hiruzen, The Professor
+
+Ichiraku Ramen
+
+Bad Sun
+
+Danger Sense
+
+Dr Kel, Lone Astronomer
+
+Insomniac
+
+Killer Wisp
+
+Mischievious Ariral
+
+Overgrown Cave
+
+Pagonioplo-Igetis
+
+PARANORMAL
+
+Sudden Cliff
+
+The Antibreather
+
+Food
+
+Alien
+
+Abandoned Village
+
+Dunkeltaler Forest
+
+Earth
+
+Ride the ATV
+
+Battle Bishop
+
+Chain Formation
+
+CHECKMATE
+
+Coercive Plan
+
+Corner
+
+Divided Landscape
+
+Frontline Reinforcements
+
+Godless Shrine
+
+Leaping Cavalry
+
+Queen of the Board
+
+Serve Once More
+
+Strategic Sacrifice
+
+Towering Rook
+
+Human Soldier
+
+Eternal Battlefield
+
+Regal War Room
+
+Tense Antechamber
+
+Junk
+
+Black Leg Sanji
+
+Cause Trouble
+
+Delayed Slash
+
+The Mysterious Sogeking
+
+Pirate Hunter Zoro
+
+Awareness Training
+
+Tony Tony Chopper
+
+Devil Child Nico Robin
+
+Straw Hat Luffy
+
+Cat Burglar Nami
+
+The Grand Line
+
+Open Seas
+
+Port
+
+LANDFALL
+
+Sword (OP)
+
+FOREVER BLUE
+
+Almost Out of Oxygen
+
+Commerson's Dolphin
+
+Giant Isopod
+
+Humpback Whales
+
+Leopard Seal
+
+Magu Tapa
+
+Sea Slug Studies
+
+Undersea Encounter
+
+Whale Shark
+
+Indo-Pacific Sailfish
+
+Amazon Rainforest
+
+Manoa Lai
+
+The Veiled Sea
+
+Commerson's Dolphin ULT2
+
+Fish ULT2 1
+
+Fish ULT2 2
+
+Fish ULT2 3
+
+Fish ULT2 4
+
+Fish ULT2 5
+
+HERO'S JOURNEY
+
+Boss Fight
+
+Callous Demon
+
+Cursed Zoologist
+
+Delve Deep
+
+The Destroyer of Worlds
+
+Golem, Temple Guardian
+
+Hero of Terraria
+
+Queen Bee, Mad Monarch
+
+Reach the Zenith
+
+The Wall of Flesh
+
+Journey's End
+
+Sky Islands
+
+Strange World
+
+The Underworld
+
+Robot (TRA) ULT2
+
+The Chase Eternal
+
+Jigen, the Marksman
+
+Rebecca, Renaissance Woman
+
+Ami, Prodigal Hacker
+
+Believe in the Thief
+
+Slash of the Zantetsuken
+
+GRAND HEIST
+
+Fujiko, Femme Fatale
+
+Goemon, the Blademaster
+
+Lupin, World's Greatest Thief
+
+Zenigata, Dedicated Agent
+
+Castle Cagliostro
+
+City Outskirts
+
+Secret Bolthole
+
+Construct (UNV)
+
+Spider (UNV)
+
+An Ideal World
+
+Gleaming Sigilyph
+
+Growing Tympoles
+
+Indomitable Boldore
+
+Lostlorn Forest
+
+N
+
+Nimbasa City
+
+N's Servine
+
+Prissy Purrloin
+
+Seed Bomb
+
+Strength of Ideals
+
+Tricky Zorua
+
+Lizard (UNV)
+
+Spinning Klink
+
+Snack Time
+
+Chargestone Cave
+
+Mithrix, King of Nothing
+
+The Captain
+
+The Face of the Deep
+
+Having Fallen, It Was Blood
+
+The Loader
+
+MONSOON
+
+They Might as Well Be Dead
+
+The Artificer
+
+The Commando
+
+The Engineer
+
+Once in a Lullaby
+
+Commencement
+
+Compound Generator
+
+Void Fields
+
+Item
+
+Servo
+
+Band Manager Bri
+
+Bigger than Jesus
+
+Duet Performance
+
+Fifth Beatle
+
+Magical Mystery Tour
+
+Yoko Ono, Avant Gardist
+
+George Harrison, Beatle
+
+John Lennon, Beatle
+
+Paul Mccartney, Beatle
+
+Ringo Starr, Beatle
+
+Abbey Road
+
+Communal Bath
+
+BANDING
+
+Fan (FLA)
+
+ADVENTURE!
+
+Abstract
+
+Put You Freaks In Your Place
+
+Deconstruct
+
+The Amazing Digital Circus
+
+Torment Nexus
+
+Pomni
+
+Ribbit
+
+Kinger
+
+Jax
+
+Ragatha
+
+Gangle
+
+Zooble
+
+CAINE
+
+On an Adventure
+
+Formaggio, Slick Sneak
+
+Ghiaccio, Icy Berserker
+
+Illuso, Mirror Man
+
+Melone, Distant Admirer
+
+Pesci, Wannabe Gangster
+
+Prosciutto, Hardened Mafioso
+
+Severed and Sent
+
+Fatal Charm
+
+La Squadra's Betrayal
+
+Risotto, Vengeful Leader
+
+Italy
+
+La Squadra Hideout
+
+SABOTEURS
+
+Spirit Horror
+
+Ballora
+
+Joy of Creation
+
+Lefty
+
+Springlock Failure
+
+Vanny
+
+William Afton
+
+Dreadbear
+
+The Mimic
+
+The Puppet
+
+Scrap Baby
+
+Freddy Fazbear's Pizza
+
+Indoor Attraction
+
+Retro Office
+
+LIVING METAL
+
+Spirit Token (FNAF)
+
+DEVIL ARMS
+
+Balrog, Argosax's Second
+
+Berial, Fortuna Terror
+
+Dante, Devil Trigger
+
+Mitis Assault
+
+Nevan, Lightning Contralto
+
+Nico Goldstein
+
+Rev it Up!
+
+V-Divider
+
+Voltaic Black Knight
+
+Nero, High Roller
+
+Devil May Cry
+
+The Devil's Tower
+
+Nico's Armory
+
+Treasure (DMC)
+
+Weapon (DMC)
+
+UMBRELLA CONSPIRACY
+
+Ada Wong
+
+Catastrophic Mutation
+
+Glasp
+
+HUNK, the 4th Survivor
+
+A Little Lie Between Friends
+
+Rachel Foley
+
+William Birkin
+
+Jill Valentine, BSAA
+
+Marvin Branagh
+
+Rebecca Chambers
+
+House Beneviento
+
+Queen Semiramis
+
+Queen Zenobia
+
+Raccoon Police Department
+
+Clue (RE)
+
+KIRA'S JUSTICE
+
+Final Test
+
+I Win, L!
+
+Kira Cultists
+
+Kira's Task Force
+
+Light Yagami, Would-Be God
+
+L's Endgame
+
+Misa Amane, Kira Worshipper
+
+Ryuk, Spirit of Death
+
+L, Immature Investigator
+
+Matsuda Touta, Go-Getter
+
+Kira Investigation HQ
+
+Shinigami Realm
+
+Yellow Box Warehouse
+
+Citizen (DN)
+
+Clue (DN)
+
+Weapon (DN)
+
+Caroline, Faithful Assistant
+
+Chell, Resourceful Subject
+
+Message from the Moon
+
+Resolve the Stalemate
+
+Resume Testing
+
+Weighted Companion Cube
+
+Wheatley, Moron Core
+
+Atlas & P-Body
+
+Rat Man
+
+Auto Turret
+
+Aperture Science
+
+Turret Opera
+
+Extended Relaxation Center
+
+PORTALS
+
+Portal
+
+Moon Rock
+
+Blinking!
+
+Mobile Task Force
+
+Reconsider
+
+SCP-1762, Where The Dragons Went
+
+Site Lockdown
+
+SCP-2521
+
+SCP-049
+
+SCP-131, The Eye Pods
+
+Special Containment Procedure
+
+SCP-1048, Builder Bear
+
+Familiar Lake
+
+Site 13
+
+SURVEILLANCE
+
+Zombie (SCP)
+
+Dragon (SCP)
+
+Ghoul's Night
+
+Clawdeen Wolf
+
+Cleo De Nile
+
+Draculaura
+
+Frankie Stein
+
+Ghoulia Yelps
+
+Lagoona Blue
+
+Robecca Steam
+
+Spectra, Gossip Ghost
+
+Fangtastic Fashion
+
+Creepover
+
+Happy Haunt
+
+FREAKY, CHIC, AND FLY
+
+ALL CAPS
+
+CZARFACE, the Iron Claw
+
+DANGERDOOM
+
+King Geedorah, the Third Rail
+
+Madvillainy
+
+Metal Face Mask
+
+MF DOOM, the Illest Villain
+
+Operation DOOMSDAY
+
+Quasimoto and DOOM
+
+Viktor Vaughn, Vaudeville Villain
+
+Sonic Switchboard
+
+Mural of DOOM
+
+New York
+
+Impending DOOM
+
+DOOMbot (MFD)
+
+bad breakup
+
+Billie Eilish
+
+MONSTERMAU5
+
+Snailiens
+
+Girl's Fight Out
+
+Gustavo Rocque
+
+Kesha, Turning It Up
+
+Cici, Whatever She Wants
+
+Essence of the Week
+
+REFRACTION OF HABIT
+
+TURN IT UP!
+
+☆ P4R7Y 4N1M4L5 ☆
+
+Glowsquid Galaxy
+
+Snails on Venus
+
+Wuhu Island
+
+Party Animal
+
+Treasure
+type: Artifact — Treasure => Token Artifact — Treasure
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => BIRTH OF GOD
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+
+
+VERSION 44 CHANGELOG
 ====================
 
 Aperture Science added.
