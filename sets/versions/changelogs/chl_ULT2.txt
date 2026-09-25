@@ -1,4 +1,35 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+
+
+The Axiom
+rules_text: When this Spacecraft enters or attacks, draw two cards, then discard two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)[/i]
+[level 9+] Flying
+If you would draw a card, draw two cards instead. [7/7]
+ => When this Spacecraft enters or attacks, draw two cards, then discard two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+If you would draw a card, draw two cards instead. [7/7]
+
+special_text: When this Spacecraft enters or attacks, draw two cards, then discard two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)[/i]
+[level 9+] Flying
+If you would draw a card, draw two cards instead. [7/7]
+ => When this Spacecraft enters or attacks, draw two cards, then discard two cards.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 9+] Flying
+If you would draw a card, draw two cards instead. [7/7]
+
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => BIRTH OF GOD
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+
+
+VERSION 45 CHANGELOG
 ====================
 
 Clue added.

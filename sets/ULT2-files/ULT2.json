@@ -1986,10 +1986,10 @@
             "number": 566,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "When this Spacecraft enters or attacks, draw two cards, then discard two cards.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)[/i]\n[level 9+] Flying\nIf you would draw a card, draw two cards instead. [7/7]\n",
+            "rules_text": "When this Spacecraft enters or attacks, draw two cards, then discard two cards.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 9+] Flying\nIf you would draw a card, draw two cards instead. [7/7]\n",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When this Spacecraft enters or attacks, draw two cards, then discard two cards.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)[/i]\n[level 9+] Flying\nIf you would draw a card, draw two cards instead. [7/7]\n",
+            "special_text": "When this Spacecraft enters or attacks, draw two cards, then discard two cards.\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 9+] Flying\nIf you would draw a card, draw two cards instead. [7/7]\n",
             "shape": "leveler",
             "set": "ULT2",
             "loyalty": "",
@@ -20621,5 +20621,5 @@
             "notes": "!tag Subterranean Animism"
         }
     ],
-    "version": 45
+    "version": 46
 }
