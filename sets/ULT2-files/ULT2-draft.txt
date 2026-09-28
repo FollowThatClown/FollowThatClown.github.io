@@ -145,7 +145,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "701",
+			"collector_number": "700",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/14.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "823",
+			"collector_number": "824",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "824",
+			"collector_number": "823",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/22.png"
 			}
@@ -1817,7 +1817,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Avatar Frog",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/183.png"
 			}
@@ -5142,7 +5142,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "643",
+			"collector_number": "642",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/520.png"
 			}
@@ -5940,7 +5940,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "642",
+			"collector_number": "643",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/601.png"
 			}
@@ -6524,7 +6524,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Avatar Frog",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/660.png"
 			}
@@ -6914,211 +6914,13 @@
 			}
 		},
 		{
-			"name": "DEVIL ARMS",
-			"rarity": "special",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/700.png"
-			}
-		},
-		{
-			"name": "Balrog, Argosax's Second",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Demon Warrior",
-			"collector_number": "242",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/701_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/701_front.png"
-			}
-		},
-		{
-			"name": "Berial, Fortuna Terror",
-			"rarity": "special",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Demon Warrior",
-			"collector_number": "244",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/703_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/703_front.png"
-			}
-		},
-		{
-			"name": "Dante, Devil Trigger",
-			"rarity": "special",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Legendary Creature — Human Demon Mercenary",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/705.png"
-			}
-		},
-		{
-			"name": "Mitis Assault",
-			"rarity": "special",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Demon Lizard Warrior",
-			"collector_number": "294",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/706.png"
-			}
-		},
-		{
-			"name": "Nevan, Lightning Contralto",
-			"rarity": "special",
-			"mana_cost": "{3}{R}",
-			"type": "Legendary Creature — Demon Faerie Bard",
-			"collector_number": "297",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/707_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/707_front.png"
-			}
-		},
-		{
-			"name": "Nico Goldstein",
-			"rarity": "special",
-			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "298",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/709.png"
-			}
-		},
-		{
-			"name": "Rev it Up!",
-			"rarity": "special",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "310",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/710.png"
-			}
-		},
-		{
-			"name": "V-Divider",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "324",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/711.png"
-			}
-		},
-		{
-			"name": "Voltaic Black Knight",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Demon Knight",
-			"collector_number": "326",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/713_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/713_front.png"
-			}
-		},
-		{
-			"name": "Nero, High Roller",
-			"rarity": "special",
-			"mana_cost": "{2}{R/G}{R/G}",
-			"type": "Legendary Creature — Human Demon Berserker",
-			"collector_number": "510",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/714.png"
-			}
-		},
-		{
-			"name": "Devil May Cry",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "620",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/715.png"
-			}
-		},
-		{
-			"name": "The Devil's Tower",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "621",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/716.png"
-			}
-		},
-		{
-			"name": "Mountain (DMC)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "696",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/717.png"
-			}
-		},
-		{
-			"name": "Nico's Armory",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "711",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/718.png"
-			}
-		},
-		{
-			"name": "Treasure (DMC)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "88",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/719.png"
-			}
-		},
-		{
-			"name": "Weapon (DMC)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Equipment",
-			"collector_number": "89",
-			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/720.png"
-			}
-		},
-		{
 			"name": "UMBRELLA CONSPIRACY",
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/721.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/700.png"
 			}
 		},
 		{
@@ -7131,11 +6933,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/722_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/701_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/722_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/701_front.png"
 			}
 		},
 		{
@@ -7145,7 +6947,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/724.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/703.png"
 			}
 		},
 		{
@@ -7158,11 +6960,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/726_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/705_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/726_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/705_front.png"
 			}
 		},
 		{
@@ -7175,11 +6977,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/727_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/706_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/727_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/706_front.png"
 			}
 		},
 		{
@@ -7189,7 +6991,7 @@
 			"type": "Instant",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/729.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/708.png"
 			}
 		},
 		{
@@ -7202,11 +7004,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/730_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/709_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/730_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/709_front.png"
 			}
 		},
 		{
@@ -7219,11 +7021,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/732_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/711_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/732_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/711_front.png"
 			}
 		},
 		{
@@ -7236,11 +7038,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/734_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/713_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/734_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/713_front.png"
 			}
 		},
 		{
@@ -7253,11 +7055,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/736_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/715_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/736_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/715_front.png"
 			}
 		},
 		{
@@ -7267,7 +7069,7 @@
 			"type": "Legendary Creature — Human Doctor Soldier",
 			"collector_number": "524",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/738.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/717.png"
 			}
 		},
 		{
@@ -7277,7 +7079,7 @@
 			"type": "Land",
 			"collector_number": "660",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/739.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/718.png"
 			}
 		},
 		{
@@ -7287,7 +7089,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "671",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/740.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/719.png"
 			}
 		},
 		{
@@ -7297,7 +7099,7 @@
 			"type": "Land",
 			"collector_number": "740",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/741.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/720.png"
 			}
 		},
 		{
@@ -7307,7 +7109,7 @@
 			"type": "Land",
 			"collector_number": "741",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/742.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/721.png"
 			}
 		},
 		{
@@ -7317,7 +7119,7 @@
 			"type": "Land",
 			"collector_number": "742",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/743.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/722.png"
 			}
 		},
 		{
@@ -7327,7 +7129,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/744.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/723.png"
 			}
 		},
 		{
@@ -7337,7 +7139,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/745.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/724.png"
 			}
 		},
 		{
@@ -7347,7 +7149,7 @@
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/746.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/725.png"
 			}
 		},
 		{
@@ -7357,7 +7159,7 @@
 			"type": "Instant",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/747.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/726.png"
 			}
 		},
 		{
@@ -7367,7 +7169,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/748.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/727.png"
 			}
 		},
 		{
@@ -7377,7 +7179,7 @@
 			"type": "Creature — Human Detective",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/749.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/728.png"
 			}
 		},
 		{
@@ -7387,7 +7189,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/750.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/729.png"
 			}
 		},
 		{
@@ -7397,7 +7199,7 @@
 			"type": "Enchantment",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/751.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/730.png"
 			}
 		},
 		{
@@ -7407,7 +7209,7 @@
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/752.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/731.png"
 			}
 		},
 		{
@@ -7417,7 +7219,7 @@
 			"type": "Legendary Creature — Spirit Horror",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/753.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/732.png"
 			}
 		},
 		{
@@ -7427,7 +7229,7 @@
 			"type": "Legendary Creature — Human Detective",
 			"collector_number": "493",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/754.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/733.png"
 			}
 		},
 		{
@@ -7437,7 +7239,7 @@
 			"type": "Legendary Creature — Human Detective",
 			"collector_number": "503",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/755.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/734.png"
 			}
 		},
 		{
@@ -7447,7 +7249,7 @@
 			"type": "Land",
 			"collector_number": "678",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/756.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/735.png"
 			}
 		},
 		{
@@ -7457,7 +7259,7 @@
 			"type": "Land",
 			"collector_number": "753",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/757.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/736.png"
 			}
 		},
 		{
@@ -7467,7 +7269,7 @@
 			"type": "Land",
 			"collector_number": "785",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/758.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/737.png"
 			}
 		},
 		{
@@ -7477,7 +7279,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "806",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/759.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/738.png"
 			}
 		},
 		{
@@ -7487,7 +7289,7 @@
 			"type": "Token Creature — Citizen",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/760.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/739.png"
 			}
 		},
 		{
@@ -7497,7 +7299,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/761.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/740.png"
 			}
 		},
 		{
@@ -7507,7 +7309,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/762.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/741.png"
 			}
 		},
 		{
@@ -7520,11 +7322,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/763_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/742_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/763_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/742_front.png"
 			}
 		},
 		{
@@ -7534,7 +7336,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/765.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/744.png"
 			}
 		},
 		{
@@ -7544,7 +7346,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/766.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/745.png"
 			}
 		},
 		{
@@ -7554,7 +7356,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/767.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/746.png"
 			}
 		},
 		{
@@ -7564,7 +7366,7 @@
 			"type": "Instant",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/768.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/747.png"
 			}
 		},
 		{
@@ -7574,7 +7376,7 @@
 			"type": "Artifact",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/769.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/748.png"
 			}
 		},
 		{
@@ -7584,7 +7386,7 @@
 			"type": "Legendary Artifact Creature — Orb Robot",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/770.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/749.png"
 			}
 		},
 		{
@@ -7594,7 +7396,7 @@
 			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "449",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/771.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/750.png"
 			}
 		},
 		{
@@ -7604,7 +7406,7 @@
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "523",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/772.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/751.png"
 			}
 		},
 		{
@@ -7614,7 +7416,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "561",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/773.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/752.png"
 			}
 		},
 		{
@@ -7624,7 +7426,7 @@
 			"type": "Land",
 			"collector_number": "586",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/774.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/753.png"
 			}
 		},
 		{
@@ -7634,7 +7436,7 @@
 			"type": "Land",
 			"collector_number": "773",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/775.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/754.png"
 			}
 		},
 		{
@@ -7644,7 +7446,7 @@
 			"type": "Land",
 			"collector_number": "787",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/776.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/755.png"
 			}
 		},
 		{
@@ -7654,7 +7456,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/777.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/756.png"
 			}
 		},
 		{
@@ -7664,7 +7466,7 @@
 			"type": "Token Enchantment — Portal",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/778.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/757.png"
 			}
 		},
 		{
@@ -7674,7 +7476,7 @@
 			"type": "Token Artifact — Moon-Rock",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/779.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/758.png"
 			}
 		},
 		{
@@ -7684,7 +7486,7 @@
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/780.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/759.png"
 			}
 		},
 		{
@@ -7694,7 +7496,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/781.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/760.png"
 			}
 		},
 		{
@@ -7704,7 +7506,7 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/782.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/761.png"
 			}
 		},
 		{
@@ -7714,7 +7516,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/783.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/762.png"
 			}
 		},
 		{
@@ -7724,7 +7526,7 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/784.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/763.png"
 			}
 		},
 		{
@@ -7734,7 +7536,7 @@
 			"type": "Legendary Creature",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/785.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/764.png"
 			}
 		},
 		{
@@ -7744,7 +7546,7 @@
 			"type": "Legendary Creature — Horror Doctor",
 			"collector_number": "534",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/786.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/765.png"
 			}
 		},
 		{
@@ -7754,7 +7556,7 @@
 			"type": "Artifact Creature — Construct Eye",
 			"collector_number": "535",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/787.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/766.png"
 			}
 		},
 		{
@@ -7764,7 +7566,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "543",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/788.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/767.png"
 			}
 		},
 		{
@@ -7774,7 +7576,7 @@
 			"type": "Artifact Creature — Bear",
 			"collector_number": "574",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/789.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/768.png"
 			}
 		},
 		{
@@ -7784,7 +7586,7 @@
 			"type": "Land",
 			"collector_number": "637",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/790.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/769.png"
 			}
 		},
 		{
@@ -7794,7 +7596,7 @@
 			"type": "Land",
 			"collector_number": "756",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/791.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/770.png"
 			}
 		},
 		{
@@ -7804,7 +7606,7 @@
 			"type": "",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/792.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/771.png"
 			}
 		},
 		{
@@ -7814,7 +7616,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/793.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/772.png"
 			}
 		},
 		{
@@ -7824,7 +7626,7 @@
 			"type": "Artifact Creature — Dragon",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/794.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/773.png"
 			}
 		},
 		{
@@ -7834,7 +7636,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/795.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/774.png"
 			}
 		},
 		{
@@ -7844,7 +7646,7 @@
 			"type": "Legendary Creature — Werewolf",
 			"collector_number": "460",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/796.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/775.png"
 			}
 		},
 		{
@@ -7854,7 +7656,7 @@
 			"type": "Legendary Creature — Zombie Noble",
 			"collector_number": "461",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/797.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/776.png"
 			}
 		},
 		{
@@ -7864,7 +7666,7 @@
 			"type": "Legendary Creature — Vampire",
 			"collector_number": "464",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/798.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/777.png"
 			}
 		},
 		{
@@ -7874,7 +7676,7 @@
 			"type": "Legendary Creature — Zombie",
 			"collector_number": "470",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/799.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/778.png"
 			}
 		},
 		{
@@ -7884,7 +7686,7 @@
 			"type": "Legendary Creature — Zombie",
 			"collector_number": "476",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/800.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/779.png"
 			}
 		},
 		{
@@ -7894,7 +7696,7 @@
 			"type": "Legendary Creature — Merfolk",
 			"collector_number": "495",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/801.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/780.png"
 			}
 		},
 		{
@@ -7904,7 +7706,7 @@
 			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "530",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/802.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/781.png"
 			}
 		},
 		{
@@ -7914,7 +7716,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "544",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/803.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/782.png"
 			}
 		},
 		{
@@ -7924,7 +7726,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "566",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/804.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/783.png"
 			}
 		},
 		{
@@ -7934,7 +7736,7 @@
 			"type": "Land",
 			"collector_number": "614",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/805.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/784.png"
 			}
 		},
 		{
@@ -7944,7 +7746,7 @@
 			"type": "Land",
 			"collector_number": "657",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/806.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/785.png"
 			}
 		},
 		{
@@ -7954,7 +7756,7 @@
 			"type": "",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/807.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/786.png"
 			}
 		},
 		{
@@ -7964,7 +7766,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/808.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/787.png"
 			}
 		},
 		{
@@ -7974,7 +7776,7 @@
 			"type": "Legendary Artifact Creature — Villain",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/809.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/788.png"
 			}
 		},
 		{
@@ -7984,7 +7786,7 @@
 			"type": "Legendary Artifact Creature — Villain",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/810.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/789.png"
 			}
 		},
 		{
@@ -7994,7 +7796,7 @@
 			"type": "Legendary Enchantment Creature — Dragon",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/811.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/790.png"
 			}
 		},
 		{
@@ -8004,7 +7806,7 @@
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/812.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/791.png"
 			}
 		},
 		{
@@ -8014,7 +7816,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/813.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/792.png"
 			}
 		},
 		{
@@ -8024,7 +7826,7 @@
 			"type": "Legendary Artifact Creature — Villain",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/814.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/793.png"
 			}
 		},
 		{
@@ -8034,7 +7836,7 @@
 			"type": "Kindred Sorcery — Villain",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/815.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/794.png"
 			}
 		},
 		{
@@ -8044,7 +7846,7 @@
 			"type": "Legendary Artifact Creature — Villain",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/816.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/795.png"
 			}
 		},
 		{
@@ -8054,7 +7856,7 @@
 			"type": "Legendary Creature — Human Villain",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/817.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/796.png"
 			}
 		},
 		{
@@ -8067,11 +7869,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/819_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/798_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/819_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/798_front.png"
 			}
 		},
 		{
@@ -8081,7 +7883,7 @@
 			"type": "Land",
 			"collector_number": "704",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/820.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/799.png"
 			}
 		},
 		{
@@ -8091,7 +7893,7 @@
 			"type": "Land",
 			"collector_number": "710",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/821.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/800.png"
 			}
 		},
 		{
@@ -8101,7 +7903,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "808",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/822.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/801.png"
 			}
 		},
 		{
@@ -8111,7 +7913,7 @@
 			"type": "",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/823.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/802.png"
 			}
 		},
 		{
@@ -8121,7 +7923,7 @@
 			"type": "Artifact Creature — Robot Villain",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/824.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/803.png"
 			}
 		},
 		{
@@ -8131,7 +7933,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/825.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/804.png"
 			}
 		},
 		{
@@ -8141,7 +7943,7 @@
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/826.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/805.png"
 			}
 		},
 		{
@@ -8151,7 +7953,7 @@
 			"type": "Legendary Creature — Cat Mouse Performer",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/827.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/806.png"
 			}
 		},
 		{
@@ -8161,7 +7963,7 @@
 			"type": "Legendary Creature — Snail Alien Performer",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/828.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/807.png"
 			}
 		},
 		{
@@ -8171,7 +7973,7 @@
 			"type": "Sorcery",
 			"collector_number": "355",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/829.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/808.png"
 			}
 		},
 		{
@@ -8181,7 +7983,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "362",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/830.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/809.png"
 			}
 		},
 		{
@@ -8194,11 +7996,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/832_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/811_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/832_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/811_front.png"
 			}
 		},
 		{
@@ -8208,7 +8010,7 @@
 			"type": "Legendary Creature — Human Villain",
 			"collector_number": "430",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/833.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/812.png"
 			}
 		},
 		{
@@ -8218,7 +8020,7 @@
 			"type": "Land",
 			"collector_number": "432",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/834.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/813.png"
 			}
 		},
 		{
@@ -8228,7 +8030,7 @@
 			"type": "Instant",
 			"collector_number": "438",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/835.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/814.png"
 			}
 		},
 		{
@@ -8238,7 +8040,7 @@
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/836.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/815.png"
 			}
 		},
 		{
@@ -8248,7 +8050,7 @@
 			"type": "Sorcery",
 			"collector_number": "558",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/837.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/816.png"
 			}
 		},
 		{
@@ -8258,7 +8060,7 @@
 			"type": "Land",
 			"collector_number": "652",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/838.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/817.png"
 			}
 		},
 		{
@@ -8268,7 +8070,7 @@
 			"type": "Land",
 			"collector_number": "759",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/839.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/818.png"
 			}
 		},
 		{
@@ -8278,7 +8080,7 @@
 			"type": "Legendary Land — Forest Island",
 			"collector_number": "784",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/840.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/819.png"
 			}
 		},
 		{
@@ -8288,7 +8090,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "803",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/841.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/820.png"
 			}
 		},
 		{
@@ -8298,7 +8100,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "817",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/842.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/821.png"
 			}
 		},
 		{
@@ -8308,7 +8110,7 @@
 			"type": "Token — Beast",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/843.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/822.png"
 			}
 		},
 		{
@@ -8318,7 +8120,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/844.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/823.png"
 			}
 		},
 		{
@@ -8328,7 +8130,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/845.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/824.png"
 			}
 		},
 		{
@@ -8339,7 +8141,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/846.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/825.png"
 			}
 		},
 		{
@@ -8349,7 +8151,7 @@ WITHER AWAY",
 			"type": "Creature — Human Warlock Noble",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/847.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/826.png"
 			}
 		},
 		{
@@ -8359,7 +8161,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/848.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/827.png"
 			}
 		},
 		{
@@ -8369,7 +8171,7 @@ WITHER AWAY",
 			"type": "Creature — Human Warlock",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/849.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/828.png"
 			}
 		},
 		{
@@ -8379,7 +8181,7 @@ WITHER AWAY",
 			"type": "Creature — Human Warlock",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/850.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/829.png"
 			}
 		},
 		{
@@ -8389,7 +8191,7 @@ WITHER AWAY",
 			"type": "Creature — Cat Horror",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/851.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/830.png"
 			}
 		},
 		{
@@ -8399,7 +8201,7 @@ WITHER AWAY",
 			"type": "Creature — Human Warlock",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/852.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/831.png"
 			}
 		},
 		{
@@ -8409,7 +8211,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Elder Human Warlock",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/853.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/832.png"
 			}
 		},
 		{
@@ -8419,7 +8221,7 @@ WITHER AWAY",
 			"type": "Creature — Bird Horror",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/854.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/833.png"
 			}
 		},
 		{
@@ -8429,7 +8231,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/855.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/834.png"
 			}
 		},
 		{
@@ -8439,7 +8241,7 @@ WITHER AWAY",
 			"type": "Sorcery",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/856.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/835.png"
 			}
 		},
 		{
@@ -8449,7 +8251,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "592",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/857.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/836.png"
 			}
 		},
 		{
@@ -8459,7 +8261,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "615",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/858.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/837.png"
 			}
 		},
 		{
@@ -8469,7 +8271,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "655",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/859.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/838.png"
 			}
 		},
 		{
@@ -8479,7 +8281,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "745",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/860.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/839.png"
 			}
 		},
 		{
@@ -8489,7 +8291,7 @@ WITHER AWAY",
 			"type": "Basic Land — Swamp",
 			"collector_number": "767",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/861.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/840.png"
 			}
 		},
 		{
@@ -8499,7 +8301,7 @@ WITHER AWAY",
 			"type": "Token Artifact — Blood",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/862.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/841.png"
 			}
 		},
 		{
@@ -8509,7 +8311,7 @@ WITHER AWAY",
 			"type": "Sorcery",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/863.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/842.png"
 			}
 		},
 		{
@@ -8519,7 +8321,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "353",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/864.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/843.png"
 			}
 		},
 		{
@@ -8529,7 +8331,7 @@ WITHER AWAY",
 			"type": "Creature — Human Mutant",
 			"collector_number": "364",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/865.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/844.png"
 			}
 		},
 		{
@@ -8539,7 +8341,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Mutant Berserker",
 			"collector_number": "365",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/866.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/845.png"
 			}
 		},
 		{
@@ -8549,7 +8351,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Mutant Child",
 			"collector_number": "373",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/867.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/846.png"
 			}
 		},
 		{
@@ -8559,7 +8361,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Human Beast",
 			"collector_number": "378",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/868.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/847.png"
 			}
 		},
 		{
@@ -8569,7 +8371,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "379",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/869.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/848.png"
 			}
 		},
 		{
@@ -8579,7 +8381,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/870.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/849.png"
 			}
 		},
 		{
@@ -8589,7 +8391,7 @@ WITHER AWAY",
 			"type": "Artifact Creature — Inkling Treasure",
 			"collector_number": "422",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/871.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/850.png"
 			}
 		},
 		{
@@ -8599,7 +8401,7 @@ WITHER AWAY",
 			"type": "Artifact",
 			"collector_number": "424",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/872.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/851.png"
 			}
 		},
 		{
@@ -8612,11 +8414,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/874_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/853_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/874_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/853_front.png"
 			}
 		},
 		{
@@ -8626,7 +8428,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "631",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/875.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/854.png"
 			}
 		},
 		{
@@ -8636,7 +8438,7 @@ WITHER AWAY",
 			"type": "Land — Lair",
 			"collector_number": "665",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/876.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/855.png"
 			}
 		},
 		{
@@ -8646,7 +8448,7 @@ WITHER AWAY",
 			"type": "Legendary Land",
 			"collector_number": "706",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/877.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/856.png"
 			}
 		},
 		{
@@ -8656,7 +8458,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "749",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/878.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/857.png"
 			}
 		},
 		{
@@ -8666,7 +8468,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "770",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/879.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/858.png"
 			}
 		},
 		{
@@ -8676,7 +8478,7 @@ WITHER AWAY",
 			"type": "Basic Land — Forest",
 			"collector_number": "818",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/880.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/859.png"
 			}
 		},
 		{
@@ -8686,7 +8488,7 @@ WITHER AWAY",
 			"type": "Token Creature — Rat Mutant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/881.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/860.png"
 			}
 		},
 		{
@@ -8694,9 +8496,9 @@ WITHER AWAY",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "633",
+			"collector_number": "632",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/882.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/861.png"
 			}
 		},
 		{
@@ -8706,7 +8508,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Vampire Knight",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/883.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/862.png"
 			}
 		},
 		{
@@ -8716,7 +8518,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Skeleton Avatar",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/884.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/863.png"
 			}
 		},
 		{
@@ -8729,11 +8531,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/885_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/864_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/885_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/864_front.png"
 			}
 		},
 		{
@@ -8743,7 +8545,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Zombie",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/887.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/866.png"
 			}
 		},
 		{
@@ -8753,7 +8555,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/888.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/867.png"
 			}
 		},
 		{
@@ -8763,7 +8565,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/889.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/868.png"
 			}
 		},
 		{
@@ -8773,7 +8575,7 @@ WITHER AWAY",
 			"type": "Creature — Bat",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/890.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/869.png"
 			}
 		},
 		{
@@ -8783,7 +8585,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Gorgon Noble",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/891.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/870.png"
 			}
 		},
 		{
@@ -8793,7 +8595,7 @@ WITHER AWAY",
 			"type": "Sorcery",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/892.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/871.png"
 			}
 		},
 		{
@@ -8803,7 +8605,7 @@ WITHER AWAY",
 			"type": "Creature — Zombie",
 			"collector_number": "508",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/893.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/872.png"
 			}
 		},
 		{
@@ -8813,7 +8615,7 @@ WITHER AWAY",
 			"type": "Sorcery",
 			"collector_number": "552",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/894.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/873.png"
 			}
 		},
 		{
@@ -8823,7 +8625,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "599",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/895.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/874.png"
 			}
 		},
 		{
@@ -8833,7 +8635,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "600",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/896.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/875.png"
 			}
 		},
 		{
@@ -8843,7 +8645,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "601",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/897.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/876.png"
 			}
 		},
 		{
@@ -8853,7 +8655,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "602",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/898.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/877.png"
 			}
 		},
 		{
@@ -8863,7 +8665,7 @@ WITHER AWAY",
 			"type": "Basic Land — Swamp",
 			"collector_number": "766",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/899.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/878.png"
 			}
 		},
 		{
@@ -8873,7 +8675,7 @@ WITHER AWAY",
 			"type": "Token Creature — Zombie",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/900.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/879.png"
 			}
 		},
 		{
@@ -8883,7 +8685,7 @@ WITHER AWAY",
 			"type": "Token Creature — Gorgon",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/901.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/880.png"
 			}
 		},
 		{
@@ -8893,7 +8695,7 @@ WITHER AWAY",
 			"type": "Token Legendary Creature — Human",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/902.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/881.png"
 			}
 		},
 		{
@@ -8903,7 +8705,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/903.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/882.png"
 			}
 		},
 		{
@@ -8913,7 +8715,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — God Wizard",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/904.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/883.png"
 			}
 		},
 		{
@@ -8923,7 +8725,7 @@ WITHER AWAY",
 			"type": "Creature — God Wizard",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/905.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/884.png"
 			}
 		},
 		{
@@ -8933,7 +8735,7 @@ WITHER AWAY",
 			"type": "Creature — God Wizard",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/906.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/885.png"
 			}
 		},
 		{
@@ -8943,7 +8745,7 @@ WITHER AWAY",
 			"type": "Creature — God Wizard",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/907.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/886.png"
 			}
 		},
 		{
@@ -8953,7 +8755,7 @@ WITHER AWAY",
 			"type": "Creature — God Wizard",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/908.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/887.png"
 			}
 		},
 		{
@@ -8963,7 +8765,7 @@ WITHER AWAY",
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/909.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/888.png"
 			}
 		},
 		{
@@ -8973,7 +8775,7 @@ WITHER AWAY",
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/910.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/889.png"
 			}
 		},
 		{
@@ -8983,7 +8785,7 @@ WITHER AWAY",
 			"type": "Legendary Artifact — Clue",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/911.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/890.png"
 			}
 		},
 		{
@@ -8993,7 +8795,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/912.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/891.png"
 			}
 		},
 		{
@@ -9003,7 +8805,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/913.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/892.png"
 			}
 		},
 		{
@@ -9013,7 +8815,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "677",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/914.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/893.png"
 			}
 		},
 		{
@@ -9023,7 +8825,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "688",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/915.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/894.png"
 			}
 		},
 		{
@@ -9033,7 +8835,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "730",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/916.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/895.png"
 			}
 		},
 		{
@@ -9043,7 +8845,7 @@ WITHER AWAY",
 			"type": "Basic Land — Swamp",
 			"collector_number": "768",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/917.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/896.png"
 			}
 		},
 		{
@@ -9053,7 +8855,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Warrior Cat",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/918.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/897.png"
 			}
 		},
 		{
@@ -9063,7 +8865,7 @@ WITHER AWAY",
 			"type": "Legendary Enchantment Creature — God Saga",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/919.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/898.png"
 			}
 		},
 		{
@@ -9073,7 +8875,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Human Survivor",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/920.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/899.png"
 			}
 		},
 		{
@@ -9083,7 +8885,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Human Survivor",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/921.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/900.png"
 			}
 		},
 		{
@@ -9093,7 +8895,7 @@ WITHER AWAY",
 			"type": "Enchantment — Saga",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/922.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/901.png"
 			}
 		},
 		{
@@ -9103,7 +8905,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Nightmare Warrior",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/923.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/902.png"
 			}
 		},
 		{
@@ -9113,7 +8915,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/924.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/903.png"
 			}
 		},
 		{
@@ -9123,7 +8925,7 @@ WITHER AWAY",
 			"type": "Sorcery",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/925.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/904.png"
 			}
 		},
 		{
@@ -9133,7 +8935,7 @@ WITHER AWAY",
 			"type": "Enchantment — Room",
 			"collector_number": "331",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/926.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/905.png"
 			}
 		},
 		{
@@ -9143,7 +8945,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Spirit Nightmare",
 			"collector_number": "497",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/927.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/906.png"
 			}
 		},
 		{
@@ -9153,7 +8955,7 @@ WITHER AWAY",
 			"type": "Creature — Human Doctor",
 			"collector_number": "498",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/928.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/907.png"
 			}
 		},
 		{
@@ -9161,9 +8963,9 @@ WITHER AWAY",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "632",
+			"collector_number": "633",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/929.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/908.png"
 			}
 		},
 		{
@@ -9173,7 +8975,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "664",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/930.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/909.png"
 			}
 		},
 		{
@@ -9183,7 +8985,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "754",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/931.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/910.png"
 			}
 		},
 		{
@@ -9193,7 +8995,7 @@ WITHER AWAY",
 			"type": "Basic Land — Mountain",
 			"collector_number": "788",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/932.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/911.png"
 			}
 		},
 		{
@@ -9203,7 +9005,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/933.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/912.png"
 			}
 		},
 		{
@@ -9213,7 +9015,7 @@ WITHER AWAY",
 			"type": "Token Creature — Nightmare",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/934.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/913.png"
 			}
 		},
 		{
@@ -9223,7 +9025,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/935.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/914.png"
 			}
 		},
 		{
@@ -9236,11 +9038,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/936_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/915_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/936_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/915_front.png"
 			}
 		},
 		{
@@ -9250,7 +9052,7 @@ WITHER AWAY",
 			"type": "Artifact — Equipment",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/938.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/917.png"
 			}
 		},
 		{
@@ -9260,7 +9062,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/939.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/918.png"
 			}
 		},
 		{
@@ -9270,7 +9072,7 @@ WITHER AWAY",
 			"type": "Creature — Demon Bird",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/940.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/919.png"
 			}
 		},
 		{
@@ -9280,7 +9082,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Yokai Satori",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/941.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/920.png"
 			}
 		},
 		{
@@ -9290,7 +9092,7 @@ WITHER AWAY",
 			"type": "Creature — Demon Ogre",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/942.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/921.png"
 			}
 		},
 		{
@@ -9300,7 +9102,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Demon Bird God",
 			"collector_number": "322",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/943.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/922.png"
 			}
 		},
 		{
@@ -9310,7 +9112,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Demon Ogre Warrior",
 			"collector_number": "329",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/944.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/923.png"
 			}
 		},
 		{
@@ -9320,7 +9122,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Yokai Satori",
 			"collector_number": "491",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/945.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/924.png"
 			}
 		},
 		{
@@ -9330,7 +9132,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Yokai Cat",
 			"collector_number": "528",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/946.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/925.png"
 			}
 		},
 		{
@@ -9340,7 +9142,7 @@ WITHER AWAY",
 			"type": "Creature — Fairy",
 			"collector_number": "557",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/947.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/926.png"
 			}
 		},
 		{
@@ -9350,7 +9152,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "594",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/948.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/927.png"
 			}
 		},
 		{
@@ -9360,7 +9162,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "604",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/949.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/928.png"
 			}
 		},
 		{
@@ -9370,7 +9172,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "645",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/950.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/929.png"
 			}
 		},
 		{
@@ -9380,7 +9182,7 @@ WITHER AWAY",
 			"type": "Basic Land — Mountain",
 			"collector_number": "811",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/951.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/930.png"
 			}
 		},
 		{
@@ -9390,7 +9192,7 @@ WITHER AWAY",
 			"type": "Token Creature — Spirit",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/952.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/931.png"
 			}
 		},
 		{
@@ -9400,7 +9202,7 @@ WITHER AWAY",
 			"type": "Artifact — Equipment Function",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/953.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/932.png"
 			}
 		},
 		{
@@ -9410,7 +9212,7 @@ WITHER AWAY",
 			"type": "Artifact — Equipment Function",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/954.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/933.png"
 			}
 		},
 		{
@@ -9420,7 +9222,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/955.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/934.png"
 			}
 		},
 		{
@@ -9430,7 +9232,7 @@ WITHER AWAY",
 			"type": "Artifact — Equipment Function",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/956.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/935.png"
 			}
 		},
 		{
@@ -9440,7 +9242,7 @@ WITHER AWAY",
 			"type": "Artifact — Equipment Function",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/957.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/936.png"
 			}
 		},
 		{
@@ -9450,7 +9252,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/958.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/937.png"
 			}
 		},
 		{
@@ -9460,7 +9262,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/959.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/938.png"
 			}
 		},
 		{
@@ -9470,7 +9272,7 @@ WITHER AWAY",
 			"type": "Artifact Creature — Egg Processor",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/960.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/939.png"
 			}
 		},
 		{
@@ -9480,7 +9282,7 @@ WITHER AWAY",
 			"type": "Artifact Creature — Processor",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/961.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/940.png"
 			}
 		},
 		{
@@ -9493,11 +9295,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/962_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/941_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/962_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/941_front.png"
 			}
 		},
 		{
@@ -9507,7 +9309,7 @@ WITHER AWAY",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "578",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/964.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/943.png"
 			}
 		},
 		{
@@ -9517,7 +9319,7 @@ WITHER AWAY",
 			"type": "Basic Land — Plains",
 			"collector_number": "727",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/965.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/944.png"
 			}
 		},
 		{
@@ -9527,7 +9329,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "738",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/966.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/945.png"
 			}
 		},
 		{
@@ -9537,7 +9339,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "750",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/967.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/946.png"
 			}
 		},
 		{
@@ -9547,7 +9349,7 @@ WITHER AWAY",
 			"type": "Artifact Creature — Dog Processor",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/968.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/947.png"
 			}
 		},
 		{
@@ -9557,7 +9359,7 @@ WITHER AWAY",
 			"type": "Artifact Creature — Egg Processor",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/969.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/948.png"
 			}
 		},
 		{
@@ -9567,7 +9369,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/970.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/949.png"
 			}
 		},
 		{
@@ -9577,7 +9379,7 @@ WITHER AWAY",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "481",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/971.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/950.png"
 			}
 		},
 		{
@@ -9587,7 +9389,7 @@ WITHER AWAY",
 			"type": "Artifact",
 			"collector_number": "387",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/972.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/951.png"
 			}
 		},
 		{
@@ -9597,7 +9399,7 @@ WITHER AWAY",
 			"type": "Basic Land — Forest",
 			"collector_number": "821",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/973.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/952.png"
 			}
 		},
 		{
@@ -9607,7 +9409,7 @@ WITHER AWAY",
 			"type": "Creature — Cat Ooze",
 			"collector_number": "367",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/974.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/953.png"
 			}
 		},
 		{
@@ -9617,7 +9419,7 @@ WITHER AWAY",
 			"type": "Creature — Cat Ooze",
 			"collector_number": "417",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/975.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/954.png"
 			}
 		},
 		{
@@ -9627,7 +9429,7 @@ WITHER AWAY",
 			"type": "Creature — Ooze Horror",
 			"collector_number": "448",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/976.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/955.png"
 			}
 		},
 		{
@@ -9637,7 +9439,7 @@ WITHER AWAY",
 			"type": "Creature — Ooze",
 			"collector_number": "385",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/977.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/956.png"
 			}
 		},
 		{
@@ -9647,7 +9449,7 @@ WITHER AWAY",
 			"type": "Creature — Ooze",
 			"collector_number": "392",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/978.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/957.png"
 			}
 		},
 		{
@@ -9657,7 +9459,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "351",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/979.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/958.png"
 			}
 		},
 		{
@@ -9667,7 +9469,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "389",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/980.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/959.png"
 			}
 		},
 		{
@@ -9677,7 +9479,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "409",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/981.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/960.png"
 			}
 		},
 		{
@@ -9687,7 +9489,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "681",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/982.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/961.png"
 			}
 		},
 		{
@@ -9697,7 +9499,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "692",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/983.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/962.png"
 			}
 		},
 		{
@@ -9707,7 +9509,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "732",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/984.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/963.png"
 			}
 		},
 		{
@@ -9717,7 +9519,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "758",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/985.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/964.png"
 			}
 		},
 		{
@@ -9727,7 +9529,7 @@ WITHER AWAY",
 			"type": "Land — Desert",
 			"collector_number": "651",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/986.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/965.png"
 			}
 		},
 		{
@@ -9737,7 +9539,7 @@ WITHER AWAY",
 			"type": "Token Creature — Ooze Illusion",
 			"collector_number": "825",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/987.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/966.png"
 			}
 		},
 		{
@@ -9747,7 +9549,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/988.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/967.png"
 			}
 		},
 		{
@@ -9755,9 +9557,9 @@ WITHER AWAY",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "700",
+			"collector_number": "701",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/989.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/968.png"
 			}
 		},
 		{
@@ -9767,7 +9569,7 @@ WITHER AWAY",
 			"type": "Basic Land — Plains",
 			"collector_number": "726",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/990.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/969.png"
 			}
 		},
 		{
@@ -9777,7 +9579,7 @@ WITHER AWAY",
 			"type": "Enchantment",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/991.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/970.png"
 			}
 		},
 		{
@@ -9787,7 +9589,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/992.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/971.png"
 			}
 		},
 		{
@@ -9797,7 +9599,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/993.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/972.png"
 			}
 		},
 		{
@@ -9807,7 +9609,7 @@ WITHER AWAY",
 			"type": "Instant",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/994.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/973.png"
 			}
 		},
 		{
@@ -9817,7 +9619,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "691",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/996.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/975.png"
 			}
 		},
 		{
@@ -9827,7 +9629,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "737",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/997.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/976.png"
 			}
 		},
 		{
@@ -9837,7 +9639,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "780",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/998.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/977.png"
 			}
 		},
 		{
@@ -9847,7 +9649,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Gem Human Child",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/999.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/978.png"
 			}
 		},
 		{
@@ -9857,7 +9659,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Gem Human",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1000.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/979.png"
 			}
 		},
 		{
@@ -9867,7 +9669,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Human Child Warrior",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1001.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/980.png"
 			}
 		},
 		{
@@ -9877,7 +9679,7 @@ WITHER AWAY",
 			"type": "Legendary Enchantment Creature — Gem",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1002.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/981.png"
 			}
 		},
 		{
@@ -9887,7 +9689,7 @@ WITHER AWAY",
 			"type": "Legendary Enchantment Creature — Gem",
 			"collector_number": "474",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1003.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/982.png"
 			}
 		},
 		{
@@ -9897,7 +9699,7 @@ WITHER AWAY",
 			"type": "Legendary Enchantment Creature — Gem",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1004.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/983.png"
 			}
 		},
 		{
@@ -9910,11 +9712,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1005_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/984_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1005_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/984_front.png"
 			}
 		},
 		{
@@ -9924,7 +9726,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "618",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1007.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/986.png"
 			}
 		},
 		{
@@ -9934,7 +9736,7 @@ WITHER AWAY",
 			"type": "Enchantment",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1008.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/987.png"
 			}
 		},
 		{
@@ -9944,7 +9746,7 @@ WITHER AWAY",
 			"type": "Land",
 			"collector_number": "661",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1009.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/988.png"
 			}
 		},
 		{
@@ -9954,7 +9756,7 @@ WITHER AWAY",
 			"type": "Basic Land — Plains",
 			"collector_number": "790",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1012.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/991.png"
 			}
 		},
 		{
@@ -9964,7 +9766,7 @@ WITHER AWAY",
 			"type": "Creature — Spider",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1013.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/992.png"
 			}
 		},
 		{
@@ -9974,7 +9776,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Faerie",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1015.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/994.png"
 			}
 		},
 		{
@@ -9984,7 +9786,7 @@ WITHER AWAY",
 			"type": "",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1016.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/995.png"
 			}
 		},
 		{
@@ -9994,7 +9796,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Horse",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1017.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/996.png"
 			}
 		},
 		{
@@ -10004,7 +9806,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Human Peasant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1018.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/997.png"
 			}
 		},
 		{
@@ -10017,11 +9819,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1019_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/998_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1019_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/998_front.png"
 			}
 		},
 		{
@@ -10031,7 +9833,7 @@ WITHER AWAY",
 			"type": "Legendary Enchantment Creature — Saga Elf",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1020.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/999.png"
 			}
 		},
 		{
@@ -10041,7 +9843,7 @@ WITHER AWAY",
 			"type": "Legendary Creature — Elf Warrior Hero",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1022.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1001.png"
 			}
 		},
 		{
@@ -10054,11 +9856,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1023_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1002_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1023_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1002_front.png"
 			}
 		},
 		{
@@ -10071,11 +9873,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1024_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1003_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1024_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1003_front.png"
 			}
 		},
 		{
@@ -10088,11 +9890,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1025_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1004_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1025_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1004_front.png"
 			}
 		},
 		{
@@ -10105,11 +9907,11 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1026_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1005_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1026_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1005_front.png"
 			}
 		},
 		{
@@ -10122,13 +9924,211 @@ WITHER AWAY",
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1027_back.png"
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1006_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1027_front.png"
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1006_front.png"
 			}
 		},
+		{
+			"name": "DEVIL ARMS",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1007.png"
+			}
+		},
+		{
+			"name": "Mountain (DMC)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "696",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1008.png"
+			}
+		},
+		{
+			"name": "Mitis Assault",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon Lizard Warrior",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1009.png"
+			}
+		},
+		{
+			"name": "Rev it Up!",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1010.png"
+			}
+		},
+		{
+			"name": "Devil May Cry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "620",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1011.png"
+			}
+		},
+		{
+			"name": "Nico's Armory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "711",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1012.png"
+			}
+		},
+		{
+			"name": "The Devil's Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "621",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1013.png"
+			}
+		},
+		{
+			"name": "Nevan, Lightning Contralto",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Demon Faerie Bard",
+			"collector_number": "297",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1018_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1018_front.png"
+			}
+		},
+		{
+			"name": "Voltaic Black Knight",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Demon Knight",
+			"collector_number": "326",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1019_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1019_front.png"
+			}
+		},
+		{
+			"name": "Balrog, Argosax's Second",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "242",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1020_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1020_front.png"
+			}
+		},
+		{
+			"name": "Berial, Fortuna Terror",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "244",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1021_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1021_front.png"
+			}
+		},
+		{
+			"name": "Nico Goldstein",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1022.png"
+			}
+		},
+		{
+			"name": "Nero, High Roller",
+			"rarity": "special",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Legendary Creature — Human Demon Berserker",
+			"collector_number": "510",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1023.png"
+			}
+		},
+		{
+			"name": "Dante, Devil Trigger",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Human Demon Mercenary",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1024.png"
+			}
+		},
+		{
+			"name": "V-Divider",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1025.png"
+			}
+		},
+		{
+			"name": "Weapon (DMC)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1026.png"
+			}
+		},
+		{
+			"name": "Treasure (DMC)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://FollowThatClown.github.io/sets/ULT2-files/img/1027.png"
+			}
+		}
 	]
 
 [cube(15)]
@@ -10685,20 +10685,6 @@ WITHER AWAY",
 	1 Indoor Attraction
 	1 Retro Office
 	1 LIVING METAL
-	1 DEVIL ARMS
-	1 Balrog, Argosax's Second
-	1 Berial, Fortuna Terror
-	1 Dante, Devil Trigger
-	1 Mitis Assault
-	1 Nevan, Lightning Contralto
-	1 Nico Goldstein
-	1 Rev it Up!
-	1 V-Divider
-	1 Voltaic Black Knight
-	1 Nero, High Roller
-	1 Devil May Cry
-	1 The Devil's Tower
-	1 Nico's Armory
 	1 UMBRELLA CONSPIRACY
 	1 Ada Wong
 	1 Catastrophic Mutation
@@ -10948,3 +10934,17 @@ WITHER AWAY
 	1 The Water Temple
 	1 The Forest Temple
 	1 The Shadow Temple
+	1 DEVIL ARMS
+	1 Mitis Assault
+	1 Rev it Up!
+	1 Devil May Cry
+	1 Nico's Armory
+	1 The Devil's Tower
+	1 Nevan, Lightning Contralto
+	1 Voltaic Black Knight
+	1 Balrog, Argosax's Second
+	1 Berial, Fortuna Terror
+	1 Nico Goldstein
+	1 Nero, High Roller
+	1 Dante, Devil Trigger
+	1 V-Divider
