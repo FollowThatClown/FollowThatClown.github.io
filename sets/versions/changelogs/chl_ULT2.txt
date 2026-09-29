@@ -1,4 +1,219 @@
-﻿VERSION 49 CHANGELOG
+﻿VERSION 50 CHANGELOG
+====================
+
+
+Dark Water Reflection removed.
+
+Ancient Sickness
+rules_text: Kicker {1}{G} [i](You may pay an additional {1}{G} as you cast this spell.)[/i]
+All creatures get -3/-3 until end of turn. When they do, if this spell was kicked, return up to one target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of creatures that died this turn. => Kicker {1}{G}
+All creatures get -3/-3 until end of turn. If this spell was kicked, return target creature card from your graveyard to the battlefield if its mana value is X or less, where X is the number of creatures that died this turn.
+
+Cornifer, Cartographer
+rules_text: Flash
+[i]Lost and Found — [/i]When this creature enters, target creature explores twice if its power is 4 or greater. Otherwise, it explores once. [i](To have a creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)[/i] => Flash
+[i]Lost and Found — [/i]When this creature enters, target creature explores. If its power is 4 or greater, it explores twice instead. [i](To have a creature explore, reveal the top of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)[/i]
+
+The Radiance, Forgotten Light
+
+Captain Olimar
+
+Caroline, Faithful Assistant
+rules_text: When Caroline enters, draw a card, then discard a card.
+{5}{UB}{UB}, Exile Caroline from your graveyard: Create a transformed token copy of her. => When Caroline enters, draw a card, then discard a card.
+{5}{U}{U}, Exile Caroline from your graveyard: Create a transformed token copy of her.
+
+Pyramid Head
+rules_text: Whenever Pyramid Head attacks or becomes the target of a spell or ability, torment target player. [i](A tormented player loses 3 life unless they discard a card or sacrifice a nonland permanent.)[/i]
+[i]Nightmare World[/i] — {2}, Exile the top six cards of your library: Return Pyramid Head from your graveyard to your hand. Activate only if your library has thirty or fewer cards. => Whenever Pyramid Head attacks an opponent or becomes the target of a spell or ability an opponent controls, torment them. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent.)[/i]
+[i]Nightmare World[/i] — {2}, Exile the top six cards of your library: Return Pyramid Head from your graveyard to your hand. Activate only if your library has thirty or fewer cards.
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+
+DEVIL ARMS
+
+Mitis Assault
+
+Rev it Up!
+
+Devil May Cry
+
+Nico's Armory
+
+The Devil's Tower
+
+Nevan, Lightning Contralto
+
+Voltaic Black Knight
+
+Balrog, Argosax's Second
+
+Berial, Fortuna Terror
+
+Nico Goldstein
+
+Nero, High Roller
+
+Dante, Devil Trigger
+
+V-Divider
+
+Weapon (DMC)
+
+Treasure (DMC)
+
+Dark Dungeon
+
+Humble Abode
+
+Malon, Milk Maid
+
+Navi
+cost: {W} => {2}{W}
+rules_text: Flying, vigilance
+Whenever you cast a noncreature spell except Navi's prepared spell, she becomes prepared. [i](While she's prepared, you may cast a copy of its spell. Doing so unprepares her.)[/i] => Flying, vigilance
+Whenever you cast a noncreature spell, you may proliferate. Do this only once each turn. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Princess Zelda
+cost: {2}{W} => {3}{W}
+rules_text: Whenever you cast a noncreature spell, put a +1/+1 counter on each of up to two other target creatures. This ability triggers only once each turn.
+{1}, Discard a card: Transform Princess Zelda. Tap her. => Whenever you cast a noncreature spell, put a +1/+1 counter on each of up to two other target creatures. This ability triggers only once each turn.
+Discard a card: Transform Princess Zelda. Tap her.
+pt: 1/2 => 1/4
+
+Saria, Secret Sage
+
+Spider (LOZT)
+
+TEMPLE DIVING
+
+The Fire Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose one —
+• This Shrine deals 4 damage to target tapped creature.
+• Destroy target artifact.
+II, III, IV — Two target players may each discard a card. If they do, they draw a card.
+---
+You may cast this Shrine transformed from your graveyard by paying {4}{RW}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose one —
+• This Shrine deals 4 damage to target tapped creature.
+• Destroy target artifact.
+II, III, IV — Two target players may each discard a card. If they do, they draw a card.
+---
+You may cast this card transformed from your graveyard by paying {4}{RW}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose one —
+• This Shrine deals 4 damage to target tapped creature.
+• Destroy target artifact.
+II, III, IV — Two target players may each discard a card. If they do, they draw a card.
+---
+You may cast this Shrine transformed from your graveyard by paying {4}{RW}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose one —
+• This Shrine deals 4 damage to target tapped creature.
+• Destroy target artifact.
+II, III, IV — Two target players may each discard a card. If they do, they draw a card.
+---
+You may cast this card transformed from your graveyard by paying {4}{RW}.
+
+The Forest Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Create two 1/2 green Spider creature tokens with reach.
+II, III, IV — Up to one target creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+---
+You may cast this Shrine transformed from your graveyard by paying {1}{GW}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/2 green Spider creature tokens with reach.
+II, III, IV — Up to one target creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+---
+You may cast this card transformed from your graveyard by paying {1}{GW}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Create two 1/2 green Spider creature tokens with reach.
+II, III, IV — Up to one target creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+---
+You may cast this Shrine transformed from your graveyard by paying {1}{GW}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/2 green Spider creature tokens with reach.
+II, III, IV — Up to one target creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+---
+You may cast this card transformed from your graveyard by paying {1}{GW}.
+
+The Shadow Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+II, III, IV — Exile up to one target card from a graveyard. If it's a creature card, create a 1/1 white Spirit creature token with flying.
+---
+You may cast this Shrine transformed from your graveyard by paying {4}{WB}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Surveil 1. Draw a card.
+II, III, IV — Exile up to one target card from a graveyard. If it's a creature card, create a 1/1 white Spirit creature token with flying.
+---
+You may cast this card transformed from your graveyard by paying {4}{WB}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+II, III, IV — Exile up to one target card from a graveyard. If it's a creature card, create a 1/1 white Spirit creature token with flying.
+---
+You may cast this Shrine transformed from your graveyard by paying {4}{WB}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Surveil 1. Draw a card.
+II, III, IV — Exile up to one target card from a graveyard. If it's a creature card, create a 1/1 white Spirit creature token with flying.
+---
+You may cast this card transformed from your graveyard by paying {4}{WB}.
+
+The Spirit Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target creature becomes a Child in addition to its other types. It has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III, IV — This turn, whenever one or more creatures you control deal combat damage to a player, surveil 1.
+---
+You may cast this Shrine transformed from your graveyard by paying {4}{WU}{RW}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — For as long as you control this Shrine, target creature becomes a Child in addition to its other types. It has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III, IV — Whenever one or more creatures you control deal combat damage to a player this turn, surveil 1.
+---
+You may cast this card transformed from your graveyard by paying {4}{WU}{RW}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Target creature becomes a Child in addition to its other types. It has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III, IV — This turn, whenever one or more creatures you control deal combat damage to a player, surveil 1.
+---
+You may cast this Shrine transformed from your graveyard by paying {4}{WU}{RW}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — For as long as you control this Shrine, target creature becomes a Child in addition to its other types. It has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III, IV — Whenever one or more creatures you control deal combat damage to a player this turn, surveil 1.
+---
+You may cast this card transformed from your graveyard by paying {4}{WU}{RW}.
+
+The Water Temple
+cost: {4}{WU} => {5}{WU}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap up to two target artifacts and/or creatures. Distribute two stun counters among them.
+II, III, IV — This turn, whenever one or more creatures you control deal combat damage to a player, draw a card.
+---
+You may cast this Shrine transformed from your graveyard by paying {2}{WU}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap up to two target artifacts and/or creatures. Put two stun counters on each of those permanents.
+II, III, IV — For each other permanent on the battlefield, you may give it an additional counter of a kind it already has.
+---
+You may cast this card transformed from your graveyard by paying {2}{WU}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap up to two target artifacts and/or creatures. Distribute two stun counters among them.
+II, III, IV — This turn, whenever one or more creatures you control deal combat damage to a player, draw a card.
+---
+You may cast this Shrine transformed from your graveyard by paying {2}{WU}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Tap up to two target artifacts and/or creatures. Put two stun counters on each of those permanents.
+II, III, IV — For each other permanent on the battlefield, you may give it an additional counter of a kind it already has.
+---
+You may cast this card transformed from your graveyard by paying {2}{WU}.
+
+Link, Hero of Time
+cost: {2}{W}{W} => {3}{W}{W}
+rules_text: Double strike
+Link enters with a +1/+1 counter on him.
+Whenever Link deals combat damage to a player, you may pay {1}. If you do, proliferate. => Double strike, ward {2}
+Whenever Link attacks, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+pt: 2/2 => 3/3
+
+Epona
+cost: {1}{W} => {W}
+rules_text: As an additional cost to cast this spell, discard a card or sacrifice an artifact. => 
+pt: 3/3 => 2/1
+
+
+VERSION 49 CHANGELOG
 ====================
 
 
