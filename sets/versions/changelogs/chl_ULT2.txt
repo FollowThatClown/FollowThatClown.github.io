@@ -1,4 +1,1888 @@
-﻿VERSION 52 CHANGELOG
+﻿VERSION 53 CHANGELOG
+====================
+
+
+Prismatic Vista (SU) removed.
+
+Automated Flame-Tank
+
+From Chin To Tail
+
+Full Moon Gathering
+
+Hawkfrost
+
+Jayfeather
+
+Squirrelflight
+
+Starclan's Judgement
+
+The Moonpool
+
+Tigerstar
+
+WARRIORS
+
+Silverstream
+
+Yellowfang
+
+Cheep Cheep
+
+Dry Bones
+
+Hammer Smash
+
+Junior, Royal Painter
+
+Kamek, Peerless Magician
+
+KOOPA KINGDOM
+
+Level Select
+
+Piranhic Growth
+
+Quickfoot Koopas
+
+Bowser's Castle
+
+Soldier
+
+Warrior Cat
+
+Clan Territory
+
+Rusty
+
+Bowser, Koopa King
+
+Goomba Tower
+
+Send Forth
+
+Human Soldier (3RD)
+
+Clue (HOUSE)
+
+DIAGNOSTICS
+
+Doctor's Office
+
+Diagnostics Team
+
+Misdiagnose
+
+Slack Off
+
+Teaching Hospital
+rules_text: Teaching Hospital enters tapped unless you pay 2 life.
+{T}: Add {U}.
+{3}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Teaching Hospital enters tapped unless you control a basic land.
+{T}: Add {U}.
+{4}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Withdrawal Symptoms
+
+Operating Theater
+
+James Wilson, M.D.
+
+Lisa Cuddy, M.D.
+
+Search the Home
+
+House, M.D.
+
+Eric Foreman, M.D.
+
+Act Big
+
+Food (DNM)
+
+Diagnostics Breakout
+
+Directive A-113
+
+RE-CYCLING
+
+AUTO, Axiom Pilot
+
+The Axiom
+
+EVE, Endeared Evaluator
+
+Fire Extinguisher
+
+GO-4, Gopherbot
+
+M-O, Scrutinous Janitor
+
+SECUR-T Detail
+
+WALL-E, Recycling Scavenger
+
+Ash Barrens (WLE)
+
+Axiom Grounds
+
+Buy N Large Ruins
+
+Mountainous Junkheaps
+
+Ramshackle Home
+
+Clue (WLE)
+
+TOTAL LIBERATION
+
+Automaton Hulk
+
+Bile Titan
+
+Explosive End
+
+Helldiver Kill-Counter
+
+Helldiver Point-Man
+
+Helldiver Shieldbearer
+
+Helldiver Veteran
+
+Illuminate Harvester
+
+Orbital Laser Sweep
+
+Overwhelming Firepower
+
+Reinforce
+
+Super Earth's Finest
+
+Liberated Territories
+
+Staging Ground
+
+Soldier (HLD)
+
+Base Assault
+
+Caravan Trail
+
+Colony Collapse
+
+Construction Project
+
+Emergency Triage
+
+Imperial Holdout
+
+Mechlink
+
+Rare Thrumbo
+
+Rec Room
+
+Rim Militia
+
+Royal Delegation
+
+Social Fight
+
+Construct (RIM)
+
+Treasure
+
+Warqueen, Mechanical Mind
+
+Mechanoid Scyther
+
+Uncharted Rimworld
+
+Complications
+
+Crash Site
+
+Exponential Expansion
+
+Logistics Train
+
+Power Lines
+
+Repel the Locals
+
+Scramble for Solutions
+
+Towering Spidertron
+
+Robot (FAC)
+
+The Factory Must Grow
+
+Assembler
+
+Assembly Line
+
+Nauvis
+
+Mass-Produced Tank
+
+Turret Array
+
+The Engineer, Stranded
+
+Return the Stars!
+
+Alice Liddell
+rules_text: Whenever you discard a card or sacrifice a nonland permanent during your turn, choose one. Do this only once each turn.
+• You gain 4 life.
+• You lose 2 life. Draw two cards
+• You lose 2 life. Create two 2/2 black Horror creature tokens with “This can't block” and “When this attacks, exile it at end of combat.” => Whenever you discard a card or sacrifice a nonland permanent during your turn, you may choose one. Do this only once each turn.
+• You gain 4 life.
+• You lose 2 life. Draw two cards
+• You lose 2 life. Create two 2/2 black Horror creature tokens with “This can't block” and “When this attacks, exile it at end of combat.”
+
+The Cheshire Cat
+
+Hysterical Outburst
+
+The Mad Hatter
+
+Out of House and Home
+
+Royal Reflection
+
+Misstitched Alice
+
+Royal Suit Alice
+
+Silk Maiden Alice
+
+Siren Alice
+
+Card Kingdom
+
+Wonderland
+
+INTO MADNESS
+
+Horror Token
+
+Citizen (SM)
+
+Clue (SM)
+
+Ami Mizuno
+
+Crystal Tokyo
+rules_text: This land enters tapped. When it does, note a color other than white and gain 2 life.
+{T}: Add {W} or one mana of the noted color. => This land enters tapped. 
+When this land enters, you gain 2 life and choose a color.
+{T}: Add {W} or one mana of the noted color.
+
+Fruits Parlor Crown
+
+Hotaru Tomoe
+
+MAKE UP!
+
+Makoto Kino
+
+Minako Aino
+
+Moon Healing Escalation!
+
+Moon Prism Power!
+
+Rei Hino
+
+Setsuna Meiou
+
+Shabon Spray
+
+Super Sailor Moon
+
+The Moon Kingdom
+
+Inch-High Prince
+
+Pigeon Town
+
+Return the Stars!
+
+Roll Up Colossi!
+
+Roll Up Fantasy!
+
+Roll Up History!
+
+Roll Up the Battle!
+
+Roll Up the World!
+
+Royal Rainbow!
+
+The King Of All Cosmos
+
+The Queen Of All Cosmos
+
+WE LOVE KATAMARI
+
+Prismatic Vista (KD)
+
+Warrior (KD)
+
+Katamari
+
+Lonely Rolling Star
+
+Demon Token (CORU)
+
+Memory Token
+
+Akizet, Fierce Protector
+
+Akizet's Corrucyst
+
+BSTRD, Chaotic Daemon
+
+Council of Jokzi Ozo
+
+Deep Encounter
+
+Funfriend, System Assistant
+
+Gakvu Thoughtform
+
+Interloper, Outside Observer
+
+Jumbled Cityscape
+
+LIVING THOUGHTS
+
+Recollection Locus
+
+Unable to Deviate
+
+Obesk Spire
+
+Beat Into Shape
+
+Furnace
+
+Heir to the Stars
+
+Heirloom Hammer
+
+His Majesty's Bulwark
+
+His Majesty's Guards
+
+His Majesty's Swordbearers
+
+The Regent
+
+Solar Strike
+
+Tanx, Khimera King
+
+The Sealed Throne
+
+The Spire
+
+Sovereign Blade
+
+Weapon (STS2)
+
+Captain Olimar
+
+Gobble Indiscriminately
+
+Mumuta
+
+Purple Pikmin
+
+Swarm!
+
+Throw!
+
+Yellow Pikmin
+
+Blue Pikmin
+
+Red Pikmin
+
+White Pikmin
+
+Onion
+
+Mysterious Dungeon
+
+PNF-404
+
+LITTLE ARMY
+
+Pikmin
+
+Distant Vista
+
+Eye-Palm Effect
+
+Knife Effect
+
+Knife Effect
+
+Kyukkyu-kun
+
+Lamp Effect
+
+Monoko
+
+Seccom Masada-sensei
+
+Takofuusen
+
+The Dream World
+
+Uboa
+
+WANDER
+
+Witch Effect
+
+Madotsuki, Dream Walker
+
+Fire Flower
+
+Mario, Pesky Plumber
+
+Princess Daisy
+
+Super Mushroom
+
+Unexpected Toad
+
+Lady Bow
+
+Luigi, Cowardly Companion
+
+Princess Rosalina
+
+Princess Toadstool, Peach
+
+The Mushroom Kingdom
+
+Princess Party
+
+IN ANOTHER CASTLE
+
+Castle (SMB)
+
+Spirit (SMB)
+
+Fungus Warrior (SMB)
+
+Chain Chomp
+
+Rainbow Road
+
+Anaerobic Lanius
+
+Anti-Ship Battery
+
+Engi Mechanic
+
+FTL Jump
+
+Spaceship Captain
+
+Sturdy Rockman
+
+Teleport In
+
+Zoltan Crewmate
+
+Bloodthirsty Mantis
+
+Kestrel Cruiser
+
+Exit Beacon
+
+Mining Colony
+
+Nebula Cloud
+
+Store Station
+
+Uncharted Planet
+
+FEDERATION
+
+Junk (FED)
+
+Robot
+
+The Judge, Feline Guide
+
+Make Your Move
+
+New Inhabitants
+
+Stay In Your Coma
+
+Zacharie, Masked Shopkeep
+
+The Batter, Holy Purifier
+
+Burning Out
+
+Hugo, Child Creator
+
+The Queen, Vader Eloha
+
+Add-On
+
+The Nothingness
+
+Sugar Pits
+
+Zone 0
+
+PURIFICATION
+
+Citizen
+
+Clue (OFF)
+
+Food (OFF)
+
+Weapon (OFF)
+
+Delirious Leap
+
+Grimaline Smith, Neophyte
+
+Harry Jacket, Neophyte
+
+The Hunter Data
+
+Hupton Beach Lu'au
+
+Lord Wernon Fatigue
+
+Secret Ghoul
+
+Solar Sorcery
+
+Occam O'Connell, Chancellor
+
+Remold Blacklaw, Librarian
+
+The Archives
+
+Great Yarmouth Chapter House
+
+Miniature Railroad
+
+ARCANUM
+
+Abrade
+
+Break Into the Pillar
+
+Cave Adventurer
+
+Dig Deeper
+
+Dwarven Axelord
+
+Martial Trance
+
+Merchant Caravan
+
+Tales of Forgotten Beasts
+
+Tavern Detour
+
+Urist, Fortress Ruler
+
+Dwarven Mine
+
+Open Tavern
+
+Promising Settlement
+
+The World of Possibilities
+
+DUG TOO DEEP
+
+Demon
+
+Dwarf
+
+Booze
+
+Class-D Demotion
+
+Critical Breach
+
+Doctor Shaw
+
+Foundation Guards
+
+Memetic Agent
+
+SCP-049, The Plague Doctor
+
+SCP-106, The Old Man
+
+SCP-173, The Statue
+
+SCP-035, Possessed Mask
+
+SCP-682, Resilient Reptile
+
+Containment Chamber
+
+Extradimensional Clearing
+
+Foundation Corridor
+
+EXPENDABLES
+
+Human (EXP)
+
+Zombie (EXP)
+
+Coalescipede
+
+Dropwig
+
+Duel for Dominance (RAIN)
+
+Five Pebbles
+
+FOOD CHAIN
+
+Green Lizard
+
+Miros Bird
+
+Reach the Top
+
+Resourceful Slugcat
+
+Towering Rain Deer
+
+Rebar Spear
+
+Abandoned Expanse
+
+Drainage Systems
+
+Garbage Wastes
+rules_text: This land enters tapped.
+{T}: Add {G}.
+{2}, {T}, Sacrifice this land: Put target creature card from your graveyard on top of your library. Activate only as a sorcery. => This land enters tapped unless you control a basic land.
+{T}: Add {G}.
+{2}, {T}, Sacrifice this land: Put target creature card from your graveyard on top of your library. Activate only as a sorcery.
+
+Iterator's Chamber
+
+Monkey Token (RAIN)
+
+Mutant Token (RAIN)
+
+Laios Touden
+
+Marcille Donato
+
+A Proper Diet
+
+Cook Monsters
+
+Walking Mushroom
+
+Ah, Dungeon Food!
+
+It's Ready!
+
+Senshi of Izganda
+
+Chilchuck Tims
+
+Izutsumi
+
+Farmed Golem
+
+The First Floor
+
+The Island Dungeon
+
+Merini Village Dining Hall
+
+Ninja Tools
+
+Abandon the Village
+
+Haruno Sakura
+
+Iruka, Academy Instructor
+
+Kakashi, Team 9 Leader
+
+NINJAS (BELIEVE IT!)
+
+Rasengan
+
+Shadow Clone
+
+Uchiha Sasuke
+
+Uzumaki Naruto
+
+Ninja (NART)
+
+Prismatic Vista (NART)
+
+Village Hidden in the Leaves
+
+Hiruzen, The Professor
+
+Ichiraku Ramen
+rules_text: Ichiraku Ramen enters tapped unless you pay {1}.
+{T}: Add {U} or {R}.
+{2}, {T}, Sacrifice Ichiraku Ramen: Draw a card. Create a Treasure token. => This land enters tapped. As it enters, choose a color other than blue or red.
+{T}: Add {U}, {R}, or one mana of the chosen color.
+
+Bad Sun
+
+Danger Sense
+
+Dr Kel, Lone Astronomer
+
+Insomniac
+
+Killer Wisp
+
+Mischievious Ariral
+
+Overgrown Cave
+
+Pagonioplo-Igetis
+
+PARANORMAL
+
+Sudden Cliff
+
+The Antibreather
+
+Food
+
+Alien
+
+Abandoned Village
+
+Dunkeltaler Forest
+
+Earth
+
+Ride the ATV
+
+Battle Bishop
+
+Chain Formation
+
+CHECKMATE
+
+Coercive Plan
+
+Corner
+
+Divided Landscape
+
+Frontline Reinforcements
+
+Godless Shrine
+
+Leaping Cavalry
+
+Queen of the Board
+
+Serve Once More
+
+Strategic Sacrifice
+
+Towering Rook
+
+Human Soldier
+
+Eternal Battlefield
+
+Regal War Room
+
+Tense Antechamber
+
+Junk
+
+Black Leg Sanji
+
+Cause Trouble
+
+Delayed Slash
+
+The Mysterious Sogeking
+
+Pirate Hunter Zoro
+
+Awareness Training
+
+Tony Tony Chopper
+
+Devil Child Nico Robin
+
+Straw Hat Luffy
+
+Cat Burglar Nami
+
+The Grand Line
+
+Open Seas
+
+Port
+rules_text: Port enters tapped unless you pay {1}.
+{T}: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: Target creature you control explores twice. Activate only as a sorcery. => Port enters tapped.
+{T}: Add {R} or {G}.
+{2}, {T}, Sacrifice Port: Target creature you control explores twice. Activate only as a sorcery.
+
+LANDFALL
+
+Sword (OP)
+
+FOREVER BLUE
+
+Almost Out of Oxygen
+
+Commerson's Dolphin
+
+Giant Isopod
+
+Humpback Whales
+
+Leopard Seal
+
+Magu Tapa
+
+Sea Slug Studies
+
+Undersea Encounter
+
+Whale Shark
+
+Indo-Pacific Sailfish
+
+Cortica River
+
+Manoa Lai
+
+The Veiled Sea
+
+Commerson's Dolphin ULT2
+
+Fish ULT2 1
+
+Fish ULT2 2
+
+Fish ULT2 3
+
+Fish ULT2 4
+
+Fish ULT2 5
+
+The Chase Eternal
+
+Jigen, the Marksman
+
+Rebecca, Renaissance Woman
+
+Ami, Prodigal Hacker
+
+Believe in the Thief
+
+Slash of the Zantetsuken
+
+GRAND HEIST
+
+Fujiko, Femme Fatale
+
+Goemon, the Blademaster
+
+Lupin, World's Greatest Thief
+
+Zenigata, Dedicated Agent
+
+Castle Cagliostro
+
+City Outskirts
+
+Secret Bolthole
+
+Construct (UNV)
+
+Spider (UNV)
+
+An Ideal World
+
+Gleaming Sigilyph
+
+Growing Tympoles
+
+Indomitable Boldore
+
+Lostlorn Forest
+
+N
+
+Nimbasa City
+
+N's Servine
+
+Prissy Purrloin
+
+Seed Bomb
+
+Strength of Ideals
+
+Tricky Zorua
+
+Lizard (UNV)
+
+Spinning Klink
+
+Snack Time
+
+Chargestone Cave
+
+Mithrix, King of Nothing
+
+The Captain
+
+The Face of the Deep
+
+Having Fallen, It Was Blood
+
+The Loader
+
+MONSOON
+
+They Might as Well Be Dead
+
+The Artificer
+
+The Commando
+
+The Engineer
+
+Once in a Lullaby
+
+Commencement
+
+Compound Generator
+
+Void Fields
+
+Item
+
+Servo
+
+Band Manager Bri
+
+Bigger than Jesus
+
+Duet Performance
+
+Fifth Beatle
+
+Magical Mystery Tour
+
+Yoko Ono, Avant Gardist
+
+George Harrison, Beatle
+
+John Lennon, Beatle
+
+Paul Mccartney, Beatle
+
+Ringo Starr, Beatle
+
+Abbey Road
+
+Communal Bath
+
+BANDING
+
+Fan (FLA)
+
+ADVENTURE!
+
+Abstract
+
+Put You Freaks In Your Place
+
+Deconstruct
+
+The Amazing Digital Circus
+
+Torment Nexus
+
+Pomni
+rules_text: {T}: Add {U}{R}. You can't spend this mana to cast creature spells. => {T}: Add {U} or {R}. You can't spend this mana to cast creature spells.
+
+Ribbit
+
+Kinger
+
+Jax
+
+Ragatha
+
+Gangle
+
+Zooble
+pt: 3/3 => 4/1
+
+CAINE
+
+On an Adventure
+
+Formaggio, Slick Sneak
+
+Ghiaccio, Icy Berserker
+
+Illuso, Mirror Man
+
+Melone, Distant Admirer
+
+Pesci, Wannabe Gangster
+
+Prosciutto, Hardened Mafioso
+
+Severed and Sent
+
+Fatal Charm
+
+La Squadra's Betrayal
+
+Risotto, Vengeful Leader
+
+Italy
+
+La Squadra Hideout
+
+SABOTEURS
+
+Spirit Horror
+
+Clue
+
+Ballora
+
+Joy of Creation
+
+Lefty
+
+Springlock Failure
+
+Vanny
+
+William Afton
+
+Dreadbear
+
+The Mimic
+
+The Puppet
+
+Scrap Baby
+
+Freddy Fazbear's Pizza
+
+Indoor Attraction
+
+Retro Office
+
+LIVING METAL
+
+Spirit Token (FNAF)
+
+KIRA'S JUSTICE
+
+Final Test
+
+I Win, L!
+
+Kira Cultists
+
+Kira's Task Force
+
+Light Yagami, Would-Be God
+
+L's Endgame
+
+Misa Amane, Kira Worshipper
+
+Ryuk, Spirit of Death
+
+L, Immature Investigator
+
+Matsuda Touta, Go-Getter
+
+Kira Investigation HQ
+
+Shinigami Realm
+
+Yellow Box Warehouse
+
+Citizen (DN)
+
+Clue (DN)
+
+Weapon (DN)
+
+Caroline, Faithful Assistant
+
+Chell, Resourceful Subject
+
+Message from the Moon
+
+Resolve the Stalemate
+
+Resume Testing
+
+Weighted Companion Cube
+
+Wheatley, Moron Core
+
+Atlas & P-Body
+
+Rat Man
+
+Auto Turret
+
+Aperture Science
+
+Turret Opera
+
+Extended Relaxation Center
+
+PORTALS
+
+Portal
+
+Moon Rock
+
+Blinking!
+
+Mobile Task Force
+
+Reconsider
+
+SCP-1762, Where The Dragons Went
+
+Site Lockdown
+
+SCP-2521
+
+SCP-049
+
+SCP-131, The Eye Pods
+
+Special Containment Procedure
+
+SCP-1048, Builder Bear
+
+Familiar Lake
+
+Site 13
+
+SURVEILLANCE
+
+Zombie (SCP)
+
+Dragon (SCP)
+
+Ghoul's Night
+
+Clawdeen Wolf
+
+Cleo De Nile
+
+Draculaura
+
+Frankie Stein
+
+Ghoulia Yelps
+
+Lagoona Blue
+
+Robecca Steam
+
+Spectra, Gossip Ghost
+
+Fangtastic Fashion
+
+Creepover
+
+Happy Haunt
+
+FREAKY, CHIC, AND FLY
+
+bad breakup
+
+Billie Eilish
+
+MONSTERMAU5
+
+Snailiens
+
+Girl's Fight Out
+
+Gustavo Rocque
+
+Kesha, Turning It Up
+
+Cici, Whatever She Wants
+
+Essence of the Week
+
+REFRACTION OF HABIT
+
+TURN IT UP!
+
+☆ P4R7Y 4N1M4L5 ☆
+
+Glowsquid Galaxy
+
+Snails on Venus
+
+Wuhu Island
+
+Party Animal
+
+Blood
+
+Treasure
+
+Brave The First Floor
+
+Fractal Mutation
+
+Hapless Tenants
+
+Hellen, Green-Thumb Maniac
+
+Joel, Tooth Child
+
+Leigh, Grinner
+
+Look Outside
+
+MONSTROSITIES
+
+Toxic Paintling
+
+Whiskey Flask
+
+Sam, Restless Recluse
+
+Elevator
+
+Infested Crawlspace
+
+Mutt's Fish And Chips
+
+The Rooftops
+
+Teeth Hell
+
+Rat Mutant
+
+Alucard, Son of Dracula
+
+Death, The Grim Reaper
+
+Dracula, Lord of Darkness
+
+Franken, the Creature
+
+Have At You!
+
+MONSTER DANCE
+
+Phantom Bat
+
+Queen Medusa
+
+What a Horrible Night
+
+Mummy Men
+
+Vast Legions of Darkness
+
+Castle Clocktower
+
+Castle Courtyard
+
+Castle Keep Stairway
+
+Castlevania
+
+Zombie (CVN)
+
+Gorgon (CVN)
+
+Igor (CVN)
+
+Lionblaze
+
+God
+
+Heather Mason
+
+James Sunderland
+
+Letters from the Dead
+
+Pyramid Head
+
+Sack the Apartment
+
+Under Valtiel's Watch
+
+Chained Door
+
+LISA
+
+Lisa Garland
+
+Endless House
+
+Inexplicable Location
+
+Silent Hill
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+
+Nightmare (SLH)
+
+Breach() Transistor
+
+Crash() Transistor
+
+Equip()
+
+Help() Transistor
+
+Jaunt() Transistor
+
+Red, Lone Voice
+
+Royce, Fallen Architect
+
+Spoiling Cells
+
+Upgraded Unmaker
+
+Sybil, Envious Socialite
+
+The Transistor
+
+Prismatic Vista (Transistor)
+
+Anywhere (Transistor)
+
+Dog Processor
+
+Egg Processor
+
+Combine and Conquer
+
+Hydro Turret
+
+Plort Market
+
+Hunter Slime
+
+Tabby Slime
+
+Assimilating Tarr
+
+Pink Slime
+
+Rad Slime
+
+Feral Slam
+
+Quantum Gate Expedition
+
+Slime Vine
+
+Lebeau Ranch
+
+Mochi Manor
+
+Llanowar Reborn (SLM)
+
+The Slimeulation
+
+Glass Desert
+
+Glitch Slime
+
+. . . AND STEVEN!
+
+You're My Prisoner Now
+
+Crack the Diamond
+
+It's Over Isn't It
+
+Stunning Save
+
+Mission Dispatch
+rules_text: {T}, Pay 1 life: Add {R} or {W}.
+{3}, {T}, Sacrifice Mission Dispatch: Exile the top two cards of your library. You may play them until the end of your next turn. Activate only if you have 7 or less life. => {T}, Pay 1 life: Add {R} or {W}.
+{3}, {T}, Sacrifice this land: Exile the top two cards of your library. You may play them until the end of your next turn.
+
+Prismatic Vista (SU)
+
+Warp Pad
+
+Steven Universe
+
+Stevonnie
+
+Connie Maheswaran
+
+Amethyst, Wild Shapeshifter
+
+Garnet, Stoic Seer
+
+Pearl, Loyal Renegade
+
+Rose Quartz
+
+Dark Dungeon
+
+Humble Abode
+
+Malon, Milk Maid
+
+Navi
+
+Princess Zelda
+
+Saria, Secret Sage
+
+Spider (LOZT)
+
+TEMPLE DIVING
+
+The Fire Temple
+
+The Forest Temple
+
+The Shadow Temple
+
+The Spirit Temple
+
+The Water Temple
+
+Link, Hero of Time
+
+Epona
+
+Beelzebub, the Great Fly
+
+Find Cerberus
+
+The Helltaker
+
+Journey to Hell
+
+Judgement, the High Prosecutor
+
+Justice, the Awesome Demon
+
+Lucifer, CEO of Hell
+
+Malina, the Sour Demon
+
+Modeus, the Eager Demon
+
+Pandemonica, the Tired Demon
+
+Zdrada, the CENSORED Demon
+
+Azazel, the Curious Angel
+
+The Depths of Hell
+
+Helltaker's Kitchen
+
+The Sin Machine
+
+Demon 1 (HELL)
+
+Demon 2 (HELL)
+
+ALL CAPS
+
+CZARFACE, the Iron Claw
+
+DANGERDOOM
+
+King Geedorah, the Third Rail
+
+Madvillainy
+
+Metal Face Mask
+
+MF DOOM, the Illest Villain
+
+Operation DOOMSDAY
+
+Quasimoto and DOOM
+
+Viktor Vaughn, Vaudeville Villain
+
+Sonic Switchboard
+
+Mural of DOOM
+rules_text: This land enters tapped unless you pay 2 life. When it does, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color. => This land enters tapped unless you pay 2 life. As it enters, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.
+
+New York
+
+Impending DOOM
+
+DOOMbot (MFD)
+
+EXODIA
+
+Forbidden One's Left Leg
+
+Forbidden One's Right Leg
+
+Obliterating Blast
+
+Ultimate Necross Rebirth
+
+KaibaCorp Battle Box
+
+Millennium Seal
+
+Portal to the Shadow Realm
+
+Forbidden One's Left Arm
+
+Forbidden One's Right Arm
+
+A Game of Gods
+
+Heart of the Cards
+
+The Millennium Puzzle
+
+The Forbidden One
+
+A Little Lie Between Friends
+
+Catastrophic Mutation
+
+Clue (RE)
+
+Glasp
+
+House Beneviento
+
+Marvin Branagh
+
+UMBRELLA CONSPIRACY
+
+Ada Wong
+
+Queen Semiramis
+
+Queen Zenobia
+
+Rachel Foley
+
+Rebecca Chambers
+
+William Birkin
+
+Jill Valentine, BSAA
+
+Raccoon Police Department
+
+HUNK, the 4th Survivor
+
+
+WITHER AWAY
+
+Black Rose Antechamber
+rules_text: This land enters tapped. As this land enters, choose a color other than black.
+When this land enters, surveil 1.
+{T}: Add {B} or one mana of the chosen color. => This land enters tapped. As it enters, choose a color other than black.
+When this land enters, surveil 1.
+{T}: Add {B} or one mana of the chosen color.
+
+Blood (VLD)
+
+Blood Transfusion
+
+Domesticated Bloodletter
+
+Parasitic Pigeons
+
+Savor Each Morsel
+
+The Crimson Banquet Hall
+
+The Gray Apothecary
+
+Aristocrat Hemophile
+
+Cult Curator
+
+Eager Disciple
+
+Ravenbloom Conservatory
+
+Tides of Blood
+
+Crimson Awakener
+
+Lord Vladimir, Crimson Reaper
+
+Anna, the Huntress
+
+Evan's Trap
+
+Killer's Basement
+
+Killer's Shack
+rules_text: This land enters tapped. As it enters, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color. => This land enters tapped. As it enters, choose a color other than black.
+When Killer's Shack enters, surveil 1.
+{T}: Add {B} or one mana of the chosen color.
+
+Murder
+
+Adiris, Plagued Priestess
+
+Blightification
+
+Decimated Borgo
+
+Doctor's Dealings
+
+Kazan, Blighted by Rage
+
+Rin, Arisen Yamaoka
+
+Watched From Afar
+
+The Unknown
+
+Evan MacMillan, the Trapper
+
+DEAD BY DAYLIGHT
+
+SUBTERRANEAN SUN
+
+Atomic Fire
+
+Green-Eyed Monster
+
+Hell Raven
+
+Satori, Feared and Reviled
+
+Troublesome Oni
+
+Utsuho, Divine Flame
+
+Yuugi, Ex-Deva
+
+Zombie Fairy
+
+Koishi, Unthinking Impulse
+
+Rin, Spirit Carrier
+
+Yamame, Spider of Sickness
+
+Bridge to Hell
+
+Chireiden
+
+Former Hell
+
+Spirit (SA)
+
+Insect Bard (HK)
+
+Ancient Sickness
+
+Cornifer, Cartographer
+
+Dreamer's Gate
+
+Enter Pharloom
+
+Grand Mother Silk
+
+Hornet, Pharloom's Savior
+
+Infected Hopper
+
+Knight's Resting Place
+
+OF GOD AND VOID
+
+Remembered Everbloom
+
+The Hollow Knight
+
+The Knight, Returned Traveler
+
+The Radiance, Forgotten Light
+
+Overgrown Tomb (HK)
+
+The White Palace
+
+CASE CRACKING
+
+Captain Sonic the Hedgehog
+
+Detective Tails the Fox
+
+The Mirage Express
+
+Planted Blowdart
+
+Rally for Justice
+
+Suspicious Dysfunction
+
+Ticking Egg
+
+Tragedy on the Mirage Express
+
+Unlikely Attendant
+
+Robotic Arms
+
+Conductor's Car
+
+Lounge Car
+
+Amy's Birthday Party
+
+Clue (1) (MSO)
+
+Clue (2) (MSO)
+
+Rogue (MSO)
+
+Archmother's Stronghold
+rules_text: Archmother's Stronghold enters tapped unless you pay {1}.
+[i]Ascendant — [/i]{T}: Add one mana of any color. You lose 1 life unless there are three or more counters among creatures you control. => This land enters tapped unless you pay {1}.
+[i]Ascendant — [/i]{T}: Add one mana of any color. You lose 1 life unless there are three or more counters among creatures you control.
+
+Cornerstore
+
+Seven, the Aspirant
+
+Soul (DLK)
+
+Spirit (DLK) 1
+
+Spirit (DLK) 2
+
+The Cursed Apple
+
+The Hideout
+
+Rem and Friends
+
+Sleepwalk
+
+Welcome to the Baroness
+
+Airdrop
+
+Austere Ascension
+
+The Doorman, Humble Servant
+
+Paige, the Bookworm
+
+Ivy, Savior of Harlem
+
+Study Up
+
+The Archmother, Austere
+
+DEVIL ARMS
+
+Mitis Assault
+
+Rev it Up!
+
+Devil May Cry
+
+Nico's Armory
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{1}, {T}, Discard a card: Create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i] => This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{1}, {T}: Create a Weapon token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i]
+
+The Devil's Tower
+
+Nevan, Lightning Contralto
+
+Voltaic Black Knight
+
+Balrog, Argosax's Second
+
+Berial, Fortuna Terror
+
+Nico Goldstein
+
+Nero, High Roller
+
+Dante, Devil Trigger
+
+V-Divider
+
+Weapon (DMC)
+
+Treasure (DMC)
+
+
+VERSION 52 CHANGELOG
 ====================
 
 CASE CRACKING added.
