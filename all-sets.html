@@ -142,7 +142,7 @@
 				<img src="sets/ULT2-files/icon.png">
 				<div class="set-title">ULT2</div>
 				<div>ULT2</div>
-				<div>950</div>
+				<div>953</div>
 			</a>
 			
 			<a href="sets/ZZZ" class="set-row"> 
@@ -175,6 +175,12 @@
 
 				let all_tags = new Set();
 				card_list_arrayified.forEach(card => {
+					if (card.card_name) {
+						card.card_name = card.card_name.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.card_name2) {
+						card.card_name2 = card.card_name2.replace(/[\r\n]+/g, '').trim();
+					}
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {

@@ -1,4 +1,154 @@
-﻿VERSION 60 CHANGELOG
+﻿VERSION 61 CHANGELOG
+====================
+
+WITHER AWAY added.
+Fairy Radio Shrine added.
+Enhanced Security added.
+Princess Zelda added.
+Shiek added.
+
+Site Lockdown removed.
+
+WITHER AWAY removed.
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Boss Fight Reminder
+
+Creepover
+rules_text: This land enters tapped.
+When this land enters, you gain 2 life and choose a color other than black.
+{T}: Add {B} or one mana of the chosen color. => 
+
+[b]This land enters tapped. When it enters, you lose 1 life.
+{T}: Add one mana of any color except black.[/b]
+
+Ghoulia Yelps
+rules_text: [i][i]Vivid[/i] [/i]— When Ghoulia enters, you gain X life, where X is the number of colors among permanents you control. => [i][i]Vivid[/i] [/i]— When Ghoulia enters, you gain X life, where X is the number of colors among permanents you control.
+{2}, {T}: Surveil 2.
+flavor_text: [i]“Ghoulia's right!”
+— Basically everyone.[/i] => [i]Though slow to act, she's undoubtedly the braaaiiiinnnss of the group.[/i]
+pt: 0/3 => 0/4
+
+Lagoona Blue
+rules_text: [i][i]Vivid[/i][/i] — When Lagoona Blue enters, mill X cards, where X is the number of colors among permanents you control.You may put a card from among them into your hand. If you do, you lose 2 life. => [i][i]Vivid[/i][/i] — When Lagoona enters, mill X cards, where X is the number of colors among permanents you control. You may put a card from among them into your hand. If you do, you lose 2 life.
+flavor_text: [i]“My parents? Who cares about what those saltwater drongos think anyway?”[/i] => [i]Swim captain and diving prodigy hailing from The Land Down Under — That's the sea, if you're a landlocked drongo.[/i]
+
+Fangtastic Fashion
+rules_text: Flash
+When Fangtastic Fashion enters, it becomes the color of your choice. Attach it to target creature.
+[i]Vivid[/i] — Equipped creature gets +1/+0 for each color among permanents you control.
+Equip {4} => Flash
+When Fangtastic Fashion enters, it becomes the color of your choice. Attach it to target creature you control.
+[i]Vivid[/i] — Equipped creature gets +1/+0 for each color among permanents you control.
+Equip {4}
+
+Frankie Stein
+rules_text: [i][i]Vivid[/i][/i] — When Frankie enters, you may discard a card. If you do, she deals X damage to target creature an opponent controls, where X is the number of colors among permanents you control. => [i][i]Vivid[/i][/i] — When Frankie enters, you may discard a card. If you do, Frankie deals X damage to target creature, where X is the number of colors among permanents you control.
+flavor_text: [i]Frankie is struck often by bolts of inspiration. Those around her are often struck by bolts.[/i] => [i]Often struck by bolts of inspiration, as are any ghouls standing nearby.[/i]
+pt: 3/2 => 2/3
+
+Cleo De Nile
+rules_text: Lifelink
+[i][i]Vivid[/i][/i] — When Cleo enters, return target non-Noble creature card from your graveyard to your hand if its mana value is less than or equal to the number of colors among permanents you control. => Lifelink
+[i][i]Vivid[/i][/i] — When Cleo enters, return target creature or planeswalker card with mana value X or less from your graveyard to your hand, where X is the number of colors among permanents you control.
+flavor_text: [i][/i] => [i]Monster High's greatest fearleading captain — second to her sister, but don't tell her that.[/i]
+pt: 3/2 => 3/3
+
+Robecca Steam
+rules_text: When Robecca Steam enters, you draw a card and lose 1 life.
+{1}{UB}: Return Robecca Steam from your graveyard to the battlefield with a finality counter on her. She's an artifact. [i](She's not a creature. She probably never will be again. Sorry.)[/i] => When Robecca enters, you draw a card and lose 1 life.
+{1}{UB}: Return Robecca from your graveyard to the battlefield with a finality counter on her. She's an artifact. [i](She's not a creature. She probably never will be again. Sorry.)[/i]
+
+Clawdeen Wolf
+flavor_text: [i][/i] => [i]Werewolves have feuds going back centuries, but she considers any friend part of her pack.[/i]
+
+Ghoul's Night
+rules_text: Exile all creatures. For each color, starting with you, each player may choose a card they own of that color from among the exiled cards and return it to their hand.
+Exile Ghoul's Night. => Exile all creatures. Starting with you, for each color, each player may choose a card they own of that color from among the exiled cards and return it to their hand.
+Exile Ghoul's Night.
+
+Draculaura
+rules_text: [i][i]Vivid[/i][/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+[i]Ghoul Spirit[/i] — {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}: Mill five cards. Put each creature card among them onto the battlefield. => [i][i]Vivid[/i][/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}: Mill five cards. Put each creature card milled onto the battlefield.
+
+Cirno, The Strongest Fairy
+cost: {3}{U} => {2}{U}{U}
+
+Ice Tornado
+flavor_text: [i]“1, 2, 3, 4, I declare a fairy war!
+“5, 6, 7, [b]9[/b], victory will soon be mine!”[/i] => [i]“1, 2, 3, 4, I declare a fairy war!
+“5, 6, 7, 9, victory will soon be mine!”[/i]
+
+Minus K
+rules_text: This spell costs {2} less to cast if you control a creature with flying.
+Return target spell or creature to its owner's hand. Draw a card. => This spell costs {2} less to cast if you control a creature with flying.
+Return target spell or creature to its owner's hand.
+Draw a card.
+
+Zombie (SCP)
+rules_text:  => Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Mobile Task Force
+rules_text: When Mobile Task Force enters, surveil 2.
+Exile two noncreature cards from your graveyard: Target creature can't be blocked this turn. => Vigilance
+When Mobile Task Force enters, surveil 2.
+{T}, Exile two noncreature cards from your graveyard: Target creature can't be blocked this turn.
+flavor_text: [i]As the hands of the SCP Foundation, MTF are shipped across the globe at a moment's notice, and often shipped back in a body bag.[/i] => [i][/i]
+pt: 3/3 => 3/4
+
+SCP-1762, Where The Dragons Went
+cost: {4}{U} => {3}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]
+I — The owner of target creature puts it on their choice of the top or bottom of their library.
+II, III, V — Surveil 1. Create a 1/1 colorless Dragon artifact creature token with flying.
+VI — Exile all Dragons you control. Draw a card for each of them. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — The owner of target creature puts it on their choice of the top or bottom of their library.
+II, III, IV — Surveil 1. Create a 1/1 colorless Dragon artifact creature token with flying.
+V — Exile all Dragons tokens.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]
+I — The owner of target creature puts it on their choice of the top or bottom of their library.
+II, III, V — Surveil 1. Create a 1/1 colorless Dragon artifact creature token with flying.
+VI — Exile all Dragons you control. Draw a card for each of them. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+I — The owner of target creature puts it on their choice of the top or bottom of their library.
+II, III, IV — Surveil 1. Create a 1/1 colorless Dragon artifact creature token with flying.
+V — Exile all Dragons tokens.
+
+SCP-049
+cost: {4}{UB}{UB} => {4}{UB}
+rules_text: Menace
+When SCP-049 enters or attacks, exile up to two cards from your graveyard. For each creature card exiled, create a 2/2 black Zombie creature token. For each other card exiled, draw a card. => At the beginning of combat on your turn, exile up to three target cards from your graveyard. For each creature card exiled, create a 2/2 black Zombie creature token. For each other card exiled, draw a card.
+flavor_text: [i]“I'm here to cure you.”[/i] => [i]“The sickness has spread here as well. Don't be afraid. I'm here to cure you.”[/i]
+pt: 3/3 => 0/5
+
+SCP-1048, Builder Bear
+cost: {2} => {1}{U}
+rules_text: When you cast this spell, you may exile two noncreature cards from your graveyard and/or two creature cards from your graveyard. Copy this spell for each two cards exiled.
+When SCP-1048 enters, surveil 1. => When you cast this spell, you may exile two creature cards from your graveyard and/or two noncreature cards from your graveyard. Copy this spell for each two cards exiled this way. The copies enter tapped.
+
+The Spirit Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — For as long as you control this Shrine, target creature is a Child in addition to its other types. It has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III — Surveil 1.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — For as long as you control this Shrine, target creature has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III — Surveil 1.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — For as long as you control this Shrine, target creature is a Child in addition to its other types. It has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III — Surveil 1.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — For as long as you control this Shrine, target creature has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III — Surveil 1.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face.
+
+
+VERSION 60 CHANGELOG
 ====================
 
 Fireheart added.
