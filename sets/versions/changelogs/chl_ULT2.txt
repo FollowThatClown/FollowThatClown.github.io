@@ -1,4 +1,1878 @@
-﻿VERSION 57 CHANGELOG
+﻿VERSION 58 CHANGELOG
+====================
+
+
+Soldier removed.
+Warrior Cat removed.
+Human Soldier (3RD) removed.
+Clue (HOUSE) removed.
+Food (DNM) removed.
+Clue (WLE) removed.
+Soldier (HLD) removed.
+Mechlink removed.
+Construct (RIM) removed.
+Treasure removed.
+Robot (FAC) removed.
+Assembler removed.
+Citizen (SM) removed.
+Clue (SM) removed.
+Warrior (KD) removed.
+Katamari removed.
+Demon Token (CORU) removed.
+Memory Token removed.
+Junk (FED) removed.
+Robot removed.
+Citizen removed.
+Clue (OFF) removed.
+Food (OFF) removed.
+Weapon (OFF) removed.
+ARCANUM removed.
+Demon removed.
+Dwarf removed.
+Booze removed.
+Human (EXP) removed.
+Zombie (EXP) removed.
+Monkey Token (RAIN) removed.
+Mutant Token (RAIN) removed.
+Ninja (NART) removed.
+Food removed.
+Alien removed.
+Human Soldier removed.
+Junk removed.
+Sword (OP) removed.
+Commerson's Dolphin ULT2 removed.
+Fish ULT2 1 removed.
+Fish ULT2 2 removed.
+Fish ULT2 3 removed.
+Fish ULT2 4 removed.
+Fish ULT2 5 removed.
+Construct (UNV) removed.
+Spider (UNV) removed.
+Lizard (UNV) removed.
+Item removed.
+Servo removed.
+Fan (FLA) removed.
+Citizen (DN) removed.
+Clue (DN) removed.
+Weapon (DN) removed.
+Portal removed.
+Moon Rock removed.
+Zombie (SCP) removed.
+Dragon (SCP) removed.
+Party Animal removed.
+Blood removed.
+Treasure removed.
+Rat Mutant removed.
+Zombie (CVN) removed.
+Gorgon (CVN) removed.
+Igor (CVN) removed.
+Nightmare (SLH) removed.
+Dog Processor removed.
+Egg Processor removed.
+Combine and Conquer removed.
+Glitch Slime removed.
+Demon 1 (HELL) removed.
+Demon 2 (HELL) removed.
+DOOMbot (MFD) removed.
+Clue (RE) removed.
+Blood (VLD) removed.
+Spirit (SA) removed.
+Insect Bard (HK) removed.
+Amy's Birthday Party removed.
+Clue (1) (MSO) removed.
+Clue (2) (MSO) removed.
+Rogue (MSO) removed.
+Soul (DLK) removed.
+Spirit (DLK) 1 removed.
+Spirit (DLK) 2 removed.
+Weapon (DMC) removed.
+Treasure (DMC) removed.
+Spider (LOZT) removed.
+Boss Fight Reminder removed.
+Knife Effect removed.
+Horror Token removed.
+Castle (SMB) removed.
+Fungus Warrior (SMB) removed.
+Spirit (SMB) removed.
+Boss Fight Reminder removed.
+On an Adventure removed.
+Stevonnie removed.
+Clue (EXEC) removed.
+Spirit Horror removed.
+Dingy Meeting Spot removed.
+Spirit Token (FNAF) removed.
+Fan (FLA) removed.
+Shade (DR3) removed.
+It's TV Time! removed.
+Rebel Token (MARS) removed.
+Fairy (GFW) removed.
+Sovereign Blade removed.
+Weapon removed.
+Pikmin removed.
+
+Automated Flame-Tank
+
+From Chin To Tail
+
+Full Moon Gathering
+
+Hawkfrost
+
+Jayfeather
+
+Squirrelflight
+
+Starclan's Judgement
+
+The Moonpool
+
+Tigerstar
+
+WARRIORS
+
+Silverstream
+
+Yellowfang
+
+Cheep Cheep
+
+Dry Bones
+
+Hammer Smash
+
+Junior, Royal Painter
+
+Kamek, Peerless Magician
+
+KOOPA KINGDOM
+
+Level Select
+
+Piranhic Growth
+
+Quickfoot Koopas
+
+Bowser's Castle
+
+Clan Territory
+
+Rusty
+
+Bowser, Koopa King
+
+Goomba Tower
+
+Send Forth
+
+DIAGNOSTICS
+
+Doctor's Office
+
+Diagnostics Team
+
+Misdiagnose
+
+Slack Off
+
+Teaching Hospital
+
+Withdrawal Symptoms
+
+Operating Theater
+
+James Wilson, M.D.
+
+Lisa Cuddy, M.D.
+
+Search the Home
+
+House, M.D.
+
+Eric Foreman, M.D.
+
+Act Big
+
+Diagnostics Breakout
+
+Directive A-113
+
+RE-CYCLING
+
+AUTO, Axiom Pilot
+
+The Axiom
+
+EVE, Endeared Evaluator
+
+Fire Extinguisher
+
+GO-4, Gopherbot
+
+M-O, Scrutinous Janitor
+
+SECUR-T Detail
+
+WALL-E, Recycling Scavenger
+
+Ash Barrens (WLE)
+
+Axiom Grounds
+
+Buy N Large Ruins
+
+Mountainous Junkheaps
+
+Ramshackle Home
+
+TOTAL LIBERATION
+
+Automaton Hulk
+
+Bile Titan
+
+Explosive End
+
+Helldiver Kill-Counter
+
+Helldiver Point-Man
+
+Helldiver Shieldbearer
+
+Helldiver Veteran
+
+Illuminate Harvester
+
+Orbital Laser Sweep
+
+Overwhelming Firepower
+
+Reinforce
+
+Super Earth's Finest
+
+Liberated Territories
+
+Staging Ground
+
+Base Assault
+
+Caravan Trail
+
+Colony Collapse
+
+Construction Project
+
+Emergency Triage
+
+Imperial Holdout
+
+Rare Thrumbo
+
+Rec Room
+
+Rim Militia
+
+Royal Delegation
+
+Social Fight
+
+Warqueen, Mechanical Mind
+
+Mechanoid Scyther
+
+Uncharted Rimworld
+
+Complications
+
+Crash Site
+
+Exponential Expansion
+
+Logistics Train
+
+Power Lines
+
+Repel the Locals
+
+Scramble for Solutions
+
+Towering Spidertron
+
+The Factory Must Grow
+
+Assembly Line
+
+Nauvis
+
+Mass-Produced Tank
+
+Turret Array
+
+The Engineer, Stranded
+
+Return the Stars!
+
+Crystal Tokyo
+
+Fruits Parlor Crown
+
+Hotaru Tomoe
+
+MAKE UP!
+
+Makoto Kino
+
+Minako Aino
+
+Moon Healing Escalation!
+
+Moon Prism Power!
+
+Rei Hino
+
+Setsuna Meiou
+
+Shabon Spray
+
+Super Sailor Moon
+
+The Moon Kingdom
+
+Inch-High Prince
+
+Pigeon Town
+
+Return the Stars!
+
+Roll Up Colossi!
+
+Roll Up Fantasy!
+
+Roll Up History!
+
+Roll Up the Battle!
+
+Roll Up the World!
+
+Royal Rainbow!
+
+The King Of All Cosmos
+
+The Queen Of All Cosmos
+
+WE LOVE KATAMARI
+
+Prismatic Vista (KD)
+
+Lonely Rolling Star
+
+Akizet, Fierce Protector
+
+Akizet's Corrucyst
+
+BSTRD, Chaotic Daemon
+
+Council of Jokzi Ozo
+
+Deep Encounter
+
+Funfriend, System Assistant
+
+Gakvu Thoughtform
+
+Interloper, Outside Observer
+
+Jumbled Cityscape
+
+LIVING THOUGHTS
+
+Recollection Locus
+
+Unable to Deviate
+
+Obesk Spire
+
+Anaerobic Lanius
+
+Anti-Ship Battery
+
+Engi Mechanic
+
+FTL Jump
+
+Spaceship Captain
+
+Sturdy Rockman
+
+Teleport In
+
+Zoltan Crewmate
+
+Bloodthirsty Mantis
+
+Kestrel Cruiser
+
+Exit Beacon
+
+Mining Colony
+
+Nebula Cloud
+
+Store Station
+
+Uncharted Planet
+
+FEDERATION
+
+The Judge, Feline Guide
+
+Make Your Move
+
+New Inhabitants
+
+Stay In Your Coma
+
+Zacharie, Masked Shopkeep
+
+The Batter, Holy Purifier
+
+Burning Out
+
+Hugo, Child Creator
+
+The Queen, Vader Eloha
+
+Add-On
+
+The Nothingness
+
+Sugar Pits
+
+Zone 0
+
+PURIFICATION
+
+Delirious Leap
+
+Grimaline Smith, Neophyte
+
+Harry Jacket, Neophyte
+
+The Hunter Data
+
+Hupton Beach Lu'au
+
+Lord Wernon Fatigue
+
+Secret Ghoul
+
+Solar Sorcery
+
+Occam O'Connell, Chancellor
+
+Remold Blacklaw, Librarian
+
+The Archives
+
+Great Yarmouth Chapter House
+
+Miniature Railroad
+
+Abrade
+
+Break Into the Pillar
+
+Cave Adventurer
+
+Dig Deeper
+
+Dwarven Axelord
+
+Martial Trance
+
+Merchant Caravan
+
+Tales of Forgotten Beasts
+
+Tavern Detour
+
+Urist, Fortress Ruler
+
+Dwarven Mine
+
+Open Tavern
+
+Promising Settlement
+
+The World of Possibilities
+
+DUG TOO DEEP
+
+Class-D Demotion
+
+Critical Breach
+
+Doctor Shaw
+
+Foundation Guards
+
+Memetic Agent
+
+SCP-049, The Plague Doctor
+
+SCP-106, The Old Man
+
+SCP-173, The Statue
+
+SCP-035, Possessed Mask
+
+SCP-682, Resilient Reptile
+
+Containment Chamber
+
+Extradimensional Clearing
+
+Foundation Corridor
+
+EXPENDABLES
+
+Coalescipede
+
+Dropwig
+
+Duel for Dominance (RAIN)
+
+Five Pebbles
+
+FOOD CHAIN
+
+Green Lizard
+
+Miros Bird
+
+Reach the Top
+
+Resourceful Slugcat
+
+Towering Rain Deer
+
+Rebar Spear
+
+Abandoned Expanse
+
+Drainage Systems
+
+Garbage Wastes
+
+Iterator's Chamber
+
+Laios Touden
+
+Marcille Donato
+
+A Proper Diet
+
+Cook Monsters
+
+Walking Mushroom
+
+Ah, Dungeon Food!
+
+It's Ready!
+
+Senshi of Izganda
+
+Chilchuck Tims
+
+Izutsumi
+
+Farmed Golem
+
+The First Floor
+
+The Island Dungeon
+
+Merini Village Dining Hall
+
+Ninja Tools
+
+Abandon the Village
+
+Haruno Sakura
+
+Iruka, Academy Instructor
+
+Kakashi, Team 9 Leader
+
+NINJAS (BELIEVE IT!)
+
+Rasengan
+
+Shadow Clone
+
+Uchiha Sasuke
+
+Uzumaki Naruto
+
+Prismatic Vista (NART)
+
+Village Hidden in the Leaves
+
+Hiruzen, The Professor
+
+Ichiraku Ramen
+
+Bad Sun
+
+Danger Sense
+
+Dr Kel, Lone Astronomer
+
+Insomniac
+
+Killer Wisp
+
+Mischievious Ariral
+
+Overgrown Cave
+
+Pagonioplo-Igetis
+
+PARANORMAL
+
+Sudden Cliff
+
+The Antibreather
+
+Abandoned Village
+
+Dunkeltaler Forest
+
+Earth
+
+Ride the ATV
+
+Battle Bishop
+
+Chain Formation
+
+CHECKMATE
+
+Coercive Plan
+
+Corner
+
+Divided Landscape
+
+Frontline Reinforcements
+
+Godless Shrine
+
+Leaping Cavalry
+
+Queen of the Board
+
+Serve Once More
+
+Strategic Sacrifice
+
+Towering Rook
+
+Eternal Battlefield
+
+Regal War Room
+
+Tense Antechamber
+
+Black Leg Sanji
+
+Cause Trouble
+
+Delayed Slash
+
+The Mysterious Sogeking
+
+Pirate Hunter Zoro
+
+Awareness Training
+
+Tony Tony Chopper
+
+Devil Child Nico Robin
+
+Straw Hat Luffy
+
+Cat Burglar Nami
+
+The Grand Line
+
+Open Seas
+
+Port
+
+LANDFALL
+
+FOREVER BLUE
+
+Almost Out of Oxygen
+
+Commerson's Dolphin
+
+Giant Isopod
+
+Humpback Whales
+
+Leopard Seal
+
+Magu Tapa
+
+Sea Slug Studies
+
+Undersea Encounter
+
+Whale Shark
+
+Indo-Pacific Sailfish
+
+Cortica River
+
+Manoa Lai
+
+The Veiled Sea
+
+The Chase Eternal
+
+Jigen, the Marksman
+
+Rebecca, Renaissance Woman
+
+Ami, Prodigal Hacker
+
+Believe in the Thief
+
+Slash of the Zantetsuken
+
+GRAND HEIST
+
+Fujiko, Femme Fatale
+
+Goemon, the Blademaster
+
+Lupin, World's Greatest Thief
+
+Zenigata, Dedicated Agent
+
+Castle Cagliostro
+
+City Outskirts
+
+Secret Bolthole
+
+An Ideal World
+
+Gleaming Sigilyph
+
+Growing Tympoles
+
+Indomitable Boldore
+
+Lostlorn Forest
+
+N
+
+Nimbasa City
+
+N's Servine
+
+Prissy Purrloin
+
+Seed Bomb
+
+Strength of Ideals
+
+Tricky Zorua
+
+Spinning Klink
+
+Snack Time
+
+Chargestone Cave
+
+Mithrix, King of Nothing
+
+The Captain
+
+The Face of the Deep
+
+Having Fallen, It Was Blood
+
+The Loader
+
+MONSOON
+
+They Might as Well Be Dead
+
+The Artificer
+
+The Commando
+
+The Engineer
+
+Once in a Lullaby
+
+Commencement
+
+Compound Generator
+
+Void Fields
+
+KIRA'S JUSTICE
+
+Final Test
+
+I Win, L!
+
+Kira Cultists
+
+Kira's Task Force
+
+Light Yagami, Would-Be God
+
+L's Endgame
+
+Misa Amane, Kira Worshipper
+
+Ryuk, Spirit of Death
+
+L, Immature Investigator
+
+Matsuda Touta, Go-Getter
+
+Kira Investigation HQ
+
+Shinigami Realm
+
+Yellow Box Warehouse
+
+Caroline, Faithful Assistant
+
+Chell, Resourceful Subject
+
+Message from the Moon
+
+Resolve the Stalemate
+
+Resume Testing
+
+Weighted Companion Cube
+
+Wheatley, Moron Core
+
+Atlas & P-Body
+
+Rat Man
+
+Auto Turret
+
+Aperture Science
+
+Turret Opera
+
+Extended Relaxation Center
+
+PORTALS
+
+Blinking!
+
+Mobile Task Force
+
+Reconsider
+
+SCP-1762, Where The Dragons Went
+
+Site Lockdown
+
+SCP-2521
+
+SCP-049
+
+SCP-131, The Eye Pods
+
+Special Containment Procedure
+
+SCP-1048, Builder Bear
+
+Familiar Lake
+
+Site 13
+
+SURVEILLANCE
+
+Ghoul's Night
+
+Clawdeen Wolf
+
+Cleo De Nile
+
+Draculaura
+
+Frankie Stein
+
+Ghoulia Yelps
+
+Lagoona Blue
+
+Robecca Steam
+
+Spectra, Gossip Ghost
+
+Fangtastic Fashion
+
+Creepover
+
+Happy Haunt
+
+FREAKY, CHIC, AND FLY
+
+bad breakup
+
+Billie Eilish
+
+MONSTERMAU5
+
+Snailiens
+
+Girl's Fight Out
+
+Gustavo Rocque
+
+Kesha, Turning It Up
+
+Cici, Whatever She Wants
+
+Essence of the Week
+
+REFRACTION OF HABIT
+
+TURN IT UP!
+
+☆ P4R7Y 4N1M4L5 ☆
+
+Glowsquid Galaxy
+
+Snails on Venus
+
+Wuhu Island
+
+Brave The First Floor
+
+Fractal Mutation
+
+Hapless Tenants
+
+Hellen, Green-Thumb Maniac
+
+Joel, Tooth Child
+
+Leigh, Grinner
+
+Look Outside
+
+MONSTROSITIES
+
+Toxic Paintling
+
+Whiskey Flask
+
+Sam, Restless Recluse
+
+Elevator
+
+Infested Crawlspace
+
+Mutt's Fish And Chips
+
+The Rooftops
+
+Teeth Hell
+
+Alucard, Son of Dracula
+
+Death, The Grim Reaper
+
+Dracula, Lord of Darkness
+
+Franken, the Creature
+
+Have At You!
+
+MONSTER DANCE
+
+Phantom Bat
+
+Queen Medusa
+
+What a Horrible Night
+
+Mummy Men
+
+Vast Legions of Darkness
+
+Castle Clocktower
+
+Castle Courtyard
+
+Castle Keep Stairway
+
+Castlevania
+
+Lionblaze
+
+God
+
+Heather Mason
+
+James Sunderland
+
+Letters from the Dead
+
+Pyramid Head
+
+Sack the Apartment
+
+Under Valtiel's Watch
+
+Chained Door
+
+LISA
+
+Lisa Garland
+
+Endless House
+
+Inexplicable Location
+
+Silent Hill
+
+Breach() Transistor
+
+Crash() Transistor
+
+Equip()
+
+Help() Transistor
+
+Jaunt() Transistor
+
+Red, Lone Voice
+
+Royce, Fallen Architect
+
+Spoiling Cells
+
+Upgraded Unmaker
+
+Sybil, Envious Socialite
+
+The Transistor
+
+Prismatic Vista (Transistor)
+
+Anywhere (Transistor)
+
+Hydro Turret
+
+Plort Market
+
+Hunter Slime
+
+Tabby Slime
+
+Assimilating Tarr
+
+Pink Slime
+
+Rad Slime
+
+Feral Slam
+
+Quantum Gate Expedition
+
+Slime Vine
+
+Lebeau Ranch
+
+Mochi Manor
+
+Llanowar Reborn (SLM)
+
+The Slimeulation
+
+Glass Desert
+
+Beelzebub, the Great Fly
+
+Find Cerberus
+
+The Helltaker
+
+Journey to Hell
+
+Judgement, the High Prosecutor
+
+Justice, the Awesome Demon
+
+Lucifer, CEO of Hell
+
+Malina, the Sour Demon
+
+Modeus, the Eager Demon
+
+Pandemonica, the Tired Demon
+
+Zdrada, the CENSORED Demon
+
+Azazel, the Curious Angel
+
+The Depths of Hell
+
+Helltaker's Kitchen
+
+The Sin Machine
+
+ALL CAPS
+
+CZARFACE, the Iron Claw
+
+DANGERDOOM
+
+King Geedorah, the Third Rail
+
+Madvillainy
+
+Metal Face Mask
+
+MF DOOM, the Illest Villain
+
+Operation DOOMSDAY
+
+Quasimoto and DOOM
+
+Viktor Vaughn, Vaudeville Villain
+
+Sonic Switchboard
+
+Mural of DOOM
+
+New York
+
+Impending DOOM
+
+EXODIA
+
+Forbidden One's Left Leg
+
+Forbidden One's Right Leg
+
+Obliterating Blast
+
+Ultimate Necross Rebirth
+
+KaibaCorp Battle Box
+
+Millennium Seal
+
+Portal to the Shadow Realm
+
+Forbidden One's Left Arm
+
+Forbidden One's Right Arm
+
+A Game of Gods
+
+Heart of the Cards
+
+The Millennium Puzzle
+
+The Forbidden One
+
+A Little Lie Between Friends
+
+Catastrophic Mutation
+
+Glasp
+
+House Beneviento
+
+Marvin Branagh
+
+UMBRELLA CONSPIRACY
+
+Ada Wong
+
+Queen Semiramis
+
+Queen Zenobia
+
+Rachel Foley
+
+Rebecca Chambers
+
+William Birkin
+
+Jill Valentine, BSAA
+
+Raccoon Police Department
+
+HUNK, the 4th Survivor
+
+
+WITHER AWAY
+
+Black Rose Antechamber
+
+Blood Transfusion
+
+Domesticated Bloodletter
+
+Parasitic Pigeons
+
+Savor Each Morsel
+
+The Crimson Banquet Hall
+
+The Gray Apothecary
+
+Aristocrat Hemophile
+
+Cult Curator
+
+Eager Disciple
+
+Ravenbloom Conservatory
+
+Tides of Blood
+
+Crimson Awakener
+
+Lord Vladimir, Crimson Reaper
+
+Anna, the Huntress
+
+Evan's Trap
+
+Killer's Basement
+
+Killer's Shack
+
+Murder
+
+Adiris, Plagued Priestess
+
+Blightification
+
+Decimated Borgo
+
+Doctor's Dealings
+
+Kazan, Blighted by Rage
+
+Rin, Arisen Yamaoka
+
+Watched From Afar
+
+The Unknown
+
+Evan MacMillan, the Trapper
+
+DEAD BY DAYLIGHT
+
+SUBTERRANEAN SUN
+
+Atomic Fire
+
+Green-Eyed Monster
+
+Hell Raven
+
+Satori, Feared and Reviled
+
+Troublesome Oni
+
+Utsuho, Divine Flame
+
+Yuugi, Ex-Deva
+
+Zombie Fairy
+
+Koishi, Unthinking Impulse
+
+Rin, Spirit Carrier
+
+Yamame, Spider of Sickness
+
+Bridge to Hell
+
+Chireiden
+
+Former Hell
+
+Ancient Sickness
+
+Cornifer, Cartographer
+
+Dreamer's Gate
+
+Enter Pharloom
+
+Grand Mother Silk
+
+Hornet, Pharloom's Savior
+
+Infected Hopper
+
+Knight's Resting Place
+
+OF GOD AND VOID
+
+Remembered Everbloom
+
+The Hollow Knight
+
+The Knight, Returned Traveler
+
+The Radiance, Forgotten Light
+
+Overgrown Tomb (HK)
+
+The White Palace
+
+CASE CRACKING
+
+Captain Sonic the Hedgehog
+
+Detective Tails the Fox
+
+The Mirage Express
+
+Planted Blowdart
+
+Rally for Justice
+
+Suspicious Dysfunction
+
+Ticking Egg
+
+Tragedy on the Mirage Express
+
+Unlikely Attendant
+
+Robotic Arms
+
+Conductor's Car
+
+Lounge Car
+
+Archmother's Stronghold
+
+Cornerstore
+
+Seven, the Aspirant
+
+The Cursed Apple
+
+The Hideout
+
+Rem and Friends
+
+Sleepwalk
+
+Welcome to the Baroness
+
+Airdrop
+
+Austere Ascension
+
+The Doorman, Humble Servant
+
+Paige, the Bookworm
+
+Ivy, Savior of Harlem
+
+Study Up
+
+The Archmother, Austere
+
+DEVIL ARMS
+
+Mitis Assault
+
+Rev it Up!
+
+Devil May Cry
+
+Nico's Armory
+
+The Devil's Tower
+
+Nevan, Lightning Contralto
+
+Voltaic Black Knight
+
+Balrog, Argosax's Second
+
+Berial, Fortuna Terror
+
+Nico Goldstein
+
+Nero, High Roller
+
+Dante, Devil Trigger
+
+V-Divider
+
+STAR SIGNS
+
+Brave Leo
+
+Resolute Sagittarius
+
+Enigmatic Capricorn
+
+Gregarious Gemini
+
+Pure-Hearted Virgo
+
+Stubborn Taurus
+
+Fearless Aries
+
+Dreams of Pisces
+
+Blessing of Cancer
+
+Judgement of Libra
+
+Grotto of Scorpio
+
+Palace of Aquarius
+
+The Night Sky
+
+Ami Mizuno
+
+Epona
+
+Link, Hero of Time
+
+Navi
+
+Saria, Secret Sage
+
+The Spirit Temple
+
+The Fire Temple
+
+The Forest Temple
+
+The Shadow Temple
+
+The Water Temple
+
+Ocarina
+
+Dark Dungeon
+
+Humble Abode
+
+TEMPLE DIVING
+
+Lamp Effect
+
+Uboa
+
+Eye-Palm Effect
+
+Knife Effect
+
+Madotsuki, Dream Walker
+
+Witch Effect
+
+Kyukkyu-kun
+
+Monoko
+
+Seccom Masada-sensei
+
+Takofuusen
+
+Distant Vista
+
+The Dream World
+
+WANDER
+
+Card Kingdom
+
+Hysterical Outburst
+
+Misstitched Alice
+
+Out of House and Home
+
+Siren Alice
+
+Wonderland
+
+Royal Reflection
+
+Royal Suit Alice
+
+Silk Maiden Alice
+
+The Mad Hatter
+
+The Cheshire Cat
+
+Alice Liddell
+
+INTO MADNESS
+
+Chain Chomp
+
+Princess Party
+
+Princess Rosalina
+
+Rainbow Road
+
+The Mushroom Kingdom
+
+Unexpected Toad
+
+Fire Flower
+
+Lady Bow
+
+Luigi, Cowardly Companion
+
+Princess Daisy
+
+Super Mushroom
+
+Mario, Pesky Plumber
+
+Princess Toadstool, Peach
+
+IN ANOTHER CASTLE
+
+Abstract
+
+Expose
+
+Kinger
+
+The Amazing Digital Circus
+
+Torment Nexus
+
+Gangle
+
+Jax
+
+Pomni
+
+Ragatha
+
+Zooble
+
+Put You Freaks In Your Place
+
+Ribbit
+
+CAINE
+
+ADVENTURE!
+
+Connie Maheswaran
+
+Crack the Diamond
+
+It's Over Isn't It
+
+Mission Dispatch
+
+Prismatic Vista (SU)
+
+Steven Universe
+
+Stunning Save
+
+Warp Pad
+
+Amethyst, Wild Shapeshifter
+
+Pearl, Loyal Renegade
+
+You're My Prisoner Now
+
+Garnet, Stoic Seer
+
+. . . AND STEVEN!
+
+Ghiaccio, Icy Berserker
+
+Italy
+
+La Squadra Hideout
+
+Pesci, Wannabe Gangster
+
+Severed and Sent
+
+Fatal Charm
+
+Formaggio, Slick Sneak
+
+Illuso, Mirror Man
+
+Melone, Distant Admirer
+
+Prosciutto, Hardened Mafioso
+
+Risotto, Vengeful Leader
+
+La Squadra's Betrayal
+
+SABOTEURS
+
+Freddy Fazbear's Pizza
+
+Indoor Attraction
+
+Joy of Creation
+
+Retro Office
+
+Springlock Failure
+
+Vanny
+
+Ballora
+
+Dreadbear
+
+Lefty
+
+Scrap Baby
+
+The Puppet
+
+The Mimic
+
+William Afton
+
+LIVING METAL
+
+Abbey Road
+
+Bigger than Jesus
+
+Communal Bath
+
+Fifth Beatle
+
+Magical Mystery Tour
+
+Duet Performance
+
+George Harrison, Beatle
+
+John Lennon, Beatle
+
+Paul Mccartney, Beatle
+
+Ringo Starr, Beatle
+
+Band Manager Bri
+
+Yoko Ono, Avant Gardist
+
+BANDING
+
+Darkners Live!
+
+Quiz Sphinx
+
+Recruit Guys or Shoot Guys
+
+The Green Room
+
+TV World
+
+Cooking Show
+
+Couch Cliffs
+
+ERAM, Shadow Mantle Holder
+
+Lanino and Elnina
+
+Quiz Show Studio
+
+Ramb, Power Strip
+
+Shuttah, Light of the Party
+
+Mr. Ant Tenna
+
+Susie, Mad Drummer Girl
+
+Areobotanists
+
+Areoforming Surveyor
+
+Burroughs
+
+Nissei Family
+
+Red Mars
+
+Rugged Backpackers
+
+Sabotage
+
+VIRIDITAS
+
+Coyote, the Hundred and First
+
+Green Mars
+
+Phobos, Radicalized
+
+Rover Caravan
+
+Summit at Peacock Mountain
+
+Areophany
+
+Hiroko Ai
+
+GREAT FAIRY WARS
+
+Cirno, Fairy of the Lake
+
+Cirno, Ice Fairy
+
+Cirno, The Strongest Fairy
+
+Clownpiece, Star-Spangled Pierrot
+
+Daiyousei, Greater Fairy
+
+Eternity Larva, Scattering
+
+Ice Tornado
+
+Letty Whiterock
+
+Minus K
+
+Team Tech Fairy Overdrive
+
+Cirno's Igloo
+
+Misty Lake
+
+Ben Tennyson
+
+Diamondhead
+
+Freak Out
+
+Heatblast
+
+It's Hero Time
+
+IT'S HERO TIME!
+
+Ripjaw's Bite
+
+Search the Omnitrix
+
+XLR8
+
+Four Arms
+
+Wildmutt
+
+Meteor Crashsite
+
+Overnight Reststop
+
+Plumber Investigation Site
+
+Heir to the Stars
+
+Beat Into Shape
+
+His Majesty's Bulwark
+
+His Majesty's Guards
+
+His Majesty's Swordbearers
+
+The Regent
+
+Solar Strike
+
+Wrought In War
+
+Tanx, Khimera King
+
+Heirloom Hammer
+
+An Orb to Ponder
+
+The Sealed Throne
+
+The Spire
+
+A Whole New World
+
+Captain Olimar
+
+Gobble Indiscriminately
+
+Purple Pikmin
+
+Swarm!
+
+Throw!
+
+Yellow Pikmin
+
+Blue Pikmin
+
+Red Pikmin
+
+White Pikmin
+
+Mumuta
+
+Onion
+
+Mysterious Dungeon
+
+PNF-404
+
+LITTLE ARMY
+
+Rose Quartz
+
+
+VERSION 57 CHANGELOG
 ====================
 
 Ocarina added.
