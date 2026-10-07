@@ -1,4 +1,44 @@
-﻿VERSION 61 CHANGELOG
+﻿VERSION 62 CHANGELOG
+====================
+
+
+Anaerobic Lanius removed.
+Anti-Ship Battery removed.
+Engi Mechanic removed.
+FTL Jump removed.
+Spaceship Captain removed.
+Sturdy Rockman removed.
+Teleport In removed.
+Zoltan Crewmate removed.
+Bloodthirsty Mantis removed.
+Kestrel Cruiser removed.
+Exit Beacon removed.
+Mining Colony removed.
+Nebula Cloud removed.
+Store Station removed.
+Uncharted Planet removed.
+FEDERATION removed.
+Junk (FED) removed.
+Robot removed.
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Lagoona Blue
+rules_text: [i][i]Vivid[/i][/i] — When Lagoona enters, mill X cards, where X is the number of colors among permanents you control. You may put a card from among them into your hand. If you do, you lose 2 life. => [i][i]Vivid[/i][/i] — When Lagoona enters, mill X cards, where X is the number of colors among permanents you control. You may put a noncreature card from among them into your hand. If you do, you lose 2 life.
+
+Enhanced Security
+rules_text: When Enhanced Security enters, surveil 1.
+If you would surveil a number of cards, surveil that many cards plus two instead.
+{X}{3}, Exile Enhanced Security: Exile X cards from your graveyard. If you do, return each nonland permanent with mana value X or less to its owners' hand. Activate only as a sorcery. => When Enhanced Security enters, surveil 1.
+If you would surveil a number of cards, surveil that many cards plus two instead.
+{X}{U}, Exile Enhanced Security: Exile X cards from your graveyard. If you do, return each nonland permanent with mana value X or less to its owners' hand. Activate only as a sorcery.
+
+
+VERSION 61 CHANGELOG
 ====================
 
 WITHER AWAY added.
