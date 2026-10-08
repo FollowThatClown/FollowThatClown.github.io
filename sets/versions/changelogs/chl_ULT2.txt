@@ -1,4 +1,36 @@
-﻿VERSION 65 CHANGELOG
+﻿VERSION 66 CHANGELOG
+====================
+
+
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Gregarious Gemini
+rules_text: Bestow {4}{W}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+When you cast this spell, copy it. If it's an Aura, you may choose new targets for the copy. [i](The copy becomes a token. It's an Aura if it was bestowed.)[/i]
+Flying
+Enchanted creature gets +1/+1 and has flying. => Bestow {4}{W}{W}
+When you cast this spell, copy it. If this spell was bestowed, you may choose new targets for the copy. [i](It becomes an Aura token.)[/i]
+Flying
+Enchanted creature gets +1/+1 and has flying.
+
+Pure-Hearted Virgo
+cost: {3}{W} => {3}{W}{W}
+rules_text: Flying
+When Virgo enters, starting with you, each player chooses a creature that isn't enchanted or an enchantment. Exile those creatures until Virgo leaves the battlefield. => Flying, ward {2}
+When Virgo enters, starting with you, each player chooses a creature that isn't enchanted or an enchantment. Exile those creatures until Virgo leaves the battlefield.
+
+Stubborn Taurus
+rules_text: Ward {2}
+Whenever this creature attacks or blocks, if it's modified, you gain 2 life. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Ward {2}
+Whenever this creature attacks or blocks, you gain 2 life if it's modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+
+VERSION 65 CHANGELOG
 ====================
 
 Treasure (RIM) added.
