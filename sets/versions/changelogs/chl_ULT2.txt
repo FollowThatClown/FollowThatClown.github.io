@@ -1,4 +1,303 @@
-﻿VERSION 64 CHANGELOG
+﻿VERSION 65 CHANGELOG
+====================
+
+Treasure (RIM) added.
+Roll Up the Showdown! added.
+WITHER AWAY added.
+Hemoplague added.
+
+Return the Stars! removed.
+Roll Up the Battle! removed.
+LISA removed.
+Phobos, Radicalized removed.
+Treasure removed.
+
+Quantum Gate Expedition
+rules_text: Mill a card, then return a permanent card from your graveyard to your hand. You may put a land card from your hand onto the battlefield. => Mill three cards, then return a permanent card from your graveyard to your hand. You may put a land card from your hand onto the battlefield tapped.
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Formaggio, Slick Sneak
+rules_text: Vigilance
+Whenever you attack, up to one target creature gets -1/-0 and gains skulk until end of turn. [i](It can't be blocked by creatures with greater power.)[/i] => Whenever Formaggio attacks, target creature gets -1/-0 and gains skulk until end of turn. [i](That creature can't be blocked by creatures with greater power.)[/i]
+flavor_text: [i]“I shrink things. The other guys say that ability's useless. But whether something's useless or useful . . . I guess that's up to how you use it.”[/i] => [i]“I shrink things. The other guys say that ability's useless. But whether something's useless or useful . . . that's up to how you use it.”[/i]
+pt: 2/1 => 2/2
+
+Illuso, Mirror Man
+rules_text: Ward {2}
+When Illuso enters, choose up to one target creature. For as long as you control Illuso, the chosen creature can't block or be blocked, except by Illuso. => When Illuso enters, choose up to one target creature. For as long as you control Illuso, the chosen creature can't block or be blocked, except by Illuso.
+
+Darkners Live!
+rules_text: When this enchantment enters, create two 1/1 black Shade creature tokens.
+{2}{R}{R}, Sacrifice this enchantment: Choose one. Activate only as a sorcery.
+• Create two 1/1 black Shade creature tokens.
+• This enchantment deals 3 damage to target player. => When this enchantment enters, create two 1/1 black Shade creature tokens.
+{3}{R}, Sacrifice this enchantment: Choose one. Activate only as a sorcery.
+• Create two 1/1 black Shade creature tokens.
+• This enchantment deals 3 damage to target player.
+
+Quiz Sphinx
+rules_text: Flash
+When this creature enters, choose one —
+• Tap target creature.
+• Untap target creature.
+• Draw a card, then discard a card. => Flash
+When this creature enters, choose one —
+• Tap or untap target creature.
+• Draw a card, then discard a card.
+
+TV World
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color. This ability costs {1} less if this land entered this turn. => When TV World enters, sacrifice it. Search your library for a basic land card, put it onto the battlefield, then shuffle. You lose 1 life.
+
+Lanino and Elnina
+flavor_text: [i]“The weather . . . always sticks together.”[/i] => [i]“The weather always sticks together.”[/i]
+
+Quiz Show Studio
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{3}, {T}, Sacrifice this land: Choose one — 
+• Draw a card.
+• Create a 1/1 black Shade creature token.
+• Target creature you control gets +1/+0 and gains haste until end of turn. => This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{2}, {T}, Sacrifice this land: Choose one. Activate only as a sorcery.
+• Draw a card.
+• Create a 1/1 black Shade creature token.
+
+Shuttah, Light of the Party
+rules_text: Trample
+Whenever you face a dilemma, put a +1/+1 counter on Shuttah. [i](You face a dilemma as you choose one or more modes for a spell or ability.)[/i] => Trample
+Whenever you face a dilemma, put a +1/+1 counter on Shuttah. This ability triggers only once each turn. [i](You face a dilemma as you choose one or more modes for a spell or ability.)[/i]
+
+Mr. Ant Tenna
+rules_text: Whenever you face a dilemma, Mr. “Ant” Tenna deals 2 damage to each opponent.
+When Tenna enters, choose one —
+• [i]Physical Challenge[/i] — Creatures you control get +1/+0 and gain haste until end of turn.
+• [i]Marvelous Mystery Board[/i] — Discard your hand, then draw three cards. => Whenever you face a dilemma, Mr. “Ant” Tenna deals 2 damage to each opponent.
+When Tenna enters, choose one —
+• [i]Physical Challenge[/i] — Creatures you control get +2/+0 until end of turn.
+• [i]Marvelous Mystery Board[/i] — Discard your hand, then draw three cards.
+
+Rover Caravan
+rules_text: Vigilance, haste
+When Rover Caravan enters the battlefield, if you control two or more tapped creatures, it becomes an artifact creature until end of turn.
+Whenever Rover Caravan attacks, put a +1/+1 counter on target tapped creature.
+Crew 3 => Vigilance, haste
+When Rover Caravan enters the battlefield, if you control two or more tapped creatures, it becomes an artifact creature until end of turn.
+Crew 3
+flavor_text: [i][/i] => [i]Rovers became popular as mobile homesteads, especially among Bedouin settlers.[/i]
+
+Sabotage
+rules_text: Teamwork 4 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 4 or more.)[/i]
+Choose one. If the spell was cast using teamwork, you may choose both instead.
+• Target creature you control gets +2/+2 and gains trample until end of turn.
+• Destroy target artifact, enchantment, or creature with flying. => Teamwork 4 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 4 or more.)[/i]
+Choose one. If the spell was cast using teamwork, you may choose both instead.
+• Target creature gets +3/+3 until end of turn.
+• Destroy target artifact, enchantment, or creature with flying.
+
+Green Mars
+rules_text: Green Mars enters tapped unless you control a basic land.
+{T}: Add {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Tapped creatures you control get +1/+1. => Green Mars enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}: Tap an untapped creature you control: Put charge counters equal to its power on this Planet. Activate only as a sorcery.
+[level 6+] Tapped creatures you control get +1/+1.
+special_text: Green Mars enters tapped unless you control a basic land.
+{T}: Add {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Tapped creatures you control get +1/+1. => Green Mars enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}: Tap an untapped creature you control: Put charge counters equal to its power on this Planet. Activate only as a sorcery.
+[level 6+] Tapped creatures you control get +1/+1.
+
+Burroughs
+rules_text: Burroughs enters the battlefield tapped unless you control a basic land.
+{T}: Add {G}.
+{T}, Tap an untapped creature you control: Add one mana of any color. => Burroughs enters the battlefield tapped unless you control a basic land.
+{T}: Add {G}.
+{T}{1}, Tap an untapped creature you control: Add one mana of any color.
+
+Hiroko Ai
+rules_text: Other tapped creatures you control have hexproof.
+At the beginning of your end step, draw a card if you control two or more tapped creatures. => At the beginning of your end step, draw a card if you control two or more tapped creatures.
+flavor_text: [i][/i] => [i]A very spiritual person, Hiroko was an oddity among the First Hundred from the beginning. While initially overlooked, her influence would only grow with time.[/i]
+pt: 2/2 => 1/5
+
+Coyote, the Hundred and First
+rules_text: Trample
+Whenever a creature you control becomes tapped, put a +1/+1 counter on Coyote.
+Forestcycling {2} => Trample
+Whenever another creature you control becomes tapped, if this is the first time this ability has triggered this turn, put a +1/+1 counter on Coyote. Otherwise, Coyote gets +1/+1 until end of turn.
+Forestcycling {2}
+flavor_text: [i]In the first years, rumors of a ghost abounded. This “ghost” would later become one of the most influential of the First Hundred.[/i] => [i][/i]
+pt: 3/4 => 4/4
+
+Areophany
+cost: {5}{G}{G}{G} => {6}{G}{G}{G}
+
+Colony Collapse
+cost: {G} => 
+
+Mechanoid Scyther
+
+Caravan Trail
+rules_text: When this land enters, sacrifice it. Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+{3}, Exile this card from your graveyard: Discard a card, then draw a card. => When this land enters, sacrifice it. Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+{3}, Exile this card from your graveyard: Draw two cards, then discard two cards. Activate only as a sorcery.
+
+Uncharted Rimworld
+rules_text: {T}: Add {C}.
+{1}, {T}: Choose one that hasn't been chosen —
+• [i]Crashlanded — [/i]Surveil 1.
+• [i]Lost Tribe —[/i] This land gains all basic land types.
+• [i]Rich Explorer — [/i]Create a tapped Treasure token. => {T}: Add {C}.
+{1}, {T}: Choose one that hasn't been chosen —
+• [i]Crashlanded — [/i]Surveil 1.
+• [i]Lost Tribe —[/i] This land gains all basic land types. [i](This effect doesn't end.)[/i]
+• [i]Rich Explorer — [/i]Create a tapped Treasure token.
+
+Rare Thrumbo
+flavor_text: [i]Some believe thrumbos are the wisest creatures in existence. They simply choose not to speak.[/i] => [i]Some believe thrumbos are the wisest creatures of all, and that they simply choose not to speak.[/i]
+
+Warqueen, Mechanical Mind
+rules_text: Basic landcycling {2}
+[+1]: Sacrifice a permanent. Draw two cards.
+[-2]: Create a 3/3 colorless Construct artifact creature token.
+[-6]: Create Mechlink, a legendary colorless artifact token with “Creatures you control get +1/+1. If they're artifacts, they get +2/+2 instead.” => Basic landcycling {2}
+[+1]: Sacrifice a permanent. Draw two cards.
+[-2]: Create a 3/3 colorless Construct artifact creature token.
+[-6]: Create Mechlink, a legendary colorless artifact token with “Creatures you control get +1/+1. If they're artifact creatures, they get an additional +1/+1.”
+special_text: Basic landcycling {2}
+[+1]: Sacrifice a permanent. Draw two cards.
+[-2]: Create a 3/3 colorless Construct artifact creature token.
+[-6]: Create Mechlink, a legendary colorless artifact token with “Creatures you control get +1/+1. If they're artifacts, they get +2/+2 instead.” => Basic landcycling {2}
+[+1]: Sacrifice a permanent. Draw two cards.
+[-2]: Create a 3/3 colorless Construct artifact creature token.
+[-6]: Create Mechlink, a legendary colorless artifact token with “Creatures you control get +1/+1. If they're artifact creatures, they get an additional +1/+1.”
+
+Mechlink
+rules_text: Creatures you control get +1/+1. If they're artifacts, they get +2/+2 instead. => Creatures you control get +1/+1. If they're artifact creatures, they get an additional +1/+1.
+
+Archmother's Stronghold
+rules_text: This land enters tapped unless you pay {1}.
+[i]Ascendant — [/i]{T}: Add one mana of any color. You lose 1 life unless there are three or more counters among creatures you control. => Archmother's Stronghold enters tapped.
+[i]Ascendant — [/i]{T}: Add one mana of any color. You lose 1 life unless there are three or more counters among creatures you control.
+
+Seven, the Aspirant
+rules_text: Flying, trample
+[i]Converge[/i] — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it. => Flying
+[i]Converge[/i] — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+
+Katamari
+
+Pigeon Town
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {G}.
+{3}{G}, {T}: Roll 1. This ability costs {2} less to activate if you control your Katamari. [i](Put a +1/+1 counter on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i] => This land enters tapped unless you control a basic land.
+{T}: Add {G}.
+{3}{G}, {T}: Roll 1. This ability costs {2} less to activate if you control your Katamari. [i](Put a +1/+1 counter on your Katamari. If you don't control one, create a 0/0 Katamari creature token with trample first.)[/i]
+
+Return the Stars!
+
+Roll Up Colossi!
+rules_text: Flash
+When this enchantment enters, destroy up to one target artifact, enchantment, or creature with flying, then roll 2. [i](Put two +1/+1 counters on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i]
+Your Katamari has reach. => Flash
+When this enchantment enters, destroy up to one target artifact, enchantment, or creature with flying, then roll 2. [i](Put two +1/+1 counters on your Katamari. If you don't control one, create a 0/0 Katamari creature token with trample first.)[/i]
+Your Katamari has reach.
+
+Roll Up History!
+rules_text: Surveil 2, then roll 2. [i](Put two +1/+1 counters on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i]
+Flashback {4}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Surveil 2, then roll 2. [i](Put two +1/+1 counters on your Katamari. If you don't control one, create a 0/0 Katamari creature token with trample first.)[/i]
+Flashback {4}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Warrior (KD)
+type: Token Creature — Warrior => Token Creatue — Warrior
+
+Inch-High Prince
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, roll 1. [i](Put a +1/+1 counter on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i]
+{4}{G}, {T}: Roll 3. Activate only as a sorcery. => [i]Landfall[/i] — Whenever a land you control enters, roll 1. [i](Put a +1/+1 counter on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i]
+{4}{G}: Roll 3. Activate only as a sorcery.
+
+Roll Up Fantasy!
+cost: {2}{G} => {1}{G}
+rules_text: When this enchantment enters and whenever you cast a noncreature spell, roll 1. Then draw a card if your Katamari has power 5 or greater. This ability triggers only once each turn. [i](To roll 1, put a +1/+1 counter on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i] => When this enchantment enters and whenever you cast a noncreature spell, roll 1. Then draw a card if your Katamari has power 5 or greater. This ability triggers only once each turn. [i](To roll 1, put a +1/+1 counter on your Katamari. If you don't control one, create a 0/0 Katamari creature token with trample first.)[/i]
+
+Royal Rainbow!
+cost: {G} => {2}{G}
+rules_text: Choose one— 
+• [i]Start the Rolling — [/i]Roll 1.
+• [i]Send Things to Earth —[/i] Target creature you control gets +2/+2 until end of turn.
+• [i]Earthlings Are Helpful — [/i]Your Katamari fights target creature you don't control. => Choose one— 
+• [i]Start the Rolling — [/i]Roll 2.
+• [i]Send Things to Earth —[/i] Target creature gets +3/+3 until end of turn.
+• [i]Earthlings Are Helpful — [/i]Target creature you control deals damage equal to its power to another target creature.
+
+Roll Up the World!
+rules_text: When this enchantment enters, sacrifice any number of creatures. Roll X, where X is their power. 
+Your Katamari has ward {3}.
+[i][i]Channel[/i] — [/i]{G}, discard this card: Target creature gains hexproof until end of turn. => Flash
+When this enchantment enters, sacrifice your Katamari and any number of other creatures. Roll X, where X is their total power. 
+Your Katamari has ward {3}.
+[i]Channel[/i] — {G}, Discard this card: Target creature gains hexproof until end of turn.
+
+The Queen Of All Cosmos
+rules_text: Reach, vigilance
+Your Katamari has reach and vigilance.
+Whenever you attack with two or more creatures, roll 1. [i](Put a +1/+1 counter on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i] => Reach, vigilance
+Your Katamari has reach and vigilance.
+Whenever you attack with two or more creatures, roll 1. [i](Put a +1/+1 counter on your Katamari. If you don't control one, create a 0/0 Katamari creature token with trample first.)[/i]
+pt: 4/4 => 4/5
+
+The King Of All Cosmos
+rules_text: Reach, trample
+Whenever The King Of All Cosmos enters or attacks, choose one— 
+• [i]Send the Prince[/i] — Roll 3.
+• [i]Make A Star — [/i]Sacrifice your Katamari. If you do, draw cards equal to its power, then discard two cards.
+Forestcycling {2} => Reach, trample
+Whenever The King Of All Cosmos enters or attacks, choose one— 
+• [i]Send the Prince[/i] — Roll 3.
+• [i]Make A Star — [/i]Sacrifice your Katamari. Draw cards equal to its power, then discard three cards.
+Forestcycling {2}
+
+Black Rose Antechamber
+rules_text: This land enters tapped. As it enters, choose a color other than black.
+When this land enters, surveil 1.
+{T}: Add {B} or one mana of the chosen color. => This land enters tapped. As this land enters, choose a color other than black.
+When this land enters, surveil 1.
+{T}: Add {B} or one mana of the chosen color.
+
+The Gray Apothecary
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{2}{B}, {T}: Remove any number of counters from target creature you control. You gain that much life. => This land enters tapped unless you blight 1. [i](Put a -1/-1 counter on a creature you control.)[/i]
+{T}: Add {B}.
+{2}{B}, {T}: Remove any number of counters from target creature you control. You gain that much life.
+
+Eager Disciple
+rules_text: During your turn, this creature has lifelink.
+When a counter is put on this creature for the first time each turn, this creature deals 1 damage to target opponent. => Remove a counter from this creature: It deals 1 damage to target player and you gain 1 life. Activate only once each turn.
+flavor_text: [i]“I'll try anyone once.”
+—Clara, Eager Disciple[/i] => [i]“I'll try anyone once.”[/i]
+
+Lord Vladimir, Crimson Reaper
+rules_text: Menace, lifelink
+Ward—Pay 5 life.
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Whenever Lord Vladimir attacks, he deals 1 damage to each other creature or planeswalker. => Ward—Pay 5 life
+Menace, lifelink
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Whenever Lord Vladimir attacks, he deals 1 damage to each other creature.
+
+
+VERSION 64 CHANGELOG
 ====================
 
 
