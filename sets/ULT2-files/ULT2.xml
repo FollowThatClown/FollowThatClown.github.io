@@ -15355,7 +15355,7 @@ If you would surveil a number of cards, surveil that many cards plus two instead
 		<card>
 			<name>Ghiaccio, Icy Berserker</name>
 			<text>Flash
-{1}{U}, Discard Ghiaccio: Draw two cards, then discard two cards. For each nonland card discarded this way, tap target creature.</text>
+{2}{U}, Discard Ghiaccio: Draw two cards, then discard two cards. For each nonland card discarded this way, tap target creature.</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2-files/img/880.png" num="125">ULT2</set>
 			<prop>
 				<layout>normal</layout>
