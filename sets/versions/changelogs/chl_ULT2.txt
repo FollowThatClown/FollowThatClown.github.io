@@ -11953,6 +11953,2397 @@ Monkey Token (RAIN)
 Mutant Token (RAIN)
 
 
+VERSION 4 CHANGELOG
+====================
+
+God added.
+Heather Mason added.
+James Sunderland added.
+Letters from the Dead added.
+Pyramid Head added.
+Sack the Apartment added.
+Under Valtiel's Watch added.
+Chained Door added.
+Lisa Garland added.
+Endless House added.
+Inexplicable Location added.
+Silent Hill added.
+Hydro Turret added.
+Plort Market added.
+Hunter Slime added.
+Tabby Slime added.
+Assimilating Tarr added.
+Pink Slime added.
+Rad Slime added.
+Feral Slam added.
+Quantum Gate Expedition added.
+Slime Vine added.
+Lebeau Ranch added.
+Mochi Manor added.
+Llanowar Reborn (SLM) added.
+The Slimeulation added.
+Glass Desert added.
+Mumuta added.
+Mysterious Dungeon added.
+Glitch Slime added.
+Combine and Conquer added.
+Fan (FLA) added.
+Nightmare (SLH) added.
+Blood added.
+Clue (HOUSE) added.
+Food (OFF) added.
+Junk added.
+Boss Fight Reminder added.
+Boss Fight Reminder added.
+Princess Zelda added.
+Shiek added.
+Boss Fight Reminder added.
+
+Kensuke removed.
+Dreamer's Gate removed.
+Clue ULT2HOUSE removed.
+Food removed.
+
+Der Fluchschütze
+rules_text: Haste
+Whenever Der Fluchschütze attacks, you may sacrifice another creature. If you do, he deals 3 damage to target opponent.
+Basic landcycling {2} => Haste
+Whenever Der Fluchschütze attacks, you may sacrifice another creature. If you do, he deals 3 damage to target opponent.
+Mountaincycling {2}
+
+Discipline
+
+Focus Fire
+
+Front of the Smoke War
+
+Graze the Grass
+
+Liu Assoc. Footsoldier
+
+Old G. Corp Footsoldier
+
+R. Corp 4th Pack Rabbit
+
+The 4th Front of the Smoke War
+
+The City
+
+The Smoke War
+
+Valiant Thumb Sodalto
+
+Automated Flame-Tank
+
+From Chin To Tail
+
+Full Moon Gathering
+
+Hawkfrost
+
+Jayfeather
+
+Squirrelflight
+
+Starclan's Judgement
+
+The Moonpool
+
+Tigerstar
+
+WARRIORS
+
+Silverstream
+
+Yellowfang
+
+Cheep Cheep
+
+Dry Bones
+rules_text: World 8 — This creature gets +2/+2 as long as you control eight or more lands.
+{2}{BG}: Return this card from your graveyard to your hand. => [i]World 8[/i] — This creature gets +2/+2 as long as you control eight or more lands.
+{2}{BG}: Return this card from your graveyard to your hand.
+
+Hammer Smash
+rules_text: Target creature you control gets +1/+0 until end of turn, then deals damage equal to its power to target creature you don't control.
+World 8 — If you control eight or more lands, draw a card. => Target creature you control gets +1/+0 until end of turn, then deals damage equal to its power to target creature you don't control.
+[i]World 8[/i] — If you control eight or more lands, draw a card.
+
+Junior, Royal Painter
+rules_text: Trample
+Whenever Junior attacks, mill two cards. Until end of turn, you may play land cards from your graveyard. 
+World 8 — Once during each of your turns, as long as you control eight or more lands, you may cast a creature spell from your graveyard. If you do, it enters with a finality counter on it. => Trample
+Whenever Junior attacks, mill two cards. You may play land cards from your graveyard this turn.
+[i]World 8[/i] — Once during each of your turns, as long as you control eight or more lands, you may cast a creature spell from your graveyard. If you do, it enters with a finality counter on it.
+
+Kamek, Peerless Magician
+rules_text: Flash
+Reach
+World 8 — {3}{G}{G}, Exile Kamek from your graveyard: One or two target creatures each get +3/+3 and gain trample until end of turn. Activate only as a sorcery and only if you control eight or more lands. => Flash
+Reach
+[i]World 8[/i] — {3}{G}{G}, Exile Kamek from your graveyard: One or two target creatures each get +3/+3 and gain trample until end of turn. Activate only as a sorcery and only if you control eight or more lands.
+
+KOOPA KINGDOM
+cost:  => {G}
+
+Level Select
+rules_text: {T}: Choose a color.
+{T}: Add one mana of one of the chosen colors. => {T}: Choose a color.
+{T}: Add one mana of the last chosen color.
+
+Piranhic Growth
+
+Quickfoot Koopas
+
+Bowser's Castle
+
+Clan Territory
+
+Rusty
+
+Fireheart
+
+Bowser, Koopa King
+
+Goomba Tower
+rules_text: Reach, vigilance
+World 8 — As long as you control eight or more lands, this creature gets +2/+2. => Reach, vigilance
+[i]World 8[/i] — As long as you control eight or more lands, this creature gets +2/+2.
+
+Welcoming World
+
+Send Forth
+rules_text: Target creature gets +2/+2 until end of turn.
+World 8 — {2}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery and only if you control eight or more lands. => Target creature gets +2/+2 until end of turn.
+[i]World 8[/i] — {2}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery and only if you control eight or more lands.
+
+Path to the Princess
+
+DIAGNOSTICS
+cost:  => {U}
+
+Doctor's Office
+
+Diagnostics Team
+
+Misdiagnose
+rules_text: Choose one — 
+• Counter target spell unless its controller pays {2}. If they do, investigate.
+• Target creature gets -4/-0 until end of turn. Investigate. => Counter target spell unless its controller pays {2}. If they do, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Slack Off
+
+Teaching Hospital
+rules_text: Teaching Hospital enters tapped unless you pay 2 life.
+{T}: Add {U}.
+{3}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Teaching Hospital enters tapped unless you control a basic land.
+{T}: Add {U}.
+{4}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Withdrawal Symptoms
+rules_text: Enchant creature
+When this Aura enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you draw your second card each turn, tap enchanted creature and put a stun counter on it. => Enchant creature
+When this Aura enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you draw a card, tap enchanted creature. It loses all abilities until end of turn.
+
+Operating Theater
+rules_text: Operating Theater enters tapped unless you control two or fewer other lands.
+{T}: Add {U}.
+{1}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've drawn two or more cards this turn. => {T}: Add {C}.
+{T}, Pay 1 life: Add {U}.
+{1}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've drawn two or more cards this turn.
+
+James Wilson, M.D.
+rules_text: Flash
+When James Wilson enters, put a +1/+1 counter on target creature. If you've drawn two cards this turn, put two +1/+1 counters on that creature instead. => Flash
+When James Wilson, M.D. enters, you may return another permanent you control to its owner's hand. If it was a token, draw a card.
+pt: 1/1 => 2/2
+
+Lisa Cuddy, M.D.
+
+Search the Home
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and can't be blocked.
+Whenever enchanted creature deals combat damage to a player, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Flash
+Enchant creature
+Enchanted creature gets +1/+2 and can't be blocked.
+Whenever enchanted creature deals combat damage to a player, investigate.
+
+House, M.D.
+rules_text: Vigilance
+Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When House enters or attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Vigilance
+When House enters or attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Eric Foreman, M.D.
+
+Act Big
+
+Diagnostics Breakout
+
+Directive A-113
+
+RE-CYCLING
+
+AUTO, Axiom Pilot
+
+The Axiom
+
+EVE, Endeared Evaluator
+
+Fire Extinguisher
+
+GO-4, Gopherbot
+
+M-O, Scrutinous Janitor
+
+SECUR-T Detail
+
+WALL-E, Recycling Scavenger
+
+Ash Barrens (WLE)
+
+Axiom Grounds
+
+Buy N Large Ruins
+
+Mountainous Junkheaps
+
+Ramshackle Home
+
+TOTAL LIBERATION
+cost:  => {R}
+
+Automaton Hulk
+
+Automaton Stronghold
+
+Bile Titan
+
+Terminid Hole
+
+Explosive End
+
+Helldiver Kill-Counter
+rules_text: Reach
+[i]Bloody — [/i]Whenever a creature is dealt excess damage during your turn, this creature deals 1 damage to target player. This ability triggers only once each turn. => Reach
+[i]Bloody — [/i]Whenever a creature is dealt excess damage during your turn, this creature deals 1 damage to each opponent.
+
+Helldiver Point-Man
+
+Helldiver Shieldbearer
+
+Helldiver Veteran
+
+Illuminate Harvester
+
+Illuminate-Controlled City
+
+Orbital Laser Sweep
+
+Overwhelming Firepower
+
+Reinforce
+
+Super Earth's Finest
+
+Liberated Territories
+
+Staging Ground
+
+Complications
+
+Crash Site
+
+Exponential Expansion
+cost:  => {U}
+
+Logistics Train
+
+Power Lines
+
+Repel the Locals
+
+Scramble for Solutions
+
+Towering Spidertron
+
+The Factory Must Grow
+
+Assembly Line
+
+Nauvis
+
+Mass-Produced Tank
+
+Turret Array
+
+The Engineer, Stranded
+
+Crystal Tokyo
+rules_text: This land enters tapped. When it does, note a color other than white and gain 2 life.
+{T}: Add {W} or one mana of the noted color. => This land enters tapped. 
+When this land enters, you gain 2 life and choose a color.
+{T}: Add {W} or one mana of the noted color.
+
+Fruits Parlor Crown
+
+Hotaru Tomoe
+flavor_text: [i]“I'm glad I met you... I'm glad we became friends.”[/i] => [i]“I'm glad I met you. . . I'm glad we became friends.”[/i]
+
+MAKE UP!
+
+Makoto Kino
+flavor_text: [i]“This reminds me of my old boyfriend...”[/i] => [i]“This reminds me of my old boyfriend. . .”[/i]
+pt: 2/2 => 1/2
+
+Minako Aino
+
+Moon Healing Escalation!
+
+Moon Prism Power!
+
+Rei Hino
+
+Sailor Jupiter
+
+Sailor Mars
+
+Sailor Pluto
+
+Sailor Saturn
+
+Sailor Venus
+
+Setsuna Meiou
+
+Shabon Spray
+
+Super Sailor Moon
+
+The Moon Kingdom
+
+Usagi Tsukino
+
+Akizet, Fierce Protector
+
+Akizet's Corrucyst
+flavor_text: [i]“How much has this obesk scrap seen?”
+—Moth, FBX technician[/i] => [i]“How much has this obesk scrap has seen?”
+—Moth, FBX technician[/i]
+
+BSTRD, Chaotic Daemon
+
+Council of Jokzi Ozo
+
+Deep Encounter
+
+Funfriend, System Assistant
+
+Gakvu Thoughtform
+
+Interloper, Outside Observer
+
+Jumbled Cityscape
+
+LIVING THOUGHTS
+
+Recollection Locus
+
+Unable to Deviate
+
+Jokzi Ozo
+
+Obesk Spire
+
+The Judge, Feline Guide
+rules_text: Lifelink
+Whenever The Judge attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flash
+Lifelink
+Whenever The Judge attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Make Your Move
+
+New Inhabitants
+
+Stay In Your Coma
+
+Zacharie, Masked Shopkeep
+
+The Batter, Holy Purifier
+rules_text: First strike
+Whenever The Batter attacks, you may purify. If you do, he gains double strike until end of turn. => First strike
+Whenever The Batter attacks, you may purify. If you do, he gains double strike until end of turn. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+
+Burning Out
+
+Hugo, Child Creator
+flavor_text: [i]“I'm... scared of the dark...”[/i] => [i]“I'm. . . scared of the dark. . .”[/i]
+
+The Queen, Vader Eloha
+rules_text: At the beginning each combat, you may purify. If you do, choose one.
+• Put a +1/+1 counter on The Queen.
+• The Queen gains flying until end of turn. => At the beginning each combat, you may purify. If you do, choose one. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+• Put a +1/+1 counter on The Queen.
+• The Queen gains flying until end of turn.
+flavor_text: [i]“Look... He has your eyes...”[/i] => [i]“Look. . . He has your eyes. . .”[/i]
+
+Add-On
+
+The Nothingness
+
+Sugar Pits
+
+Zone 0
+rules_text: This land enters tapped. As this land enters, choose a color other than white.
+When this land enters, you gain 2 life.
+{T}: Add {W} or one mana of the chosen color. => This land enters tapped. As it does, choose a color other than white.
+When this land enters, you gain 2 life.
+{T}: Add {W} or one mana of the chosen color.
+
+PURIFICATION
+
+Delirious Leap
+
+Grimaline Smith, Neophyte
+
+Harry Jacket, Neophyte
+
+The Hunter Data
+
+Hupton Beach Lu'au
+
+Lord Wernon Fatigue
+
+Secret Ghoul
+
+Solar Sorcery
+
+Occam O'Connell, Chancellor
+
+Remold Blacklaw, Librarian
+
+The Archives
+
+Great Yarmouth Chapter House
+
+Miniature Railroad
+
+Abrade
+
+Break Into the Pillar
+
+Cave Adventurer
+
+Dig Deeper
+
+Dwarven Axelord
+
+Martial Trance
+
+Merchant Caravan
+
+Tales of Forgotten Beasts
+
+Tavern Detour
+
+Urist, Fortress Ruler
+
+Dwarven Mine
+
+Open Tavern
+
+Promising Settlement
+
+The World of Possibilities
+
+DUG TOO DEEP
+
+Class-D Demotion
+
+Critical Breach
+
+Doctor Shaw
+
+Foundation Guards
+
+Memetic Agent
+
+SCP-049, The Plague Doctor
+rules_text: Deathtouch
+Whenever another non-Zombie creature dies, create a 2/2 black Zombie creature token with decayed. This ability only triggers once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Deathtouch
+Whenever a non-Zombie creature dies, create a 2/2 black Zombie creature token with decayed. This ability only triggers once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+SCP-106, The Old Man
+
+SCP-173, The Statue
+
+SCP-035, Possessed Mask
+
+SCP-682, Resilient Reptile
+
+Containment Chamber
+
+Extradimensional Clearing
+
+Foundation Corridor
+
+EXPENDABLES
+
+Laios Touden
+
+Marcille Donato
+
+A Proper Diet
+
+Cook Monsters
+
+Walking Mushroom
+
+Ah, Dungeon Food!
+
+It's Ready!
+
+Senshi of Izganda
+
+Chilchuck Tims
+
+Izutsumi
+
+Farmed Golem
+
+The First Floor
+
+The Island Dungeon
+
+Merini Village Dining Hall
+
+Ninja Tools
+
+Abandon the Village
+
+Haruno Sakura
+
+Iruka, Academy Instructor
+
+Kakashi, Team 9 Leader
+
+NINJAS (BELIEVE IT!)
+
+Rasengan
+
+Shadow Clone
+rules_text: Ninjutsu {2}{U} [i]({2}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu, except its name is Shadow Clone. => Ninjutsu {2}{U} [i]({2}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu, except it's not legendary.
+
+Uchiha Sasuke
+
+Uzumaki Naruto
+
+Prismatic Vista (NART)
+
+Village Hidden in the Leaves
+
+Hiruzen, The Professor
+
+Ichiraku Ramen
+
+Bad Sun
+
+Danger Sense
+
+Dr Kel, Lone Astronomer
+
+Insomniac
+
+Killer Wisp
+
+Mischievious Ariral
+
+Overgrown Cave
+
+Pagonioplo-Igetis
+
+PARANORMAL
+
+Sudden Cliff
+
+The Antibreather
+
+Abandoned Village
+
+Dunkeltaler Forest
+
+Earth
+
+Ride the ATV
+
+Battle Bishop
+
+Chain Formation
+
+CHECKMATE
+
+Coercive Plan
+
+Corner
+
+Divided Landscape
+
+Frontline Reinforcements
+
+Godless Shrine
+
+Leaping Cavalry
+
+Queen of the Board
+
+Serve Once More
+
+Strategic Sacrifice
+
+Towering Rook
+
+Eternal Battlefield
+
+Regal War Room
+
+Tense Antechamber
+
+Black Leg Sanji
+
+Cause Trouble
+rules_text: Choose one —
+• Cause Trouble deals 3 damage to target creature or planeswalker.
+• Target creature explores twice. [i](To have a creature explore, reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i] => Choose one —
+• Cause Trouble deals 3 damage to target creature.
+• Target creature explores twice. [i](To have a creature explore, reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Delayed Slash
+
+The Mysterious Sogeking
+
+Pirate Hunter Zoro
+
+Awareness Training
+
+Tony Tony Chopper
+
+Devil Child Nico Robin
+
+Straw Hat Luffy
+
+Cat Burglar Nami
+
+The Grand Line
+
+Open Seas
+
+Port
+rules_text: Port enters tapped unless you pay {1}.
+{T}: Add {R} or {G}.
+{3}, {T}, Sacrifice Port: Target creature you control explores twice. Activate only as a sorcery. => Port enters tapped.
+{T}: Add {R} or {G}.
+{2}, {T}, Sacrifice Port: Target creature you control explores twice. Activate only as a sorcery.
+
+LANDFALL
+
+FOREVER BLUE
+
+Almost Out of Oxygen
+
+Commerson's Dolphin
+pt: 2/S => 2/2
+
+Giant Isopod
+
+Humpback Whales
+
+Leopard Seal
+type: Creautre — Seal => Creature — Seal
+
+Magu Tapa
+
+Sea Slug Studies
+rules_text: This spell costs {1} less to cast if you explored this turn.
+Draw two cards, then discard a card. => This spell costs {1} less to cast if a creature you control explored this turn.
+Draw two cards, then discard a card.
+
+Undersea Encounter
+
+Whale Shark
+
+Indo-Pacific Sailfish
+
+Cortica River
+
+Manoa Lai
+
+The Veiled Sea
+
+The Chase Eternal
+
+Jigen, the Marksman
+
+Rebecca, Renaissance Woman
+
+Ami, Prodigal Hacker
+
+Believe in the Thief
+
+Slash of the Zantetsuken
+
+GRAND HEIST
+
+Fujiko, Femme Fatale
+
+Goemon, the Blademaster
+
+Lupin, World's Greatest Thief
+
+Zenigata, Dedicated Agent
+
+Castle Cagliostro
+
+City Outskirts
+
+Secret Bolthole
+
+An Ideal World
+
+Desert Resort
+
+Gleaming Sigilyph
+
+Growing Tympoles
+
+Indomitable Boldore
+
+Lostlorn Forest
+
+N
+
+Nimbasa City
+
+N's Castle
+
+N's Servine
+
+Prissy Purrloin
+
+Seed Bomb
+
+Strength of Ideals
+flavor_text: [i]“You're quite strong. But I have a future that I must change. And, for that future... I'll defeat the Champion and become unbeatable, unlike any other!”[/i] => [i]“You're quite strong. But I have a future that I must change. And, for that future. . . I'll defeat the Champion and become unbeatable, unlike any other!”[/i]
+
+Tricky Zorua
+
+Spinning Klink
+
+Snack Time
+
+Chargestone Cave
+
+Mithrix, King of Nothing
+rules_text: When you cast this spell, create six Item tokens. [i](They're Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+When Mithrix enters, put a shield counter on each equipped creature you control. [i](If a creature with a shield counter would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] [i](If it would be dealt damage or destroyed, remove a shield counter from it instead. If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => When you cast this spell, create six Item tokens.
+When Mithrix enters, put a shield counter on each equipped creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+The Captain
+
+The Face of the Deep
+
+Having Fallen, It Was Blood
+
+The Loader
+
+MONSOON
+
+They Might as Well Be Dead
+
+The Artificer
+rules_text: Flying
+When The Artificer enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+{3}{WU}: Exile The Artificer, then return her to the battlefield under her owner's control. => Flying
+When The Artificer enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{3}{WU}: Exile The Artificer, then return her to the battlefield under her owner's control.
+
+The Commando
+
+The Engineer
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Artifacts you control have ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+When The Engineer enters or leaves the battlefield, create a 1/1 colorless Servo artifact creature token with reach. => Ward {1}
+Artifacts you control have ward {1}.
+When The Engineer enters or leaves the battlefield, create a 1/1 colorless Servo artifact creature token with reach.
+
+Once in a Lullaby
+
+Commencement
+
+Compound Generator
+
+Void Fields
+
+KIRA'S JUSTICE
+
+Final Test
+
+I Win, L!
+
+Kira Cultists
+
+Kira's Task Force
+
+Light Yagami, Would-Be God
+
+L's Endgame
+
+Misa Amane, Kira Worshipper
+
+Ryuk, Spirit of Death
+
+L, Immature Investigator
+
+Matsuda Touta, Go-Getter
+
+Kira Investigation HQ
+
+Shinigami Realm
+
+Yellow Box Warehouse
+
+Caroline, Faithful Assistant
+rules_text: When Caroline enters, draw a card, then discard a card.
+{5}{UB}{UB}, Exile Caroline from your graveyard: Create a transformed token copy of her. => When Caroline enters, draw a card, then discard a card.
+{5}{U}{U}, Exile Caroline from your graveyard: Create a transformed token copy of her.
+
+GLaDOS, Insidious Overseer
+
+Chell, Resourceful Subject
+type: Legendary Creature — Human Rogue => Legendary Creature — Human Warrior
+
+Message from the Moon
+
+Resolve the Stalemate
+
+Resume Testing
+
+Weighted Companion Cube
+
+Wheatley, Moron Core
+flavor_text: [i]“Engineers tried everything to slow me down. They attached a sphere to me, generating endless streams of terrible ideas. It was [/i]you[i]!”
+— GLaDOS[/i] => [i]“The engineers tried everything to slow me down. They attached a sphere to me, generating endless streams of terrible ideas. It was [/i]your [i]voice!”
+— GLaDOS[/i]
+
+Atlas & P-Body
+
+Rat Man
+rules_text: When Rat Man enters, you may discard a card. If you do, draw two cards. => As an additional cost to cast Rat Man, discard a card.
+When Rat Man enters, draw two cards.
+
+Auto Turret
+cost: {4}{U} => {2}
+rules_text: Reach
+When Auto Turret enters, if it isn't a token, create two tokens that's are each copies of it. => Reach
+When Auto Turret enters, it deals 2 damage to target player.
+pt: 2/1 => 1/3
+
+Aperture Science
+
+Turret Opera
+
+Extended Relaxation Center
+
+PORTALS
+cost: {U} => 
+
+bad breakup
+
+Billie Eilish
+
+MONSTERMAU5
+
+Snailiens
+
+Girl's Fight Out
+
+Gustavo Rocque
+
+Kesha, Animal Inside
+
+Kesha, Turning It Up
+
+Cici, Whatever She Wants
+
+Essence of the Week
+flavor_text: [i]“Contestants' sourcelists will be derived from their ‘musical soul', or ‘essence'...” — Scott the Woz[/i] => [i]“Contestants' sourcelists will be derived from their ‘musical soul', or ‘essence'. . .” — Scott the Woz[/i]
+
+REFRACTION OF HABIT
+
+TURN IT UP!
+
+☆ P4R7Y 4N1M4L5 ☆
+
+Glowsquid Galaxy
+flavor_text: [i]It was so for real...[/i] => [i]It was so for real. . .[/i]
+
+Snails on Venus
+
+Wuhu Island
+
+Brave The First Floor
+artist: Captain Vile1852 => Francis Coulombe
+
+Fractal Mutation
+
+Hapless Tenants
+
+Hellen, Green-Thumb Maniac
+
+Joel, Tooth Child
+
+Leigh, Grinner
+flavor_text: [i]“Heh heh heh... You fight good. Wanna hang out?”[/i] => [i]“Heh heh heh. . . You fight good. Wanna hang out?”[/i]
+
+Look Outside
+flavor_text: [i]“It's... beautiful.”
+—A witness to the Visitor, last intelligible words[/i] => [i]“It's. . . beautiful.”
+—A witness to the Visitor, last intelligible words[/i]
+
+MONSTROSITIES
+
+Toxic Paintling
+
+Whiskey Flask
+
+Apartment 33
+
+Sam, Restless Recluse
+
+Elevator
+flavor_text: [i]This will take you wherever you please, as long as the power's flowing...[/i] => [i]This will take you wherever you please, as long as the power's flowing. . .[/i]
+
+Infested Crawlspace
+
+Mutt's Fish And Chips
+
+The Rooftops
+
+Teeth Hell
+
+Lionblaze
+
+Breach() Transistor
+
+Crash() Transistor
+
+Equip()
+
+Help() Transistor
+
+Jaunt() Transistor
+
+Red, Lone Voice
+
+Royce, Fallen Architect
+
+Spoiling Cells
+flavor_text: [i]< !-- [...] then all that remains is for it to expel its stored potential, like a last breath. back into the ether i suppose. some form of self defense? royce --!>[/i] => [i]< !-- [. . .] then all that remains is for it to expel its stored potential, like a last breath. back into the ether i suppose. some form of self defense? royce --!>[/i]
+
+Upgraded Unmaker
+
+Sybil, Envious Socialite
+
+Sybil, Processed
+flavor_text: [i]“...But I won't save you. / I won't save you.”
+—Red, “In Circles”[/i] => [i]“. . .But I won't save you. / I won't save you.”
+—Red, “In Circles”[/i]
+
+The Transistor
+
+Prismatic Vista (Transistor)
+
+Anywhere (Transistor)
+
+Beelzebub, the Great Fly
+
+Portal To The Abyss
+
+Find Cerberus
+
+The Helltaker
+
+Journey to Hell
+
+Judgement, the High Prosecutor
+
+Justice, the Awesome Demon
+
+Lucifer, CEO of Hell
+
+Malina, the Sour Demon
+flavor_text: [i]“Great, more braindead idiots...”[/i] => [i]“Great, more braindead idiots. . .”[/i]
+
+Modeus, the Eager Demon
+
+Pandemonica, the Tired Demon
+
+Zdrada, the CENSORED Demon
+
+Azazel, the Curious Angel
+
+The Depths of Hell
+
+Helltaker's Kitchen
+
+The Sin Machine
+
+EXODIA
+
+Forbidden One's Left Leg
+
+Forbidden One's Right Leg
+
+Obliterating Blast
+
+Ultimate Necross Rebirth
+
+KaibaCorp Battle Box
+
+Millennium Seal
+
+Portal to the Shadow Realm
+
+Forbidden One's Left Arm
+rules_text: When this creature enters, target opponent exiles a card from their hand.
+{2}{B}, Exile this card from your graveyard: Mill three cards, then return a card milled this way to your hand. => Reach
+When this creature enters, target opponent exiles a card from their hand.
+{2}{B}, Exile this card from your graveyard: Mill three cards, then return a card milled this way to your hand.
+
+Forbidden One's Right Arm
+rules_text: When this creature enters, target opponent exiles a card from their hand.
+{2}{B}, Exile this card from your graveyard: Mill three cards, then return a card milled this way to your hand. => Reach
+When this creature enters, target opponent exiles a card from their hand.
+{2}{B}, Exile this card from your graveyard: Mill three cards, then return a card milled this way to your hand.
+
+A Game of Gods
+
+Heart of the Cards
+
+The Millennium Puzzle
+
+The Forbidden One
+
+A Little Lie Between Friends
+
+Catastrophic Mutation
+
+Fearful Infection
+
+Glasp
+
+House Beneviento
+
+Marvin Branagh
+flavor_text: [i]“I'm giving you an order, rookie. You save yourself first. I'd come with you, but I'd just slow you down...”[/i] => [i]“I'm giving you an order, rookie. You save yourself first. I'd come with you, but I'd just slow you down. . .”[/i]
+
+T-Virus Zombie
+
+UMBRELLA CONSPIRACY
+
+Ada Wong
+
+Escape With The Sample
+
+Queen Semiramis
+
+Queen Zenobia
+
+Rachel Foley
+
+Rachel, Consumed by Abyss
+
+Rebecca Chambers
+
+The G-Atrocity
+
+William Birkin
+
+Jill Valentine, BSAA
+
+Jill Valentine, Wesker's Pawn
+
+Raccoon Police Department
+flavor_text: [i]Re-enter the world of survival horror...[/i] => [i]Re-enter the world of survival horror. . .[/i]
+
+HUNK, the 4th Survivor
+
+Last-Second Extraction
+
+Anna, the Huntress
+
+Evan's Trap
+
+Killer's Basement
+
+Killer's Shack
+rules_text: This land enters tapped. As it enters, choose a color other than black.
+{T}: Add {B} or one mana of the chosen color. => This land enters tapped. As it enters, choose a color other than black.
+When Killer's Shack enters, surveil 1.
+{T}: Add {B} or one mana of the chosen color.
+
+Murder
+
+Adiris, Plagued Priestess
+
+Blightification
+
+Decimated Borgo
+
+Doctor's Dealings
+
+Kazan, Blighted by Rage
+
+Rin, Arisen Yamaoka
+
+Watched From Afar
+
+The Unknown
+
+Evan MacMillan, the Trapper
+
+DEAD BY DAYLIGHT
+
+SUBTERRANEAN SUN
+
+Atomic Fire
+
+Atomic Power Center
+
+Green-Eyed Monster
+
+Hell Raven
+
+Satori, Feared and Reviled
+
+Troublesome Oni
+
+Utsuho, Divine Flame
+
+Yuugi, Ex-Deva
+
+Zombie Fairy
+
+Koishi, Unthinking Impulse
+
+Rin, Spirit Carrier
+
+Yamame, Spider of Sickness
+
+Bridge to Hell
+
+Chireiden
+
+Former Hell
+
+Ancient Sickness
+
+Cornifer, Cartographer
+
+Dreamer's Gate
+
+Enter Pharloom
+
+Grand Mother Silk
+
+Hornet, Pharloom's Savior
+
+Infected Hopper
+
+Knight's Resting Place
+
+OF GOD AND VOID
+
+Remembered Everbloom
+
+The Hollow Knight
+flavor_text: [i]The old King of Hallownest... he must have been desperate to save his crumbling little world. [/i] => [i]The old King of Hallownest. . . he must have been desperate to save his crumbling little world. [/i]
+
+The Knight, Returned Traveler
+
+The Radiance, Forgotten Light
+flavor_text: [i]The plague, the infection, the madness that haunts the corpses of Hallownest... the light that screams out from the eyes of this dead Kingdom.[/i] => [i]The infection, the madness that haunts the corpses of Hallownest. . . the light that screams out from the eyes of this dead Kingdom.[/i]
+
+Overgrown Tomb (HK)
+
+The White Palace
+
+CASE CRACKING
+
+Captain Sonic the Hedgehog
+
+Detective Tails the Fox
+
+The Mirage Express
+cost: {4}{W} => {4}{W}{W}
+rules_text: Whenever The Mirage Express enters or attacks, up to one other target artifact you control becomes a 3/3 Robot creature in addition to its other types.
+Whenever a Robot you control leaves the battlefield, put two +1/+1 counters on The Mirage Express and it gains vigilance until your next end step.
+Crew 3 => Whenever The Mirage Express enters or attacks, up to one other target artifact you control becomes a 3/3 Robot creature in addition to its other types.
+Whenever a Robot you control leaves the battlefield, untap The Mirage Express and put two +1/+1 counters on it.
+Crew 3
+
+Planted Blowdart
+
+Rally for Justice
+
+Suspicious Dysfunction
+
+Ticking Egg
+
+Tragedy on the Mirage Express
+
+Unlikely Attendant
+
+Robotic Arms
+
+Conductor's Car
+flavor_text: [i]The center of all of The Mirage Express' systems... and a direct line to Eggman.[/i] => [i]The center of all of The Mirage Express' systems. . . and a direct line to Eggman.[/i]
+
+Lounge Car
+
+DEVIL ARMS
+
+Mitis Assault
+
+Rev it Up!
+
+Devil May Cry
+
+Nico's Armory
+
+The Devil's Tower
+
+Cavaliere
+
+Balrog's Fists
+
+Lucifer's Thorns
+
+Nevan's Lightning
+
+Nevan, Lightning Contralto
+
+Voltaic Black Knight
+
+Balrog, Argosax's Second
+
+Berial, Fortuna Terror
+
+Nico Goldstein
+
+Nero, High Roller
+
+Dante, Devil Trigger
+
+V-Divider
+
+Ami Mizuno
+
+Sailor Mercury
+
+Lamp Effect
+
+Uboa
+
+Uboa's Trap
+
+Eye-Palm Effect
+
+Knife Effect
+
+Madotsuki, Dream Walker
+
+Witch Effect
+
+Hidden Stairway
+
+Kyukkyu-kun
+
+Barracks Settlement
+
+Monoko
+
+An Alien's Bedroom
+
+Seccom Masada-sensei
+
+Takofuusen
+
+White Desert
+
+Distant Vista
+
+The Dream World
+
+WANDER
+cost: {R} => 
+
+Card Kingdom
+
+Hysterical Outburst
+
+Misstitched Alice
+
+Out of House and Home
+
+Siren Alice
+
+Wonderland
+
+Royal Reflection
+
+Royal Suit Alice
+
+Silk Maiden Alice
+
+The Mad Hatter
+
+The Cheshire Cat
+
+Alice Liddell
+
+INTO MADNESS
+
+Chain Chomp
+
+Princess Party
+
+Princess Rosalina
+
+Rainbow Road
+
+The Mushroom Kingdom
+
+Unexpected Toad
+
+Fire Flower
+
+Lady Bow
+
+Luigi, Cowardly Companion
+
+Princess Daisy
+
+Super Mushroom
+
+Mario, Pesky Plumber
+
+Princess Toadstool, Peach
+
+IN ANOTHER CASTLE
+
+Abstract
+
+Expose
+
+Kinger
+
+The Amazing Digital Circus
+
+Torment Nexus
+
+Gangle
+
+Jax
+
+Pomni
+
+Ragatha
+
+Zooble
+
+Put You Freaks In Your Place
+
+Ribbit
+
+CAINE
+
+ADVENTURE!
+
+Connie Maheswaran
+
+Crack the Diamond
+
+It's Over Isn't It
+
+Mission Dispatch
+
+Prismatic Vista (SU)
+
+Steven Universe
+
+Stunning Save
+
+Warp Pad
+
+Amethyst, Wild Shapeshifter
+
+Pearl, Loyal Renegade
+
+You're My Prisoner Now
+rules_text: When this enchantment enters, if you cast it, each player chooses two creatures they control. Exile them until this enchantment leaves. [i](If they only control one creature, exile it.)[/i] => When this enchantment enters, if you cast it, each player chooses two creatures they control. Exile them until this enchantment leaves. [i](If they only control one creature, exile it anyway.)[/i]
+
+Garnet, Stoic Seer
+flavor_text: [i][/i] => [i]“I think you're just mad ‘cuz you're single.”[/i]
+
+. . . AND STEVEN!
+
+Freddy Fazbear's Pizza
+
+Indoor Attraction
+
+Joy of Creation
+
+Retro Office
+
+Springlock Failure
+type: Instant => Sorcery
+cost: {2}{B}{B} => {2}{B}
+
+Vanny
+
+Ballora
+
+Dreadbear
+
+Lefty
+
+Scrap Baby
+
+The Puppet
+
+Springtrap
+rules_text: Living metal [i](Springtrap is an artifact creature during your turn.)[/i]
+Menace
+Creatures your opponents control get -2/-2.
+If Springtrap would be put into a graveyard from anywhere, exile him instead. => Living metal
+Menace
+Creatures your opponents control get -2/-2.
+If Springtrap would be put into a graveyard from anywhere, exile him instead.
+flavor_text: [i][/i] => [i]“We found one. A real one.”
+— Phone Dude[/i]
+
+The Mimic
+
+William Afton
+
+LIVING METAL
+
+Abbey Road
+
+Bigger than Jesus
+
+Communal Bath
+
+Fifth Beatle
+
+Magical Mystery Tour
+
+Duet Performance
+
+George Harrison, Beatle
+
+John Lennon, Beatle
+
+Paul Mccartney, Beatle
+
+Ringo Starr, Beatle
+
+Band Manager Bri
+
+Yoko Ono, Avant Gardist
+
+BANDING
+
+Heir to the Stars
+
+Beat Into Shape
+
+His Majesty's Bulwark
+
+His Majesty's Guards
+
+His Majesty's Swordbearers
+
+The Regent
+
+Solar Strike
+
+Wrought In War
+
+Tanx, Khimera King
+
+Heirloom Hammer
+
+An Orb to Ponder
+
+The Sealed Throne
+
+The Spire
+
+A Whole New World
+
+Captain Olimar
+
+S. S. Dolphin
+
+Gobble Indiscriminately
+
+Purple Pikmin
+
+Swarm!
+
+Throw!
+
+Yellow Pikmin
+
+Blue Pikmin
+
+Red Pikmin
+
+White Pikmin
+
+Forest of Hope
+
+Onion
+rules_text: When Onion enters, draw three cards, then discard three cards. You gain 3 life.
+{4}, {T}, Sacrifice Onion: Put any number of creature cards with total power 3 or less from your graveyard onto the battlefield tapped. => When Onion enters, draw three cards, then discard three cards. You gain 3 life.
+{5}, {T}, Sacrifice Onion: Put any number of creature cards with total power 3 or less from your graveyard onto the battlefield tapped.
+
+Twilight Vista
+
+PNF-404
+
+LITTLE ARMY
+
+Abandon Homeworld
+rules_text: Two target players may each discard up to two cards. If they do, they draw that many cards.
+Draw a card. Shuffle this card into its owner's library. [i](Front face up.)[/i] => Two target players may each discard up to two cards. If they do, they draw that many cards.
+Draw a card. Shuffle this card into your library. [i](Front face up.)[/i]
+flavor_text: [i][/i] => [i]Rose looked down, “If we lose, we'll be killed, and if we win, we can never go home.” Pearl smiled, “But why would I ever want to go home, if you're here?”[/i]
+
+Rose Quartz
+rules_text: When Rose enters, return up to two target permanent cards with total mana value 6 or less from your graveyard to the battlefield. Put finality counters on each of them.
+Whenever a land you control enters, other creatures you control get +1/+1 and gain trample until end of turn. => When Rose enters, return up to two target permanent cards with total mana value 6 or less from your graveyard to the battlefield.
+Whenever a land you control enters, other creatures you control get +1/+1 and gain trample until end of turn.
+flavor_text: [i][/i] => [i]“Welcome to Earth!”[/i]
+
+Amy's Birthday Party
+
+
+type: Land => 
+rules_text: This land enters tapped unless you pay 2 life. As it does, choose a color.
+{T}: Add {U} or one mana of the chosen color. => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+flavor_text: [i]“Good morning. You have been in suspension for Nine. Nine. Nine. Nine. Nine. Nine. Nine. Nine. Nine. Nine. Nine. Nine-”[/i] => [i][/i]
+artist: Brayden Saunders => masahiro ito
+
+ARCANUM
+
+Stevonnie
+
+Boss Fight Reminder
+
+Castle (SMB)
+
+Memory Token
+
+On an Adventure
+
+Pikmin
+
+Portal
+
+Spirit (SA)
+
+Spirit (SMB)
+
+Citizen
+
+Dog Processor
+
+Human Soldier
+
+Human Soldier (3RD)
+
+Moon Rock
+
+Spirit Token (FNAF)
+
+Warrior Cat
+
+Commerson's Dolphin ULT2
+
+Fish ULT2 1
+
+Fish ULT2 2
+
+Fish ULT2 3
+
+Fish ULT2 4
+
+Fish ULT2 5
+
+Robot (FAC)
+
+Demon
+
+Egg Processor
+
+Horror Token
+
+Human (EXP)
+
+Zombie (EXP)
+
+Demon 1 (HELL)
+
+Demon 2 (HELL)
+
+Dwarf
+
+Fan (FLA)
+
+Fungus Warrior (SMB)
+
+Knife Effect
+
+Ninja (NART)
+
+Soldier
+
+Soldier (HLD)
+
+Alien
+
+Insect Bard (HK)
+
+Lizard (UNV)
+
+Rat Mutant
+
+Spider (UNV)
+
+Citizen (DN)
+
+Citizen (SM)
+
+Demon Token (CORU)
+
+Party Animal
+
+Assembler
+
+Booze
+
+Clue (DN)
+
+Clue (OFF)
+
+Clue (RE)
+
+Clue (SM)
+
+Clue (WLE)
+
+Construct (UNV)
+
+Food
+
+Food (DNM)
+
+Item
+
+Servo
+
+Sovereign Blade
+
+Sword (OP)
+
+Treasure
+type: Artifact — Treasure => Token Artifact — Treasure
+
+Treasure (DMC)
+
+Weapon
+
+Weapon (DMC)
+
+Weapon (DN)
+
+Weapon (OFF)
+
+Clue (1) (MSO)
+
+Clue (2) (MSO)
+
+Rogue (MSO)
+
+Creepover
+
+Happy Haunt
+
+FREAKY, CHIC, AND FLY
+
+Ghoulia Yelps
+rules_text: [i][i]Vivid[/i] [/i]— When Ghoulia enters, you gain X life, where X is the number of colors among permanents you control.
+{1}, {T}: Surveil 1. => [i][i]Vivid[/i] [/i]— When Ghoulia enters, you gain X life, where X is the number of colors among permanents you control.
+{2}, {T}: Surveil 2.
+
+Lagoona Blue
+rules_text: [i][i]Vivid[/i][/i] — When Lagoona enters, mill X cards, where X is the number of colors among permanents you control. You may put a card from among them into your hand. If you do, you lose 2 life. => [i][i]Vivid[/i][/i] — When Lagoona enters, mill X cards, where X is the number of colors among permanents you control. You may put a noncreature card from among them into your hand. If you do, you lose 2 life.
+flavor_text: [i]Swim captain and diving prodigy hailing from The Land Down Under — that's the sea, if you're a landlocked drongo.[/i] => [i]Swim captain and diving prodigy hailing from The Land Down Under — That's the sea, if you're a landlocked drongo.[/i]
+
+Spectra, Gossip Ghost
+
+Fangtastic Fashion
+
+Frankie Stein
+flavor_text: [i]Often struck by bolts of inspiration, as do any ghouls standing nearby.[/i] => [i]Often struck by bolts of inspiration, as are any ghouls standing nearby.[/i]
+
+Cleo De Nile
+
+Robecca Steam
+
+Clawdeen Wolf
+rules_text: Flash
+[i][i]Vivid[/i] — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on Clawdeen.
+Basic landcycling {2} => Flash
+[i][i]Vivid[/i] — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2}
+
+Ghoul's Night
+rules_text: Exile all creatures. Starting with you, for each color, each player may choose a card they own of that color from the exiled cards and return it to their hand.
+Exile Ghoul's Night. => Exile all creatures. Starting with you, for each color, each player may choose a card they own of that color from among the exiled cards and return it to their hand.
+Exile Ghoul's Night.
+
+Draculaura
+
+Cirno's Igloo
+
+Fairy (GFW)
+
+Fairy Radio Shrine
+
+Misty Lake
+
+Cirno, Ice Fairy
+
+GREAT FAIRY WARS
+
+Cirno, Fairy of the Lake
+
+Daiyousei, Greater Fairy
+
+Clownpiece, Star-Spangled Pierrot
+
+Eternity Larva, Scattering
+
+Letty Whiterock
+
+Cirno, The Strongest Fairy
+
+Ice Tornado
+
+Minus K
+
+Team Tech Fairy Overdrive
+
+Blinking!
+
+Dragon (SCP)
+
+Familiar Lake
+
+Reconsider
+
+Site 13
+
+Special Containment Procedure
+
+Zombie (SCP)
+
+Mobile Task Force
+
+SCP-131, The Eye Pods
+
+SCP-1762, Where The Dragons Went
+
+SCP-2521
+
+SCP-049
+
+SURVEILLANCE
+
+SCP-1048, Builder Bear
+rules_text: When you cast this spell, you may exile two creature cards from your graveyard and/or two noncreature cards from your graveyard. Copy this spell for each two cards exiled this way. => When you cast this spell, you may exile two creature cards from your graveyard and/or two noncreature cards from your graveyard. Copy this spell for each two cards exiled this way. The copies enter tapped.
+
+Enhanced Security
+
+Clue (EXEC)
+
+Formaggio, Slick Sneak
+
+Ghiaccio, Icy Berserker
+
+Italy
+
+La Squadra Hideout
+
+Pesci, Wannabe Gangster
+
+Spirit Horror
+
+Fatal Charm
+
+Illuso, Mirror Man
+
+Melone, Distant Admirer
+
+Prosciutto, Hardened Mafioso
+
+Severed and Sent
+
+Risotto, Vengeful Leader
+
+La Squadra's Betrayal
+
+Dingy Meeting Spot
+
+SABOTEURS
+cost: {U}{B} => 
+
+Darkners Live!
+
+Quiz Sphinx
+
+Recruit Guys or Shoot Guys
+
+Shade (DR3)
+
+The Green Room
+
+TV World
+
+Cooking Show
+
+Couch Cliffs
+
+ERAM, Shadow Mantle Holder
+
+Lanino and Elnina
+
+Quiz Show Studio
+
+Ramb, Power Strip
+
+Shuttah, Light of the Party
+
+Mr. Ant Tenna
+
+Susie, Mad Drummer Girl
+
+It's TV Time!
+
+VIRIDITAS
+
+Rover Caravan
+
+Nissei Family
+flavor_text: [i]The first generation of people born on Mars were dubbed “Nissei.”[/i] => [i]The first generation of people born on Mars were dubbed “Nissei”.[/i]
+
+Rugged Backpackers
+flavor_text: [i]As the environment became more habitable, Olympus Mons turned into a popular destination for hikers.[/i] => [i]As the environment became more habitable, Olympus Mons became a popular destination for hikers.[/i]
+
+Areobotanists
+
+Areoforming Surveyor
+
+Summit at Peacock Mountain
+
+Sabotage
+rules_text: Teamwork 4 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 4 or more.)[/i]
+Choose one. If the spell was cast using teamwork, you may choose both instead.
+• Target creature you control gets +2/+2 and gains trample until end of turn.
+• Destroy target artifact, enchantment, or creature with flying. => Teamwork 4 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 4 or more.)[/i]
+Choose one. If the spell was cast using teamwork, you may choose both instead.
+• Target creature gets +3/+3 until end of turn.
+• Destroy target artifact, enchantment, or creature with flying.
+
+Red Mars
+
+Green Mars
+
+Burroughs
+rules_text: Burroughs enters the battlefield tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}, Tap an untapped creature you control: Add one mana of any color. => Burroughs enters the battlefield tapped unless you control a basic land.
+{T}: Add {G}.
+{T}{1}, Tap an untapped creature you control: Add one mana of any color.
+
+Hiroko Ai
+flavor_text: [i]Hiroko was an oddity among the First Hundred from the beginning. Her influence would only grow as the years passed.[/i] => [i]A very spiritual person, Hiroko was an oddity among the First Hundred from the beginning. While initially overlooked, her influence would only grow with time.[/i]
+
+Coyote, the Hundred and First
+
+Areophany
+
+Rebel Token (MARS)
+
+Colony Collapse
+
+Mechanoid Scyther
+
+Base Assault
+
+Royal Delegation
+
+Imperial Holdout
+
+Rim Militia
+
+Construction Project
+
+Emergency Triage
+
+Caravan Trail
+
+Rec Room
+
+Uncharted Rimworld
+
+Rare Thrumbo
+
+Warqueen, Mechanical Mind
+
+Social Fight
+
+Construct (RIM)
+
+Treasure (RIM)
+
+Mechlink
+
+Austere Ascension
+
+Soul (DLK)
+
+Spirit (DLK) 1
+
+Spirit (DLK) 2
+
+Airdrop
+
+Sleepwalk
+
+Archmother's Stronghold
+
+Cornerstore
+
+The Cursed Apple
+
+The Hideout
+
+The Doorman, Humble Servant
+
+Rem and Friends
+
+Seven, the Aspirant
+
+Ivy, Savior of Harlem
+
+Paige, the Bookworm
+
+The Archmother, Austere
+
+Study Up
+
+Welcome to the Baroness
+
+Katamari
+
+Lonely Rolling Star
+
+Pigeon Town
+
+Prismatic Vista (KD)
+
+Return the Stars!
+
+Roll Up Colossi!
+
+Roll Up History!
+
+Warrior (KD)
+
+WE LOVE KATAMARI
+
+Inch-High Prince
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, roll 1. [i](Put a +1/+1 counter on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i]
+{4}{G}, {T}: Roll 3. Activate only as a sorcery. => [i]Landfall[/i] — Whenever a land you control enters, roll 1. [i](Put a +1/+1 counter on your Katamari. If you don't control one, create a colorless 0/0 Katamari creature token with trample first.)[/i]
+{4}{G}: Roll 3. Activate only as a sorcery.
+
+Roll Up Fantasy!
+
+Roll Up the Showdown!
+
+Royal Rainbow!
+
+Roll Up the World!
+
+The Queen Of All Cosmos
+
+The King Of All Cosmos
+
+WITHER AWAY
+
+Black Rose Antechamber
+
+Blood (VLD)
+
+Blood Transfusion
+
+Domesticated Bloodletter
+
+Parasitic Pigeons
+
+Savor Each Morsel
+
+The Crimson Banquet Hall
+
+The Gray Apothecary
+
+Aristocrat Hemophile
+
+Cult Curator
+
+Eager Disciple
+rules_text: Remove a counter from Eager Disciple: It deals 1 damage to target player and you gain 1 life. Activate only once each turn. => Remove a counter from this creature: It deals 1 damage to target player and you gain 1 life. Activate only once each turn.
+
+Ravenbloom Conservatory
+
+Tides of Blood
+
+Crimson Awakener
+
+Hemoplague
+
+Lord Vladimir, Crimson Reaper
+
+Blessing of Cancer
+
+Brave Leo
+
+Dreams of Pisces
+
+Enigmatic Capricorn
+
+Fearless Aries
+
+Gregarious Gemini
+
+Grotto of Scorpio
+
+Judgement of Libra
+
+Palace of Aquarius
+
+Pure-Hearted Virgo
+
+Resolute Sagittarius
+
+STAR SIGNS
+
+Stubborn Taurus
+
+The Night Sky
+
+Ben Tennyson
+
+Diamondhead
+
+Freak Out
+
+Heatblast
+pt: 4/4 => 4/3
+
+It's Hero Time
+
+IT'S HERO TIME!
+
+Ripjaw's Bite
+
+Search the Omnitrix
+
+XLR8
+
+Four Arms
+
+Wildmutt
+
+Meteor Crashsite
+
+Overnight Reststop
+
+Plumber Investigation Site
+
+ALL CAPS
+
+CZARFACE, the Iron Claw
+
+DANGERDOOM
+
+King Geedorah, the Third Rail
+
+Madvillainy
+
+Metal Face Mask
+
+MF DOOM, the Illest Villain
+
+Operation DOOMSDAY
+
+Quasimoto and DOOM
+
+Viktor Vaughn, Vaudeville Villain
+
+Recording Studio
+
+Sonic Switchboard
+
+Mural of DOOM
+
+New York
+
+Impending DOOM
+
+DOOMbot (MFD)
+
+Epona
+cost: {2}{W} => {1}{W}
+rules_text: Whenever you cast a noncreature spell, put a +1/+1 counter on and untap Epona. => Flash
+Sagacycling {2}{W}
+
+Link, Hero of Time
+
+Navi
+
+Saria, Secret Sage
+
+Kotake & Koume
+
+The Spirit Temple
+
+The Fire Temple
+
+Volvagia
+
+Phantom Ganon
+cost: {1}{GW} => {4}{GW}
+rules_text: Reach
+[i]Emerge from the Painting[/i] — Whenever Phantom Ganon attacks, you may sacrifice an untapped land. If you do, he gets +4/+0 until end of turn. => Phantom Ganon's power is equal to the number of lands you control.
+flavor_text: [i][/i] => [i]A projection of Ganon that hides inside landscape paintings, waiting to charge out and catch the Hero of Time unaware.[/i]
+pt: 0/4 => */4
+
+The Forest Temple
+cost: {3}{GW} => {2}{GW}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/2 green Spider creature tokens with reach.
+II, III — Up to one target creature explores. [i](Reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 green Spider creature token with reach.
+II, III — Up to one target creature explores. [i](Reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 1/2 green Spider creature tokens with reach.
+II, III — Up to one target creature explores. [i](Reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 green Spider creature token with reach.
+II, III — Up to one target creature explores. [i](Reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face.
+
+Bongo Bongo
+pt: 3/4 => 3/5
+
+The Shadow Temple
+
+Dark Water Reflection
+
+The Water Temple
+
+Ocarina
+rules_text: [i]Zelda's Lullaby[/i] — {1}, {T}: Add one mana of any color.
+[i]Saria's Song[/i] — {2}, {T}: Each player may draw a card. If they do, they discard a card.
+[i]Song of Time[/i] — {6}, {T}: Each player shuffles all creatures they own into their library, then draws three cards. Activate only if you cast Ocarina this turn. => [i]Zelda's Lullaby[/i] — {1}, {T}: Add one mana of any color.
+[i]Saria's Song[/i] — {2}, {T}: Each player may draw a card. If they do, they discard a card.
+[i]Song of Time[/i] — {6}, {T}: Each player shuffles all other nonland permanents they own into their library, then draws three cards. Activate only if Ocarina entered this turn.
+
+Dark Dungeon
+
+Humble Abode
+
+TEMPLE DIVING
+
+Spider (LOZT)
+
+Death, The Grim Reaper
+rules_text: Flying
+When Death enters, target player sacrifices a creature.
+{1}{B}, Discard this card: Each player sacrifices a creature. => Flying
+When Death enters, target player sacrifices a creature.
+{2}{B}, Discard this card: Each player sacrifices a creature.
+pt: 3/4 => 3/3
+
+Dracula, Lord of Darkness
+
+Dracula's Throne Room
+
+Franken, the Creature
+rules_text: When Franken enters, create Igor, a legendary 1/1 black Human creature token.
+[i]Morbid[/i] — At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Franken. => When Franken enters, create Igor, a legendary 1/1 black Minion creature token.
+[i]Morbid[/i] — At the beginning of each end step, if a creature died this turn, put a +1/+1 counter on Franken.
+
+Have At You!
+rules_text: Put a +1/+1 counter on target creature. It gains menace until end of turn. 
+[i]Morbid[/i] — Put three +1/+1 counters and a menace counter on that creature instead if a creature died this turn. => Put a +1/+1 counter and a menace counter on target creature.
+[i]Morbid[/i] — Put three +1/+1 counters and a menace counter on that creature instead if a creature died this turn.
+
+MONSTER DANCE
+
+Phantom Bat
+rules_text: Flying, lifelink
+[i]Morbid[/i] — When this creature enters, if a creature died this turn, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Flying, lifelink
+[i]Morbid[/i] — When this creature enters, surveil 1. Then if a creature died this turn, draw a card.
+
+Queen Medusa
+
+What a Horrible Night
+rules_text: Target creature gets -3/-3 until end of turn.
+[i]Morbid[/i] — That creature gets -12/-12 instead if a creature died this turn. => Target creature gets -3/-3 until end of turn.
+[i]Morbid[/i] — That creature gets -13/-13 instead if a creature died this turn.
+
+Alucard, Son of Dracula
+cost: {1}{B} => {1}{WB}
+rules_text: First strike
+[i]Bat Form[/i] — {B}: Alucard gains flying until end of turn.
+[i]Mist Form — {B}, [/i]Sacrifice a creature: Alucard gains indestructible until end of turn. Tap him. => First strike
+[i]Bat Form[/i] — {WB}: Alucard gains flying until end of turn.
+[i]Mist Form — {WB}, [/i]Sacrifice a creature: Alucard gains indestructible until end of turn. Tap him.
+
+Mummy Men
+
+Vast Legions of Darkness
+type: Sorcery => Instant
+rules_text: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+[i]Morbid[/i] — If a creature died this turn, put two of them into your hand instead. => Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard.
+[i]Morbid[/i] — If a creature died this turn, put two of them into your hand instead.
+
+Castle Clocktower
+
+Castle Courtyard
+
+Castle Keep Stairway
+
+Castlevania
+
+Zombie (CVN)
+
+Gorgon (CVN)
+
+Igor (CVN)
+type: Token Legendary Creature — Human => Token Legendary Creature — Minion
+
+Coalescipede
+
+Dropwig
+rules_text: Reach
+Ecosystem — Whenever this creature attacks while you control three or more creatures with different powers, this creature must be blocked this turn if able. => Reach
+[i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, this creature must be blocked this turn if able.
+
+Duel for Dominance (RAIN)
+rules_text: Ecosystem — Choose target creature you control and target creature you don't control. If you control three or more creatures with different powers, put a +1/+1 counter on the chosen creature you control. Then the chosen creatures fight each other. => [i]Ecosystem[/i] — Choose target creature you control and target creature you don't control. If you control three or more creatures with different powers, put a +1/+1 counter on the chosen creature you control. Then the chosen creatures fight each other.
+
+Five Pebbles
+rules_text: Ecosystem — At the beginning of your end step, if you control three or more creatures with different powers, draw a card.
+[+1]: Exile up to one target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on up to one target creature.
+[-2]: Create a 3/3 green Mutant creature token with deathtouch. => [i]Ecosystem[/i] — At the beginning of your end step, if you control three or more creatures with different powers, draw a card.
+[+1]: Exile up to one target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on up to one target creature.
+[-2]: Create a 3/3 green Mutant creature token with deathtouch.
+special_text: Ecosystem — At the beginning of your end step, if you control three or more creatures with different powers, draw a card.
+[+1]: Exile up to one target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on up to one target creature.
+[-2]: Create a 3/3 green Mutant creature token with deathtouch. => [i]Ecosystem[/i] — At the beginning of your end step, if you control three or more creatures with different powers, draw a card.
+[+1]: Exile up to one target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on up to one target creature.
+[-2]: Create a 3/3 green Mutant creature token with deathtouch.
+
+FOOD CHAIN
+
+Green Lizard
+rules_text: Ecosystem — Whenever this creature attacks while you control three or more creatures with different powers, this creature gains indestructible until end of turn. => [i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, this creature gains indestructible until end of turn.
+
+Miros Bird
+rules_text: Haste
+Ecosystem — Whenever this creature attacks while you control three or more creatures with different powers, create a 2/1 green Monkey creature token.
+Forestcycling {2} => Haste
+[i]Ecosystem[/i] — Whenever this creature attacks while you control three or more creatures with different powers, create a 2/1 green Monkey creature token.
+Forestcycling {2}
+
+Reach the Top
+cost: {1}{G} => {2}{G}
+rules_text: Ecosystem — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put a +1/+1 counter on a creature you control.
+• You gain 3 life.
+• You may play an additional land this turn.
+• Draw a card. => [i]Ecosystem[/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put up to two land cards from your hand onto the battlefield.
+• Put two +1/+1 counters on target creature.
+• You gain 4 life.
+• Draw a card.
+
+Resourceful Slugcat
+rules_text: When this creature enters, surveil 2.
+{3}, Sacrifice this creature: Choose one—
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard. => When this creature enters, surveil 2.
+{2}, Sacrifice this creature: Choose one —
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard.
+
+Towering Rain Deer
+
+Rebar Spear
+cost: {2} => {4}
+
+Abandoned Expanse
+
+Drainage Systems
+
+Garbage Wastes
+rules_text: This land enters tapped.
+{T}: Add {G}.
+{2}, {T}, Sacrifice this land: Put target creature card from your graveyard on top of your library. Activate only as a sorcery. => This land enters tapped unless you control a basic land.
+{T}: Add {G}.
+{2}, {T}, Sacrifice this land: Put target creature card from your graveyard on top of your library. Activate only as a sorcery.
+
+Iterator's Chamber
+
+Monkey Token (RAIN)
+
+Mutant Token (RAIN)
+
+
 VERSION 67 CHANGELOG
 ====================
 
