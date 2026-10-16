@@ -5,7 +5,7 @@
 			<name>ULT2</name>
 			<longname>ULT2</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-15</releasedate>
+			<releasedate>2026-10-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4678,7 +4678,7 @@ Landfall — Whenever a land you control enters, Sogeking deals 1 damage to targ
 		<card>
 			<name>Pirate Hunter Zoro</name>
 			<text>Trample
-Landfall — Whenever a land you control enters, if you control fewer than three Equipment, create a colorless Equipment artifact token named Sword with &quot;Equipped creature gets +1/+0&quot; and equip {2}.</text>
+Landfall — Whenever a land you control enters, if you control fewer than three Equipment, create a colorless Equipment artifact token named Sword with &quot;Equipped creature gets +2/+0&quot; and equip {2}.</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2-files/img/268.png" num="369">ULT2</set>
 			<prop>
 				<layout>normal</layout>
@@ -4689,7 +4689,7 @@ Landfall — Whenever a land you control enters, if you control fewer than three
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/5</pt>
+				<pt>2/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Sword (OP) ULT2</related>
@@ -4770,7 +4770,7 @@ Landfall — Whenever a land you control enters, Luffy explores. If he explores 
 		<card>
 			<name>Cat Burglar Nami</name>
 			<text>Landfall — Whenever a land you control enters, create a tapped Treasure token.
-{2}, Sacrifice two artifacts and/or lands: Nami explores. Activate only as a sorcery. (Reveal the top card of your library. Put it into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+{5}: Nami explores twice. (To have her, reveal the top of your library. Put it into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on Nami, then put the card back or put it into your graveyard.)</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2-files/img/273.png" num="477">ULT2</set>
 			<prop>
 				<layout>normal</layout>
@@ -14318,7 +14318,7 @@ Whenever a creature you control enters, you may attach this to it.</text>
 		</card>
 		<card>
 			<name>Sword (OP) ULT2</name>
-			<text>Equipped creature gets +1/+0.
+			<text>Equipped creature gets +2/+0.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2-files/img/823.png" num="90">ULT2</set>
 			<prop>
