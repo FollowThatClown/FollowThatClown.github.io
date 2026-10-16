@@ -450,7 +450,7 @@
     {
         "card_name": "Ada Wong",
         "number": 95,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "485"
@@ -488,12 +488,12 @@
         "position": "1000"
     },
     {
-        "card_name": "Escape With The Sample",
-        "number": 95,
+        "card_name": "Almost Out of Oxygen",
+        "number": 96,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "486"
+        "position": "281"
     },
     {
         "card_name": "Ancient Sickness",
@@ -528,12 +528,12 @@
         "position": "1001"
     },
     {
-        "card_name": "Almost Out of Oxygen",
-        "number": 96,
+        "card_name": "bad breakup",
+        "number": 97,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "281"
+        "position": "369"
     },
     {
         "card_name": "Aristocrat Hemophile",
@@ -546,7 +546,7 @@
     {
         "card_name": "Atomic Fire",
         "number": 271,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "515"
@@ -568,12 +568,12 @@
         "position": "415"
     },
     {
-        "card_name": "bad breakup",
-        "number": 97,
+        "card_name": "Billie Eilish",
+        "number": 98,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "369"
+        "position": "370"
     },
     {
         "card_name": "Ballora",
@@ -586,7 +586,7 @@
     {
         "card_name": "Automaton Hulk",
         "number": 272,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "77"
@@ -608,12 +608,12 @@
         "position": "327"
     },
     {
-        "card_name": "Billie Eilish",
-        "number": 98,
+        "card_name": "Blinking!",
+        "number": 99,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "370"
+        "position": "862"
     },
     {
         "card_name": "Blightification",
@@ -626,7 +626,7 @@
     {
         "card_name": "Balrog, Argosax's Second",
         "number": 273,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "573"
@@ -648,12 +648,12 @@
         "position": "546"
     },
     {
-        "card_name": "Blinking!",
-        "number": 99,
-        "shape": "normal",
+        "card_name": "CAINE",
+        "number": 100,
+        "shape": "planeswalker",
         "set": "ULT2",
         "rotated": false,
-        "position": "862"
+        "position": "640"
     },
     {
         "card_name": "Blood Transfusion",
@@ -666,7 +666,7 @@
     {
         "card_name": "Beelzebub, the Great Fly",
         "number": 274,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "445"
@@ -688,12 +688,12 @@
         "position": "251"
     },
     {
-        "card_name": "CAINE",
-        "number": 100,
-        "shape": "planeswalker",
+        "card_name": "Caroline, Faithful Assistant",
+        "number": 101,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "640"
+        "position": "354"
     },
     {
         "card_name": "The Chase Eternal",
@@ -714,7 +714,7 @@
     {
         "card_name": "Captain Olimar",
         "number": 379,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "700"
@@ -728,12 +728,12 @@
         "position": "416"
     },
     {
-        "card_name": "Caroline, Faithful Assistant",
-        "number": 101,
+        "card_name": "Catastrophic Mutation",
+        "number": 102,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "354"
+        "position": "477"
     },
     {
         "card_name": "The Cheshire Cat",
@@ -768,12 +768,12 @@
         "position": "547"
     },
     {
-        "card_name": "GLaDOS, Insidious Overseer",
-        "number": 101,
+        "card_name": "Chell, Resourceful Subject",
+        "number": 103,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "355"
+        "position": "356"
     },
     {
         "card_name": "Class-D Demotion",
@@ -786,7 +786,7 @@
     {
         "card_name": "Berial, Fortuna Terror",
         "number": 277,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "574"
@@ -802,90 +802,10 @@
     {
         "card_name": "Princess Zelda",
         "number": 24,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "1067"
-    },
-    {
-        "card_name": "Catastrophic Mutation",
-        "number": 102,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "477"
-    },
-    {
-        "card_name": "Crimson Awakener",
-        "number": 193,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "997"
-    },
-    {
-        "card_name": "Lucifer's Thorns",
-        "number": 277,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "569"
-    },
-    {
-        "card_name": "Cook Monsters",
-        "number": 382,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "205"
-    },
-    {
-        "card_name": "Shiek",
-        "number": 24,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1068"
-    },
-    {
-        "card_name": "Chell, Resourceful Subject",
-        "number": 103,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "356"
-    },
-    {
-        "card_name": "Critical Breach",
-        "number": 194,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "189"
-    },
-    {
-        "card_name": "Bile Titan",
-        "number": 278,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "79"
-    },
-    {
-        "card_name": "Cornifer, Cartographer",
-        "number": 383,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "531"
-    },
-    {
-        "card_name": "Dreams of Pisces",
-        "number": 25,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1002"
     },
     {
         "card_name": "Cirno, Fairy of the Lake",
@@ -896,36 +816,36 @@
         "position": "853"
     },
     {
-        "card_name": "Cult Curator",
-        "number": 195,
+        "card_name": "Crimson Awakener",
+        "number": 193,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "993"
+        "position": "997"
     },
     {
-        "card_name": "Break Into the Pillar",
-        "number": 279,
-        "shape": "normal",
+        "card_name": "Bile Titan",
+        "number": 278,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "174"
+        "position": "79"
     },
     {
-        "card_name": "Coyote, the Hundred and First",
-        "number": 384,
+        "card_name": "Cook Monsters",
+        "number": 382,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "924"
+        "position": "205"
     },
     {
-        "card_name": "Duet Performance",
-        "number": 26,
+        "card_name": "Dreams of Pisces",
+        "number": 25,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "677"
+        "position": "1002"
     },
     {
         "card_name": "Cirno, Ice Fairy",
@@ -936,36 +856,36 @@
         "position": "851"
     },
     {
-        "card_name": "CZARFACE, the Iron Claw",
-        "number": 196,
+        "card_name": "Critical Breach",
+        "number": 194,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1033"
+        "position": "189"
     },
     {
-        "card_name": "Cause Trouble",
-        "number": 280,
+        "card_name": "Break Into the Pillar",
+        "number": 279,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "265"
+        "position": "174"
     },
     {
-        "card_name": "Danger Sense",
-        "number": 385,
+        "card_name": "Cornifer, Cartographer",
+        "number": 383,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "233"
+        "position": "531"
     },
     {
-        "card_name": "Enigmatic Capricorn",
-        "number": 27,
+        "card_name": "Duet Performance",
+        "number": 26,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1003"
+        "position": "677"
     },
     {
         "card_name": "Cirno, The Strongest Fairy",
@@ -976,36 +896,36 @@
         "position": "858"
     },
     {
-        "card_name": "DANGERDOOM",
-        "number": 197,
+        "card_name": "Cult Curator",
+        "number": 195,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1034"
+        "position": "993"
     },
     {
-        "card_name": "Cave Adventurer",
-        "number": 281,
+        "card_name": "Cause Trouble",
+        "number": 280,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "175"
+        "position": "265"
     },
     {
-        "card_name": "Dropwig",
-        "number": 386,
+        "card_name": "Coyote, the Hundred and First",
+        "number": 384,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1093"
+        "position": "924"
     },
     {
-        "card_name": "Epona",
-        "number": 28,
+        "card_name": "Enigmatic Capricorn",
+        "number": 27,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1049"
+        "position": "1003"
     },
     {
         "card_name": "Clownpiece, Star-Spangled Pierrot",
@@ -1016,36 +936,36 @@
         "position": "855"
     },
     {
-        "card_name": "Death, The Grim Reaper",
-        "number": 198,
+        "card_name": "CZARFACE, the Iron Claw",
+        "number": 196,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1072"
+        "position": "1033"
     },
     {
-        "card_name": "Connie Maheswaran",
-        "number": 282,
+        "card_name": "Cave Adventurer",
+        "number": 281,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "642"
+        "position": "175"
     },
     {
-        "card_name": "Duel for Dominance (RAIN)",
-        "number": 387,
+        "card_name": "Danger Sense",
+        "number": 385,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1094"
+        "position": "233"
     },
     {
-        "card_name": "The Face of the Deep",
-        "number": 29,
+        "card_name": "Epona",
+        "number": 28,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "328"
+        "position": "1049"
     },
     {
         "card_name": "Commerson's Dolphin",
@@ -1056,36 +976,36 @@
         "position": "282"
     },
     {
-        "card_name": "Doctor Shaw",
-        "number": 199,
+        "card_name": "DANGERDOOM",
+        "number": 197,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "190"
+        "position": "1034"
     },
     {
-        "card_name": "Cooking Show",
-        "number": 283,
-        "shape": "normal",
+        "card_name": "Connie Maheswaran",
+        "number": 282,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "901"
+        "position": "642"
     },
     {
-        "card_name": "Emergency Triage",
-        "number": 388,
+        "card_name": "Dropwig",
+        "number": 386,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "935"
+        "position": "1093"
     },
     {
-        "card_name": "Fearless Aries",
-        "number": 30,
+        "card_name": "The Face of the Deep",
+        "number": 29,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1004"
+        "position": "328"
     },
     {
         "card_name": "Complications",
@@ -1096,12 +1016,52 @@
         "position": "97"
     },
     {
-        "card_name": "Doctor's Dealings",
-        "number": 200,
+        "card_name": "Death, The Grim Reaper",
+        "number": 198,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "507"
+        "position": "1072"
+    },
+    {
+        "card_name": "Cooking Show",
+        "number": 283,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "901"
+    },
+    {
+        "card_name": "Duel for Dominance (RAIN)",
+        "number": 387,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "1094"
+    },
+    {
+        "card_name": "Fearless Aries",
+        "number": 30,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "1004"
+    },
+    {
+        "card_name": "Council of Jokzi Ozo",
+        "number": 110,
+        "shape": "modal double faced",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "Doctor Shaw",
+        "number": 199,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "190"
     },
     {
         "card_name": "Crack the Diamond",
@@ -1112,12 +1072,12 @@
         "position": "643"
     },
     {
-        "card_name": "Feral Slam",
-        "number": 389,
+        "card_name": "Emergency Triage",
+        "number": 388,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "437"
+        "position": "935"
     },
     {
         "card_name": "Fifth Beatle",
@@ -1128,20 +1088,20 @@
         "position": "675"
     },
     {
-        "card_name": "Council of Jokzi Ozo",
-        "number": 110,
-        "shape": "normal",
+        "card_name": "Daiyousei, Greater Fairy",
+        "number": 111,
+        "shape": "adventure",
         "set": "ULT2",
         "rotated": false,
-        "position": "135"
+        "position": "854"
     },
     {
-        "card_name": "Domesticated Bloodletter",
-        "number": 201,
+        "card_name": "Doctor's Dealings",
+        "number": 200,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "986"
+        "position": "507"
     },
     {
         "card_name": "Dante, Devil Trigger",
@@ -1152,12 +1112,12 @@
         "position": "577"
     },
     {
-        "card_name": "Five Pebbles",
-        "number": 390,
-        "shape": "planeswalker",
+        "card_name": "Feral Slam",
+        "number": 389,
+        "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1095"
+        "position": "437"
     },
     {
         "card_name": "From Chin To Tail",
@@ -1168,20 +1128,20 @@
         "position": "17"
     },
     {
-        "card_name": "Daiyousei, Greater Fairy",
-        "number": 111,
-        "shape": "adventure",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "854"
-    },
-    {
-        "card_name": "Dracula, Lord of Darkness",
-        "number": 202,
+        "card_name": "Deep Encounter",
+        "number": 112,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1073"
+        "position": "136"
+    },
+    {
+        "card_name": "Domesticated Bloodletter",
+        "number": 201,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "986"
     },
     {
         "card_name": "Darkners Live!",
@@ -1192,12 +1152,12 @@
         "position": "895"
     },
     {
-        "card_name": "Fractal Mutation",
-        "number": 391,
-        "shape": "normal",
+        "card_name": "Five Pebbles",
+        "number": 390,
+        "shape": "planeswalker",
         "set": "ULT2",
         "rotated": false,
-        "position": "386"
+        "position": "1095"
     },
     {
         "card_name": "Gregarious Gemini",
@@ -1208,20 +1168,20 @@
         "position": "1005"
     },
     {
-        "card_name": "Deep Encounter",
-        "number": 112,
+        "card_name": "Delirious Leap",
+        "number": 113,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "136"
+        "position": "160"
     },
     {
-        "card_name": "Eager Disciple",
-        "number": 203,
-        "shape": "normal",
+        "card_name": "Dracula, Lord of Darkness",
+        "number": 202,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "994"
+        "position": "1073"
     },
     {
         "card_name": "Delayed Slash",
@@ -1232,12 +1192,12 @@
         "position": "266"
     },
     {
-        "card_name": "Girl's Fight Out",
-        "number": 392,
+        "card_name": "Fractal Mutation",
+        "number": 391,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "373"
+        "position": "386"
     },
     {
         "card_name": "Having Fallen, It Was Blood",
@@ -1248,20 +1208,20 @@
         "position": "329"
     },
     {
-        "card_name": "Delirious Leap",
-        "number": 113,
+        "card_name": "Diagnostics Team",
+        "number": 114,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "160"
+        "position": "48"
     },
     {
-        "card_name": "Evan MacMillan, the Trapper",
-        "number": 204,
+        "card_name": "Eager Disciple",
+        "number": 203,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "512"
+        "position": "994"
     },
     {
         "card_name": "Der Fluchsch\u00fctze",
@@ -1272,12 +1232,12 @@
         "position": "1"
     },
     {
-        "card_name": "Gleaming Sigilyph",
-        "number": 393,
+        "card_name": "Girl's Fight Out",
+        "number": 392,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "311"
+        "position": "373"
     },
     {
         "card_name": "Hawkfrost",
@@ -1288,20 +1248,20 @@
         "position": "19"
     },
     {
-        "card_name": "Diagnostics Team",
-        "number": 114,
-        "shape": "normal",
+        "card_name": "The Doorman, Humble Servant",
+        "number": 115,
+        "shape": "leveler",
         "set": "ULT2",
         "rotated": false,
-        "position": "48"
+        "position": "957"
     },
     {
-        "card_name": "Final Test",
-        "number": 205,
+        "card_name": "Evan MacMillan, the Trapper",
+        "number": 204,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "341"
+        "position": "512"
     },
     {
         "card_name": "Diamondhead",
@@ -1312,12 +1272,12 @@
         "position": "1016"
     },
     {
-        "card_name": "Gobble Indiscriminately",
-        "number": 394,
+        "card_name": "Gleaming Sigilyph",
+        "number": 393,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "702"
+        "position": "311"
     },
     {
         "card_name": "Help() Transistor",
@@ -1328,20 +1288,20 @@
         "position": "418"
     },
     {
-        "card_name": "The Doorman, Humble Servant",
-        "number": 115,
-        "shape": "leveler",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "957"
-    },
-    {
-        "card_name": "The Forbidden One",
-        "number": 206,
+        "card_name": "The Engineer, Stranded",
+        "number": 116,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "475"
+        "position": "110"
+    },
+    {
+        "card_name": "Final Test",
+        "number": 205,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "341"
     },
     {
         "card_name": "Dig Deeper",
@@ -1352,12 +1312,12 @@
         "position": "176"
     },
     {
-        "card_name": "Goomba Tower",
-        "number": 395,
+        "card_name": "Gobble Indiscriminately",
+        "number": 394,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "42"
+        "position": "702"
     },
     {
         "card_name": "His Majesty's Bulwark",
@@ -1368,20 +1328,20 @@
         "position": "687"
     },
     {
-        "card_name": "The Engineer, Stranded",
-        "number": 116,
+        "card_name": "Enhanced Security",
+        "number": 117,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "110"
+        "position": "876"
     },
     {
-        "card_name": "Forbidden One's Left Arm",
-        "number": 207,
+        "card_name": "The Forbidden One",
+        "number": 206,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "470"
+        "position": "475"
     },
     {
         "card_name": "Discipline",
@@ -1392,12 +1352,12 @@
         "position": "2"
     },
     {
-        "card_name": "Grand Mother Silk",
-        "number": 396,
-        "shape": "normal",
+        "card_name": "Goomba Tower",
+        "number": 395,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "534"
+        "position": "42"
     },
     {
         "card_name": "His Majesty's Guards",
@@ -1408,20 +1368,20 @@
         "position": "688"
     },
     {
-        "card_name": "Enhanced Security",
-        "number": 117,
+        "card_name": "Eric Foreman, M.D.",
+        "number": 118,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "876"
+        "position": "58"
     },
     {
-        "card_name": "Forbidden One's Left Leg",
-        "number": 208,
+        "card_name": "Forbidden One's Left Arm",
+        "number": 207,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "462"
+        "position": "470"
     },
     {
         "card_name": "Dwarven Axelord",
@@ -1432,12 +1392,12 @@
         "position": "177"
     },
     {
-        "card_name": "Green Lizard",
-        "number": 397,
+        "card_name": "Grand Mother Silk",
+        "number": 396,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1097"
+        "position": "534"
     },
     {
         "card_name": "His Majesty's Swordbearers",
@@ -1448,20 +1408,20 @@
         "position": "689"
     },
     {
-        "card_name": "Eric Foreman, M.D.",
-        "number": 118,
-        "shape": "normal",
+        "card_name": "Eternity Larva, Scattering",
+        "number": 119,
+        "shape": "adventure",
         "set": "ULT2",
         "rotated": false,
-        "position": "58"
+        "position": "856"
     },
     {
-        "card_name": "Forbidden One's Right Arm",
-        "number": 209,
+        "card_name": "Forbidden One's Left Leg",
+        "number": 208,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "471"
+        "position": "462"
     },
     {
         "card_name": "Explosive End",
@@ -1472,12 +1432,12 @@
         "position": "81"
     },
     {
-        "card_name": "Growing Tympoles",
-        "number": 398,
+        "card_name": "Green Lizard",
+        "number": 397,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "312"
+        "position": "1097"
     },
     {
         "card_name": "It's Over Isn't It",
@@ -1488,20 +1448,20 @@
         "position": "644"
     },
     {
-        "card_name": "Eternity Larva, Scattering",
-        "number": 119,
-        "shape": "adventure",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "856"
-    },
-    {
-        "card_name": "Forbidden One's Right Leg",
-        "number": 210,
+        "card_name": "Expose",
+        "number": 120,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "463"
+        "position": "628"
+    },
+    {
+        "card_name": "Forbidden One's Right Arm",
+        "number": 209,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "471"
     },
     {
         "card_name": "Eye-Palm Effect",
@@ -1512,12 +1472,12 @@
         "position": "584"
     },
     {
-        "card_name": "Gustavo Rocque",
-        "number": 399,
+        "card_name": "Growing Tympoles",
+        "number": 398,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "374"
+        "position": "312"
     },
     {
         "card_name": "Ivy, Savior of Harlem",
@@ -1528,20 +1488,20 @@
         "position": "960"
     },
     {
-        "card_name": "Expose",
-        "number": 120,
+        "card_name": "The Factory Must Grow",
+        "number": 121,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "628"
+        "position": "105"
     },
     {
-        "card_name": "Foundation Guards",
-        "number": 211,
+        "card_name": "Forbidden One's Right Leg",
+        "number": 210,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "191"
+        "position": "463"
     },
     {
         "card_name": "Find Cerberus",
@@ -1552,12 +1512,12 @@
         "position": "447"
     },
     {
-        "card_name": "Hammer Smash",
-        "number": 400,
+        "card_name": "Gustavo Rocque",
+        "number": 399,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "30"
+        "position": "374"
     },
     {
         "card_name": "Jaunt() Transistor",
@@ -1568,20 +1528,20 @@
         "position": "419"
     },
     {
-        "card_name": "The Factory Must Grow",
-        "number": 121,
+        "card_name": "Formaggio, Slick Sneak",
+        "number": 122,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "105"
+        "position": "879"
     },
     {
-        "card_name": "Franken, the Creature",
-        "number": 212,
+        "card_name": "Foundation Guards",
+        "number": 211,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1075"
+        "position": "191"
     },
     {
         "card_name": "Fire Flower",
@@ -1592,12 +1552,12 @@
         "position": "619"
     },
     {
-        "card_name": "Hapless Tenants",
-        "number": 401,
+        "card_name": "Hammer Smash",
+        "number": 400,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "387"
+        "position": "30"
     },
     {
         "card_name": "The Judge, Feline Guide",
@@ -1608,20 +1568,20 @@
         "position": "146"
     },
     {
-        "card_name": "Formaggio, Slick Sneak",
-        "number": 122,
+        "card_name": "Gakvu Thoughtform",
+        "number": 123,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "879"
+        "position": "138"
     },
     {
-        "card_name": "A Game of Gods",
-        "number": 213,
+        "card_name": "Franken, the Creature",
+        "number": 212,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "472"
+        "position": "1075"
     },
     {
         "card_name": "Focus Fire",
@@ -1632,12 +1592,12 @@
         "position": "3"
     },
     {
-        "card_name": "Hellen, Green-Thumb Maniac",
-        "number": 402,
+        "card_name": "Hapless Tenants",
+        "number": 401,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "388"
+        "position": "387"
     },
     {
         "card_name": "Judgement of Libra",
@@ -1648,20 +1608,20 @@
         "position": "1007"
     },
     {
-        "card_name": "Gakvu Thoughtform",
-        "number": 123,
-        "shape": "normal",
+        "card_name": "Gangle",
+        "number": 124,
+        "shape": "adventure",
         "set": "ULT2",
         "rotated": false,
-        "position": "138"
+        "position": "633"
     },
     {
-        "card_name": "Ghoul's Night",
-        "number": 214,
+        "card_name": "A Game of Gods",
+        "number": 213,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "844"
+        "position": "472"
     },
     {
         "card_name": "Freak Out",
@@ -1672,12 +1632,12 @@
         "position": "1017"
     },
     {
-        "card_name": "Hiroko Ai",
-        "number": 403,
+        "card_name": "Hellen, Green-Thumb Maniac",
+        "number": 402,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "923"
+        "position": "388"
     },
     {
         "card_name": "Laios Touden",
@@ -1688,20 +1648,20 @@
         "position": "202"
     },
     {
-        "card_name": "Gangle",
-        "number": 124,
-        "shape": "adventure",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "633"
-    },
-    {
-        "card_name": "Have At You!",
-        "number": 215,
+        "card_name": "Ghiaccio, Icy Berserker",
+        "number": 125,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1076"
+        "position": "880"
+    },
+    {
+        "card_name": "Ghoul's Night",
+        "number": 214,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "844"
     },
     {
         "card_name": "Front of the Smoke War",
@@ -1712,12 +1672,12 @@
         "position": "4"
     },
     {
-        "card_name": "Hornet, Pharloom's Savior",
-        "number": 404,
+        "card_name": "Hiroko Ai",
+        "number": 403,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "535"
+        "position": "923"
     },
     {
         "card_name": "Link, Hero of Time",
@@ -1728,20 +1688,20 @@
         "position": "1050"
     },
     {
-        "card_name": "Ghiaccio, Icy Berserker",
-        "number": 125,
+        "card_name": "Giant Isopod",
+        "number": 126,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "880"
+        "position": "283"
     },
     {
-        "card_name": "Heart of the Cards",
-        "number": 216,
+        "card_name": "Have At You!",
+        "number": 215,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "473"
+        "position": "1076"
     },
     {
         "card_name": "Graze the Grass",
@@ -1752,12 +1712,12 @@
         "position": "5"
     },
     {
-        "card_name": "Hunter Slime",
-        "number": 405,
+        "card_name": "Hornet, Pharloom's Savior",
+        "number": 404,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "432"
+        "position": "535"
     },
     {
         "card_name": "Lionblaze",
@@ -1768,20 +1728,20 @@
         "position": "402"
     },
     {
-        "card_name": "Giant Isopod",
-        "number": 126,
-        "shape": "normal",
+        "card_name": "Glasp",
+        "number": 127,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "283"
+        "position": "479"
     },
     {
-        "card_name": "The Hollow Knight",
-        "number": 217,
+        "card_name": "Heart of the Cards",
+        "number": 216,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "540"
+        "position": "473"
     },
     {
         "card_name": "Green-Eyed Monster",
@@ -1792,12 +1752,12 @@
         "position": "517"
     },
     {
-        "card_name": "Imperial Holdout",
-        "number": 406,
+        "card_name": "Hunter Slime",
+        "number": 405,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "932"
+        "position": "432"
     },
     {
         "card_name": "The Loader",
@@ -1808,20 +1768,20 @@
         "position": "330"
     },
     {
-        "card_name": "Fearful Infection",
-        "number": 127,
+        "card_name": "Grimaline Smith, Neophyte",
+        "number": 128,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "478"
+        "position": "161"
     },
     {
-        "card_name": "Hysterical Outburst",
-        "number": 218,
+        "card_name": "The Hollow Knight",
+        "number": 217,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "600"
+        "position": "540"
     },
     {
         "card_name": "Heatblast",
@@ -1832,12 +1792,12 @@
         "position": "1018"
     },
     {
-        "card_name": "Inch-High Prince",
-        "number": 407,
+        "card_name": "Imperial Holdout",
+        "number": 406,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "975"
+        "position": "932"
     },
     {
         "card_name": "Magical Mystery Tour",
@@ -1848,20 +1808,20 @@
         "position": "676"
     },
     {
-        "card_name": "Glasp",
-        "number": 127,
+        "card_name": "Harry Jacket, Neophyte",
+        "number": 129,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "479"
+        "position": "162"
     },
     {
-        "card_name": "I Win, L!",
-        "number": 219,
+        "card_name": "Hysterical Outburst",
+        "number": 218,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "342"
+        "position": "600"
     },
     {
         "card_name": "Heather Mason",
@@ -1872,12 +1832,12 @@
         "position": "404"
     },
     {
-        "card_name": "Indomitable Boldore",
-        "number": 408,
+        "card_name": "Inch-High Prince",
+        "number": 407,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "313"
+        "position": "975"
     },
     {
         "card_name": "Make Your Move",
@@ -1888,20 +1848,20 @@
         "position": "147"
     },
     {
-        "card_name": "Grimaline Smith, Neophyte",
-        "number": 128,
+        "card_name": "House, M.D.",
+        "number": 130,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "161"
+        "position": "57"
     },
     {
-        "card_name": "Jigen, the Marksman",
-        "number": 220,
+        "card_name": "I Win, L!",
+        "number": 219,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "295"
+        "position": "342"
     },
     {
         "card_name": "Hell Raven",
@@ -1912,12 +1872,12 @@
         "position": "518"
     },
     {
-        "card_name": "Infected Hopper",
-        "number": 409,
+        "card_name": "Indomitable Boldore",
+        "number": 408,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "536"
+        "position": "313"
     },
     {
         "card_name": "Marcille Donato",
@@ -1928,20 +1888,20 @@
         "position": "203"
     },
     {
-        "card_name": "Harry Jacket, Neophyte",
-        "number": 129,
+        "card_name": "Humpback Whales",
+        "number": 131,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "162"
+        "position": "284"
     },
     {
-        "card_name": "Joy of Creation",
-        "number": 221,
+        "card_name": "Jigen, the Marksman",
+        "number": 220,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "659"
+        "position": "295"
     },
     {
         "card_name": "Helldiver Kill-Counter",
@@ -1952,12 +1912,12 @@
         "position": "82"
     },
     {
-        "card_name": "Insomniac",
-        "number": 410,
+        "card_name": "Infected Hopper",
+        "number": 409,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "235"
+        "position": "536"
     },
     {
         "card_name": "The Mirage Express",
@@ -1968,20 +1928,20 @@
         "position": "548"
     },
     {
-        "card_name": "House, M.D.",
-        "number": 130,
-        "shape": "normal",
+        "card_name": "HUNK, the 4th Survivor",
+        "number": 132,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "57"
+        "position": "497"
     },
     {
-        "card_name": "King Geedorah, the Third Rail",
-        "number": 222,
+        "card_name": "Joy of Creation",
+        "number": 221,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1035"
+        "position": "659"
     },
     {
         "card_name": "Helldiver Point-Man",
@@ -1992,12 +1952,12 @@
         "position": "83"
     },
     {
-        "card_name": "Joel, Tooth Child",
-        "number": 411,
+        "card_name": "Insomniac",
+        "number": 410,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "389"
+        "position": "235"
     },
     {
         "card_name": "Moon Healing Escalation!",
@@ -2008,20 +1968,20 @@
         "position": "118"
     },
     {
-        "card_name": "Humpback Whales",
-        "number": 131,
+        "card_name": "The Hunter Data",
+        "number": 133,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "284"
+        "position": "163"
     },
     {
-        "card_name": "Kira Cultists",
-        "number": 223,
+        "card_name": "King Geedorah, the Third Rail",
+        "number": 222,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "343"
+        "position": "1035"
     },
     {
         "card_name": "Helldiver Shieldbearer",
@@ -2032,12 +1992,12 @@
         "position": "84"
     },
     {
-        "card_name": "Junior, Royal Painter",
-        "number": 412,
+        "card_name": "Joel, Tooth Child",
+        "number": 411,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "31"
+        "position": "389"
     },
     {
         "card_name": "Moon Prism Power!",
@@ -2048,20 +2008,20 @@
         "position": "119"
     },
     {
-        "card_name": "HUNK, the 4th Survivor",
-        "number": 132,
+        "card_name": "Hupton Beach Lu'au",
+        "number": 134,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "497"
+        "position": "164"
     },
     {
-        "card_name": "Kira's Task Force",
-        "number": 224,
+        "card_name": "Kira Cultists",
+        "number": 223,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "344"
+        "position": "343"
     },
     {
         "card_name": "Helldiver Veteran",
@@ -2072,12 +2032,12 @@
         "position": "85"
     },
     {
-        "card_name": "Kamek, Peerless Magician",
-        "number": 413,
+        "card_name": "Junior, Royal Painter",
+        "number": 412,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "32"
+        "position": "31"
     },
     {
         "card_name": "Navi",
@@ -2088,20 +2048,20 @@
         "position": "1051"
     },
     {
-        "card_name": "Last-Second Extraction",
-        "number": 132,
+        "card_name": "Ice Tornado",
+        "number": 135,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "498"
+        "position": "859"
     },
     {
-        "card_name": "The Knight, Returned Traveler",
-        "number": 225,
+        "card_name": "Kira's Task Force",
+        "number": 224,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "541"
+        "position": "344"
     },
     {
         "card_name": "The Helltaker",
@@ -2112,12 +2072,12 @@
         "position": "448"
     },
     {
-        "card_name": "Kesha, Turning It Up",
-        "number": 414,
+        "card_name": "Kamek, Peerless Magician",
+        "number": 413,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "376"
+        "position": "32"
     },
     {
         "card_name": "New Inhabitants",
@@ -2128,36 +2088,36 @@
         "position": "148"
     },
     {
-        "card_name": "The Hunter Data",
-        "number": 133,
+        "card_name": "Illuso, Mirror Man",
+        "number": 136,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "163"
+        "position": "886"
     },
     {
-        "card_name": "Lefty",
-        "number": 226,
+        "card_name": "The Knight, Returned Traveler",
+        "number": 225,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "665"
+        "position": "541"
     },
     {
         "card_name": "Illuminate Harvester",
         "number": 310,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "86"
     },
     {
-        "card_name": "The King Of All Cosmos",
-        "number": 415,
-        "shape": "normal",
+        "card_name": "Kesha, Turning It Up",
+        "number": 414,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "981"
+        "position": "376"
     },
     {
         "card_name": "Pearl, Loyal Renegade",
@@ -2168,20 +2128,20 @@
         "position": "653"
     },
     {
-        "card_name": "Hupton Beach Lu'au",
-        "number": 134,
+        "card_name": "Interloper, Outside Observer",
+        "number": 137,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "164"
+        "position": "139"
     },
     {
-        "card_name": "Light Yagami, Would-Be God",
-        "number": 227,
+        "card_name": "Lefty",
+        "number": 226,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "345"
+        "position": "665"
     },
     {
         "card_name": "Iruka, Academy Instructor",
@@ -2192,12 +2152,12 @@
         "position": "219"
     },
     {
-        "card_name": "Leigh, Grinner",
-        "number": 416,
+        "card_name": "The King Of All Cosmos",
+        "number": 415,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "390"
+        "position": "981"
     },
     {
         "card_name": "Planted Blowdart",
@@ -2208,20 +2168,20 @@
         "position": "550"
     },
     {
-        "card_name": "Ice Tornado",
-        "number": 135,
+        "card_name": "Kakashi, Team 9 Leader",
+        "number": 138,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "859"
+        "position": "220"
     },
     {
-        "card_name": "Hemoplague",
-        "number": 228,
+        "card_name": "Light Yagami, Would-Be God",
+        "number": 227,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "998"
+        "position": "345"
     },
     {
         "card_name": "It's Hero Time",
@@ -2232,12 +2192,12 @@
         "position": "1019"
     },
     {
-        "card_name": "Look Outside",
-        "number": 417,
+        "card_name": "Leigh, Grinner",
+        "number": 416,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "391"
+        "position": "390"
     },
     {
         "card_name": "A Proper Diet",
@@ -2248,17 +2208,17 @@
         "position": "204"
     },
     {
-        "card_name": "Illuso, Mirror Man",
-        "number": 136,
+        "card_name": "Leopard Seal",
+        "number": 139,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "886"
+        "position": "285"
     },
     {
         "card_name": "Lord Vladimir, Crimson Reaper",
         "number": 228,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "999"
@@ -2272,12 +2232,12 @@
         "position": "405"
     },
     {
-        "card_name": "Miros Bird",
-        "number": 418,
+        "card_name": "Look Outside",
+        "number": 417,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1098"
+        "position": "391"
     },
     {
         "card_name": "Pure-Hearted Virgo",
@@ -2288,12 +2248,12 @@
         "position": "1010"
     },
     {
-        "card_name": "Interloper, Outside Observer",
-        "number": 137,
-        "shape": "normal",
+        "card_name": "Letty Whiterock",
+        "number": 140,
+        "shape": "adventure",
         "set": "ULT2",
         "rotated": false,
-        "position": "139"
+        "position": "857"
     },
     {
         "card_name": "L's Endgame",
@@ -2312,12 +2272,12 @@
         "position": "450"
     },
     {
-        "card_name": "Mischievious Ariral",
-        "number": 419,
+        "card_name": "Miros Bird",
+        "number": 418,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "237"
+        "position": "1098"
     },
     {
         "card_name": "Rally for Justice",
@@ -2328,12 +2288,12 @@
         "position": "551"
     },
     {
-        "card_name": "Kakashi, Team 9 Leader",
-        "number": 138,
+        "card_name": "Lisa Cuddy, M.D.",
+        "number": 141,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "220"
+        "position": "55"
     },
     {
         "card_name": "The Mad Hatter",
@@ -2352,12 +2312,12 @@
         "position": "451"
     },
     {
-        "card_name": "N's Servine",
-        "number": 420,
+        "card_name": "Mischievious Ariral",
+        "number": 419,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "318"
+        "position": "237"
     },
     {
         "card_name": "Red, Lone Voice",
@@ -2368,12 +2328,12 @@
         "position": "420"
     },
     {
-        "card_name": "Leopard Seal",
-        "number": 139,
+        "card_name": "A Little Lie Between Friends",
+        "number": 142,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "285"
+        "position": "476"
     },
     {
         "card_name": "Madvillainy",
@@ -2392,12 +2352,12 @@
         "position": "585"
     },
     {
-        "card_name": "Pagonioplo-Igetis",
-        "number": 421,
+        "card_name": "N's Servine",
+        "number": 420,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "239"
+        "position": "318"
     },
     {
         "card_name": "The Regent",
@@ -2408,12 +2368,12 @@
         "position": "690"
     },
     {
-        "card_name": "Letty Whiterock",
-        "number": 140,
-        "shape": "adventure",
+        "card_name": "Logistics Train",
+        "number": 143,
+        "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "857"
+        "position": "100"
     },
     {
         "card_name": "Melone, Distant Admirer",
@@ -2432,28 +2392,28 @@
         "position": "406"
     },
     {
-        "card_name": "Pink Slime",
-        "number": 422,
+        "card_name": "Pagonioplo-Igetis",
+        "number": 421,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "435"
+        "position": "239"
     },
     {
         "card_name": "Rei Hino",
         "number": 65,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "120"
     },
     {
-        "card_name": "Lisa Cuddy, M.D.",
-        "number": 141,
+        "card_name": "Lord Wernon Fatigue",
+        "number": 144,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "55"
+        "position": "165"
     },
     {
         "card_name": "Memetic Agent",
@@ -2472,28 +2432,28 @@
         "position": "6"
     },
     {
-        "card_name": "Piranhic Growth",
-        "number": 423,
+        "card_name": "Pink Slime",
+        "number": 422,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "35"
+        "position": "435"
     },
     {
-        "card_name": "Sailor Mars",
-        "number": 65,
+        "card_name": "Rem and Friends",
+        "number": 66,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "122"
+        "position": "958"
     },
     {
-        "card_name": "A Little Lie Between Friends",
-        "number": 142,
+        "card_name": "Magu Tapa",
+        "number": 145,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "476"
+        "position": "286"
     },
     {
         "card_name": "Metal Face Mask",
@@ -2512,28 +2472,28 @@
         "position": "452"
     },
     {
-        "card_name": "Plort Market",
-        "number": 424,
+        "card_name": "Piranhic Growth",
+        "number": 423,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "431"
+        "position": "35"
     },
     {
-        "card_name": "Rem and Friends",
-        "number": 66,
+        "card_name": "Resolute Sagittarius",
+        "number": 67,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "958"
+        "position": "1011"
     },
     {
-        "card_name": "Logistics Train",
-        "number": 143,
+        "card_name": "Mass-Produced Tank",
+        "number": 146,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "100"
+        "position": "108"
     },
     {
         "card_name": "MF DOOM, the Illest Villain",
@@ -2552,28 +2512,28 @@
         "position": "586"
     },
     {
-        "card_name": "Purple Pikmin",
-        "number": 425,
-        "shape": "adventure",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "703"
-    },
-    {
-        "card_name": "Resolute Sagittarius",
-        "number": 67,
+        "card_name": "Plort Market",
+        "number": 424,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1011"
+        "position": "431"
     },
     {
-        "card_name": "Lord Wernon Fatigue",
-        "number": 144,
+        "card_name": "Royce, Fallen Architect",
+        "number": 68,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "165"
+        "position": "421"
+    },
+    {
+        "card_name": "Message from the Moon",
+        "number": 147,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "357"
     },
     {
         "card_name": "The Millennium Puzzle",
@@ -2592,28 +2552,28 @@
         "position": "453"
     },
     {
-        "card_name": "Quantum Gate Expedition",
-        "number": 426,
-        "shape": "normal",
+        "card_name": "Purple Pikmin",
+        "number": 425,
+        "shape": "adventure",
         "set": "ULT2",
         "rotated": false,
-        "position": "438"
+        "position": "703"
     },
     {
-        "card_name": "Royce, Fallen Architect",
-        "number": 68,
-        "shape": "normal",
+        "card_name": "Rusty",
+        "number": 69,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "421"
+        "position": "39"
     },
     {
-        "card_name": "Magu Tapa",
-        "number": 145,
+        "card_name": "Minus K",
+        "number": 148,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "286"
+        "position": "860"
     },
     {
         "card_name": "Misa Amane, Kira Worshipper",
@@ -2632,28 +2592,28 @@
         "position": "624"
     },
     {
-        "card_name": "The Queen Of All Cosmos",
-        "number": 427,
+        "card_name": "Quantum Gate Expedition",
+        "number": 426,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "980"
+        "position": "438"
     },
     {
-        "card_name": "Fireheart",
-        "number": 69,
-        "shape": "normal",
+        "card_name": "Saria, Secret Sage",
+        "number": 70,
+        "shape": "saga",
         "set": "ULT2",
         "rotated": false,
-        "position": "40"
+        "position": "1052"
     },
     {
-        "card_name": "Mass-Produced Tank",
-        "number": 146,
+        "card_name": "Misdiagnose",
+        "number": 149,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "108"
+        "position": "49"
     },
     {
         "card_name": "Murder",
@@ -2672,28 +2632,28 @@
         "position": "178"
     },
     {
-        "card_name": "Quickfoot Koopas",
-        "number": 428,
+        "card_name": "The Queen Of All Cosmos",
+        "number": 427,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "36"
+        "position": "980"
     },
     {
-        "card_name": "Rusty",
-        "number": 69,
-        "shape": "normal",
+        "card_name": "Setsuna Meiou",
+        "number": 71,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "39"
+        "position": "126"
     },
     {
-        "card_name": "Message from the Moon",
-        "number": 147,
+        "card_name": "Mobile Task Force",
+        "number": 150,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "357"
+        "position": "869"
     },
     {
         "card_name": "Obliterating Blast",
@@ -2712,132 +2672,12 @@
         "position": "179"
     },
     {
-        "card_name": "Rad Slime",
-        "number": 429,
+        "card_name": "Quickfoot Koopas",
+        "number": 428,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "436"
-    },
-    {
-        "card_name": "Saria, Secret Sage",
-        "number": 70,
-        "shape": "saga",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1052"
-    },
-    {
-        "card_name": "Minus K",
-        "number": 148,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "860"
-    },
-    {
-        "card_name": "Operation DOOMSDAY",
-        "number": 240,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1039"
-    },
-    {
-        "card_name": "Mitis Assault",
-        "number": 325,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "562"
-    },
-    {
-        "card_name": "Rare Thrumbo",
-        "number": 430,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "939"
-    },
-    {
-        "card_name": "Sailor Pluto",
-        "number": 71,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "123"
-    },
-    {
-        "card_name": "Misdiagnose",
-        "number": 149,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "49"
-    },
-    {
-        "card_name": "Out of House and Home",
-        "number": 241,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "602"
-    },
-    {
-        "card_name": "Modeus, the Eager Demon",
-        "number": 326,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "454"
-    },
-    {
-        "card_name": "Reach the Top",
-        "number": 431,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1099"
-    },
-    {
-        "card_name": "Setsuna Meiou",
-        "number": 71,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "126"
-    },
-    {
-        "card_name": "Mobile Task Force",
-        "number": 150,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "869"
-    },
-    {
-        "card_name": "Parasitic Pigeons",
-        "number": 242,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "987"
-    },
-    {
-        "card_name": "Mr. Ant Tenna",
-        "number": 327,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "908"
-    },
-    {
-        "card_name": "Resourceful Slugcat",
-        "number": 432,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1100"
+        "position": "36"
     },
     {
         "card_name": "Shabon Spray",
@@ -2856,28 +2696,28 @@
         "position": "371"
     },
     {
-        "card_name": "Pesci, Wannabe Gangster",
-        "number": 243,
+        "card_name": "Operation DOOMSDAY",
+        "number": 240,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "883"
+        "position": "1039"
     },
     {
-        "card_name": "The Mysterious Sogeking",
-        "number": 328,
+        "card_name": "Mitis Assault",
+        "number": 325,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "267"
+        "position": "562"
     },
     {
-        "card_name": "Return the Stars!",
-        "number": 433,
+        "card_name": "Rad Slime",
+        "number": 429,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "970"
+        "position": "436"
     },
     {
         "card_name": "Sleepwalk",
@@ -2896,28 +2736,28 @@
         "position": "638"
     },
     {
-        "card_name": "Phantom Bat",
-        "number": 244,
+        "card_name": "Out of House and Home",
+        "number": 241,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1078"
+        "position": "602"
     },
     {
-        "card_name": "Nevan's Lightning",
-        "number": 329,
+        "card_name": "Modeus, the Eager Demon",
+        "number": 326,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "570"
+        "position": "454"
     },
     {
-        "card_name": "Ride the ATV",
-        "number": 434,
+        "card_name": "Rare Thrumbo",
+        "number": 430,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "246"
+        "position": "939"
     },
     {
         "card_name": "Solar Strike",
@@ -2930,82 +2770,42 @@
     {
         "card_name": "Rachel Foley",
         "number": 153,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "489"
     },
     {
-        "card_name": "Prosciutto, Hardened Mafioso",
-        "number": 245,
+        "card_name": "Parasitic Pigeons",
+        "number": 242,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "888"
+        "position": "987"
     },
     {
-        "card_name": "Nevan, Lightning Contralto",
-        "number": 329,
+        "card_name": "Mr. Ant Tenna",
+        "number": 327,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "571"
+        "position": "908"
     },
     {
-        "card_name": "Rim Militia",
-        "number": 435,
+        "card_name": "Reach the Top",
+        "number": 431,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "933"
+        "position": "1099"
     },
     {
         "card_name": "The Spirit Temple",
         "number": 75,
-        "shape": "saga",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "1054"
-    },
-    {
-        "card_name": "Rachel, Consumed by Abyss",
-        "number": 153,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "490"
-    },
-    {
-        "card_name": "Quasimoto and DOOM",
-        "number": 246,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1040"
-    },
-    {
-        "card_name": "Nico Goldstein",
-        "number": 330,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "575"
-    },
-    {
-        "card_name": "Roll Up Colossi!",
-        "number": 436,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "971"
-    },
-    {
-        "card_name": "Spoiling Cells",
-        "number": 76,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "422"
     },
     {
         "card_name": "Recollection Locus",
@@ -3016,36 +2816,36 @@
         "position": "142"
     },
     {
-        "card_name": "Queen Medusa",
-        "number": 247,
+        "card_name": "Pesci, Wannabe Gangster",
+        "number": 243,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1079"
+        "position": "883"
     },
     {
-        "card_name": "Old G. Corp Footsoldier",
-        "number": 331,
+        "card_name": "The Mysterious Sogeking",
+        "number": 328,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "7"
+        "position": "267"
     },
     {
-        "card_name": "Roll Up Fantasy!",
-        "number": 437,
+        "card_name": "Resourceful Slugcat",
+        "number": 432,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "976"
+        "position": "1100"
     },
     {
-        "card_name": "Starclan's Judgement",
-        "number": 77,
+        "card_name": "Spoiling Cells",
+        "number": 76,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "22"
+        "position": "422"
     },
     {
         "card_name": "Reconsider",
@@ -3056,36 +2856,36 @@
         "position": "865"
     },
     {
-        "card_name": "Rebecca, Renaissance Woman",
-        "number": 248,
+        "card_name": "Phantom Bat",
+        "number": 244,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "296"
+        "position": "1078"
     },
     {
-        "card_name": "Orbital Laser Sweep",
-        "number": 332,
-        "shape": "normal",
+        "card_name": "Nevan, Lightning Contralto",
+        "number": 329,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "88"
+        "position": "571"
     },
     {
-        "card_name": "Roll Up History!",
-        "number": 438,
+        "card_name": "Return the Stars!",
+        "number": 433,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "972"
+        "position": "970"
     },
     {
-        "card_name": "Stay In Your Coma",
-        "number": 78,
+        "card_name": "Starclan's Judgement",
+        "number": 77,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "149"
+        "position": "22"
     },
     {
         "card_name": "Repel the Locals",
@@ -3096,36 +2896,36 @@
         "position": "102"
     },
     {
-        "card_name": "Rin, Arisen Yamaoka",
-        "number": 249,
+        "card_name": "Prosciutto, Hardened Mafioso",
+        "number": 245,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "509"
+        "position": "888"
     },
     {
-        "card_name": "Overwhelming Firepower",
-        "number": 333,
+        "card_name": "Nico Goldstein",
+        "number": 330,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "89"
+        "position": "575"
     },
     {
-        "card_name": "Roll Up the Showdown!",
-        "number": 439,
+        "card_name": "Ride the ATV",
+        "number": 434,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "977"
+        "position": "246"
     },
     {
-        "card_name": "Steven Universe",
-        "number": 79,
+        "card_name": "Stay In Your Coma",
+        "number": 78,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "649"
+        "position": "149"
     },
     {
         "card_name": "Resolve the Stalemate",
@@ -3136,36 +2936,36 @@
         "position": "358"
     },
     {
-        "card_name": "Royal Reflection",
-        "number": 250,
+        "card_name": "Quasimoto and DOOM",
+        "number": 246,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "606"
+        "position": "1040"
     },
     {
-        "card_name": "Pandemonica, the Tired Demon",
-        "number": 334,
+        "card_name": "Old G. Corp Footsoldier",
+        "number": 331,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "455"
+        "position": "7"
     },
     {
-        "card_name": "Roll Up the World!",
-        "number": 440,
+        "card_name": "Rim Militia",
+        "number": 435,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "979"
+        "position": "933"
     },
     {
-        "card_name": "Stubborn Taurus",
-        "number": 80,
-        "shape": "normal",
+        "card_name": "Steven Universe",
+        "number": 79,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "1013"
+        "position": "649"
     },
     {
         "card_name": "Resume Testing",
@@ -3176,36 +2976,36 @@
         "position": "359"
     },
     {
-        "card_name": "Ryuk, Spirit of Death",
-        "number": 251,
+        "card_name": "Queen Medusa",
+        "number": 247,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "348"
+        "position": "1079"
     },
     {
-        "card_name": "Princess Daisy",
-        "number": 335,
+        "card_name": "Orbital Laser Sweep",
+        "number": 332,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "622"
+        "position": "88"
     },
     {
-        "card_name": "Royal Delegation",
-        "number": 441,
+        "card_name": "Roll Up Colossi!",
+        "number": 436,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "931"
+        "position": "971"
     },
     {
-        "card_name": "Stunning Save",
-        "number": 81,
+        "card_name": "Stubborn Taurus",
+        "number": 80,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "650"
+        "position": "1013"
     },
     {
         "card_name": "Ribbit",
@@ -3216,36 +3016,36 @@
         "position": "639"
     },
     {
-        "card_name": "Savor Each Morsel",
-        "number": 252,
+        "card_name": "Rebecca, Renaissance Woman",
+        "number": 248,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "988"
+        "position": "296"
     },
     {
-        "card_name": "Pyramid Head",
-        "number": 336,
+        "card_name": "Overwhelming Firepower",
+        "number": 333,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "407"
+        "position": "89"
     },
     {
-        "card_name": "Royal Rainbow!",
-        "number": 442,
+        "card_name": "Roll Up Fantasy!",
+        "number": 437,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "978"
+        "position": "976"
     },
     {
-        "card_name": "Super Sailor Moon",
-        "number": 82,
+        "card_name": "Stunning Save",
+        "number": 81,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "128"
+        "position": "650"
     },
     {
         "card_name": "SCP-1048, Builder Bear",
@@ -3256,36 +3056,36 @@
         "position": "875"
     },
     {
-        "card_name": "SCP-049, The Plague Doctor",
-        "number": 253,
+        "card_name": "Rin, Arisen Yamaoka",
+        "number": 249,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "193"
+        "position": "509"
     },
     {
-        "card_name": "R. Corp 4th Pack Rabbit",
-        "number": 337,
+        "card_name": "Pandemonica, the Tired Demon",
+        "number": 334,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "8"
+        "position": "455"
     },
     {
-        "card_name": "Rugged Backpackers",
-        "number": 443,
+        "card_name": "Roll Up History!",
+        "number": 438,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "915"
+        "position": "972"
     },
     {
-        "card_name": "Usagi Tsukino",
+        "card_name": "Super Sailor Moon",
         "number": 82,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "130"
+        "position": "128"
     },
     {
         "card_name": "SCP-1762, Where The Dragons Went",
@@ -3296,28 +3096,28 @@
         "position": "871"
     },
     {
-        "card_name": "SCP-106, The Old Man",
-        "number": 254,
+        "card_name": "Royal Reflection",
+        "number": 250,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "194"
+        "position": "606"
     },
     {
-        "card_name": "Ramb, Power Strip",
-        "number": 338,
+        "card_name": "Princess Daisy",
+        "number": 335,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "906"
+        "position": "622"
     },
     {
-        "card_name": "Sabotage",
-        "number": 444,
+        "card_name": "Roll Up the Showdown!",
+        "number": 439,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "919"
+        "position": "977"
     },
     {
         "card_name": "Suspicious Dysfunction",
@@ -3336,28 +3136,28 @@
         "position": "103"
     },
     {
-        "card_name": "SCP-173, The Statue",
-        "number": 255,
+        "card_name": "Ryuk, Spirit of Death",
+        "number": 251,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "195"
+        "position": "348"
     },
     {
-        "card_name": "Rasengan",
-        "number": 339,
+        "card_name": "Pyramid Head",
+        "number": 336,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "222"
+        "position": "407"
     },
     {
-        "card_name": "Seed Bomb",
-        "number": 445,
+        "card_name": "Roll Up the World!",
+        "number": 440,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "320"
+        "position": "979"
     },
     {
         "card_name": "They Might as Well Be Dead",
@@ -3376,28 +3176,28 @@
         "position": "287"
     },
     {
-        "card_name": "Severed and Sent",
-        "number": 256,
+        "card_name": "Savor Each Morsel",
+        "number": 252,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "889"
+        "position": "988"
     },
     {
-        "card_name": "Recruit Guys or Shoot Guys",
-        "number": 340,
+        "card_name": "R. Corp 4th Pack Rabbit",
+        "number": 337,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "897"
+        "position": "8"
     },
     {
-        "card_name": "Send Forth",
-        "number": 446,
+        "card_name": "Royal Delegation",
+        "number": 441,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "44"
+        "position": "931"
     },
     {
         "card_name": "Ticking Egg",
@@ -3416,28 +3216,28 @@
         "position": "56"
     },
     {
-        "card_name": "Springlock Failure",
-        "number": 257,
+        "card_name": "SCP-049, The Plague Doctor",
+        "number": 253,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "661"
+        "position": "193"
     },
     {
-        "card_name": "Reinforce",
-        "number": 341,
+        "card_name": "Ramb, Power Strip",
+        "number": 338,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "90"
+        "position": "906"
     },
     {
-        "card_name": "Slime Vine",
-        "number": 447,
+        "card_name": "Royal Rainbow!",
+        "number": 442,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "439"
+        "position": "978"
     },
     {
         "card_name": "Tigerstar",
@@ -3456,28 +3256,28 @@
         "position": "166"
     },
     {
-        "card_name": "Strategic Sacrifice",
-        "number": 258,
+        "card_name": "SCP-106, The Old Man",
+        "number": 254,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "258"
+        "position": "194"
     },
     {
-        "card_name": "Rev it Up!",
-        "number": 342,
+        "card_name": "Rasengan",
+        "number": 339,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "563"
+        "position": "222"
     },
     {
-        "card_name": "Snack Time",
-        "number": 448,
+        "card_name": "Rugged Backpackers",
+        "number": 443,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "324"
+        "position": "915"
     },
     {
         "card_name": "Tragedy on the Mirage Express",
@@ -3496,28 +3296,28 @@
         "position": "223"
     },
     {
-        "card_name": "Tides of Blood",
-        "number": 259,
+        "card_name": "SCP-173, The Statue",
+        "number": 255,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "996"
+        "position": "195"
     },
     {
-        "card_name": "Ripjaw's Bite",
-        "number": 343,
+        "card_name": "Recruit Guys or Shoot Guys",
+        "number": 340,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1021"
+        "position": "897"
     },
     {
-        "card_name": "Social Fight",
-        "number": 449,
+        "card_name": "Sabotage",
+        "number": 444,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "941"
+        "position": "919"
     },
     {
         "card_name": "Unlikely Attendant",
@@ -3536,28 +3336,28 @@
         "position": "50"
     },
     {
-        "card_name": "Ultimate Necross Rebirth",
-        "number": 260,
+        "card_name": "Severed and Sent",
+        "number": 256,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "465"
+        "position": "889"
     },
     {
-        "card_name": "Sack the Apartment",
-        "number": 344,
+        "card_name": "Reinforce",
+        "number": 341,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "408"
+        "position": "90"
     },
     {
-        "card_name": "Strength of Ideals",
-        "number": 450,
+        "card_name": "Seed Bomb",
+        "number": 445,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "321"
+        "position": "320"
     },
     {
         "card_name": "Upgraded Unmaker",
@@ -3576,28 +3376,28 @@
         "position": "372"
     },
     {
-        "card_name": "Vanny",
-        "number": 261,
+        "card_name": "Springlock Failure",
+        "number": 257,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "662"
+        "position": "661"
     },
     {
-        "card_name": "Satori, Feared and Reviled",
-        "number": 345,
-        "shape": "adventure",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "519"
-    },
-    {
-        "card_name": "Sudden Cliff",
-        "number": 451,
+        "card_name": "Rev it Up!",
+        "number": 342,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "241"
+        "position": "563"
+    },
+    {
+        "card_name": "Send Forth",
+        "number": 446,
+        "shape": "modal double faced",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "44"
     },
     {
         "card_name": "Wrought In War",
@@ -3616,28 +3416,28 @@
         "position": "167"
     },
     {
-        "card_name": "Viktor Vaughn, Vaudeville Villain",
-        "number": 262,
+        "card_name": "Strategic Sacrifice",
+        "number": 258,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1041"
+        "position": "258"
     },
     {
-        "card_name": "Search the Omnitrix",
-        "number": 346,
+        "card_name": "Ripjaw's Bite",
+        "number": 343,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1022"
+        "position": "1021"
     },
     {
-        "card_name": "Summit at Peacock Mountain",
-        "number": 452,
+        "card_name": "Slime Vine",
+        "number": 447,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "918"
+        "position": "439"
     },
     {
         "card_name": "You're My Prisoner Now",
@@ -3656,28 +3456,28 @@
         "position": "963"
     },
     {
-        "card_name": "Watched From Afar",
-        "number": 263,
+        "card_name": "Tides of Blood",
+        "number": 259,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "510"
+        "position": "996"
     },
     {
-        "card_name": "Shuttah, Light of the Party",
-        "number": 347,
+        "card_name": "Sack the Apartment",
+        "number": 344,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "907"
+        "position": "408"
     },
     {
-        "card_name": "Swarm!",
-        "number": 453,
-        "shape": "normal",
+        "card_name": "Snack Time",
+        "number": 448,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "704"
+        "position": "324"
     },
     {
         "card_name": "Zacharie, Masked Shopkeep",
@@ -3696,28 +3496,28 @@
         "position": "861"
     },
     {
-        "card_name": "What a Horrible Night",
-        "number": 264,
-        "shape": "aftermath",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1080"
-    },
-    {
-        "card_name": "Slash of the Zantetsuken",
-        "number": 348,
+        "card_name": "Ultimate Necross Rebirth",
+        "number": 260,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "299"
+        "position": "465"
     },
     {
-        "card_name": "Tabby Slime",
-        "number": 454,
+        "card_name": "Satori, Feared and Reviled",
+        "number": 345,
+        "shape": "adventure",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "519"
+    },
+    {
+        "card_name": "Social Fight",
+        "number": 449,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "433"
+        "position": "941"
     },
     {
         "card_name": "Glitch Slime",
@@ -3736,28 +3536,28 @@
         "position": "109"
     },
     {
-        "card_name": "Springtrap",
-        "number": 265,
+        "card_name": "Vanny",
+        "number": 261,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "668"
+        "position": "662"
     },
     {
-        "card_name": "Super Earth's Finest",
-        "number": 349,
+        "card_name": "Search the Omnitrix",
+        "number": 346,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "91"
+        "position": "1022"
     },
     {
-        "card_name": "Throw!",
-        "number": 455,
-        "shape": "normal",
+        "card_name": "Strength of Ideals",
+        "number": 450,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "705"
+        "position": "321"
     },
     {
         "card_name": "e"
@@ -3771,28 +3571,28 @@
         "position": "224"
     },
     {
-        "card_name": "William Afton",
-        "number": 265,
+        "card_name": "Viktor Vaughn, Vaudeville Villain",
+        "number": 262,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "670"
+        "position": "1041"
     },
     {
-        "card_name": "Super Mushroom",
-        "number": 350,
+        "card_name": "Shuttah, Light of the Party",
+        "number": 347,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "623"
+        "position": "907"
     },
     {
-        "card_name": "Tony Tony Chopper",
-        "number": 456,
+        "card_name": "Sudden Cliff",
+        "number": 451,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "270"
+        "position": "241"
     },
     {
         "card_name": "e"
@@ -3806,23 +3606,28 @@
         "position": "143"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Susie, Mad Drummer Girl",
-        "number": 351,
+        "card_name": "Watched From Afar",
+        "number": 263,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "909"
+        "position": "510"
     },
     {
-        "card_name": "Towering Rain Deer",
-        "number": 457,
+        "card_name": "Slash of the Zantetsuken",
+        "number": 348,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1101"
+        "position": "299"
+    },
+    {
+        "card_name": "Summit at Peacock Mountain",
+        "number": 452,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "918"
     },
     {
         "card_name": "e"
@@ -3836,23 +3641,28 @@
         "position": "288"
     },
     {
-        "card_name": "e"
+        "card_name": "What a Horrible Night",
+        "number": 264,
+        "shape": "aftermath",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "1080"
     },
     {
-        "card_name": "Tales of Forgotten Beasts",
-        "number": 352,
+        "card_name": "Super Earth's Finest",
+        "number": 349,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "180"
+        "position": "91"
     },
     {
-        "card_name": "Toxic Paintling",
-        "number": 458,
+        "card_name": "Swarm!",
+        "number": 453,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "393"
+        "position": "704"
     },
     {
         "card_name": "e"
@@ -3866,23 +3676,28 @@
         "position": "360"
     },
     {
-        "card_name": "e"
+        "card_name": "William Afton",
+        "number": 265,
+        "shape": "transform double faced",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "670"
     },
     {
-        "card_name": "Tavern Detour",
-        "number": 353,
+        "card_name": "Super Mushroom",
+        "number": 350,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "181"
+        "position": "623"
     },
     {
-        "card_name": "Walking Mushroom",
-        "number": 459,
+        "card_name": "Tabby Slime",
+        "number": 454,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "206"
+        "position": "433"
     },
     {
         "card_name": "e"
@@ -3899,20 +3714,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "Troublesome Oni",
-        "number": 354,
+        "card_name": "Susie, Mad Drummer Girl",
+        "number": 351,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "520"
+        "position": "909"
     },
     {
-        "card_name": "Whiskey Flask",
-        "number": 460,
+        "card_name": "Throw!",
+        "number": 455,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "394"
+        "position": "705"
     },
     {
         "card_name": "e"
@@ -3929,20 +3744,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "Under Valtiel's Watch",
-        "number": 355,
+        "card_name": "Tales of Forgotten Beasts",
+        "number": 352,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "409"
+        "position": "180"
     },
     {
-        "card_name": "Yellow Pikmin",
-        "number": 461,
+        "card_name": "Tony Tony Chopper",
+        "number": 456,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "706"
+        "position": "270"
     },
     {
         "card_name": "e"
@@ -3959,6 +3774,96 @@
         "card_name": "e"
     },
     {
+        "card_name": "Tavern Detour",
+        "number": 353,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "Towering Rain Deer",
+        "number": 457,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "1101"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "William Birkin",
+        "number": 180,
+        "shape": "transform double faced",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "493"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Troublesome Oni",
+        "number": 354,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "520"
+    },
+    {
+        "card_name": "Toxic Paintling",
+        "number": 458,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "393"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Withdrawal Symptoms",
+        "number": 181,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Under Valtiel's Watch",
+        "number": 355,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "409"
+    },
+    {
+        "card_name": "Walking Mushroom",
+        "number": 459,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "SCP-2521",
+        "number": 182,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "872"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Unexpected Toad",
         "number": 356,
         "shape": "normal",
@@ -3967,18 +3872,18 @@
         "position": "618"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "William Birkin",
-        "number": 180,
+        "card_name": "Whiskey Flask",
+        "number": 460,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "493"
+        "position": "394"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -3992,18 +3897,18 @@
         "position": "182"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Withdrawal Symptoms",
-        "number": 181,
+        "card_name": "Yellow Pikmin",
+        "number": 461,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "52"
+        "position": "706"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -4023,12 +3928,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "SCP-2521",
-        "number": 182,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "872"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -4096,7 +3996,7 @@
     {
         "card_name": "Voltaic Black Knight",
         "number": 362,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "572"
@@ -4246,12 +4146,12 @@
         "position": "945"
     },
     {
-        "card_name": "The G-Atrocity",
-        "number": 180,
+        "card_name": "Fatal Charm",
+        "number": 468,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "492"
+        "position": "885"
     },
     {
         "card_name": "GRAND HEIST",
@@ -4286,12 +4186,12 @@
         "position": "962"
     },
     {
-        "card_name": "Fatal Charm",
-        "number": 468,
-        "shape": "normal",
+        "card_name": "La Squadra's Betrayal",
+        "number": 471,
+        "shape": "saga",
         "set": "ULT2",
         "rotated": false,
-        "position": "885"
+        "position": "891"
     },
     {
         "card_name": "Draculaura",
@@ -4302,12 +4202,12 @@
         "position": "845"
     },
     {
-        "card_name": "Kesha, Animal Inside",
-        "number": 414,
+        "card_name": "Devil Child Nico Robin",
+        "number": 462,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "375"
+        "position": "271"
     },
     {
         "card_name": "It's Ready!",
@@ -4326,12 +4226,12 @@
         "position": "951"
     },
     {
-        "card_name": "La Squadra's Betrayal",
-        "number": 471,
-        "shape": "saga",
+        "card_name": "Risotto, Vengeful Leader",
+        "number": 474,
+        "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "891"
+        "position": "890"
     },
     {
         "card_name": "ERAM, Shadow Mantle Holder",
@@ -4342,12 +4242,12 @@
         "position": "903"
     },
     {
-        "card_name": "Devil Child Nico Robin",
-        "number": 462,
+        "card_name": "Straw Hat Luffy",
+        "number": 463,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "271"
+        "position": "272"
     },
     {
         "card_name": "Senshi of Izganda",
@@ -4360,50 +4260,10 @@
     {
         "card_name": "Ami Mizuno",
         "number": 483,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "579"
-    },
-    {
-        "card_name": "Risotto, Vengeful Leader",
-        "number": 474,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "890"
-    },
-    {
-        "card_name": "Four Arms",
-        "number": 508,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1024"
-    },
-    {
-        "card_name": "Straw Hat Luffy",
-        "number": 463,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "272"
-    },
-    {
-        "card_name": "The Engineer",
-        "number": 504,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "335"
-    },
-    {
-        "card_name": "Sailor Mercury",
-        "number": 483,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "580"
     },
     {
         "card_name": "Akizet's Corrucyst",
@@ -4414,12 +4274,12 @@
         "position": "133"
     },
     {
-        "card_name": "Frankie Stein",
-        "number": 509,
+        "card_name": "Four Arms",
+        "number": 508,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "840"
+        "position": "1024"
     },
     {
         "card_name": "Cat Burglar Nami",
@@ -4430,12 +4290,12 @@
         "position": "273"
     },
     {
-        "card_name": "Phantom Ganon",
-        "number": 507,
+        "card_name": "The Engineer",
+        "number": 504,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1057"
+        "position": "335"
     },
     {
         "card_name": "The Artificer",
@@ -4454,12 +4314,12 @@
         "position": "301"
     },
     {
-        "card_name": "Kazan, Blighted by Rage",
-        "number": 528,
+        "card_name": "Frankie Stein",
+        "number": 509,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "508"
+        "position": "840"
     },
     {
         "card_name": "Bad Sun",
@@ -4472,7 +4332,7 @@
     {
         "card_name": "The Forest Temple",
         "number": 507,
-        "shape": "saga",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "1058"
@@ -4494,12 +4354,12 @@
         "position": "634"
     },
     {
-        "card_name": "Lady Bow",
-        "number": 534,
+        "card_name": "Kazan, Blighted by Rage",
+        "number": 528,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "620"
+        "position": "508"
     },
     {
         "card_name": "Goemon, the Blademaster",
@@ -4526,20 +4386,20 @@
         "position": "137"
     },
     {
-        "card_name": "Jill Valentine, Wesker's Pawn",
-        "number": 526,
+        "card_name": "L, Immature Investigator",
+        "number": 533,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "495"
+        "position": "349"
     },
     {
-        "card_name": "Lupin, World's Greatest Thief",
-        "number": 540,
+        "card_name": "Lady Bow",
+        "number": 534,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "303"
+        "position": "620"
     },
     {
         "card_name": "Luigi, Cowardly Companion",
@@ -4566,25 +4426,25 @@
         "position": "54"
     },
     {
-        "card_name": "L, Immature Investigator",
-        "number": 533,
+        "card_name": "Lagoona Blue",
+        "number": 535,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "349"
+        "position": "837"
     },
     {
-        "card_name": "Rin, Spirit Carrier",
-        "number": 569,
-        "shape": "adventure",
+        "card_name": "Lupin, World's Greatest Thief",
+        "number": 540,
+        "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "525"
+        "position": "303"
     },
     {
         "card_name": "Monoko",
         "number": 547,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "591"
@@ -4592,7 +4452,7 @@
     {
         "card_name": "Makoto Kino",
         "number": 541,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "116"
@@ -4606,20 +4466,20 @@
         "position": "20"
     },
     {
-        "card_name": "Lagoona Blue",
-        "number": 535,
+        "card_name": "The Mimic",
+        "number": 544,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "837"
+        "position": "669"
     },
     {
-        "card_name": "Royal Suit Alice",
-        "number": 572,
-        "shape": "normal",
+        "card_name": "Rin, Spirit Carrier",
+        "number": 569,
+        "shape": "adventure",
         "set": "ULT2",
         "rotated": false,
-        "position": "607"
+        "position": "525"
     },
     {
         "card_name": "Nero, High Roller",
@@ -4630,12 +4490,12 @@
         "position": "576"
     },
     {
-        "card_name": "Sailor Jupiter",
-        "number": 541,
+        "card_name": "N",
+        "number": 549,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "121"
+        "position": "315"
     },
     {
         "card_name": "John Lennon, Beatle",
@@ -4646,20 +4506,20 @@
         "position": "679"
     },
     {
-        "card_name": "T-Virus Zombie",
-        "number": 542,
+        "card_name": "Remold Blacklaw, Librarian",
+        "number": 568,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "483"
+        "position": "169"
     },
     {
-        "card_name": "SCP-035, Possessed Mask",
-        "number": 574,
+        "card_name": "Royal Suit Alice",
+        "number": 572,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "196"
+        "position": "607"
     },
     {
         "card_name": "Red Pikmin",
@@ -4670,46 +4530,6 @@
         "position": "708"
     },
     {
-        "card_name": "N",
-        "number": 549,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "315"
-    },
-    {
-        "card_name": "Marvin Branagh",
-        "number": 542,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "482"
-    },
-    {
-        "card_name": "The Mimic",
-        "number": 544,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "669"
-    },
-    {
-        "card_name": "Scrap Baby",
-        "number": 578,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "666"
-    },
-    {
-        "card_name": "Spinning Klink",
-        "number": 586,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "323"
-    },
-    {
         "card_name": "Nissei Family",
         "number": 552,
         "shape": "normal",
@@ -4718,52 +4538,12 @@
         "position": "914"
     },
     {
-        "card_name": "Occam O'Connell, Chancellor",
-        "number": 553,
-        "shape": "normal",
+        "card_name": "Marvin Branagh",
+        "number": 542,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "168"
-    },
-    {
-        "card_name": "Remold Blacklaw, Librarian",
-        "number": 568,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "169"
-    },
-    {
-        "card_name": "Seccom Masada-sensei",
-        "number": 579,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "593"
-    },
-    {
-        "card_name": "Wildmutt",
-        "number": 597,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1025"
-    },
-    {
-        "card_name": "Sam, Restless Recluse",
-        "number": 573,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "396"
-    },
-    {
-        "card_name": "Paige, the Bookworm",
-        "number": 555,
-        "shape": "leveler",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "961"
+        "position": "482"
     },
     {
         "card_name": "Robecca Steam",
@@ -4774,31 +4554,36 @@
         "position": "842"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Yamame, Spider of Sickness",
-        "number": 598,
-        "shape": "adventure",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "526"
-    },
-    {
-        "card_name": "Silverstream",
-        "number": 582,
+        "card_name": "SCP-035, Possessed Mask",
+        "number": 574,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "26"
+        "position": "196"
     },
     {
-        "card_name": "The Queen, Vader Eloha",
-        "number": 562,
+        "card_name": "Spinning Klink",
+        "number": 586,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "154"
+        "position": "323"
+    },
+    {
+        "card_name": "Sam, Restless Recluse",
+        "number": 573,
+        "shape": "modal double faced",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "396"
+    },
+    {
+        "card_name": "Occam O'Connell, Chancellor",
+        "number": 553,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "168"
     },
     {
         "card_name": "SCP-049",
@@ -4809,26 +4594,36 @@
         "position": "873"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "White Pikmin",
-        "number": 596,
+        "card_name": "Scrap Baby",
+        "number": 578,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "709"
+        "position": "666"
     },
     {
-        "card_name": "Ragatha",
-        "number": 563,
-        "shape": "adventure",
+        "card_name": "Wildmutt",
+        "number": 597,
+        "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "636"
+        "position": "1025"
+    },
+    {
+        "card_name": "Silverstream",
+        "number": 582,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Paige, the Bookworm",
+        "number": 555,
+        "shape": "leveler",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "961"
     },
     {
         "card_name": "Siren Alice",
@@ -4839,21 +4634,36 @@
         "position": "603"
     },
     {
-        "card_name": "e"
+        "card_name": "Seccom Masada-sensei",
+        "number": 579,
+        "shape": "modal double faced",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "593"
     },
     {
-        "card_name": "e"
+        "card_name": "Yamame, Spider of Sickness",
+        "number": 598,
+        "shape": "adventure",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "526"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Special Containment Procedure",
-        "number": 584,
+        "card_name": "White Pikmin",
+        "number": 596,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "867"
+        "position": "709"
+    },
+    {
+        "card_name": "The Queen, Vader Eloha",
+        "number": 562,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "154"
     },
     {
         "card_name": "The Unknown",
@@ -4873,12 +4683,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Dark Water Reflection",
-        "number": 595,
-        "shape": "normal",
+        "card_name": "Ragatha",
+        "number": 563,
+        "shape": "adventure",
         "set": "ULT2",
         "rotated": false,
-        "position": "1061"
+        "position": "636"
     },
     {
         "card_name": "Vast Legions of Darkness",
@@ -4898,9 +4708,29 @@
         "card_name": "e"
     },
     {
+        "card_name": "Special Containment Procedure",
+        "number": 584,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "867"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "The Water Temple",
         "number": 595,
-        "shape": "saga",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "1062"
@@ -4997,12 +4827,12 @@
         "position": "533"
     },
     {
-        "card_name": "Stevonnie",
-        "number": 27,
-        "shape": "normal",
+        "card_name": "Rose Quartz",
+        "number": 475,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "758"
+        "position": "718"
     },
     {
         "card_name": "Cici, Whatever She Wants",
@@ -5037,12 +4867,12 @@
         "position": "504"
     },
     {
-        "card_name": "Abandon Homeworld",
-        "number": 475,
+        "card_name": "Azazel, the Curious Angel",
+        "number": 488,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "717"
+        "position": "457"
     },
     {
         "card_name": "REFRACTION OF HABIT",
@@ -5077,12 +4907,12 @@
         "position": "499"
     },
     {
-        "card_name": "Rose Quartz",
-        "number": 475,
+        "card_name": "The Batter, Holy Purifier",
+        "number": 490,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "718"
+        "position": "151"
     },
     {
         "card_name": "Akizet, Fierce Protector",
@@ -5117,12 +4947,12 @@
         "position": "434"
     },
     {
-        "card_name": "Azazel, the Curious Angel",
-        "number": 488,
+        "card_name": "The Commando",
+        "number": 499,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "457"
+        "position": "334"
     },
     {
         "card_name": "Blue Pikmin",
@@ -5157,12 +4987,12 @@
         "position": "843"
     },
     {
-        "card_name": "The Batter, Holy Purifier",
-        "number": 490,
-        "shape": "normal",
+        "card_name": "The Fire Temple",
+        "number": 506,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "151"
+        "position": "1055"
     },
     {
         "card_name": "Cheep Cheep",
@@ -5183,7 +5013,7 @@
     {
         "card_name": "Kyukkyu-kun",
         "number": 532,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "589"
@@ -5197,12 +5027,12 @@
         "position": "664"
     },
     {
-        "card_name": "The Commando",
-        "number": 499,
+        "card_name": "Lisa Garland",
+        "number": 538,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "334"
+        "position": "411"
     },
     {
         "card_name": "Dr Kel, Lone Astronomer",
@@ -5237,12 +5067,12 @@
         "position": "29"
     },
     {
-        "card_name": "The Fire Temple",
-        "number": 506,
-        "shape": "saga",
+        "card_name": "Minako Aino",
+        "number": 545,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "1055"
+        "position": "117"
     },
     {
         "card_name": "Hydro Turret",
@@ -5277,17 +5107,17 @@
         "position": "836"
     },
     {
-        "card_name": "Volvagia",
-        "number": 506,
+        "card_name": "Princess Toadstool, Peach",
+        "number": 559,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1056"
+        "position": "625"
     },
     {
         "card_name": "Jill Valentine, BSAA",
         "number": 526,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "494"
@@ -5317,12 +5147,12 @@
         "position": "211"
     },
     {
-        "card_name": "Lisa Garland",
-        "number": 538,
+        "card_name": "Ringo Starr, Beatle",
+        "number": 570,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "411"
+        "position": "681"
     },
     {
         "card_name": "Kinger",
@@ -5357,12 +5187,12 @@
         "position": "236"
     },
     {
-        "card_name": "Minako Aino",
-        "number": 545,
+        "card_name": "Squirrelflight",
+        "number": 587,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "117"
+        "position": "21"
     },
     {
         "card_name": "Rebecca Chambers",
@@ -5375,7 +5205,7 @@
     {
         "card_name": "Hotaru Tomoe",
         "number": 518,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "114"
@@ -5397,12 +5227,12 @@
         "position": "319"
     },
     {
-        "card_name": "Sailor Venus",
-        "number": 545,
-        "shape": "normal",
+        "card_name": "Sybil, Envious Socialite",
+        "number": 588,
+        "shape": "transform double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "125"
+        "position": "424"
     },
     {
         "card_name": "SCP-131, The Eye Pods",
@@ -5411,41 +5241,6 @@
         "set": "ULT2",
         "rotated": false,
         "position": "870"
-    },
-    {
-        "card_name": "Sailor Saturn",
-        "number": 518,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "124"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Remembered Everbloom",
-        "number": 567,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "539"
-    },
-    {
-        "card_name": "Princess Toadstool, Peach",
-        "number": 559,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "625"
-    },
-    {
-        "card_name": "Tricky Zorua",
-        "number": 592,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "322"
     },
     {
         "card_name": "Leaping Cavalry",
@@ -5459,28 +5254,28 @@
         "card_name": "e"
     },
     {
-        "card_name": "SCP-682, Resilient Reptile",
-        "number": 577,
+        "card_name": "Remembered Everbloom",
+        "number": 567,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "197"
+        "position": "539"
     },
     {
-        "card_name": "Ringo Starr, Beatle",
-        "number": 570,
-        "shape": "normal",
+        "card_name": "Takofuusen",
+        "number": 589,
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
-        "position": "681"
+        "position": "594"
     },
     {
-        "card_name": "\u2606 P4R7Y 4N1M4L5 \u2606",
-        "number": 601,
+        "card_name": "Tricky Zorua",
+        "number": 592,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "381"
+        "position": "322"
     },
     {
         "card_name": "Matsuda Touta, Go-Getter",
@@ -5494,23 +5289,28 @@
         "card_name": "e"
     },
     {
-        "card_name": "Silk Maiden Alice",
-        "number": 581,
+        "card_name": "SCP-682, Resilient Reptile",
+        "number": 577,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "608"
+        "position": "197"
     },
     {
-        "card_name": "Squirrelflight",
-        "number": 587,
+        "card_name": "Tanx, Khimera King",
+        "number": 590,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "21"
+        "position": "693"
     },
     {
-        "card_name": "e"
+        "card_name": "\u2606 P4R7Y 4N1M4L5 \u2606",
+        "number": 601,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "381"
     },
     {
         "card_name": "Misstitched Alice",
@@ -5524,15 +5324,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sybil, Envious Socialite",
-        "number": 588,
+        "card_name": "Silk Maiden Alice",
+        "number": 581,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "424"
+        "position": "608"
+    },
+    {
+        "card_name": "Zenigata, Dedicated Agent",
+        "number": 600,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "304"
     },
     {
         "card_name": "e"
@@ -5552,12 +5357,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sybil, Processed",
-        "number": 588,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "425"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -5577,12 +5377,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Takofuusen",
-        "number": 589,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "594"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -5602,12 +5397,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Tanx, Khimera King",
-        "number": 590,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "693"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -5627,31 +5417,6 @@
         "card_name": "e"
     },
     {
-        "card_name": "Zenigata, Dedicated Agent",
-        "number": 600,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "304"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Bongo Bongo",
-        "number": 580,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1059"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "e"
     },
     {
@@ -5660,7 +5425,7 @@
     {
         "card_name": "The Shadow Temple",
         "number": 580,
-        "shape": "saga",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "1060"
@@ -5753,20 +5518,15 @@
         "card_name": "er"
     },
     {
-        "card_name": "Kotake & Koume",
-        "number": 75,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1053"
-    },
-    {
         "card_name": "Garnet, Stoic Seer",
         "number": 513,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
         "position": "655"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -5905,7 +5665,7 @@
     {
         "card_name": "Uboa",
         "number": 10,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "582"
@@ -5949,30 +5709,6 @@
         "set": "ULT2",
         "rotated": false,
         "position": "910"
-    },
-    {
-        "card_name": "Balrog's Fists",
-        "number": 273,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "568"
-    },
-    {
-        "card_name": "Cavaliere",
-        "number": 362,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "567"
-    },
-    {
-        "card_name": "S. S. Dolphin",
-        "number": 379,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "701"
     },
     {
         "card_name": "Add-On",
@@ -6089,7 +5825,7 @@
     {
         "card_name": "Mumuta",
         "number": 616,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "711"
@@ -6105,7 +5841,7 @@
     {
         "card_name": "Onion",
         "number": 618,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "712"
@@ -6161,7 +5897,7 @@
     {
         "card_name": "Sonic Switchboard",
         "number": 625,
-        "shape": "normal",
+        "shape": "modal double faced",
         "set": "ULT2",
         "rotated": false,
         "position": "1043"
@@ -6191,6 +5927,15 @@
         "position": "70"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -6212,46 +5957,6 @@
         "position": "38"
     },
     {
-        "card_name": "Jokzi Ozo",
-        "number": 110,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "144"
-    },
-    {
-        "card_name": "Dracula's Throne Room",
-        "number": 202,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1074"
-    },
-    {
-        "card_name": "Atomic Power Center",
-        "number": 271,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "516"
-    },
-    {
-        "card_name": "Welcoming World",
-        "number": 395,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "43"
-    },
-    {
-        "card_name": "Communal Bath",
-        "number": 660,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "674"
-    },
-    {
         "card_name": "Assembly Line",
         "number": 639,
         "shape": "normal",
@@ -6268,28 +5973,28 @@
         "position": "983"
     },
     {
-        "card_name": "Automaton Stronghold",
-        "number": 272,
+        "card_name": "Couch Cliffs",
+        "number": 666,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "78"
+        "position": "902"
     },
     {
-        "card_name": "Path to the Princess",
-        "number": 446,
+        "card_name": "Burroughs",
+        "number": 644,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "45"
+        "position": "922"
     },
     {
-        "card_name": "Crystal Tokyo",
-        "number": 669,
+        "card_name": "Communal Bath",
+        "number": 660,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "112"
+        "position": "674"
     },
     {
         "card_name": "Fairy Radio Shrine",
@@ -6308,28 +6013,28 @@
         "position": "599"
     },
     {
-        "card_name": "Terminid Hole",
-        "number": 278,
+        "card_name": "The Devil's Tower",
+        "number": 675,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "80"
+        "position": "566"
     },
     {
-        "card_name": "Desert Resort",
-        "number": 448,
+        "card_name": "Dunkeltaler Forest",
+        "number": 682,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "310"
+        "position": "244"
     },
     {
-        "card_name": "Fruits Parlor Crown",
-        "number": 701,
+        "card_name": "Crystal Tokyo",
+        "number": 669,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "113"
+        "position": "112"
     },
     {
         "card_name": "Great Yarmouth Chapter House",
@@ -6348,28 +6053,28 @@
         "position": "1084"
     },
     {
-        "card_name": "Illuminate-Controlled City",
-        "number": 310,
+        "card_name": "Distant Vista",
+        "number": 676,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "87"
+        "position": "596"
     },
     {
-        "card_name": "N's Castle",
-        "number": 450,
+        "card_name": "Farmed Golem",
+        "number": 691,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "317"
+        "position": "212"
     },
     {
-        "card_name": "Grotto of Scorpio",
-        "number": 712,
+        "card_name": "Fruits Parlor Crown",
+        "number": 701,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1006"
+        "position": "113"
     },
     {
         "card_name": "House Beneviento",
@@ -6388,28 +6093,28 @@
         "position": "1086"
     },
     {
-        "card_name": "Couch Cliffs",
-        "number": 666,
+        "card_name": "Dwarven Mine",
+        "number": 683,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "902"
+        "position": "183"
     },
     {
-        "card_name": "Apartment 33",
-        "number": 573,
+        "card_name": "Garbage Wastes",
+        "number": 703,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "395"
+        "position": "1105"
     },
     {
-        "card_name": "Humble Abode",
-        "number": 717,
+        "card_name": "Grotto of Scorpio",
+        "number": 712,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1065"
+        "position": "1006"
     },
     {
         "card_name": "Manoa Lai",
@@ -6428,28 +6133,28 @@
         "position": "198"
     },
     {
-        "card_name": "The Devil's Tower",
-        "number": 675,
+        "card_name": "Former Hell",
+        "number": 698,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "566"
+        "position": "529"
     },
     {
-        "card_name": "Forest of Hope",
-        "number": 616,
-        "shape": "normal",
+        "card_name": "Green Mars",
+        "number": 710,
+        "shape": "leveler",
         "set": "ULT2",
         "rotated": false,
-        "position": "710"
+        "position": "921"
     },
     {
-        "card_name": "Lounge Car",
-        "number": 745,
+        "card_name": "Humble Abode",
+        "number": 717,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "558"
+        "position": "1065"
     },
     {
         "card_name": "Misty Lake",
@@ -6468,28 +6173,28 @@
         "position": "506"
     },
     {
-        "card_name": "Distant Vista",
-        "number": 676,
+        "card_name": "Nico's Armory",
+        "number": 770,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "596"
+        "position": "565"
     },
     {
-        "card_name": "Burroughs",
-        "number": 644,
+        "card_name": "Infested Crawlspace",
+        "number": 721,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "922"
+        "position": "398"
     },
     {
-        "card_name": "Palace of Aquarius",
-        "number": 781,
+        "card_name": "Lounge Car",
+        "number": 745,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1008"
+        "position": "558"
     },
     {
         "card_name": "Operating Theater",
@@ -6508,28 +6213,28 @@
         "position": "991"
     },
     {
-        "card_name": "Dwarven Mine",
-        "number": 683,
+        "card_name": "Plumber Investigation Site",
+        "number": 790,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "183"
+        "position": "1028"
     },
     {
-        "card_name": "Dunkeltaler Forest",
-        "number": 682,
+        "card_name": "Overgrown Cave",
+        "number": 778,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "244"
+        "position": "238"
     },
     {
-        "card_name": "The Sealed Throne",
-        "number": 815,
+        "card_name": "Palace of Aquarius",
+        "number": 781,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "697"
+        "position": "1008"
     },
     {
         "card_name": "Queen Semiramis",
@@ -6548,28 +6253,28 @@
         "position": "502"
     },
     {
-        "card_name": "Former Hell",
-        "number": 698,
+        "card_name": "Princess Party",
+        "number": 796,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "529"
+        "position": "614"
     },
     {
-        "card_name": "Farmed Golem",
-        "number": 691,
+        "card_name": "Pigeon Town",
+        "number": 782,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "212"
+        "position": "968"
     },
     {
-        "card_name": "Void Fields",
-        "number": 839,
+        "card_name": "The Sealed Throne",
+        "number": 815,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "339"
+        "position": "697"
     },
     {
         "card_name": "Queen Zenobia",
@@ -6588,28 +6293,28 @@
         "position": "1044"
     },
     {
-        "card_name": "Nico's Armory",
-        "number": 770,
+        "card_name": "Promising Settlement",
+        "number": 801,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "565"
+        "position": "185"
     },
     {
-        "card_name": "Garbage Wastes",
-        "number": 703,
+        "card_name": "The Primal Wilds",
+        "number": 795,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1105"
+        "position": "442"
     },
     {
-        "card_name": "A Whole New World",
-        "number": 842,
+        "card_name": "Void Fields",
+        "number": 839,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "699"
+        "position": "339"
     },
     {
         "card_name": "Teaching Hospital",
@@ -6628,28 +6333,28 @@
         "position": "468"
     },
     {
-        "card_name": "Plumber Investigation Site",
-        "number": 790,
+        "card_name": "Quiz Show Studio",
+        "number": 804,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "1028"
+        "position": "905"
     },
     {
-        "card_name": "Green Mars",
-        "number": 710,
-        "shape": "leveler",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "921"
-    },
-    {
-        "card_name": "Zone 0",
-        "number": 847,
+        "card_name": "Teeth Hell",
+        "number": 831,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "158"
+        "position": "401"
+    },
+    {
+        "card_name": "A Whole New World",
+        "number": 842,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "699"
     },
     {
         "card_name": "Torment Nexus",
@@ -6668,23 +6373,23 @@
         "position": "660"
     },
     {
-        "card_name": "Princess Party",
-        "number": 796,
+        "card_name": "The Sin Machine",
+        "number": 819,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "614"
-    },
-    {
-        "card_name": "Infested Crawlspace",
-        "number": 721,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "398"
+        "position": "460"
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "Zone 0",
+        "number": 847,
+        "shape": "normal",
+        "set": "ULT2",
+        "rotated": false,
+        "position": "158"
     },
     {
         "card_name": "Turret Opera",
@@ -6703,20 +6408,15 @@
         "position": "352"
     },
     {
-        "card_name": "Promising Settlement",
-        "number": 801,
+        "card_name": "Staging Ground",
+        "number": 824,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
-        "position": "185"
+        "position": "94"
     },
     {
-        "card_name": "Overgrown Cave",
-        "number": 778,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "238"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -6738,70 +6438,10 @@
         "position": "353"
     },
     {
-        "card_name": "Quiz Show Studio",
-        "number": 804,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "905"
-    },
-    {
-        "card_name": "Pigeon Town",
-        "number": 782,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "968"
-    },
-    {
         "card_name": "e"
     },
     {
         "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "The Sin Machine",
-        "number": 819,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "460"
-    },
-    {
-        "card_name": "Llanowar Reborn (SLM)",
-        "number": 795,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "442"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Staging Ground",
-        "number": 824,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "94"
-    },
-    {
-        "card_name": "Teeth Hell",
-        "number": 831,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "401"
     },
     {
         "card_name": "er"
@@ -7024,76 +6664,12 @@
         "card_name": "er"
     },
     {
-        "card_name": "Uboa's Trap",
-        "number": 10,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "583"
-    },
-    {
-        "card_name": "Portal To The Abyss",
-        "number": 274,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "446"
-    },
-    {
         "card_name": "Essence of the Week",
         "number": 467,
         "shape": "normal",
         "set": "ULT2",
         "rotated": false,
         "position": "378"
-    },
-    {
-        "card_name": "Hidden Stairway",
-        "number": 532,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "588"
-    },
-    {
-        "card_name": "Barracks Settlement",
-        "number": 547,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "590"
-    },
-    {
-        "card_name": "An Alien's Bedroom",
-        "number": 579,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "592"
-    },
-    {
-        "card_name": "White Desert",
-        "number": 589,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "595"
-    },
-    {
-        "card_name": "Twilight Vista",
-        "number": 618,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "713"
-    },
-    {
-        "card_name": "Recording Studio",
-        "number": 625,
-        "shape": "normal",
-        "set": "ULT2",
-        "rotated": false,
-        "position": "1042"
     },
     {
         "card_name": "The 4th Front of the Smoke War",
@@ -8006,12 +7582,6 @@
         "set": "ULT2",
         "rotated": false,
         "position": "754"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
