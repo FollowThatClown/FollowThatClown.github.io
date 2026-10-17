@@ -1,4 +1,183 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Grey Matter added.
+Controlled Fire added.
+
+Focus Fire removed.
+Put You Freaks In Your Place removed.
+Boss Fight Reminder removed.
+It's Hero Time removed.
+Boss Fight Reminder removed.
+Boss Fight Reminder removed.
+
+Uchiha Sasuke
+rules_text: Menace
+Whenever a legendary creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i]
+👁 — Uchiha Sasuke gets +2/+0 and has vigilance. => Menace
+Whenever a nontoken creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i]
+👁 — Uchiha Sasuke gets +2/+0 and has vigilance.
+
+Uzumaki Naruto
+rules_text: {8}{R}: Harness Uzumaki Naruto [i](His 🦊 ability becomes active.)[/i] This ability costs {3} less to activate for each creature you controlled that left the battlefield this turn. Activate only as a sorcery.
+🦊 — Uzumaki Naruto is a 9/9 Demon Fox. => {8}{R}: Harness Uzumaki Naruto [i](His 🦊 ability becomes active.)[/i] This ability costs {3} less to activate for each nontoken creature you controlled that left the battlefield this turn. Activate only as a sorcery.
+🦊 — Uzumaki Naruto is a 9/9 Demon Fox.
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Boss Fight Reminder
+
+Ben Tennyson
+rules_text: When Ben enters, you may discard a card. If you do, draw a card.
+When Ben leaves the battlefield, put a +1/+1 counter on target creature you control. => Whenever another creature you control without going hero enters, you may pay {1}. If you do, put a +1/+1 counter on that creature and exile Ben until that creature leaves the battlefield.
+When Ben leaves the battlefield, he deals 2 damage to target player.
+pt: 1/1 => 2/1
+artist: Tettora => KekoArt97
+
+Discipline
+type: Instant => Sorcery
+flavor_text: [i]Merely talking out of line is enough to warrant a potential flatlining in the Thumb.[/i] => [i]In The Thumb, Merely talking out of line is enough to warrant a potential flatlining.[/i]
+
+Graze the Grass
+rules_text: Target creature you control gets +3/+0 and gains first strike until end of turn. => Target creature gets +3/+0 and gains first strike until end of turn.
+
+The 4th Front of the Smoke War
+rules_text: Whenever this land becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color => When this land enters, you lose 1 life.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color
+
+Front of the Smoke War
+rules_text: When this enchantment enters, create a 1/1 red Soldier creature token.
+Whenever a creature you control dies, this enchantment deals 2 damage to each opponent. => When this enchantment enters, create two 1/1 red Soldier creature tokens.
+Whenever a creature you control dies, this enchantment deals 2 damage to each opponent. This ability triggers only once each turn.
+
+Valiant Thumb Sodalto
+rules_text: Haste
+Whenever a creature you control dies, this creature gets +1/+0 and gains trample until end of turn. => Haste
+Whenever a creature you control dies, this creature gets +1/+0 and gains trample until end of turn.
+Mountaincycling {2}
+
+Clan Territory
+rules_text: {T}, Sacrifice Clan Territory: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => {T}, Sacrifice Clan Territory: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+[i]Into the Wilds[/i] — {2}{W}, Discard Clan Territory: Create two 1/1 white Warrior Cat creature tokens. Activate only as a sorcery.
+
+Full Moon Gathering
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{4}, {T}: Put a +1/+1 counter on each creature you control. Activate only if a creature died this turn. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+[i]Morbid[/i] — {4}, {T}: If a creature died this turn, put a +1/+1 counter on each creature you control.
+
+Jayfeather
+rules_text: You may look at the top card of your library at any time.
+[i]Morbid[/i] — As long as a creature died this turn, you may cast creature spells with power 2 or less from the top of your library. => When Jayfeather enters, create a 1/1 white Warrior Cat creature token.
+You may look at the top card of your library at any time.
+[i]Morbid[/i] — As long as a creature died this turn, you may cast creature spells with power 2 or less from the top of your library.
+pt: 1/4 => 0/4
+
+Lionblaze
+rules_text: As long as it's your turn, Lionblaze has indestructible.
+{1}{W}, Discard Lionblaze: Target creature gets +2/+2 and gains indestructible until end of turn. => Double strike
+Lionblaze has indestructible while attacking.
+{1}{W}, Discard Lionblaze: Target creature gets +2/+2 and gains indestructible until end of turn.
+pt: 4/4 => 2/4
+
+Starclan's Judgement
+cost: {5}{W} => {4}{W}{W}
+rules_text: This spell costs {1} less to cast for each creature card in your graveyard.
+Choose one —
+• Exile target nonland permanent.
+• Creatures you control get +2/+2 until end of turn. => This spell costs {1} less to cast for each creature card in your graveyard.
+Choose one —
+• Destroy target nonland permanent.
+• Creatures you control get +2/+1 until end of turn.
+
+Tigerstar
+cost: {3}{W}{W} => {4}{W}
+rules_text: [i]Morbid[/i] — At the beginning of combat on your turn, you may sacrifice a creature. Then if a creature died this turn, put a +1/+1 counter on each creature you control. => When Tigerstar enters, create a 1/1 white Warrior Cat creature token.
+[i]Morbid[/i] — Whenever you attack, you may sacrifice a creature. Then if a creature died this turn, put a +1/+1 counter on each creature you control.
+flavor_text: [i]“Keep looking behind you. Because one day I'll find you, and then you'll be crowfood.” [/i] => [i][/i]
+pt: 4/4 => 3/4
+
+Rusty
+rules_text: Discard a card: Rusty gains indestructible until end of turn. Tap it.
+Whenever Rusty becomes tapped, you may pay {1}. If you do, create a 1/1 white Warrior Cat creature token.
+When Rusty attacks with two or more other creatures, transform it. => Discard a card: Until end of turn, Rusty gains indestructible. Tap it.
+Whenever Rusty becomes tapped, you may pay {1}. If you do, create a 1/1 white Warrior Cat creature token.
+When Rusty attacks with two or more other creatures, transform it.
+
+Leopard Seal
+type: Creature — Seal => Creautre — Seal
+
+Sea Slug Studies
+rules_text: This spell costs {1} less to cast if a creature you control explored this turn.
+Draw two cards, then discard a card. => This spell costs {1} less to cast if you explored this turn.
+Draw two cards, then discard a card.
+
+Commerson's Dolphin
+pt: 2/2 => 2/S
+
+Abstract
+cost: {U} => {1}{U}
+rules_text: Flash
+Enchant creature
+Enchanted creature loses all abilities and is an Abstraction creature with reach. Prevent all combat damage it would deal. => Flash
+Enchant creature
+Enchanted creature loses all abilities and is a black Abstraction creature. Prevent all combat damage it would deal.
+
+CAINE
+rules_text: Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return another target nonland permanent to its owner's hand. If you controlled that permanent, untap up to five lands.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns. => Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return another target nonland permanent to its owner's hand. If you controlled that permanent, untap all lands you control.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns.
+special_text: Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return another target nonland permanent to its owner's hand. If you controlled that permanent, untap up to five lands.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns. => Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return another target nonland permanent to its owner's hand. If you controlled that permanent, untap all lands you control.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns.
+
+Expose
+flavor_text: [i][/i] => [i]“I'm gonna put you freaks in your place!”
+— CAINE[/i]
+
+Gangle
+
+Ribbit
+cost: {3}{U} => {4}{U}
+rules_text: Haunt [i](When this creature dies, exile it haunting target creature.)[/i]
+Whenever you cast a noncreature spell, if Ribbit is on the battlefield or haunting a creature, you may pay that spell's mana cost. If you do, copy that spell, and you may choose new targets for the copy. The copy isn't legendary. [i](Copies of permanent spells become tokens.)[/i] => Haunt [i](When Ribbit dies, exile her haunting target creature.)[/i]
+Whenever you cast a noncreature spell with mana value 3 or less while Ribbit is on the battlefield or haunting a creature, copy that spell, except the copy isn't legendary. You may choose new targets for the copy. [i](Copies of permanent spells become tokens.)[/i]
+
+Jax
+rules_text: Menace
+Whenever you cast a noncreature spell, Jax connives 2. Do this only once each turn. [i](Draw two cards, then discard two cards. Put a +1/+1 counter on Jax for each nonland discarded.)[/i] => Whenever you cast a noncreature spell, Jax connives 2. Do this only once each turn. [i](Draw two cards, then discard two cards. Put a +1/+1 counter on Jax for each nonland discarded.)[/i]
+pt: 3/3 => 4/2
+
+Kinger
+rules_text: Vigilance
+As long as you've cast a noncreature spell this turn, Kinger gets +3/+0. => Vigilance
+{T}: Each player may scry 1.
+flavor_text: [i][/i] => [i]Perhaps not as crazy as he seems.[/i]
+pt: 1/3 => 1/4
+
+Torment Nexus
+rules_text: This land enters tapped. As it does, choose a color.
+{T}: Add {U} or one mana of the chosen color. => As this land enters, choose a color.
+{T}: Add {C}.
+{T}, Pay 1 life: Add {U} or one mana of the chosen color.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The Primal Wilds added.
