@@ -1,4 +1,152 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Put You Freaks In Your Place added.
+The Nine-Tailed Fox added.
+Unleash the Beast added.
+
+Hiruzen, The Professor removed.
+Ribbit removed.
+
+Hunter Slime
+rules_text: Plort 3—{5}{G}{G}
+Whenever this creature attacks, choose one—
+• This creature can't be blocked by more than one creature this combat.
+• This creature must be blocked this combat if able. => Plort 3—{4}{G}{G}
+Whenever this creature attacks, choose one—
+• This creature can't be blocked by more than one creature this combat.
+• This creature must be blocked this combat if able.
+pt: 6/5 => 5/4
+
+Tabby Slime
+rules_text: Plort 2—{4}{G} [i]({4}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. It gains the following abilities. Plort only as a sorcery.)[/i]
+Reach, trample => Plort 2—{3}{G} [i]({3}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. It gains the following abilities. Plort only as a sorcery.)[/i]
+Reach, trample
+pt: 4/4 => 4/3
+
+Rad Slime
+rules_text: Plort 1—{2}{G} [i]({2}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains the following abilities. Plort only as a sorcery.)[/i]
+Whenever this creature attacks, you gain 1 life and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Plort 1—{1}{G} [i]({1}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains the following abilities. Plort only as a sorcery.)[/i]
+Whenever this creature attacks, you gain 1 life and surveil 1.
+pt: 3/3 => 3/2
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Party Animal
+type: Token — Beast => Token Creature — Beast
+
+Warrior (KD)
+type: Token Creatue — Warrior => Token Creature — Warrior
+
+Leopard Seal
+type: Creautre — Seal => Creature — Seal
+
+Into Madness
+flavor_text: [i]Alice was the only survivor of the fire that took her family. Traumatized, she retreated into the twisted Wonderland of her subconscious.[/i] => [i]Alice was the only survivor of the fire that took her family. Traumatized, she retreated into the Wonderland of her subconscious.[/i]
+
+Cooking Show
+cost: {2}{R} => {3}{R}
+rules_text: Choose one — 
+• Cooking [/i]Show[i] deals 4 damage to target creature.
+• Cooking [/i]Show[i] deals 2 damage to each creature. => Choose one — 
+• Cooking [/i]Show[i] deals 5 damage to target creature.
+• Cooking [/i]Show[i] deals 2 damage to each creature.
+
+Mr. Ant Tenna
+rules_text: Whenever you face a dilemma, Mr. “Ant” Tenna deals 2 damage to each opponent.
+When Tenna enters, choose one —
+• [i]Physical Challenge[/i] — Creatures you control get +2/+0 until end of turn.
+• [i]Marvelous Mystery Board[/i] — Discard your hand, then draw three cards. => Whenever you face a dilemma, Tenna deals 2 damage to target player. This ability triggers only once each turn.
+When Tenna enters, choose one —
+• [i]Physical Challenge[/i] — Other creatures you control get +2/+0 until end of turn.
+• [i]Marvelous Mystery Board[/i] — Discard your hand, then draw three cards.
+
+Couch Cliffs
+rules_text: This land enters tapped unless you pay 2 life. As it enters, choose a color other than red.
+{T}, Add {R} or one mana of the chosen color.
+{3}, {T}, Sacrifice this land: Draw two cards. Activate only if you've faced a dilemma this turn. => This land enters tapped unless you pay 2 life. As it enters, choose a color other than red.
+{T}, Add {R} or one mana of the chosen color.
+{8}, {T}, Sacrifice this land: Draw two cards. This ability costs {5} less to activate if you've faced a dilemma this turn.
+
+Zooble
+
+Expose
+cost: {1}{U}{U} => {2}{U}
+
+Abandon the Village
+cost: {4}{U} => {4}{U}{U}
+rules_text: This spell costs {2} less to cast for each creature you control that it targets.
+Return up to two target creatures to their owners' hand. => This spell costs {2} less to cast for each nonland permanent you control that it targets.
+Return up to two target nonland permanents to their owners' hand.
+Exile Abandon the Village.
+
+Kakashi, Team 9 Leader
+cost: {2}{U}{U} => {3}{U}
+flavor_text: [i]“Ninjas who break the rule are scum. Ninjas who abandon their comrades are worse than scum.”[/i] => [i]“Rulebreakers are scum. Those that abandon their comrades are worse than scum.”[/i]
+artist: xi illili => mirin (coene65)
+
+Shadow Clone
+rules_text: Ninjutsu {2}{U} [i]({2}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu, except it's not legendary. => Ninjutsu {2}{U} [i]({2}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+You may have Shadow Clone enter as a copy of any creature you control or the creature you returned to your hand with its ninjutsu, except its name is Shadow Clone.
+
+Uchiha Sasuke
+rules_text: Menace
+Whenever a nontoken creature you control leaves the battlefield, harness Sasuke. [i](His 👁 ability becomes active.)[/i]
+👁 — Uchiha Sasuke gets +2/+0 and has vigilance. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Menace
+Whenever Sasuke deals combat damage, untap him. This ability triggers only once each turn.
+flavor_text: [i][/i] => [i]The sole survivor of the Uchiha Massacre, Sasuke fought thinking only of revenge.[/i]
+
+Iruka, Academy Instructor
+cost: {2}{R} => {R}
+rules_text: Ninjutsu {1}{R} [i]({R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, put a +1/+1 counter on target creature you control. It gains first strike until end of turn. => Ninjutsu {2}{R} [i]({2}{R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, if he's attacking, put a +1/+1 counter on target creature you control. It gains first strike until end of turn.
+flavor_text: [i][/i] => [i]Iruka was never himself a prodigy, but he tutored many Ninjas that would be called such.[/i]
+
+Rasengan
+rules_text: Choose one —
+• Rasengan deals 3 damage to target creature. If that creature would die this turn, shuffle it into its owner's library instead.
+• Shuffle target artifact into its owner's library. => Choose one —
+• Rasengan deals 3 damage to target creature. If it would die this turn, shuffle it into its owner's library instead.
+• The owner of target artifact shuffles it into their library.
+flavor_text: [i][/i] => [i]A technique created by a father, passed down by a teacher, and mastered by a son.[/i]
+
+Uzumaki Naruto
+cost: {R} => {X}{X}{X}{R}
+rules_text: {8}{R}: Harness Uzumaki Naruto [i](His 🦊 ability becomes active.)[/i] This ability costs {3} less to activate for each nontoken creature you controlled that left the battlefield this turn. Activate only as a sorcery.
+🦊 — Uzumaki Naruto is a 9/9 Demon Fox. => Ninjutsu {X}{X}{R} [i]({X}{X}{R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Naruto enters, create X tokens that are each copies of him, except they're not legendary.
+flavor_text: [i][/i] => [i]While most struggled with just a handful of clones, Naruto's energy seemed boundless. For a while, even he couldn't explain where it all sprung from.[/i]
+artist: kurahashi yuuto => hahihu1782
+
+Haruno Sakura
+cost: {1}{UR} => {2}{UR}
+pt: 1/2 => 1/3
+
+Ninja Tools
+cost: {2}{UR} => {4}
+rules_text: Flash
+Whenever Ninja Tools or another creature you control enters, you may attach Ninja Tools to target creature. If you do, unattach it at the beginning of the next end step.
+Equipped creature gets +2/+1.
+Equip {4} => Flash
+Whenever Ninja Tools or a creature you control enters, you may attach Ninja Tools to target creature. If you do, unattach it at the beginning of the next end step.
+Equipped creature gets +2/+1.
+Equip {3}
+
+Ichiraku Ramen
+rules_text: This land enters tapped. As it enters, choose a color other than blue or red.
+{T}: Add {U}, {R}, or one mana of the chosen color. => This land enters tapped.
+{T}: Add {U} or {R}.
+{1}{U}{R}, {T}, Sacrifice Ichiraku Ramen: Create two 1/1 red Ninja creature tokens. Activate only as a sorcery.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Snicker Snack added.
