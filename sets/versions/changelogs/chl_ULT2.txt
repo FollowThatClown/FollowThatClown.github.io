@@ -1,4 +1,163 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Valentine, Heart Collector added.
+
+Ghoul's Night removed.
+The Nine-Tailed Fox removed.
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Hunter Slime
+pt: 5/4 => 6/4
+
+Quantum Gate Expedition
+rules_text: Mill three cards, then return a permanent card from your graveyard to your hand. You may put a land card from your hand onto the battlefield tapped. => Mill three cards, then return a permanent card from your graveyard to your hand. You may put a land card from your hand onto the battlefield.
+
+Rad Slime
+rules_text: Plort 1—{1}{G} [i]({1}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains the following abilities. Plort only as a sorcery.)[/i]
+Whenever this creature attacks, you gain 1 life and surveil 1. => Plort 1—{1}{G} [i]({1}{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. It gains the following abilities. Plort only as a sorcery.)[/i]
+Whenever this creature attacks, you gain 1 life and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Tabby Slime
+rules_text: Plort 2—{3}{G} [i]({3}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. It gains the following abilities. Plort only as a sorcery.)[/i]
+Reach, trample => Plort 2—{3}{G} [i]({3}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. It gains the following abilities. Plort only as a sorcery.)[/i]
+Vigilance, trample
+
+Hydro Turret
+rules_text: Flash
+When this creature enters, choose target creature or player. Prevent all combat damage that would be dealt to them until end of turn. They gain hexproof until end of turn. => Flash
+Reach
+When this creature enters, target creature or player gains hexproof until end of turn. Prevent all combat damage that would be dealt to them this turn.
+
+Glass Desert
+rules_text: This land enters tapped unless you pay 2 life. As it does, choose a color.
+{1}, {T}: Add two mana of the chosen color. => As this land enters, choose two colors.
+{1}, {T}: Add one mana of each of the chosen colors.
+
+The Forbidden One
+rules_text: Menace, lifelink
+Whenever The Forbidden One enters or attacks, you draw a card and lose 1 life. Then you may reveal Exodia from among cards you own in your hand, graveyard, battlefield, and/or exile. If you do, target opponent loses the game. [i](To reveal Exodia, reveal its left and right legs and arms.)[/i] => Lifelink
+Whenever The Forbidden One enters or attacks, you draw a card and lose 1 life. Then you may reveal Exodia. If you do, target opponent loses the game. [i](To reveal Exodia, reveal its limbs from among cards you own in your hand, graveyard, battlefield, and/or exile.)[/i]
+pt: 6/6 => 4/6
+
+Forbidden One's Left Arm
+rules_text: Reach
+When this creature enters, target opponent exiles a card from their hand.
+{2}{B}, Exile this card from your graveyard: Mill three cards, then return a card milled this way to your hand. => Reach
+When this creature enters, target opponent discards a card.
+{2}{B}, Exile this card from your graveyard: Mill three cards, then return a creature or land card milled this way to your hand.
+pt: 4/3 => 3/3
+
+Forbidden One's Left Leg
+rules_text: When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{B}, Exile this card from your graveyard: You gain 2 life. => When this creature enters, surveil 2.
+{B}, Exile this card from your graveyard: You gain 2 life.
+
+Forbidden One's Right Arm
+rules_text: Reach
+When this creature enters, target opponent exiles a card from their hand.
+{2}{B}, Exile this card from your graveyard: Mill three cards, then return a card milled this way to your hand. => Reach
+When this creature enters, target opponent discards a card.
+{2}{B}, Exile this card from your graveyard: Mill three cards, then return a creature or land card milled this way to your hand.
+pt: 4/3 => 3/3
+
+Forbidden One's Right Leg
+rules_text: When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{B}, Exile this card from your graveyard: You gain 2 life. => When this creature enters, surveil 2.
+{B}, Exile this card from your graveyard: You gain 2 life.
+
+Portal to the Shadow Realm
+rules_text: This land enters tapped.
+When this land enters, you gain 2 life and choose a color other than black.
+{T}: Add {B} or one mana of the chosen color. => This land enters tapped.
+When this land enters, you gain 1 life and choose a color other than black.
+{T}: Add {B} or one mana of the chosen color.
+
+Clawdeen Wolf
+cost: {4}{BG} => {2}{BG}
+rules_text: Flash
+[i][i]Vivid[/i] — [/i]When Clawdeen enters, for each color among permanents you control, you may pay 1 life. If you do, put a +1/+1 counter on her.
+Basic landcycling {2} => Flash
+Fearlead[i] — [/i]{2}, Pay 2 life:[i] [/i]Put X +1/+1 counters on Clawdeen, where X is the number of colors among permanents you control. [i](Activate only if Clawdeen entered or attacked this turn and only once.)[/i]
+pt: 2/2 => 2/3
+
+Cleo De Nile
+rules_text: Lifelink
+[i][i]Vivid[/i][/i] — When Cleo enters, return target creature or planeswalker card with mana value X or less from your graveyard to your hand, where X is the number of colors among permanents you control. => Lifelink
+Fearlead — {2}: Return target creature card with mana value X or less from your graveyard to your hand, where X is the number of colors among permanents you control. [i](Activate only if Cleo entered or attacked this turn and only once.)[/i]
+flavor_text: [i]Monster High's greatest fearleading captain — second to her sister, but don't tell her that.[/i] => [i]The moster popular ghoul in Monster High. Well. Second to her sister, but don't tell her that.[/i]
+pt: 3/3 => 3/4
+
+Draculaura
+cost: {5}{BR} => {4}{BR}
+rules_text: [i][i]Vivid[/i][/i] — When Draculaura enters, for each color among permanents you control, you may pay 1 life. If you do, create a tapped Treasure token.
+{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}: Mill five cards. Put each creature card milled onto the battlefield. => When Draculaura enters, for each color other than black, you may behold a creature of that color. If you do, create a tapped Treasure token. [i](To behold something, choose a matching permanent you control or reveal one from your hand.)[/i]
+Fearlead — {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}: Mill five cards. Put each creature card from among them onto the battlefield. [i](Activate only if Draculaura entered or attacked this turn and only once.)[/i]
+pt: 5/5 => 4/4
+
+Frankie Stein
+rules_text: [i][i]Vivid[/i][/i] — When Frankie enters, you may discard a card. If you do, Frankie deals X damage to target creature, where X is the number of colors among permanents you control. => Fearlead — {2}, Discard a card: Frankie deals X damage to target creature, where X is the number of colors among permanents you control. [i](Activate only if Frankie entered or attacked this turn and only once.)[/i]
+flavor_text: [i]Often struck by bolts of inspiration, as are any ghouls standing nearby.[/i] => [i]Frequently struck by bolts of inspiration, as are any ghouls standing nearby.[/i]
+pt: 2/3 => 4/3
+
+Ghoulia Yelps
+rules_text: [i][i]Vivid[/i] [/i]— When Ghoulia enters, you gain X life, where X is the number of colors among permanents you control.
+{2}, {T}: Surveil 2. => Fearlead — {2}: You surveil X and gain X life, where X is the number of colors among permanents you control. [i](Activate only if Ghoulia entered or attacked this turn and only once.)[/i]
+
+Lagoona Blue
+rules_text: [i][i]Vivid[/i][/i] — When Lagoona enters, mill X cards, where X is the number of colors among permanents you control. You may put a noncreature card from among them into your hand. If you do, you lose 2 life. => Fearlead — {2}, Pay 2 life: Mill X cards, where X is the number of colors among permanents you control. You may put a card from among them into your hand. [i](Activate only if Lagoona entered or attacked this turn and only once.)[/i]
+flavor_text: [i]Swim captain and diving prodigy hailing from The Land Down Under — That's the sea, if you're a landlocked drongo.[/i] => [i]Swim captain and diving prodigy hailing from The Land Down Under — that's the sea, if you're a landlocked drongo.[/i]
+pt: 2/1 => 2/2
+
+Uchiha Sasuke
+rules_text: Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Menace
+Whenever Sasuke deals combat damage, untap him. This ability triggers only once each turn. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Menace
+Whenever Sasuke deals combat damage, untap him.
+
+Iruka, Academy Instructor
+cost: {R} => {2}{R}
+rules_text: Ninjutsu {2}{R} [i]({2}{R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, if he's attacking, put a +1/+1 counter on target creature you control. It gains first strike until end of turn. => Ninjutsu {1}{R} [i]({1}{R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, put a +1/+1 counter on target creature you control. It gains first strike until end of turn.
+
+Unleash the Beast
+
+Haruno Sakura
+pt: 1/3 => 2/2
+
+Ninja Tools
+cost: {4} => {2}{UR}
+rules_text: Flash
+Whenever Ninja Tools or a creature you control enters, you may attach Ninja Tools to target creature. If you do, unattach it at the beginning of the next end step.
+Equipped creature gets +2/+1.
+Equip {3} => Flash
+Whenever Ninja Tools or a creature you control enters, you may attach Ninja Tools to target creature. If you do, unattach it at the beginning of the next end step.
+Equipped creature gets +2/+1.
+Equip {4}
+
+Ichiraku Ramen
+
+Seed Bomb
+rules_text: This spell costs {2} less to cast if it targets a creature that entered this turn.
+Target creature you control gets +1/+1, then deals damage equal to its power to up to one target creature you don't control. => This spell costs {2} less to cast if it targets a creature that entered this turn.
+Target creature you control gets +1/+1 until end of turn, then deals damage equal to its power target creature you don't control.
+flavor_text: [i]Ferroseed are known to drop from cave ceilings onto unsuspecting trainers and Pokemon. Watch your head![/i] => [i]Ferroseed are known to drop from cave ceilings onto unsuspecting trainers. Watch your head![/i]
+
+Strength of Ideals
+flavor_text: [i]“You're quite strong. But I have a future that I must change. And, for that future. . . I'll defeat the Champion and become unbeatable, unlike any other!”[/i] => [i]“You're quite strong. But I have a future that I must change. And, for that future... I'll defeat the Champion and become unbeatable, unlike any other!”[/i]
+
+Spinning Klink
+pt: 2/1 => 1/2
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Put You Freaks In Your Place added.
