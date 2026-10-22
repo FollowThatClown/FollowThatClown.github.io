@@ -1,4 +1,44 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Garnet, Stoic Seer
+flavor_text: [i]“I think you're just mad ‘cuz you're single.”[/i] => [i][/i]
+
+Rose Quartz
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Detective Tails the Fox
+rules_text: Flying
+Tails enters with a hunch counter on him.
+[i]Crack the Case [/i]— Whenever Tails attacks, if he has a hunch counter on him, remove one from him and investigate. When that Clue leaves the battlefield, exile him, then return him to the battlefield under your control. => Flying
+Tails enters with a hunch counter on him.
+[i]Crack the Case [/i]— Whenever Tails attacks, remove a hunch counter from him and investigate. When that Clue leaves the battlefield, exile him, then return him to the battlefield under your control.
+
+The Mirage Express
+cost: {4}{W}{W} => {4}{W}
+rules_text: Whenever The Mirage Express enters or attacks, up to one other target artifact you control becomes a 3/3 Robot creature in addition to its other types.
+Whenever a Robot you control leaves the battlefield, untap The Mirage Express and put two +1/+1 counters on it.
+Crew 3 => Whenever The Mirage Express enters or attacks, up to one other target artifact you control becomes a 3/3 Robot creature in addition to its other types.
+Whenever a Robot you control leaves the battlefield, put two +1/+1 counters on The Mirage Express and it gains vigilance until your next end step.
+Crew 3
+
+Robotic Arms
+rules_text: Reach
+Whenever another creature or artifact you control leaves the battlefield, this creature gets +3/+0. This ability triggers only once each turn. => Reach
+Whenever another creature or artifact you control leaves the battlefield, this creature gets +3/+0 until end of turn. This ability triggers only once each turn.
+
+Conductor's Car
+flavor_text: [i]The center of all of The Mirage Express' systems. . . and a direct line to Eggman.[/i] => [i]The center of all of The Mirage Express' systems... and a direct line to Eggman.[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Valentine, Heart Collector added.
