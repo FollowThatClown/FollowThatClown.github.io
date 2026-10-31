@@ -1,4 +1,766 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Liu Skirmish added.
+Active Camouflage added.
+NEST II added.
+Usagi Tsukino added.
+Chase Down added.
+Human Survivor (DBD) added.
+WORLD 8 added.
+Warp Zone added.
+Food (DNM) added.
+Kensuke added.
+
+KOOPA KINGDOM removed.
+Super Sailor Moon removed.
+A Little Lie Between Friends removed.
+House Beneviento removed.
+Kazan, Blighted by Rage removed.
+
+New Inhabitants
+cost: {1}{W}{W} => {3}{W}
+rules_text: Kicker—{1}, Purify three times. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+Create three 1/1 white Citizen creature tokens. If this spell was kicked, put a +1/+1 counter on each creature you control. => Kicker—Purify three times. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+Create three 1/1 white Citizen creature tokens. If this spell was kicked, put a +1/+1 counter on each creature you control.
+
+Delirious Leap
+rules_text: Until end of turn, target creature you control has base power and toughness 4/4 and gains flying.
+Draw a card. => Until end of turn, target creature has base power and toughness 4/4 and gains flying.
+Draw a card.
+
+Hupton Beach Lu'au
+rules_text: Target creature's owner puts it on their choice of the top or bottom of their library.
+Create a Clue token. => The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+Create a Clue token.
+
+Secret Ghoul
+rules_text: Ward {2}
+Enchant creature
+You control enchanted creature.
+Enchanted creature gets +2/+2 as long as you drew two or more cards this turn. => Ward {4}
+Enchant creature
+You control enchanted creature.
+Enchanted creature gets +2/+2 as long as you drew two or more cards this turn.
+
+Remold Blacklaw, Librarian
+cost: {1}{UB}{UB} => {2}{U}
+rules_text: [i]Marksman— [/i]Reach
+When Remold Blacklaw enters, you lose 1 life and create a Clue token.
+As long as you've drawn two or more cards this turn, noncreature spells you cast cost {1} less to cast => [i]Marksman— [/i]Reach
+When Remold Blacklaw enters, create a Clue token.
+As long as you've drawn two or more cards this turn, noncreature spells you cast cost {1} less to cast
+
+Break Into the Pillar
+type: Sorcery => Instant
+cost: {1}{R} => {2}{R}
+
+Dig Deeper
+type: Sorcery => Instant
+
+Chain Formation
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +1/+0 and gains indestructible.
++{W} — Create two tapped 1/1 white Human Soldier creature tokens. => Spree [i](Choose one or more additional costs.)[/i]
++{B} — Until end of turn, target creature gets +1/+0 and gains indestructible.
++{1}{W} — Create two 1/1 white Human Soldier creature tokens.
+
+Queen of the Board
+pt: 4/4 => 3/4
+
+James Sunderland
+rules_text: As an additional cost to cast James, discard a creature card or exile a creature card from your graveyard.
+[i]Nightmare World[/i] — {1}, {T}, Discard a card: Draw a card. If your library has thirty or fewer cards in it, you may play the discarded card this turn. => As an additional cost to cast James, exile a creature card from your graveyard or discard a card.
+[i]Nightmare World[/i] — {1}, {T}, Discard a card: Draw a card. If your library has thirty or fewer cards in it, you may play the discarded card this turn.
+pt: 4/4 => 3/4
+
+Pyramid Head
+rules_text: Whenever Pyramid Head attacks an opponent or becomes the target of a spell or ability an opponent controls, torment them. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent.)[/i]
+[i]Nightmare World[/i] — {2}, Exile the top six cards of your library: Return Pyramid Head from your graveyard to your hand. Activate only if your library has thirty or fewer cards. => Whenever Pyramid Head attacks an opponent or becomes the target of a spell or ability an opponent controls, torment them. [i](They lose 3 life unless they discard a card or sacrifice a nonland permanent.)[/i]
+[i]Nightmare World[/i] — {3}{R}{R}, Exile the top six cards of your library: Return Pyramid Head from your graveyard to your hand. This ability costs {3} less to activate if your library has thirty or fewer cards.
+
+Sack the Apartment
+rules_text: Choose one —
+• Target creature gets +3/+2 and gains trample until end of turn.
+• Destroy target artifact. => Choose one —
+• Target creature gets +3/+1 and gains trample until end of turn.
+• Destroy target artifact.
+
+Luigi, Cowardly Companion
+rules_text: Rescue 4 — {1}{RG} [i](You may cast Luigi for {1}{RG}. If you do, when he enters, create a 4 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]
+[i]High Jump[/i] — Luigi has flying as long as he's attacking a battle.
+When Luigi enters, create two 1/1 colorless Spirit creature tokens. => Rescue 4 — {1}{RG} [i](You may cast Luigi for {1}{RG}. If you do, when he enters, create a 4 defense Castle Siege battle token an opponent defends which exiles him until it's defeated.)[/i]
+[i]High Jump[/i] — Luigi has flying as long as he's attacking a battle.
+When Luigi enters, create two tapped 1/1 colorless Spirit creature tokens.
+pt: 4/4 => 3/4
+
+Princess Toadstool, Peach
+rules_text: Rescue 6 — {2}{RW} [i](You may cast Peach for {2}{RW}. If you do, when she enters, create an 6 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create three 1/1 red Fungus Warrior creature tokens.
+Other creatures you control get +2/+0. => Rescue 6 — {3}{RW} [i](You may cast Peach for {2}{RW}. If you do, when she enters, create an 6 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create three 1/1 red Fungus Warrior creature tokens.
+Other creatures you control get +2/+0.
+
+Fifth Beatle
+cost: {1}{W} => {2}{W}
+rules_text: Enchant creature
+When Fifth Beatle enters, create two tapped 1/1 red Fan creature tokens.
+Enchanted creature has boybanding. [i](It can attack in a band with up to three other attackers and gets +1/+0 for each of them. Boybanding doesn't stack.)[/i] => Enchant creature
+When Fifth Beatle enters, create two 1/1 red Fan creature tokens.
+Enchanted creature has boybanding. [i](It can attack in a band with up to three other attackers and gets +1/+0 for each of them. Boybanding doesn't stack.)[/i]
+
+Captain Olimar
+
+Swarm!
+cost: {3}{G} => {4}{G}
+rules_text: When Swarm! enters, pluck 2. [i](Put two +1/+1 counters on target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+Whenever you attack, target creature you control gets +X/+X and gains trample until end of turn, where X is the number of counters among creatures you control. => When Swarm! enters, pluck 2. [i](Put two +1/+1 counters on target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+At the beginning of combat on your turn, target creature you control gets +X/+X and gains trample and haste until end of turn, where X is the number of counters among creatures you control.
+
+Throw!
+rules_text: Teamwork 3 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 3 or more.)[/i]
+Choose one. If this spell was cast using teamwork, you may choose both instead.
+• Target creature gets +2/+2 until end of turn.
+• Target creature you control fights another target creature. => Teamwork 5 [i](As an additional cost to cast this spell, you may tap any number of creatures you control with total power 3 or more.)[/i]
+Choose one. If this spell was cast using teamwork, you may choose both instead.
+• Target creature gets +2/+2 until end of turn.
+• Target creature you control fights another target creature.
+
+Red Pikmin
+rules_text: Trample
+When Red Pikmin enters pluck 2. [i](Put two +1/+1 counters on another target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+Other modified creatures you control have trample. => Trample
+When Red Pikmin enters, pluck 2. [i](Put two +1/+1 counters on another target creature, or create a 0/0 Pikmin with the counters on it.)[/i]
+Other modified creatures you control have trample.
+
+Mumuta
+cost: {2} => {3}
+pt: 0/3 => 1/3
+
+
+type: Basic Land — Mountain => 
+rules_text: [i]({T}: Add {R}.)[/i] => ENTER THE NIGHTMARE
+Explore Silent Hill, tearing through your deck to uncover nightmarish monsters to unleash on your opponents.
+artist: mai col => masahiro ito
+
+Party Animal
+pt: 1/1 => 0/0
+
+Search the Omnitrix
+rules_text: You may discard a card. If you do, draw two cards. When you discard a noncreature card this way, put a +1/+1 counter on target creature you control. => You may discard a card. If you do, target player draws two cards. If you discarded a noncreature card this way, put a +1/+1 counter on up to one target creature.
+
+Commerson's Dolphin ULT2
+rules_text: [i](This token's mana cost is {2}{U})[/i]
+When Commerson's Dolphin enters the battlefield, target creature explores. => [i](This token's mana cost is {2}{U})[/i]
+When Commerson's Dolphin enters, target creature explores.
+pt: 2/2 => 3/2
+
+Commerson's Dolphin
+rules_text: Squad—{1}, Discard a land card [i](As an additional cost to cast this spell, you may pay its Squad cost any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When Commerson's Dolphin enters the battlefield, target creature explores. => Squad—{1}, Discard a land card. [i](As an additional cost to cast this spell, you may pay its Squad cost any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+When Commerson's Dolphin enters, target creature explores.
+pt: 2/S => 3/2
+
+Valentine, Heart Collector
+cost: {5}{B}{B} => {4}{B}{B}
+rules_text: When Valentine enters, for each color other than black, you may exile a creature card of that color from your graveyard. Gain control of target creature if it has mana value less than or equal to the number of exiled cards. => Lifelink
+When Valentine enters, for each color other than black, you may exile a card of that color from your graveyard. Gain control of target creature with mana value less than or equal to the number of cards exiled.
+Swampcycling {2}
+flavor_text: [i]“Sure, he's sweet, but if he made a holiday all for Draculaura, why'd he name it after himself?”
+— Clawdeen[/i] => [i][/i]
+pt: 4/4 => 3/3
+
+Clawdeen Wolf
+cost: {2}{BG} => {1}{BG}
+rules_text: Flash
+Fearlead[i] — [/i]{2}, Pay 2 life:[i] [/i]Put X +1/+1 counters on Clawdeen, where X is the number of colors among permanents you control. [i](Activate only if Clawdeen entered or attacked this turn and only once.)[/i] => Flash
+Fearlead[i] — [/i]{3}, Pay 3 life:[i] [/i]Put X +1/+1 counters on Clawdeen, where X is the number of colors among permanents you control. [i](Activate only if Clawdeen entered or attacked this turn and only once.)[/i]
+pt: 2/3 => 2/2
+
+Draculaura
+rules_text: When Draculaura enters, for each color other than black, you may behold a creature of that color. If you do, create a tapped Treasure token. [i](To behold something, choose a matching permanent you control or reveal one from your hand.)[/i]
+Fearlead — {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}: Mill five cards. Put each creature card from among them onto the battlefield. [i](Activate only if Draculaura entered or attacked this turn and only once.)[/i] => When Draculaura enters, for each color other than black, you may behold a creature of that color. If you do, you lose 1 life and create a tapped Treasure token. [i](To behold choose a matching permanent you control or reveal one from your hand.)[/i]
+Fearlead — {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}: Mill five cards. Put each creature card from among them onto the battlefield.
+
+Frankie Stein
+rules_text: Fearlead — {2}, Discard a card: Frankie deals X damage to target creature, where X is the number of colors among permanents you control. [i](Activate only if Frankie entered or attacked this turn and only once.)[/i] => Ward—Pay 3 life.
+Fearlead — {2}, Discard a card: Frankie deals X damage to target creature, where X is the number of colors among permanents you control. [i](Activate only if Frankie entered or attacked this turn and only once.)[/i]
+pt: 4/3 => 3/3
+
+Lagoona Blue
+rules_text: Fearlead — {2}, Pay 2 life: Mill X cards, where X is the number of colors among permanents you control. You may put a card from among them into your hand. [i](Activate only if Lagoona entered or attacked this turn and only once.)[/i] => Fearlead — {2}, Pay 1 life: Mill X cards, where X is the number of colors among permanents you control. You may put a card from among them into your hand. [i](Activate only if Lagoona entered or attacked this turn and only once.)[/i]
+
+Spectra, Gossip Ghost
+cost: {1}{WB} => {2}{WB}
+rules_text: Kicker {1}{WB} [i](You may pay an additional {1}{WB} as you cast this spell.)[/i]
+Flying, lifelink
+When Spectra enters, if she was kicked, she connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on her.)[/i] => Flash
+Flying, lifelink
+When Spectra enters, destroy up to one target attacking or blocking creature. Its controller draws a card.
+pt: 1/2 => 1/3
+
+Creepover
+rules_text: 
+
+[b]This land enters tapped. When it enters, you lose 1 life.
+{T}: Add one mana of any color except black.[/b] => 
+
+[b]This land enters tapped.
+When this land enters, you choose two colors and gain 2 life.
+{T}: Add one mana of a chosen color.[/b]
+
+Valiant Thumb Sodalto
+flavor_text: [i]Any order will do, just be precise with it.[/i] => [i]Any order will do, just be precise.[/i]
+
+Areoforming Surveyor
+rules_text: Areoforming Surveyor costs {1} less to cast if you control a tapped creature.
+When Areoforming Surveyor enters the battlefield, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When Areoforming Surveyor enters the battlefield, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Burroughs
+rules_text: Burroughs enters the battlefield tapped unless you control a basic land.
+{T}: Add {G}.
+{T}{1}, Tap an untapped creature you control: Add one mana of any color. => Burroughs enters the battlefield tapped unless you control a basic land.
+{T}: Add {G}.
+{T}, Tap an untapped creature you control: Add one mana of any color.
+
+Nissei Family
+rules_text: When Nissei Family enters the battlefield, create two 1/1 red Rebel creature tokens. => When Nissei Family enters, create two tapped 1/1 red Rebel creature tokens, then you gain life equal to the number of tapped creatures you control
+flavor_text: [i]The first generation of people born on Mars were dubbed “Nissei”.[/i] => [i]The first generation of people born on Mars were dubbed “Nissei.”[/i]
+
+Rebel Token (MARS)
+pt:  => 1/1
+
+Rugged Backpackers
+flavor_text: [i]As the environment became more habitable, Olympus Mons became a popular destination for hikers.[/i] => [i]As the environment became more habitable, Olympus Mons turned into a popular destination for hikers.[/i]
+
+Hiroko Ai
+flavor_text: [i]A very spiritual person, Hiroko was an oddity among the First Hundred from the beginning. While initially overlooked, her influence would only grow with time.[/i] => [i]Hiroko was an oddity among the First Hundred from the beginning. Her influence would only grow as the years passed.[/i]
+
+Summit at Peacock Mountain
+rules_text: When Summit at Peacock Mountain enters the battlefield, target creature you control fights target creature you don't control.
+{3}{G}: Put a +1/+1 counter on target tapped creature you control. Activate only as a sorcery. => When Summit at Peacock Mountain enters the battlefield, up to one target creature you control fights up to one other target creature.
+{3}{G}: Put a +1/+1 counter on target tapped creature. Activate only as a sorcery.
+
+Green Mars
+rules_text: Green Mars enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}: Tap an untapped creature you control: Put charge counters equal to its power on this Planet. Activate only as a sorcery.
+[level 6+] Tapped creatures you control get +1/+1. => Green Mars enters tapped unless you control a basic land.
+{T}: Add {G}.
+Station. Activate only once each turn. [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 6+] Tapped creatures you control get +1/+1.
+special_text: Green Mars enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}: Tap an untapped creature you control: Put charge counters equal to its power on this Planet. Activate only as a sorcery.
+[level 6+] Tapped creatures you control get +1/+1. => Green Mars enters tapped unless you control a basic land.
+{T}: Add {G}.
+Station. Activate only once each turn. [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 6+] Tapped creatures you control get +1/+1.
+
+Suspicious Dysfunction
+rules_text: Destroy target artifact or enchantment. Counter all activated and triggered abilities of that permanent. [i](This won't stop death triggers.)[/i] => Exile target artifact or enchantment. Counter all activated and triggered abilities of that permanent.
+
+Detective Tails the Fox
+rules_text: Flying
+Tails enters with a hunch counter on him.
+[i]Crack the Case [/i]— Whenever Tails attacks, remove a hunch counter from him and investigate. When that Clue leaves the battlefield, exile him, then return him to the battlefield under your control. => Flying
+Tails enters with a hunch counter on him.
+[i]Crack the Case [/i]— Whenever Tails attacks, remove a hunch counter from him. If you do, investigate. When that Clue leaves the battlefield, exile him, then return him to the battlefield under your control.
+
+The Mirage Express
+rules_text: Whenever The Mirage Express enters or attacks, up to one other target artifact you control becomes a 3/3 Robot creature in addition to its other types.
+Whenever a Robot you control leaves the battlefield, put two +1/+1 counters on The Mirage Express and it gains vigilance until your next end step.
+Crew 3 => Whenever The Mirage Express enters or attacks, up to one other target artifact becomes a 3/3 Robot artifact creature.
+Whenever a Robot you control leaves the battlefield, put two +1/+1 counters on The Mirage Express and untap it.
+Crew 3
+
+HUNK, the 4th Survivor
+flavor_text: [i]“This is war. Survival's your responsibility.”[/i] => [i]“This is war. Survival's your own responsibility.”[/i]
+
+Rachel Foley
+rules_text: When Rachel enters, she explores. [i](Reveal the top card of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on Rachel, then put the card back or into your graveyard.)[/i]
+Disturb {2}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Rachel Foley enters, she explores. [i](Reveal the top card of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on Rachel, then put the card back or into your graveyard.)[/i]
+Disturb {2}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Jill Valentine, BSAA
+cost: {1}{GU}{GU} => {2}{GU}
+
+Marvin Branagh
+flavor_text: [i]“I'm giving you an order, rookie. You save yourself first. I'd come with you, but I'd just slow you down. . .”[/i] => [i]“I'm giving you an order, rookie. You save yourself first. I'd come with you, but I'd just slow you down...”[/i]
+
+Rebecca Chambers
+rules_text: When Rebecca enters, choose up to two —
+• [i]Green Herb[/i] — Put a +1/+1 counter on another target creature.
+• [i]Blue Herb[/i] — Return another target permanent you control to its owner's hand.
+• [i]Red Herb[/i] — Mill four cards. => When Rebecca enters, choose two —
+• [i]Green Herb[/i] — Put a +1/+1 counter on up to one other target creature.
+• [i]Blue Herb[/i] — Return up to one other target permanent you control to its owner's hand.
+• [i]Red Herb[/i] — Mill five cards.
+
+Queen Semiramis
+rules_text: This land enters tapped.
+When this land enters, choose a color and surveil 1.
+{T}: Add {U} or one mana of the chosen color. => This land enters tapped. As it does, choose a color and surveil 1.
+{T}: Add {U} or one mana of the chosen color.
+
+Queen Zenobia
+rules_text: This land enters tapped.
+When this land enters, choose a color and surveil 1.
+{T}: Add {U} or one mana of the chosen color. => This land enters tapped. As it does, choose a color and surveil 1.
+{T}: Add {U} or one mana of the chosen color.
+
+Raccoon Police Department
+flavor_text: [i]Re-enter the world of survival horror. . .[/i] => [i]Re-enter the world of survival horror...[/i]
+
+Cirno, Fairy of the Lake
+rules_text: Flying
+Whenever two or more creatures you control deal combat damage to a player, put a +1/+1 counter on Cirno and she becomes prepared. [i](While she's prepared, you may cast a copy of her spell. Doing so unprepares her.)[/i] => Flying
+Whenever two or more creatures you control deal combat damage to a player, put a +1/+1 counter on Cirno and she becomes prepared.
+
+Cirno, The Strongest Fairy
+
+Daiyousei, Greater Fairy
+rules_text: Flying
+Whenever two or more creatures you control deal combat damage to a player, Daiyousei becomes prepared. [i](While she's prepared, you may cast a copy of her spell. Doing so unprepares her.)[/i] => Flying
+Whenever two or more creatures you control deal combat damage to a player, Daiyousei becomes prepared. [i](While prepared, you may cast a copy of her spell. Doing so unprepares her.)[/i]
+
+Eternity Larva, Scattering
+rules_text: Flying
+Whenever two or more creatures you control deal combat damage to a player, Eternity becomes prepared.
+Other creatures you control with flying get +1/+1. => Flying
+Other creatures you control with flying get +1/+1.
+Whenever two or more creatures you control deal combat damage to a player, Eternity becomes prepared.
+
+Minus K
+rules_text: This spell costs {2} less to cast if you control a creature with flying.
+Return target spell or creature to its owner's hand.
+Draw a card. => This spell costs {2} less to cast if you control a creature with flying.
+Return target spell or creature to its owner's hand. Draw a card.
+
+Crystal Tokyo
+rules_text: This land enters tapped. 
+When this land enters, you gain 2 life and choose a color.
+{T}: Add {W} or one mana of the noted color. => This land enters tapped. When it does, note a color other than white and gain 2 life.
+{T}: Add {W} or one mana of the noted color.
+
+Fruits Parlor Crown
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{1}{W}{W}, {T}: Create a tapped 1/1 green and white Citizen creature token. => This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{2}{W}, {T}: Create a tapped 1/1 green and white Citizen creature token.
+
+Ami Mizuno
+
+Hotaru Tomoe
+flavor_text: [i]“I'm glad I met you. . . I'm glad we became friends.”[/i] => [i]“I'm glad I met you... I'm glad we became friends.”[/i]
+
+Makoto Kino
+pt: 1/2 => 2/2
+
+Minako Aino
+
+Moon Prism Power!
+cost: {W} => {1}{W}
+rules_text: Kicker {5} [i](You may pay an additional {5} as you cast this spell.)[/i]
+Target creature gets +2/+2 and gains lifelink until end of turn.
+If this spell was kicked, draw a card and you may transform that creature. => Kicker {4} [i](You may pay an additional {4} as you cast this spell.)[/i]
+Target creature gets +2/+2 and gains lifelink until end of turn.
+If this spell was kicked, draw a card and you may transform that creature.
+
+Rei Hino
+rules_text: [i]Cleansing Flame — [/i]When Rei enters, destroy up to one target artifact or enchantment.
+{3}{W}{W}: Transform Rei. Activate only as a sorcery. => [i]Cleansing Flame — [/i]When Rei enters, exile up to one target artifact or enchantment. Its controller draws a card.
+{3}{W}{W}: Transform Rei. Activate only as a sorcery.
+
+Former Hell
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{3}{R}{R}, {T}: Create a 1/1 colorless Spirit creature token with prowess. => This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{4}{R}, {T}: Create a 1/1 colorless Spirit creature token with prowess.
+flavor_text: [i]The home of the oni, despised yokai, and vengeful spirits. Ignited once again by Utsuho's atomic ambitions.[/i] => [i]Home of oni, vengeful spirits, and despised yokai, ignited again by Utsuho's atomic ambitions.[/i]
+
+Mitis Assault
+rules_text: When this creature enters, create a Weapon token, then attach it to target creature. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i] => When this creature enters, create a Weapon token attached to target creature. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+flavor_text: [i]Mundus's foot soldiers. Got loose on Fortuna and caused all sorts of trouble. [/i] => [i]Mundus's foot soldiers. Got loose on Fortuna, caused all sorts of trouble. [/i]
+
+Nevan, Lightning Contralto
+rules_text: [i]Electric Kiss[/i] — When Nevan enters, gain control of up to one target creature with mana value 3 or less until end of turn. Untap it. It gains haste until end of turn.
+[i]Devil Arm[/i] — When Nevan dies, exile her. While she's exiled, you may cast her other face, and it costs {2} more to cast this way. => [i]Electric Kiss[/i] — When Nevan enters, gain control of target creature with mana value 3 or less until end of turn. Untap it. It gains haste until end of turn.
+[i]Devil Arm[/i] — When Nevan dies, exile her. While she's exiled, you may cast her other face, and it costs {2} more to cast this way.
+
+Rev it Up!
+rules_text: Create a Weapon token attached to target creature, then it gets +1/+1 until end of turn for each Equipment attached to it. [i](A Weapon is an Equipment artifact with “Equipped creature gets +1/+1” and “equip {2}”.)[/i] => Create a Weapon token attached to target creature. That creature gets +1/+0 until end of turn for each permanent attached to it. [i](A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Voltaic Black Knight
+rules_text: Flash
+Reach
+[i]Lightning Charge — [/i]When this creature enters, it deals 1 damage to any target.
+[i]Devil Arm[/i] — When this creature dies, exile it. While it's exiled, you may cast its other face, and it costs {2} more to cast this way. => Flash
+[i]Lightning Charge — [/i]When this creature enters, it deals 1 damage to any target. If that target has flying, this creature deals 4 damage to it instead.
+Devil Arm [i](When this creature dies, you may exile it. You may cast its other face from exile by paying {2} more.)[/i]
+
+Dante, Devil Trigger
+cost: {4}{R}{R} => {4}{RW}{RW}
+rules_text: Haste, first strike
+“[i]This party's getting crazy!” — [/i]Whenever you attack, if it's the first combat phase of the turn, untap each creature that attacked this turn. After this phase, there is an additional combat phase. during which each of those creatures must attack.
+Mountaincycling {2} => First strike
+“[i]This party's getting crazy!” — [/i]Whenever you attack, if it's the first combat phase of the turn, untap each creature that attacked this turn. After this phase, there is an additional combat phase. during which each of those creatures must attack.
+Basic landcycling {2}
+pt: 4/4 => 4/5
+
+Beat Into Shape
+cost: {1}{W} => {2}{W}
+rules_text: Exile target nonland permanent. Its controller forges X, where is that permanent's mana value. [i](They put X hone counters on a Sovereign Blade they control. If they can't, they create one first. It has equip {2}.)[/i] => Exile target nonland permanent. If it has mana value 3 or greater, its controller forges 3. [i](They put two hone counters on a Sovereign Blade they control. If they can't, they create one first. It has equip {2}. Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+
+His Majesty's Bulwark
+rules_text: Defender, reach
+When His Majesty's Bulwark enters, forge 3. [i](Put three hone counters on a Sovereign Blade you control. If you can't, create one first. It has equip {2}.)[/i] => Defender, flying
+When His Majesty's Bulwark enters, forge 2. [i](Put two hone counters on a Sovereign Blade you control. If you can't, create one first. It has equip {2}. Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+pt: 0/5 => 0/6
+
+Tanx, Khimera King
+rules_text: Flying
+When Tanx, Khimera King enters, create a Weapon token. Then put two hone counters on each Equipment you control. [i](A Weapon is an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.” Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i] [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i] => Flying
+When Tanx enters, create a Weapon token. Then put two hone counters on each Equipment you control. [i](A Weapon is an Equipment artifact with equip {2} and “Equipped creature gets +1/+1.” Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+
+Heirloom Hammer
+rules_text: Equipped creature gets +1/+1 and has trample.
+If you would put one or more counters on another Equipment you control, instead put that many of those counters on this Equipment and that one.
+Equip {2} => Equipped creature gets +1/+1 and has trample.
+If you would put one or more counters on another Equipment you control, instead put that many of those counters on this Equipment and that one.
+Equip {3}
+
+An Orb to Ponder
+rules_text: When An Orb to Ponder enters, you get {E}{E}{E}.
+{2}, {T}, Pay {E}: Draw a card. => When An Orb to Ponder enters, look at the top three cards of your library, then put them back in any order. You may shuffle. You get {E}{E}{E}.
+{2}, {T}, Pay {E}: Draw a card.
+
+A Whole New World
+rules_text: A Whole New World enters tapped.
+{T}: Add {W}.
+Exhaust — Tap untapped creatures you control with total power 5 or greater: Draw a card. Activate only as a sorcery and only once. [i](Activate each exhaust ability only once.)[/i] => A Whole New World enters tapped unless you control a basic land.
+{T}: Add {W}.
+{2}{W}, {T}: Forge 2. Activate only as a sorcery. [i](Put two hone counters on a Sovereign Blade you control. If you can't, create one first. It has equip {2}.)[/i]
+
+Fractal Mutation
+cost: {3}{G} => {3}{G}{G}
+rules_text: Choose one —
+• [i]Progress The Curse [/i]— Double target creature's power and toughness until end of turn.
+• [i]Spread The Curse[/i] — Proliferate twice. [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Choose one —
+• [i]Progress The Curse [/i]— Untap target creature. Double its power and toughness until end of turn.
+• [i]Spread The Curse[/i] — Proliferate twice. [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+flavor_text: [i]You feel you should run, but it may be too late.[/i] => [i][/i]
+
+Leigh, Grinner
+rules_text: {2}{G}: Monstrosity 2 [i](If Leigh isn't monstrous, put two +1/+1 counters on her. She becomes monstrous.)[/i]
+[i]Grinning Beast —[/i] As long as Leigh is monstrous, she has trample and “When this creature dies, return it to the battlefield under your control with a finality counter on it.” => {3}{G}: Monstrosity 2 [i](If Leigh isn't monstrous, put two +1/+1 counters on her. She becomes monstrous.)[/i]
+[i]Grinning Beast —[/i] As long as Leigh is monstrous, she has trample and “When this creature dies, return it to the battlefield under your control with a finality counter on it.”
+
+Look Outside
+flavor_text: [i]“It's... beautiful.”
+—A witness to the Visitor, last intelligible words[/i] => [i]“It's. . . beautiful.”
+—A witness to the Visitor, last intelligible words[/i]
+
+Toxic Paintlings
+flavor_text: [i]“You F***ING [/i]SOLD [i]me?!”[/i] => [i]“You f***ing [/i]SOLD [i]me?!”[/i]
+
+Whiskey Flask
+rules_text: {T}: Add one mana of any color. You can't spend this mana to cast spells.
+{1}, {T}, Sacrifice this artifact: Destroy target artifact or enchantment. => {T}: Add one mana of any color. You can't spend this mana to cast spells.
+{1}, {T}, Sacrifice this artifact: Destroy target artifact, enchantment, or creature with flying.
+
+Sam, Restless Recluse
+cost: {X}{GW}{GW} => {X}{1}{GW}
+
+Elevator
+rules_text: {T}: Add {C}.
+{T}: Choose a basic land type. Elevator gains that type. [i](This effect lasts indefinitely.)[/i] => When Elevator enters, surveil 1.
+{T}: Add {C}.
+{T}: Choose a basic land type. Elevator becomes that type in additon to its other types. [i](This effect lasts indefinitely.)[/i]
+
+Infested Crawlspace
+rules_text: Infested Crawlspace enters tapped. As it does, choose a color.
+{T}: Add {G} or one mana of the chosen color.
+{2}{G}{G}, {T}: Create a 1/1 green Rat Mutant creature token with “{2}{G}: Monstrosity 2.” [i](If it isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i] => Infested Crawlspace enters tapped. As it does, choose a color.
+{T}: Add {G} or one mana of the chosen color.
+{3}{G}, {T}: Create a 1/1 green Rat Mutant creature token with “{2}{G}: Monstrosity 2.” [i](If it isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)[/i]
+
+Doctor's Dealings
+cost: {2}{B} => {1}{B}
+
+Evan MacMillan, the Trapper
+cost: {3}{B}{B} => {4}{B}{B}
+rules_text: When Evan MacMillan enters, destroy up to one target creature.
+Whenever a creature dies, each opponent loses 1 life. => Menace
+When Evan MacMillan enters, destroy up to one target creature.
+Whenever a creature dies, each opponent loses 1 life.
+pt: 3/2 => 3/3
+
+Rin, Arisen Yamaoka
+rules_text: Flying
+[i][i]Morbid[/i][/i] — Whenever Rin deals combat damage to a player if a creature died this turn, you draw a card and lose 1 life.
+{3}{B}, Sacrifice a creature: Return this card from your graveyard to the battlefield with a finality counter on her. => Flying
+[i][i]Morbid[/i][/i] — Whenever Rin deals combat damage to a player, if a creature died this turn, you draw a card and lose 1 life.
+{3}{B}, Sacrifice a creature: Return this card from your graveyard to the battlefield with a finality counter on her.
+
+Watched From Afar
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature.
+Target creature you control gains deathtouch until end of turn. If a creature died this turn, it also gains “When this creature dies, return it to the battlefield tapped under its owner's control.” => As an additional cost to cast this spell, you may sacrifice a creature.
+Target creature gains deathtouch until end of turn. If a creature died this turn, it also gains “When this creature dies, return it to the battlefield tapped under its owner's control.”
+
+Adiris, Plagued Priestess
+rules_text: Deathtouch
+When Adiris enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Deathtouch
+When Adiris enters or dies, you gain 1 life and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Anna, the Huntress
+rules_text: Reach, trample
+[i][i]Morbid[/i][/i]— When Anna enters, if a creature died this turn, draw a card. => Reach, trample
+[i][i]Morbid[/i][/i]— When Anna enters, create a Food token. If a creature died this turn, draw a card.
+
+Decimated Borgo
+rules_text: This land enters tapped.
+{T}: Add {B}
+{2}{B}, {T}, Sacrifice this land: Return target creature card from your graveyard to your hand. => This land enters tapped unless you control a basic land.
+{T}: Add {B}
+{2}{B}, {T}, Sacrifice this land: Return target creature card from your graveyard to your hand.
+
+Killer's Shack
+rules_text: This land enters tapped. As it enters, choose a color other than black.
+When Killer's Shack enters, surveil 1.
+{T}: Add {B} or one mana of the chosen color. => This land enters tapped. As it enters, choose a color other than black.
+When this land enters, you gain 2 life.
+{T}: Add {B} or one mana of the chosen color.
+
+Bowser, Koopa King
+
+Goomba Tower
+rules_text: Reach, vigilance
+[i]World 8[/i] — As long as you control eight or more lands, this creature gets +2/+2. => Reach, ward {2}
+{3}{G}: Mill three cards. You may put a permanent card from among them into your hand.
+flavor_text: [i]The Koopa army's most loyal sentries. Threatening, in theory.[/i] => [i][/i]
+pt: 5/5 => 4/5
+
+Hammer Smash
+rules_text: Target creature you control gets +1/+0 until end of turn, then deals damage equal to its power to target creature you don't control.
+[i]World 8[/i] — If you control eight or more lands, draw a card. => Target creature you control gets +1/+0 until end of turn, then it deals damage equal to its power to target creature you don't control.
+[i]World 8[/i] — If you control eight or more lands, draw a card.
+
+Junior, Royal Painter
+rules_text: Trample
+Whenever Junior attacks, mill two cards. You may play land cards from your graveyard this turn.
+[i]World 8[/i] — Once during each of your turns, as long as you control eight or more lands, you may cast a creature spell from your graveyard. If you do, it enters with a finality counter on it. => Junior can't be blocked by creatures with power 2 or less.
+Whenever Junior attacks, mill two cards. You may play lands from your graveyard this turn. 
+[i]World 8[/i] — {T}: You may cast target creature spell from your graveyard this turn. If you do, it enters with a finality counter on it. Activate only if you control eight or more lands.
+pt: 4/2 => 2/3
+
+Kamek, Peerless Magician
+cost: {3}{G} => {1}{G}
+rules_text: Flash
+Reach
+[i]World 8[/i] — {3}{G}{G}, Exile Kamek from your graveyard: One or two target creatures each get +3/+3 and gain trample until end of turn. Activate only as a sorcery and only if you control eight or more lands. => Reach
+[i]World 8[/i] — {3}{G}{G}, Exile Kamek from your graveyard: One or two target creatures each get +3/+3 and gain trample until end of turn. Activate only as a sorcery and only if you control eight or more lands.
+pt: 4/2 => 2/3
+
+Piranhic Growth
+rules_text: Choose up to two —
+• Target creature you control deals damage equal to its power to target creature you don't control.
+• Destroy target artifact.
+• Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles. => Choose up to two —
+• Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+• Destroy target artifact.
+• Target creature you control deals damage equal to its power to target creature you don't control.
+
+Quickfoot Koopas
+cost: {2}{G} => {3}{G}
+rules_text: {2}{G}: Put a +1/+1 counter on this creature. If this is the first time this ability was activated, search your library for a basic land card, put into onto the battlefield tapped, then shuffle. => When this creature enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put a +1/+1 counter on target creature you control.
+pt: 3/3 => 2/2
+
+Send Forth
+rules_text: Target creature gets +2/+2 until end of turn.
+[i]World 8[/i] — {2}{G}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery and only if you control eight or more lands. => Target creature gets +2/+2 until end of turn. You gain 2 life.
+
+Cheep Cheep
+cost: {1}{GU} => {2}{GU}
+rules_text: {4}{GU}: Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => {2}{GU}: This creature explores. Activate only as a sorcery. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+pt: 2/2 => 2/4
+
+Level Select
+rules_text: {T}: Choose a color.
+{T}: Add one mana of the last chosen color. => This land enters tapped. As it enters, choose a color other than green.
+{T}: Add {G} or one mana of the chosen color.
+{3}, {T}: Surveil 1.
+flavor_text: [i]As Bowser's plots became more complex, so to did the path to defeat him.[/i] => [i]As Bowser's plots became more complex, so too did the path to defeat him.[/i]
+
+Find Cerberus
+type: Sorcery => Instant
+rules_text: Create three 1/1 red Demon creature tokens. Discard a card. Draw a card. => Create three 1/1 red Demon creature tokens. You may discard a card. If you do, draw a card.
+
+Zdrada, the CENSORED Demon
+rules_text: Zdrada has first strike during your turn.
+Whenever Zdrada attacks with two or more other creatures, she deals 1 damage to each opponent. => Zdrada has first strike during your turn.
+Whenever Zdrada attacks with two or more other creatures, she deals 1 damage to target opponent.
+
+Judgement, the High Prosecutor
+rules_text: First strike
+Judgement can't block.
+Whenever Judgement attacks, you may pay {1}{R}. If you do, she must be blocked each combat if able until end of turn. => Judgement has first strike during your turn.
+Whenever Judgement attacks, you may pay {1}{R}. If you do, she must be blocked each combat if able until end of turn.
+
+Lucifer, CEO of Hell
+cost: {4}{R} => {4}{R}{R}
+pt: 3/3 => 3/4
+
+Malina, the Sour Demon
+rules_text: When Malina enters, choose one —
+• Create a 1/1 red Demon creature token. 
+• Another target creature you control fights target creature you don't control. => When Malina enters, choose one —
+• Create a 1/1 red Demon creature token. 
+• Another target creature you control fights target creature you don't control.
+• Discard a card, then draw a card.
+
+Azazel, the Curious Angel
+rules_text: When Azazel enters, you may discard a card. If you do and you control two or more other creatures, draw a card. => Flying
+When Azazel enters, you may discard a card. If you do and you control two or more other creatures, draw a card.
+pt: 2/2 => 1/3
+artist: NemGa_ => Cheng-Chang Tai
+
+Directive A-113
+rules_text: Choose one—
+• [i]Return Home[/i]—Return any number of nonland cards with total mana value 7 or less from your graveyard to your hand.
+• [i]Override[/i]—Exile target nonland permanent.
+Cycling {2} => Choose one—
+• [i]Return Home[/i]—Return up to seven cards with total mana value 7 or less from your graveyard to your hand.
+• [i]Override[/i]—Exile target nonland permanent.
+Cycling {2}
+
+AUTO, Axiom Pilot
+rules_text: The first ability you activate each turn that isn't a mana ability costs {2} less to activate.
+Whenever you discard a card, exile that card from your graveyard.
+When AUTO leaves the battlefield, return the exiled cards to your hand.
+Cycling {2} => The first ability you activate each turn that isn't a mana ability costs {2} less to activate.
+Whenever you discard a card, you may exile that card from your graveyard.
+When AUTO leaves the battlefield, return the exiled cards to your hand.
+Cycling {2}
+
+GO-4, Gopherbot
+rules_text: Whenever GO-4 becomes tapped, surveil 1.
+[i]{2}[/i], {T}: Tap target creature.
+Cycling {3}
+When you cycle this card, you may tap target creature. => Whenever GO-4 becomes tapped, surveil 1.
+[i]{2}[/i], {T}: Tap target creature.
+Cycling {2}
+When you cycle this card, you may tap target creature.
+
+Axiom Grounds
+rules_text: This land enters tapped unless you discarded a card this turn.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of any color. => This land enters tapped unless you discarded a card this turn. As this land enters, choose two colors.
+{T}: Add {C}.
+{T}, Pay 1 life: Add one mana of a chosen color.
+
+Eager Disciple
+rules_text: Remove a counter from this creature: It deals 1 damage to target player and you gain 1 life. Activate only once each turn. => Remove a counter from Eager Disciple: It deals 1 damage to target player and you gain 1 life. Activate only once each turn.
+
+Lord Vladimir, Crimson Reaper
+pt: 7/4 => 5/5
+
+Laios Touden
+rules_text: When Laios enters, create Kensuke, a colorless Food Equipment artifact token with “Equippped creature has first strike”, “{2}, {T}, Sacrifice this artifact: You gain 3 life” and equip {2}.
+Whenever Laios attacks, target creature gains lifelink until end of turn.
+Whenever you gain life for the first time each turn, put a +1/+1 counter on Laios. => When Laios enters, create a colorless Food Equipment artifact token with “Equippped creature has first strike”, “{2}, {T}, Sacrifice this artifact: You gain 3 life,” and equip {2}.
+Whenever Laios attacks, target creature gains lifelink until end of turn.
+Whenever you gain life for the first time each turn, put a +1/+1 counter on Laios.
+
+Cook Monsters
+type: Sorcery => Instant
+
+Senshi of Izganda
+rules_text: Trample, ward {2}
+Whenever a creature an opponent controls dies during your turn, exile it and create a Food token.
+Sacrifice a Food: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery. => Trample, ward {2}
+If a creature an opponent controls would die during your turn, you may exile it instead. If you do, create a Food token.
+Sacrifice a Food: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.
+
+Farmed Golem
+rules_text: This land enters tapped. Whenever this land enters or attacks, you gain 2 life.
+{T}: Add {G}.
+{4}{G}{G}: This land becomes a 5/5 Golem artifact creature with trample until end of turn. It's still a land. => This land enters tapped.
+Whenever this land enters or attacks, you gain 2 life.
+{T}: Add {G}.
+{4}{G}{G}: This land becomes a 5/5 Golem artifact creature with trample until end of turn. It's still a land.
+
+Merini Village Dining Hall
+rules_text: {T}: Add {C}.
+{T}, Pay 1 life: Add {G} or {W}.
+{3}{GW}, {T}, Sacrifice this land: Distribute two +1/+1 counters among one or two target creatures you control. Activate only as a sorcery. => {T}: Add {C}.
+{T}, Pay 1 life: Add {G} or {W}.
+{4}, {T}, Sacrifice this land: Distribute two +1/+1 counters among up to two target creatures you control. Activate only as a sorcery.
+
+Uchiha Sasuke
+rules_text: Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Menace
+Whenever Sasuke deals combat damage, untap him. => Ninjutsu {1}{U} [i]({1}{U}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+Menace
+Whenever Sasuke deals combat damage, untap target creature.
+
+Iruka, Academy Instructor
+rules_text: Ninjutsu {1}{R} [i]({1}{R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, put a +1/+1 counter on target creature you control. It gains first strike until end of turn. => Ninjutsu {1}{R} [i]({1}{R}, Return an unblocked attacker you control to hand: Put this onto the battlefield from your hand tapped and attacking.)[/i]
+When Iruka enters, target creature you control gets +1/+0 and gains first strike and haste until end of turn.
+pt: 2/1 => 2/2
+
+Zooble
+
+Caroline, Faithful Assistant
+rules_text: When Caroline enters, draw a card, then discard a card.
+{5}{U}{U}, Exile Caroline from your graveyard: Create a transformed token copy of her. => When Caroline enters, draw a card, then discard a card.
+{5}{UB}{UB}, Exile Caroline from your graveyard: Create a transformed token copy of her.
+
+Chell, Resourceful Subject
+type: Legendary Creature — Human Warrior => Legendary Creature — Human Rogue
+
+Wheatley, Moron Core
+flavor_text: [i]“The engineers tried everything to slow me down. They attached a sphere to me, generating endless streams of terrible ideas. It was [/i]your [i]voice!”
+— GLaDOS[/i] => [i]“Engineers tried everything to slow me down. They attached a sphere to me, generating endless streams of terrible ideas. It was [/i]you[i]!”
+— GLaDOS[/i]
+
+Rat Man
+rules_text: As an additional cost to cast Rat Man, discard a card.
+When Rat Man enters, draw two cards. => When Rat Man enters, you may discard a card. If you do, draw two cards.
+
+Auto Turret
+cost: {2} => {1}{U}
+rules_text: Reach
+When Auto Turret enters, it deals 2 damage to target player. => Reach
+[i]Formation — [/i]When Auto Turret enters, if it isn't a token, you may pay {1}{U} up to two times. For each time you paid the cost, create a token that's a copy of Auto Turret
+pt: 1/3 => 2/1
+
+Pearl, Loyal Renegade
+rules_text: First strike
+[i]Selfless Protection[/i] — Whenever you attack with exactly two creatures, another target attacking creature gains indestructible until end of turn. => First strike
+Whenever you attack with exactly two creatures, another target attacking creature gains indestructible until end of turn.
+
+Steven Universe
+
+Connie Maheswaran
+
+Rose Quartz
+
+Mission Dispatch
+rules_text: {T}, Pay 1 life: Add {R} or {W}.
+{3}, {T}, Sacrifice Mission Dispatch: Exile the top two cards of your library. You may play them until the end of your next turn. Activate only if you have 7 or less life. => {T}: Add {C}.
+{T}, Pay 1 life: Add {R} or {W}.
+{2}, {T}, Sacrifice this land: Draw a card.
+
+Ghiaccio, Icy Berserker
+flavor_text: [i]“Come Hell or high water. . . that term. I get the high water part. Could flood or something. But Hell? It's underground! It's not gonna come up and chase you! You're not that important, stronzo!”[/i] => [i]“Come Hell or high water. . . that term. I get high water. Could be a flood. But Hell? It's underground! It's not gonna come up and chase you! You're not that important, stronzo!”[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
