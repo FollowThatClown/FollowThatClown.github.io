@@ -1,4 +1,418 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Food added.
+Human Soldier (3RD) added.
+
+DIAGNOSTICS removed.
+Doctor's Office removed.
+Diagnostics Team removed.
+Misdiagnose removed.
+Slack Off removed.
+Teaching Hospital removed.
+Withdrawal Symptoms removed.
+Operating Theater removed.
+James Wilson, M.D. removed.
+Lisa Cuddy, M.D. removed.
+Search the Home removed.
+House, M.D. removed.
+Eric Foreman, M.D. removed.
+God removed.
+Heather Mason removed.
+James Sunderland removed.
+Letters from the Dead removed.
+Pyramid Head removed.
+Sack the Apartment removed.
+Under Valtiel's Watch removed.
+Chained Door removed.
+Lisa Garland removed.
+Endless House removed.
+Inexplicable Location removed.
+Silent Hill removed.
+Nightmare (SLH) removed.
+Clue (HOUSE) removed.
+Food (OFF) removed.
+It's TV Time! removed.
+
+Strategic Sacrifice
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature. If a modified creature was sacrificed, draw a card. => As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature. If the sacrificed creature was modified, draw a card.
+
+Burning Out
+rules_text: Target creature you control gains “When this creature dies, create a token that's a copy of it with a +1/+1 counter on it” until end of turn. => Until end of turn, target creature gains “When this creature dies, create a token that's a copy of it. The copy enters with a +1/+1 counter on it.”
+
+Food
+artist:  => cpoi-ssant
+
+Make Your Move
+rules_text: Destroy target artifact, enchantment, or creature with power 4 or more. => Destroy target artifact, enchantment, or creature with power 4 or greater.
+
+The Judge, Feline Guide
+cost: {W} => {1}
+rules_text: Flash
+Lifelink
+Whenever The Judge attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Lifelink
+Whenever The Judge attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Zone 0
+rules_text: This land enters tapped. As it does, choose a color other than white.
+When this land enters, you gain 2 life.
+{T}: Add {W} or one mana of the chosen color. => This land enters tapped. As this land enters, choose a color other than white.
+When this land enters, you gain 2 life.
+{T}: Add {W} or one mana of the chosen color.
+
+New Inhabitants
+cost: {3}{W} => {2}{W}{W}
+rules_text: Kicker—Purify three times. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+Create three 1/1 white Citizen creature tokens. If this spell was kicked, put a +1/+1 counter on each creature you control. => Kicker—Purify three times. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+Create three 1/1 white Citizen creature tokens, then if this spell was kicked, put a +1/+1 counter on each creature you control.
+
+Zacharie, Masked Shopkeep
+rules_text: When Zacharie enters, choose one —
+• Create a Clue token. You gain 2 life.
+• Create a Food token. Put a +1/+1 counter on Zacharie.
+• Create a Weapon token. Surveil 1. [i](It's an Equipment with “Equipped creature gets +1/+1” and equip {2}.)[/i] => When Zacharie enters, choose one —
+• Create a Clue token. You gain 2 life.
+• Create a Food token. Put a +1/+1 counter on Zacharie.
+• Create a Weapon token. Surveil 1. [i](An Equipment with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+The Batter, Holy Purifier
+rules_text: First strike
+Whenever The Batter attacks, you may purify. If you do, he gains double strike until end of turn. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i] => First strike
+At the beginning of each combat, you may purify. If you do, The Batter gains double strike until end of turn. [i](To purify, exile a creature card from your graveyard or sacrifice a token.)[/i]
+pt: 2/2 => 2/3
+
+Class-D Demotion
+cost: {1}{B}{B} => {3}{B}
+rules_text: Destroy target creature. Create a 2/2 black Human creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Exile target creature. Create a 2/2 black Human creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Foundation Guards
+cost: {2}{B} => {2}{WB}
+rules_text: When this creature enters, create a 2/2 black Human creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Channel[/i] — {1}{B}, Discard this card: Target creature gets +1/+0 and gains indestructible until end of turn. => When this creature enters, create a 2/2 black Human creature token with expendable. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Channel[/i] — {1}{WB}, Discard this card: Target creature gets +1/+0 and gains indestructible until end of turn.
+flavor_text: [i]Most positions within the Foundation are ungrateful.[/i] => [i][/i]
+
+SCP-049, The Plague Doctor
+rules_text: Deathtouch
+Whenever a non-Zombie creature dies, create a 2/2 black Zombie creature token with decayed. This ability only triggers once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Deathtouch
+Whenever another non-Zombie creature dies, create a 2/2 black Zombie creature token with decayed. This ability only triggers once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+flavor_text: [i]INDIVIDUALS “OPERATED ON” OFTEN RISE AS VIOLENT ZOMBIES.[/i] => [i]INDIVIDUALS “OPERATED ON” RISE AS VIOLENT ZOMBIES.[/i]
+
+SCP-106, The Old Man
+rules_text: Whenever SCP-106 enters, put a decayed counter on another target creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a creature, put a +1/+1 counter on SCP-106. => Whenever SCP-106 enters, put a decayed counter on another target creature.[i][/i] [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a creature, put a +1/+1 counter on SCP-106.
+
+SCP-173, The Statue
+cost: {B} => {UB}
+rules_text: SCP-173 doesn't untap during your untap step.
+Whenever SCP-173 enters, attacks, or blocks, tap it.
+Whenever a creature you control dies, untap SCP-173. => SCP-173 doesn't untap during your untap step.
+Whenever SCP-173 enters or blocks, tap it.
+Whenever a creature you control dies, untap SCP-173.
+flavor_text: [i]ANIMATE AND EXTREMELY HOSTILE. CANNOT MOVE WHILE IN DIRECT LINE OF SIGHT.[/i] => [i]ANIMATE AND EXTREMELY HOSTILE. CANNOT MOVE IN DIRECT LINE OF SIGHT.[/i]
+
+Overgrown Cave
+rules_text: {T}: Add {C}.
+{T}, Pay 1 life: Add {G}.
+{1}, {T}, Sacrifice this land: Shuffle up to four cards from your graveyard into your library. Draw a card. => {T}: Add {C}.
+{T}, Pay 1 life: Add {G}.
+{1}, {T}, Exile this land: Target player shuffles up to three target cards from their graveyard into their library. Draw a card.
+
+Ride the ATV
+rules_text: Untap target creature. It gets +1/+1 until end of turn.
+[i][i]Void[/i] [/i]— If a nonland permanent left the battlefield this turn or a spell was warped this turn, instead untap it and it gets +3/+3 and gains trample until end of turn. => Target creature gets +2/+1 until end of turn. Untap it.
+[i][i]Void[/i] [/i]— If a nonland permanent left the battlefield this turn or a spell was warped this turn, instead that creature gets +4/+3 and gains trample until end of turn. Untap it.
+
+Bad Sun
+rules_text: When Bad Sun enters, it deals damage equal to the highest power among creatures you control and warped creature cards you own in exile to target creature.
+Spells you warp or cast from anywhere but your hand cost {1} less to cast. => When Bad Sun enters, it deals X damage to target creature, where X is equal to the greatest power among creatures you control and warped creature cards you own in exile.
+Spells you warp or cast from anywhere other than your hand cost {1} less to cast.
+
+Danger Sense
+rules_text: When this enchantment enters, mill cards until you mill a creature card. Put that card into your hand.
+{1}{G}, Sacrifice this enchantment: Return target permanent card from your graveyard to your hand. => When this enchantment enters, mill a card. If it's a creature, put it into your hand. Otherwise, repeat this process.
+{1}{G}, Sacrifice this enchantment: Return target permanent card from your graveyard to your hand.
+
+Killer Wisp
+rules_text: [i][i]Void[/i] [/i]— At the beginning of each combat, if a nonland permanent left the battlefield this turn or a spell was warped this turn, target creature you control gains deathtouch until end of turn.
+Warp {BG} [i](You may cast this card from your hand for its warp cost. Exile it at the beginning of the next end step. You may cast it from exile later.)[/i] => [i][i]Void[/i] [/i]— At the beginning of each combat, if a nonland permanent left the battlefield this turn or a spell was warped this turn, target creature gains deathtouch until end of turn.
+Warp {BG} [i](You may cast this from your hand for its warp cost. Exile it at the beginning of the next end step. You may cast it from exile later.)[/i]
+
+The Antibreather
+cost: {3}{G}{G} => {4}{G}{G}
+pt: 4/3 => 5/5
+
+Dr Kel, Lone Astronomer
+cost: {1}{GU}{GU} => {2}{GU}
+rules_text: [i][i]Void[/i][/i] [i]Survival[/i] — At the beginning of your second main phase, if a nonland permanent left the battlefield this turn or a spell was warped this turn, and if Dr Kel is tapped, mill three cards. You may return a creature or land card milled this way to your hand. => [i][i]Void[/i][/i] [i]Survival[/i] — At the beginning of your second main phase, if a nonland permanent left the battlefield this turn or a spell was warped this turn and Dr Kel is tapped, mill three cards. You may return a permanent card milled this way to your hand.
+pt: 1/3 => 1/4
+
+Pagonioplo-Igetis
+cost: {4}{G}{G} => {2}{G}{G}
+rules_text: Ward {2}
+Whenever Pagonioplo-Igetis enters or you cast a spell from anywhere but your hand, create a 2/1 green Alien artifact creature token with reach.
+Forestcycling {2} => Whenever Pagonioplo-Igetis enters or you cast a spell from anywhere other than your hand, create a 2/1 green Alien artifact creature token with reach. This ability trigges only once each turn.
+pt: 5/5 => 3/3
+
+Lostlorn Forest
+rules_text: When this land enters, sacrifice it. Search your library for a land card, put it onto the battlefield tapped, then shuffle. If you control four or more lands, untap that land. => When this land enters, sacrifice it If you do, search your library for a land card, put it onto the battlefield tapped, then shuffle. If you control four or more lands, untap that land.
+
+Growing Tympoles
+rules_text: Whenever a creature you control enters, this creature gets +1/+1 until end of turn. If it's the second time this ability has triggered this turn, it also gains vigilance and trample until end of turn. => Whenever another creature you control enters, this creature gets +1/+1 until end of turn. If it's the second time this ability has triggered this turn, it also gains vigilance and trample until end of turn.
+
+N
+rules_text: Whenever N or another creature you control enters the battlefield, you gain 1 life. Then if this is the second time this ability has triggered this turn, draw a card. => Whenever N or another creature you control enters, you gain 1 life. Then if this is the second time this ability has triggered this turn, draw a card.
+
+Snack Time
+cost: {1}{G} => {2}{G}
+rules_text: Put a +1/+1 counter on target creature. Create a tapped 1/1 green Lizard creature token. => Target player gains 3 life and creates a 1/1 green Lizard creature token. Put a +1/+1 counter on up to one target creature that player controls.
+flavor_text: [i]While wandering the Desert Resort, one can often find Sandile snacking on the native cactus.[/i] => [i]While wandering the Desert Resort, one can often find Sandile snacking on native cactus.[/i]
+
+Tricky Zorua
+rules_text: Flash
+[i]Illusion — [/i]When this creature enters, return another creature you control to its owner's hand. => Flash
+[i]Illusion — [/i]When this creature enters, return another target creature you control to its owner's hand.
+
+Gleaming Sigilyph
+cost: {4}{G} => {3}{G}{G}
+rules_text: Flying
+[i]Magic Bounce — [/i]{1}{G}: You may return another creature you control to its owner's hand. If you do, this creature gains indestructible until end of turn. => Flying
+[i]Wonder Skin[/i] — When you cast this spell, untap up to two target lands.
+[i]Magic Bounce[/i] — {1}{G}: Return target non-Bird creature you control to its owner's hand. This creature gains indestructible until end of turn.
+
+Mithrix, King of Nothing
+rules_text: When you cast this spell, create six Item tokens.
+When Mithrix enters, put a shield counter on each equipped creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => When you cast this spell, create six Item tokens. [i](They're Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+When Mithrix enters, put a shield counter on each equipped creature you control. [i](If a creature with a shield counter would be damaged or destroyed, remove a shield counter from it instead.)[/i]
+
+Having Fallen, It Was Blood
+rules_text: Destroy target attacking or blocking creature.
+Create an Item token. [i](It's an Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i] => Destroy target attacking or blocking creature.
+Create an Item token. [i](An Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+
+The Loader
+rules_text: Flash
+During your turn, The Loader has flying.
+When The Loader enters, exile up to one target non-Rigger creature. Return it to the battlefield tapped under its owner's control at the beginning of the next end step. => Flash
+During your turn, The Loader has flying.
+When The Loader enters, exile up to one target non-Rigger creature you control. Return it to the battlefield tapped under its owner's control at the beginning of the next end step.
+
+The Artificer
+rules_text: Flying
+When The Artificer enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{3}{WU}: Exile The Artificer, then return her to the battlefield under her owner's control. => Flying
+When The Artificer enters, surveil 1.
+{3}{WU}: Exile The Artificer, then return her to the battlefield under her owner's control.
+
+The Engineer
+rules_text: Ward {1}
+Artifacts you control have ward {1}.
+When The Engineer enters or leaves the battlefield, create a 1/1 colorless Servo artifact creature token with reach. => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Artifacts you control have ward {1}.
+When The Engineer enters or leaves the battlefield, create a 1/1 colorless Servo artifact creature token with reach.
+
+Once in a Lullaby
+rules_text: Create an Item token. [i](It's an Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+Return target creature card with mana value 3 or less from your graveyard to the battlefield. => Create an Item token. [i](It's an Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+Return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Compound Generator
+rules_text: You may have this land enter tapped. When you do, create an Item token. [i](It's an Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+{T}: Add {C}. => You may have this land enter tapped. When you do, create an Item token. [i](It's an Equipment with “Equipped creature gets +1/+0” and “Whenever a creature you control enters, you may attach this to it.”)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+
+Brave Leo
+rules_text: Flash
+Bestow {2}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +2/+2. => Flash
+Bestow {2}{W}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +2/+2.
+
+Fearless Aries
+rules_text: Bestow {5}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature get +2/+3.
+Whenever this creature or enchanted creature attacks, tap target creature defending player controls. => Bestow {5}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature get +2/+3.
+Whenever this creature or enchanted creature attacks, tap up to one target creature.
+
+Resolute Sagittarius
+rules_text: Bestow {4}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Enchanted creature gets +3/+2.
+During your turn, this creature has first strike. If it's an Aura, instead enchanted creature has first strike. => Bestow {4}{W} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+During your turn, this creature and enchanted creature have first strike.
+Enchanted creature gets +3/+2.
+
+Five Pebbles
+rules_text: [i]Ecosystem[/i] — At the beginning of your end step, if you control three or more creatures with different powers, draw a card.
+[+1]: Exile up to one target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on up to one target creature.
+[-2]: Create a 3/3 green Mutant creature token with deathtouch. => [i]Ecosystem[/i] — At the beginning of your end step, if you control three or more creatures with different powers, draw a card.
+[+1]: Exile up to one target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on up to one target creature.
+[-2]: Create a 3/3 green Mutant creature token.
+special_text: [i]Ecosystem[/i] — At the beginning of your end step, if you control three or more creatures with different powers, draw a card.
+[+1]: Exile up to one target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on up to one target creature.
+[-2]: Create a 3/3 green Mutant creature token with deathtouch. => [i]Ecosystem[/i] — At the beginning of your end step, if you control three or more creatures with different powers, draw a card.
+[+1]: Exile up to one target card from a graveyard. If a creature card is exiled this way, put a +1/+1 counter on up to one target creature.
+[-2]: Create a 3/3 green Mutant creature token.
+
+Reach the Top
+rules_text: [i]Ecosystem[/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Put up to two land cards from your hand onto the battlefield.
+• Put two +1/+1 counters on target creature.
+• You gain 4 life.
+• Draw a card. => [i]Ecosystem[/i] — Choose two. If you control three or more creatures with different powers, choose any number instead.
+• Draw a card.
+• You gain 4 life.
+• Put two +1/+1 counters on target creature.
+• You may play up to two additional lands this turn.
+
+Towering Rain Deer
+cost: {5}{G} => {4}{G}{G}
+
+Rebar Spear
+rules_text: When this Equipment enters, create a 2/1 green Monkey creature token. When you do, attach this Equipment to target creature you control.
+Equipped creature gets +2/+1.
+Equip {2} => When this Equipment enters, create a 2/1 green Monkey creature token. When you do, attach this Equipment to target creature.
+Equipped creature gets +2/+1.
+Equip {2}
+
+Garbage Wastes
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {G}.
+{2}, {T}, Sacrifice this land: Put target creature card from your graveyard on top of your library. Activate only as a sorcery. => This land enters tapped unless you control a basic land.
+{T}: Add {G}.
+{2}, {T}, Exile this land: Put target card from your graveyard on top of your library. Activate only as a sorcery.
+
+Mutant Token (RAIN)
+rules_text: Deathtouch => 
+
+Council of Jokzi Ozo
+rules_text: Flying, ward {1}
+[i]Unity[/i] [i]— [/i]When Council of Jokzi Ozo enters, create two Memory token. For each, attach it to a creature you control. [i](They're Auras with “When enchanted permanent dies, draw a card.”)[/i] => Flying, ward {2}
+[i]Unity[/i] [i]— [/i]When Council of Jokzi Ozo enters, create two Memory tokens. For each of them, attach it to target creature. [i](They're Auras with “When enchanted permanent dies, draw a card.”)[/i]
+pt: 3/4 => 4/4
+
+Deep Encounter
+rules_text: Choose one—
+• [i]Disrupt — [/i]Counter target spell unless its controller pays {3}.
+• [i]Play Along[/i] — Draw a card. Create a Memory token and attach it to a creature you control. => Choose one—
+• [i]Disrupt — [/i]Counter target spell unless its controller pays {3}.
+• [i]Play Along[/i] — Target player draws a card. Create a Memory token and attach it to target creature. [i](It's an Aura with “When enchanted permanent dies, draw a card.”)[/i]
+
+Gakvu Thoughtform
+rules_text: Vigilance
+Exhaust — {4}{U}: Put two +1/+1 counters on this creature. Create a Memory token, then attach it to a creature you control. [i](It's an Aura with “When enchanted permanent dies, draw a card.” Activate each exhaust ability only once.)[/i] => Vigilance
+Exhaust — {5}: Put two +1/+1 counters on this creature. Create a Memory token, then attach it to target creature. [i](It's an Aura with “When enchanted permanent dies, draw a card.” Activate each exhaust ability only once.)[/i]
+flavor_text: [i]Obesk tech runs on thought. Thoughtforms serve as functions, A.I.s, or information storage.[/i] => [i]Obesk tech runs on thought. Thoughtforms serve as functions, A.I, or information storage.[/i]
+
+Interloper, Outside Observer
+rules_text: [i]Gain Access — [/i]When Interloper enters, tap target creature you don't control and put a stun counter on it.
+{2}, Discard a card: Interloper has base power and toughness 5/3 until end of turn. => [i]Gain Access — [/i]When Interloper enters, tap up to one target creature and put a stun counter on it.
+{2}, Discard a card: Interloper has base power and toughness 5/3 until end of turn.
+
+Recollection Locus
+rules_text: Whenever this creature deals combat damage to a player, surveil 1, then create a Memory token and attach it to a creature you control. => Whenever this creature deals combat damage to a player, surveil 1, then create a Memory token and attach it to target creature. [i](It's an Aura with “When enchanted permanent dies, draw a card.”)[/i]
+flavor_text: [i]“Akizet went MIA around when the obesk cut ties with humanity. Her memories might know why.”
+—Moth, FBX technician[/i] => [i]“Akizet went MIA when the obesk cut ties with humanity. Her memories might know why.”
+—Moth, FBX technician[/i]
+
+Akizet, Fierce Protector
+rules_text: [i]Better Times — [/i]When Akizet enters, create a Memory token, then attach it to a creature you control.
+Akizet gets +2/+0 for each Aura attached to it. => [i]Better Times — [/i]When Akizet enters, create a Memory token, then attach it to target creature. [i](It's an Aura with “When enchanted permanent dies, draw a card.”)[/i]
+Akizet gets +2/+0 for each Aura attached to it.
+
+Akizet's Corrucyst
+rules_text: Whenever you attack with two or more creatures, create a Memory token, then attach it to an attacking creature.
+{T}, Discard a card: Put a +1/+1 counter on target creature. Activate only as a sorcery. => Whenever you attack with two or more creatures, create a Memory token, then attach it to target attacking creature.
+{T}, Discard a card: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+flavor_text: [i]“How much has this obesk scrap has seen?”
+—Moth, FBX technician[/i] => [i]“How much has this obesk scrap seen?”
+—Moth, FBX technician[/i]
+
+BSTRD, Chaotic Daemon
+rules_text: [i]Share with Geli — [/i]Whenever a nontoken modified creature you control dies, create a 1/1 blue and red Demon enchantment creature token. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+[i]Break Out — [/i]Whenever BSTRD attacks, you may pay {1}. When you do, target creature can't block this turn. => [i]Share with Geli — [/i]Whenever a nontoken modified creature you control dies, create a 1/1 blue and red Demon enchantment creature token.
+[i]Break Out — [/i]Whenever BSTRD attacks, you may pay {1}. If you do, target creature can't block this turn.
+
+Darkners Live!
+rules_text: When this enchantment enters, create two 1/1 black Shade creature tokens.
+{3}{R}, Sacrifice this enchantment: Choose one. Activate only as a sorcery.
+• Create two 1/1 black Shade creature tokens.
+• This enchantment deals 3 damage to target player. => When this enchantment enters, create two 1/1 black Shade creature tokens.
+{3}{R}, Sacrifice Darkners Live!: Choose one. Activate only as a sorcery.
+• Create two 1/1 black Shade creature tokens.
+• Darkners Live! deals 3 damage to target player.
+
+
+type: Basic Land — Mountain => 
+cost:  => {R}
+rules_text: [i]({T}: Add {R}.)[/i] => 
+artist: mai col => Noah Hush
+
+Mummy Men
+rules_text: When this creature dies, create a 2/2 white Zombie creature token. => Lifelink
+When this creature dies, create a 2/2 white Zombie creature token.
+
+Castle Courtyard
+rules_text: {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If a creature died this turn, it enters untapped instead. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If a creature died this turn, untap it.
+
+Rebecca, Renaissance Woman
+rules_text: Deathtouch, haste
+Whenever Rebecca attacks, any number of target players each draw a card and lose 1 life. => Deathtouch, haste
+Whenever Rebecca attacks, up to two target players each draw a card and lose 1 life.
+pt: 1/2 => 1/1
+
+Ami, Prodigal Hacker
+rules_text: Whenever you commit a crime, you may discard a card, then draw a card. This ability triggers only once each turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => Whenever you commit a crime, you may discard a card. If you do, draw a card. This ability triggers only once each turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+Goemon, the Blademaster
+rules_text: Reach, trample
+Whenever you commit a crime, put a +1/+1 counter on Goemon. This ability activates only once each turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => Reach, trample
+Whenever you commit a crime, put a +1/+1 counter on Goemon. This ability triggers only once each turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+pt: 3/3 => 2/3
+
+Secret Bolthole
+rules_text: Secret Bolthole enters tapped.
+{T}: Add {B} or {R}.
+{1}{BR}, {T}, Sacrifice Secret Bolthole: Secret Bolthole deals 2 damage to target opponent. Activate only as a sorcery. => Secret Bolthole enters tapped.
+{T}: Add {B} or {R}.
+{2}, {T}, Sacrifice Secret Bolthole: It deals 2 damage to target opponent. Activate only as a sorcery.
+
+Red, Lone Voice
+rules_text: First strike
+Whenever Red attacks alone, look at the top card of your library. If it's an artifact, you may reveal it and put it into your hand. Otherwise, surveil 2. => First strike
+Whenever Red attacks alone, look at the top card of your library. If it's an artifact, you may reveal it and put it into your hand. Otherwise, scry 2.
+
+Spoiling Cells
+rules_text: When Spoiling Cells enters, create a 1/1 black Egg Processor artifact creature token. => Lifelink
+When Spoiling Cells enters, create a 1/1 black Egg Processor artifact creature token.
+
+Sybil, Envious Socialite
+rules_text: When Sybil enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+{3}, Sacrifice an artifact or creature: Transform Sybil. Activate only as a sorcery. => When Sybil enters, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+{2}{RW}, Sacrifice another artifact or creature: Transform Sybil. Activate only as a sorcery.
+
+The Transistor
+rules_text: When The Transistor enters, exile up to one target creature. Attach this Equipment to up to one target creature.
+Whenever a modified creature you control deals combat damage to a player, draw a card.
+Equipped creature gets +3/+3.
+Equip {3} => When The Transistor enters, exile up to one target creature. Attach The Transistor to up to one other target creature.
+Whenever a modified creature you control deals combat damage to a player, draw a card.
+Equipped creature gets +3/+3.
+Equip {3}
+
+Anywhere (Transistor)
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Liu Skirmish added.
