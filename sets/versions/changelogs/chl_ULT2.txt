@@ -1,4 +1,75 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Archdemon's Thrall added.
+Blood Wall added.
+Burning Pact added.
+Twin Strike added.
+Room Full of Cheese added.
+The Spire added.
+Trash Heap added.
+Strike added.
+Strike added.
+Strike added.
+Strike added.
+Amalgamator added.
+Hellraiser added.
+Primal Force added.
+Ranwid the Elder added.
+Byrd Egg added.
+The Ironclad added.
+Vakuu, the First Demon added.
+Federal Prison added.
+San Francisco added.
+HEISTERS added.
+HEISTERS added.
+HEISTERS added.
+HEISTERS added.
+First World Bank added.
+Helicopter Escape added.
+Hoxton Breakout added.
+Bronx Police Station added.
+Brutal Interrogation added.
+Golden Dagger Triad Tea Shop added.
+Thermal Drill added.
+Hostage Situation added.
+Payday added.
+Custom Mask added.
+International Operation added.
+Federal Prison added.
+San Francisco added.
+Washington DC added.
+HEISTERS added.
+Clown added.
+
+
+Frontline Reinforcements
+rules_text: During your turn, this creature has first strike.
+When this creature enters, create a 1/1 white Soldier creature token.
+When this creature dies, draw a card. => During your turn, this creature has first strike.
+When this creature enters, create a 1/1 white Human Soldier creature token.
+When this creature dies, draw a card.
+
+Princess Toadstool, Peach
+rules_text: Rescue 6 — {3}{RW} [i](You may cast Peach for {2}{RW}. If you do, when she enters, create an 6 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create three 1/1 red Fungus Warrior creature tokens.
+Other creatures you control get +2/+0. => Rescue 7 — {4}{RW} [i](You may cast Peach for {4}{RW}. If you do, when she enters, create an 7 defense Castle Siege battle token an opponent defends which exiles her until it's defeated.)[/i]
+When Peach enters, create three 1/1 red Fungus Warrior creature tokens. They can attack battles as though they had haste.
+Other creatures you control get +1/+0.
+
+Warp Zone
+
+Pagonioplo-Igetis
+rules_text: Whenever Pagonioplo-Igetis enters or you cast a spell from anywhere other than your hand, create a 2/1 green Alien artifact creature token with reach. This ability trigges only once each turn. => Whenever Pagonioplo-Igetis enters or you cast a spell from anywhere other than your hand, create a 2/1 green Alien artifact creature token with reach. This ability triggers only once each turn.
+
+
+type: Basic Land — Mountain => 
+cost:  => {R}
+rules_text: [i]({T}: Add {R}.)[/i] => 
+artist: mai col => Noah Hush
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Food added.
