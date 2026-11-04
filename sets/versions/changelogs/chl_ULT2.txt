@@ -1,4 +1,78 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Human added.
+SCP-076-2, Able added.
+Animal Kingdom added.
+Disney Hollywood Studios added.
+Disney World added.
+Epcot added.
+Expedition Everest added.
+FEEL THE MAGIC added.
+Guest (DYW) added.
+Haunted Mansion added.
+It's a Small World added.
+Jungle Cruise added.
+Noble Employee (DYW) added.
+On An Adventure (DYW) added.
+Princess Costume added.
+Soarin' added.
+Space Mountain added.
+Spaceship Earth added.
+Spirit (DYW) added.
+Splash Mountain added.
+The Magic Kingdom added.
+Tower of Terror added.
+INDELIBLE SIN added.
+Cold Comfort added.
+Envy, Cruel Impostor added.
+Gluttony, Ravenous Beast added.
+Greed, Theory of Avarice added.
+Lust, Pin-Up Girl added.
+Pride, King Bradley added.
+Red Water Sickness added.
+Sloth, Sinister Secretary added.
+Too Close to the Truth added.
+Wrath, Innocent Sin added.
+Fifth Laboratory added.
+Fuhrer Bradley's Office added.
+Liore, the Final Transmutation added.
+Resembool Grave added.
+Soldier (FMA2003) added.
+Clue (FMA2003) added.
+
+Human (EXP) removed.
+
+Frankie Stein
+rules_text: Ward—Pay 3 life.
+Fearlead — {2}, Discard a card: Frankie deals X damage to target creature, where X is the number of colors among permanents you control. [i](Activate only if Frankie entered or attacked this turn and only once.)[/i] => Fearlead — {2}, Discard a card: Frankie deals X damage to target creature, where X is the number of colors among permanents you control. [i](Activate only if Frankie entered or attacked this turn and only once.)[/i]
+pt: 3/3 => 4/3
+
+Food
+artist: cpoi-ssant => 
+
+
+type: Basic Land — Mountain => 
+cost:  => {R}
+rules_text: [i]({T}: Add {R}.)[/i] => 
+artist: mai col => Noah Hush
+
+EXPENDABLES
+artist: popspice => Alex Andreev
+
+Memetic Agent
+artist: Kevin Dooley => SCP Wiki
+
+Hugo, Child Creator
+cost: {1}{GW} => {3}
+rules_text: When Hugo enters, mill three cards. You may return a creature or Plains card from among the milled cards to your hand. => Lifelink, hexproof
+When Hugo enters, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+
+Food
+artist:  => cpoi-ssant
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Archdemon's Thrall added.
