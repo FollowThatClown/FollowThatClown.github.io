@@ -1,4 +1,183 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Strike 1 added.
+Strike 2 added.
+Strike 3 added.
+Strike 7 added.
+
+Strike removed.
+Strike removed.
+Strike removed.
+Strike removed.
+HEISTERS removed.
+HEISTERS removed.
+HEISTERS removed.
+HEISTERS removed.
+HEISTERS removed.
+
+Lamp Effect
+rules_text: When Lamp Effect enters, surveil 2.
+{3}{R}, Sacrifice Lamp Effect: Exile the top three cards of your library. You may play them until the end of your next turn. => When Lamp Effect enters, surveil 3.
+{3}{R}{R}, Sacrifice Lamp Effect: Exile the top three cards of your library. You may play them until the end of your next turn.
+
+Kyukkyu-kun
+rules_text: Reach
+[i]Scrub [/i]— Whenever a land you control enters, you may discard a card. If you do, draw a card and put a +1/+1 counter on Kyukkyu-kun. => Reach
+[i]Scrub [/i]— Whenever a land you control enters, you may discard a card. If you do, draw a card.
+pt: 2/2 => 2/3
+
+
+type: Basic Land — Mountain => 
+cost:  => {R}
+rules_text: [i]({T}: Add {R}.)[/i] => 
+artist: mai col => Noah Hush
+
+Envy, Cruel Impostor
+cost: {2}{B} => {3}{B}
+
+Gluttony, Ravenous Beast
+rules_text: {B}: Exile target card from a graveyard. If it was a creature card, you lose 1 life and put a +1/+1 counter on Gluttony.
+Gluttony has first strike as long as a card exiled with him has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. => {B}: Exile target card from a graveyard. If it's a creature , you lose 1 life and put a +1/+1 counter on Gluttony.
+Gluttony has first strike as long as a card exiled with him has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.
+
+Greed, Theory of Avarice
+rules_text: Menace
+Ward—Pay 3 life.
+Boast—{B}, Pay 2 life: Draw a card. Put a +1/+1 counter on Greed. [i](Activate only once each turn if Greed attacked this turn.)[/i] => Ward—Pay 2 life.
+Boast—{B}, Pay 2 life: Draw a card. Put a +1/+1 counter on Greed. [i](Activate only once each turn if Greed attacked this turn.)[/i]
+flavor_text: [i]He didn't want humanity or the Philosopher's Stone. Just everything else.[/i] => [i]Greed didn't want humanity nor the Philosopher's Stone. Just everything else.[/i]
+pt: 4/3 => 4/4
+
+Fuhrer Bradley's Office
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{2}{B}, {T}: Target creature you control connives. Activate only as a sorcery. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{3}, {T}, Pay 1 life: Target creature connives. Activate only as a sorcery. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+Princess Costume
+rules_text: When this Equipment enters, create a 1/1 white Noble Employee creature token and attach this Equipment to it.
+Whenever equipped creature attacks alone, equipped creature gets +X/+X and gains first strike until end of turn, where X is the number of creatures you control.
+Equip {2} => When this Equipment enters, create a 1/1 white Noble Employee creature token and attach this Equipment to it.
+Equipped creature has first strike and “Whenever this creature attacks alone, it gets +X/+0 until end of turn, where X is the number of creatures you control.”
+Equip {3}
+
+Spaceship Earth
+rules_text: When Spaceship Earth enters, shuffle all nontoken creatures into their owners' libraries.
+Creatures you control have vigilance. => When this artifact enters, shuffle all nontoken creatures into their owners' libraries.
+Creatures you control have vigilance.
+
+Tower of Terror
+cost: {W} => {1}{W}
+rules_text: Flash
+[i]Drop — [/i]When this artifact enters, until end of turn, target creature gets -4/-0, loses flying, and can't gain flying.
+{3}{W}, {T}, Sacrifice this artifact: Draw a card. => Flash
+When this artifact enters, choose one —
+• [i]Rise[/i] — Until end of turn, target creature gets +2/+0 and gains flying.
+• [i]Drop[/i] — Until end of turn, target creature gets -20/-0 and loses flying.
+{3}{W}, {T}, Sacrifice this artifact: Draw a card.
+
+Haunted Mansion
+rules_text: When this artifact enters or you cast a noncreature spell, draw a card, then discard a card. If you discarded a nonland card this way, create a 1/1 white Spirit creature token. This ability triggers once each turn. => {T}: If you cast a noncreature spell this turn, draw a card, then discard a card. If you discarded a nonland card this way, create a 1/1 white Spirit creature token.
+
+Soarin'
+rules_text: Creatures you control have flying. => Ward {2}
+Creatures you control have flying.
+
+Space Mountain
+rules_text: Ward {2}
+Creature tokens you control have prowess and prowess. [i](Multiple instances of prowess trigger separately.)[/i] => {T}: If you cast a noncreature spell this turn, token creatures you control get +2/+1 until end of turn.
+
+Splash Mountain
+rules_text: When this artifact enters or you cast a noncreature spell, put a +1/+1 counter on each creature you control. => {T}: If you cast a noncreature spell this turn, put a +1/+1 counter on each creature you control.
+
+Disney Hollywood Studios
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{3}{W}, {T}: Target nontoken artifact you control becomes an artifact creature with base power and toughness equal to its mana value until end of turn. => This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{3}{W}, {T}: Target artifact you control becomes an artifact creature with base power and toughness equal to its mana value until end of turn.
+
+Amalgamator
+cost: {4}{R} => {3}{R}
+rules_text: Double strike
+Sacrifice two creatures: Strike 7. [i](Create a tapped and attacking 7/1 red Strike during your next combat. Sacrifice it after combat. Yes, you can sacrifice Strikes to this first.)[/i] => Double strike
+{2}, Sacrifice two creatures: Strike 7. [i](At the start of your next combat, create a tapped, attacking 7/1 red Strike token. Sacrifice it after combat. Yes, you can sacrifice Strikes to this first.)[/i]
+pt: 3/4 => 3/3
+
+Hellraiser
+cost: {2}{R} => {3}{R}
+rules_text: Whenever you draw a card, strike 2. [i](Create a tapped and attacking 2/1 red Strike during your next combat. Sacrifice it after combat.)[/i] => When Hellraiser enters, you may exile a card from your hand. If you do, draw a card.
+Whenever you draw a card, strike 2. This ability triggers only twice each turn. [i](Create a tapped, attacking 2/1 red Strike token at the start of your next combat. Sacrifice it after combat.)[/i]
+
+The Ironclad
+cost: {3}{R} => {4}{R}
+rules_text: Ward—Pay 3 life.
+Strikes you control get +1/+1 for each +1/+1 counter on The Ironclad.
+When The Ironclad enters and at the beginning of your upkeep, put a +1/+1 counter on The Ironclad and strike 1. [i](Create a tapped and attacking 1/1 red Strike during your next combat. Sacrifice it after combat.)[/i] => Ward—Pay 3 life.
+Strikes you control get +1/+1 for each +1/+1 counter on The Ironclad.
+When The Ironclad enters and at the beginning of your upkeep, put a +1/+1 counter on him and strike 1. [i](At the start of your next combat, create a tapped, attacking 1/1 red Strike token. Sacrifice it after combat.)[/i]
+pt: 2/2 => 3/3
+
+Twin Strike
+rules_text: Twin Strike deals 3 damage to target creature or planeswalker.
+Strike 3. [i](Create a tapped and attacking 3/1 red Strike during your next combat. Sacrifice it after combat.)[/i] => Twin Strike deals 3 damage to target creature or planeswalker.
+Strike 3. [i](At the start of your next combat, create a tapped, attacking 3/1 red Strike token. Sacrifice it after combat.)[/i]
+
+Byrd Egg
+
+First World Bank
+cost: {1}{B} => {B}
+rules_text: [i](Your opponents protect this. Creatures attacking it have menace.)[/i]
+When this Heist enters, create a 2/1 red Clown creature token.
+When this Heist is defeated, you may pay 2 life. If you do, draw two cards and create two Treasure tokens. => [i](Your opponents protect this. Creatures attacking it have menace.)[/i]
+When this Heist enters, create a 2/1 tapped red Clown creature token. Two target players each create a tapped Treasure token.
+When this Heist is defeated, you may pay 2 life. If you do, draw two cards and create two Treasure tokens.
+
+Hoxton Breakout
+rules_text: [i](Your opponents protect this. Creatures attacking it have menace.)[/i]
+When this Heist enters, create a 2/1 red Clown creature token. It connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+When this Heist is defeated, create three 2/1 red Clown creature tokens. => [i](Your opponents protect this. Creatures attacking it have menace.)[/i]
+When this Heist enters, create a 2/1 red Clown creature token. When you do, target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland, put a +1/+1 counter on that creature.)[/i]
+When this Heist is defeated, create three 2/1 red Clown creature tokens. When you do, up to three target creatures each connive.
+loyalty: 5 => 7
+
+Bronx Police Station
+cost: {3}{R} => {4}{R}
+rules_text: [i](Your opponents protect this. Creatures attacking it have menace.)[/i]
+When this Heist enters, create two 2/1 red Clown creature tokens. This turn, creatures can attack battles as though they had haste.
+When this Heist is defeated, for each creature you control, create a Weapon token and attach it to that creature. [i](They're equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)[/i] => [i](Your opponents protect this. Creatures attacking it have menace.)[/i]
+When this Heist enters or is defeated, create a 2/1 red Clown creature token and three Weapon tokens. When you do, attach any number of Equipment you control to target creature. [i](Weapons are Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+{1}{R}, Discard this Heist: Create a Weapon token. Draw a card.
+loyalty: 5 => 6
+
+Golden Dagger Triad Tea Shop
+rules_text: [i](Your opponents protect this. Creatures attacking it have menace.)[/i]
+When this Heist enters, create a 2/1 red Clown creature token and put a first strike counter on it.
+When this Heist is defeated, look at and exile the bottom three cards of target opponent's library face down. For as long as they remain exiled, you may play them by spending mana of any type. => [i](Your opponents protect this. Creatures attacking it have menace.)[/i]
+When this Heist enters, create a 2/1 red Clown creature token. When you do, put a first strike counter on target creature.
+When this Heist is defeated, look at and exile the bottom three cards of target opponent's library face down. For as long as they remain exiled, you may play them by spending mana of any type.
+
+Thermal Drill
+rules_text: When this artifact enters, choose one —
+• It deals 5 damage to target creature.
+• It deals 3 damage to target battle.
+• Destroy target artifact.
+{1}, {T}: This artifact deals 1 damage to target player or battle. => When this artifact enters, choose one —
+• It deals 5 damage to target creature or battle.
+• Destroy target artifact.
+{1}, {T}: This artifact deals 1 damage to target player or battle.
+
+Custom Mask
+rules_text: When Custom Mask enters, discard up to two cards, then draw that many cards. If you discarded a nonland card this way, create a 2/1 red Clown creature token.
+Equipped creature gets +2/+1 and is a Clown in addition to its other types.
+Equip {4} => When Custom Mask enters, discard up to two cards, then draw that many cards. If you discarded a nonland card this way, create a 2/1 red Clown creature token.
+Equipped creature gets +2/+2 and is a Clown in addition to its other types.
+Equip {4}
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Human added.
