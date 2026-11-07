@@ -1,4 +1,120 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Brightsteel Protector added.
+Cithria the Bold added.
+Galio, the Colossus added.
+Garen, the Might of Demacia added.
+Kayle, Daughter of Justice added.
+Lord Eldred, Master Mageseeker added.
+Lucian, the Purifier added.
+Lux, the Light of Demacia added.
+Mageseeker Investigator added.
+Stony Suppressor added.
+Citadel of Dawn added.
+Grand Plaza added.
+High Silvermere added.
+Petricite Grove added.
+SUPPRESSION added.
+Human Soldier (DEM) added.
+On An Adventure (DEM) added.
+Eleanor, Slow Learner added.
+Final Door At The Edge of Existence added.
+GOOD CHOICES added.
+Janet added.
+Janet Unit added.
+Learn To Let Go added.
+Neighborhood 12358W added.
+Soul Accounting Department added.
+Trolley Problem added.
+Afterlife Judge added.
+Become A Better Person added.
+Chidi, Indecisive Mentor added.
+Reveal Deception added.
+The Medium Place added.
+Reset Neighborhood added.
+Micheal, Deceitful Architect added.
+Jiji of the Thirteen Wishes added.
+GET UP THERE added.
+Dress added.
+Dressing Department added.
+Mad with Power added.
+Muted added.
+Prismatic Vista added.
+Reign's End added.
+Robo-Fizz added.
+Shok.Wav, Protective Pet added.
+Surveillance Room added.
+Surveillance Screens added.
+Trust Us! added.
+V Tower added.
+Valentino, Overlord of Film added.
+Velvette, Overlord of Fashion added.
+Vox, Declarer of War added.
+Vox, the People's Voice added.
+Vox's Office added.
+
+Valentine, Heart Collector removed.
+
+
+type: Basic Land — Mountain => 
+cost:  => {R}
+rules_text: [i]({T}: Add {R}.)[/i] => 
+artist: mai col => Noah Hush
+
+Envy, Cruel Impostor
+rules_text: Flash
+You may have Envy enter as a copy of any nonland permanent card put into a graveyard from anywhere this turn, except his name is Envy, Cruel Impostor and he's a legendary 3/3 Homunculus Shapeshifter creature in addition to his other types. => Flash
+You may have Envy enter as a copy of any nonland permanent card put into a graveyard from anywhere this turn, except his name is Envy, Cruel Impostor and he's a legendary 3/3 Homunculus Shapeshifter creature. [i](He's not any other card types.)[/i]
+
+Tower of Terror
+rules_text: Flash
+When this artifact enters, choose one —
+• [i]Rise[/i] — Until end of turn, target creature gets +2/+0 and gains flying.
+• [i]Drop[/i] — Until end of turn, target creature gets -20/-0 and loses flying.
+{3}{W}, {T}, Sacrifice this artifact: Draw a card. => Flash
+When this artifact enters, choose one —
+• [i]Rise[/i] — Until end of turn, target creature gets +2/+0 and gains flying.
+• [i]Drop[/i] — Until end of turn, target creature gets -20/-0, loses flying, and can't have or gain flying.
+{3}{W}, {T}, Sacrifice this artifact: Draw a card.
+
+Clawdeen Wolf
+rules_text: Flash
+Fearlead[i] — [/i]{3}, Pay 3 life:[i] [/i]Put X +1/+1 counters on Clawdeen, where X is the number of colors among permanents you control. [i](Activate only if Clawdeen entered or attacked this turn and only once.)[/i] => Flash
+Fearlead[i] — [/i]{3}, Pay 3 life: Put X +1/+1 counters on Clawdeen, where X is the number of colors among permanents you control. [i](Activate only if Clawdeen entered or attacked this turn and only once.)[/i]
+
+Cleo De Nile
+flavor_text: [i]The moster popular ghoul in Monster High. Well. Second to her sister, but don't tell her that.[/i] => [i]The most popular ghoul in Monster High. Well. Second to her sister, but don't tell her that.[/i]
+
+Draculaura
+rules_text: When Draculaura enters, for each color other than black, you may behold a creature of that color. If you do, you lose 1 life and create a tapped Treasure token. [i](To behold choose a matching permanent you control or reveal one from your hand.)[/i]
+Fearlead — {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}: Mill five cards. Put each creature card from among them onto the battlefield. => When Draculaura enters, for each color other than black, you may behold a creature of that color. If you do, you lose 1 life and create a tapped Treasure token. [i](To behold, choose a matching permanent you control or reveal one from your hand.)[/i]
+Fearlead — {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}: Mill five cards. Put each creature card from among them onto the battlefield.
+
+Frankie Stein
+rules_text: Fearlead — {2}, Discard a card: Frankie deals X damage to target creature, where X is the number of colors among permanents you control. [i](Activate only if Frankie entered or attacked this turn and only once.)[/i] => Ward—Pay 3 life.
+Fearlead — {2}, Discard a card: Frankie deals X damage to target creature, where X is the number of colors among permanents you control. [i](Activate only if Frankie entered or attacked this turn and only once.)[/i]
+pt: 4/3 => 3/3
+
+Ghoulia Yelps
+rules_text: Fearlead — {2}: You surveil X and gain X life, where X is the number of colors among permanents you control. [i](Activate only if Ghoulia entered or attacked this turn and only once.)[/i] => Fearlead — {2}: You gain X life and surveil X, where X is the number of colors among permanents you control. [i](Activate only if Ghoulia entered or attacked this turn and only once.)[/i]
+
+Robecca Steam
+rules_text: When Robecca enters, you draw a card and lose 1 life.
+{1}{UB}: Return Robecca from your graveyard to the battlefield with a finality counter on her. She's an artifact. [i](She's not a creature. She probably never will be again. Sorry.)[/i] => When Robecca enters, draw a card.
+{UB}, Discard a card: Return Robecca from your graveyard to the battlefield with a finality counter on her. She's an artifact. [i](She's not a creature. She likely never will be again. Sorry.)[/i]
+
+Fangtastic Fashion
+rules_text: Flash
+When Fangtastic Fashion enters, it becomes the color of your choice. Attach it to target creature you control.
+[i]Vivid[/i] — Equipped creature gets +1/+0 for each color among permanents you control.
+Equip {4} => Flash
+[i]Try On [/i]— When Fangtastic Fashion enters, attach it to target creature. Unattach it at the beginning of the next end step.
+[i]Vivid[/i] — Equipped creature gets +1/+0 for each color among permanents you control.
+Equip {4}
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Strike 1 added.
