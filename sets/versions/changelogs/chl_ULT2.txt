@@ -1,4 +1,187 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Go Our Separate Ways added.
+Haru added.
+Louis, Black Market Boss added.
+Riz, Disguised Devourer added.
+Devouring Impulse added.
+Gouhin, Black Market Doctor added.
+Juno, Hopeless Romantic added.
+Legosi added.
+Melon, Cruel Crime Lord added.
+Savage Showdown added.
+The Black Market added.
+Cherryton Academy added.
+Quiet Cityscape added.
+WOLF AND RABBIT added.
+Food (BEAST) 2 added.
+Food (BEAST) 3 added.
+Food (BEAST) 4 added.
+Food (BEAST) 5 added.
+Surveillance Platform added.
+American Jackalope added.
+Babe (TT) added.
+Clue token (TT) added.
+Epic Confrontation added.
+Fur-Bearing Trout added.
+Gold Stash added.
+Horseman's Rage added.
+Lost Colony added.
+Soldier (TT) added.
+TALL TALES added.
+The Alamo added.
+The American Frontier added.
+Bigfoot added.
+Giant's Path added.
+Johnny Appleseed added.
+Paul Revere added.
+Golden Plates of Mormon added.
+John Henry added.
+
+Surveillance Room removed.
+
+CAINE
+rules_text: Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return another target nonland permanent to its owner's hand. If you controlled that permanent, untap all lands you control.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns. => Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return target creature to its owner's hand. If you controlled that permanent, untap five lands.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns.
+special_text: Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return another target nonland permanent to its owner's hand. If you controlled that permanent, untap all lands you control.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns. => Whenever you cast a noncreature spell, put a loyalty counter on CAINE.
+[+1]: Surveil 2, then draw a card.
+[-3]: Return target creature to its owner's hand. If you controlled that permanent, untap five lands.
+[-10]: Target opponent takes two extra turns after this one. You control them during those turns.
+
+Put You Freaks In Your Place
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each creature to its owner's hand.
+II — Exile the top seven cards of target opponent's library and choose one of them. This turn, you may cast that card without paying its mana cost.
+III — Tap target nonland permanent. It loses all abilities. [i](This effect doesn't end.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each creature to its owner's hand.
+II — Exile the top five cards of target opponent's library and choose one of them. This turn, you may cast that card without paying its mana cost.
+III — Tap target nonland permanent. It loses all abilities. [i](This effect doesn't end.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each creature to its owner's hand.
+II — Exile the top seven cards of target opponent's library and choose one of them. This turn, you may cast that card without paying its mana cost.
+III — Tap target nonland permanent. It loses all abilities. [i](This effect doesn't end.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each creature to its owner's hand.
+II — Exile the top five cards of target opponent's library and choose one of them. This turn, you may cast that card without paying its mana cost.
+III — Tap target nonland permanent. It loses all abilities. [i](This effect doesn't end.)[/i]
+
+
+type: Basic Land — Mountain => 
+cost:  => {R}
+rules_text: [i]({T}: Add {R}.)[/i] => 
+artist: mai col => Noah Hush
+
+Dressing Department
+type: Land => Artifact Land
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{3}, {T}: Create a Dress token. Activate only as a sorcery. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Hexproof
+This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{1}, {T}: If you control four or fewer artifacts, create a Dress token. [i](An Equipment with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Vox's Office
+type: Land => Artifact Land
+rules_text: {T}: Add {C}.
+{T}, Pay 1 life: Add {U}.
+{4}{U}{U}, {T}, Sacrifice this land: Draw two cards. This ability costs {1} less for each artifact you control => Hexproof
+{T}: Add {C}.
+{T}, Pay 1 life: Add {U}.
+{4}{U}{U}, {T}, Sacrifice this land: Draw two cards. This ability costs {1} less for each other artifact you control
+
+Muted
+rules_text: Enchant artifact or creature
+When this Aura enters, if your veevotion is seven or greater, tap enchanted permanent. [i](Each artifact you control adds an amount to your veevotion equal to its mana value. Tokens add 1.)[/i]
+Enchanted permanent loses all abilitie and doesn't untap during its controller's untap step. => Enchant artifact or creature
+When Muted enters, if your Veevotion is six or greater, tap enchanted permanent. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.
+
+Reign's End
+cost: {U}{U} => {1}{U}
+rules_text: As an additional cost to cast this spell, tap an untapped artifact you control or pay {1}.
+Counter target spell. => Counter target spell unless its controller pays {2}. If they do, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+flavor_text: [i]“You. Are. Not. [Bleep]ing killing us over that stupid deer!”
+— Valentino[/i] => [i]“You. Are. Not. [Bleep]ing killing us over that stupid deer!”
+—Valentino[/i]
+
+Trust Us!
+rules_text: Return target permanent with mana value 1 or greater to its owner's hand.
+Draw a card. Then discard a card unless your veevotion is seven or greater. [i](Each artifact you control adds an amount to your veevotion equal to its mana value. Tokens add 1.)[/i] => Return target permanent with mana value 1 or greater to its owner's hand.
+Draw a card. Discard a card unless your Veevotion is six or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+
+Surveillance Screens
+cost: {3} => {2}
+rules_text: When this artifact enters, surveil 2.
+As long as your veevotion is seven or greater, this artifact is a 4/3 Robot creature with vigilance in addition to its other types. [i](Each artifact you control adds an amount to your veevotion equal to its mana value. Tokens add 1.)[/i] => When this artifact enters, surveil 3.
+{5}{U}{U}: This artifact becomes a 4/3 Robot artifact creature with vigilance. This ability costs {X} less to activate, where X is your Veevotion. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater. This effect doesn't end.)[/i]
+
+Robo-Fizz
+
+Mad with Power
+cost: {3}{U}{U} => {1}{U}
+rules_text: Draw three cards. If you control no artifacts, discard a card. => Mill four cards. Return an artifact, instant, or sorcery card from them to your hand. If your Veevotion is eight or greater, return up to two cards of any type from among them instead. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater.)[/i]
+flavor_text: [i]“You know what?! Ha-ha! [bleep] Hell, [bleep] Heaven, and [bleep] all of you! As long as I wipe that smile off Alastor's fucking face . . . I don't care WHAT happens.”[/i] => [i]“You know what?! [Bleep] Hell, [bleep] Heaven, and [bleep] all of you! As long as I wipe that smile off Alastor's face, I don't care what happens!”[/i]
+
+Shok.Wav, Protective Pet
+type: Legendary Artifact Creature — Shark Demon => Legendary Artifact Creature — Demon Shark
+cost: {5}{U}{U} => {2}{U}
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Ward {2} => Other artifacts you control have ward {2}.
+Shok.Wav can't attack or block unless your Veevotion is eight or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+flavor_text: [i]“Who's the best and biggest demon shark in the world? You are. You are. You're my little Shok.wav.”
+―Vox, to Shok.wav[/i] => [i]“Who's the best and biggest demon shark in the world? You are. You are.”
+―Vox[/i]
+
+Velvette, Overlord of Fashion
+rules_text: When Velvette enters, if your Veevotion is seven or greater, create a Dress token. [i](It's an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}. Each artifact you control adds an amount to your veevotion equal to its mana value. Tokens add 1.)[/i]
+Artifact spells you cast cost {1} less to cast. => When Velvette enters, create a Dress token, then if your Veevotion is seven or higher, create another. [i](They're Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}. Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+{T}: Add {U}. You can't spend this mana to cast nonartifact spells.
+pt: 2/1 => 1/2
+
+Vox, the People's Voice
+cost: {1}{U}{U} => {1}{U}
+rules_text: When Vox enter, draw a card.
+As long as your veevotion is seven or greater, Vox can't be blocked. [i](Each artifact you control adds an amount to your veevotion equal to its mana value. Tokens add 1.)[/i] => Vox can't be blocked.
+Vox gets +1/+0 as long as your Veevotion is six or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+
+Valentino, Overlord of Film
+rules_text: Flying
+At the beginning of your upkeep, create a 1/1 colorless Robot Clown artifact creature token named Robo-Fizz.
+At the beginning of combat on your turn, if your veevotion is seven or greater, Robots you control get +1/+0 until end of turn. [i](Each artifact you control adds an amount to your veevotion equal to its mana value. Tokens add {1}.)[/i] => Flying
+At the beginning of combat on your turn, create a 1/1 red Robot Clown artifact creature token named Robo-Fizz. Then if your Veevotion is six or greater, Robot tokens you control get +1/+0 and gain haste until end of turn. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+pt: 3/2 => 2/3
+
+Vox, Declarer of War
+type: Legendary Planeswalker — Vox => Legendary Artifact Planeswalker — Vox
+rules_text: [+1]: Draw a card, then discard a card.
+[0]: Create two 1/1 colorless Robot Clown artifact creature tokens named Robo-Fizz.
+[-4]: Exile up to one target nonland permanent card from a player's graveyard. Create a token that's a copy of that card except it's artifact in addition to its other types. => When Vox enters, exile up to one target nonland permanent card from graveyard. Create a token that's a copy of it except it's artifact in addition to its other types.
+[+2]: Draw a card, then discard a card.
+[-2]: Create two 1/1 red Robot Clown artifact creature tokens named Robo-Fizz.
+special_text: [+1]: Draw a card, then discard a card.
+[0]: Create two 1/1 colorless Robot Clown artifact creature tokens named Robo-Fizz.
+[-4]: Exile up to one target nonland permanent card from a player's graveyard. Create a token that's a copy of that card except it's artifact in addition to its other types. => When Vox enters, exile up to one target nonland permanent card from graveyard. Create a token that's a copy of it except it's artifact in addition to its other types.
+[+2]: Draw a card, then discard a card.
+[-2]: Create two 1/1 red Robot Clown artifact creature tokens named Robo-Fizz.
+loyalty: 3 => 4
+
+Reset Neighborhood
+rules_text: Choose one —
+• [i]Eliminate — [/i]Exile all creatures.
+• [i]Restart — [/i]Return all creature cards from your graveyard to your hand. => Choose one —
+• [i]Eliminate — [/i]Exile all creatures.
+• [i]Restart — [/i]Return each creature with power 2 or less from your graveyard to the battlefield and the other creature cards to your hand.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Brightsteel Protector added.
