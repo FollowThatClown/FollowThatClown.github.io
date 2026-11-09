@@ -1,4 +1,76 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Red Water Poisoning added.
+Biting Snake added.
+Bugslayer added.
+Foglands Hunters added.
+Poisoned Stab added.
+Serpent Form added.
+The Silent added.
+SILENT BUT DEADLY added.
+Suppress and Neutralize added.
+Tezcatara, It Which Feeds the Fire added.
+Beating Remnant added.
+Tools of the Trade added.
+Escape Route added.
+Repurposed Trophies added.
+Repurposed Trophies added.
+The Spire added.
+
+Red Water Sickness removed.
+
+
+type: Basic Land — Mountain => 
+cost:  => {R}
+rules_text: [i]({T}: Add {R}.)[/i] => 
+artist: mai col => Noah Hush
+
+Melon, Cruel Crime Lord
+rules_text: Deathtouch
+Spells you cast cost {BG} [i]({B}, {G}, or {1})[/i] less to cast if they have power 4 or greater or have hybrid mana in their mana cost. => As an additional cost to cast Melon, exile two cards from your graveyard or pay {1}.
+Spells you cast cost {1} less to cast if they're hybrid or have power 4 or greater.
+pt: 3/3 => 3/4
+
+Tower of Terror
+rules_text: Flash
+When this artifact enters, choose one —
+• [i]Rise[/i] — Until end of turn, target creature gets +2/+0 and gains flying.
+• [i]Drop[/i] — Until end of turn, target creature gets -20/-0, loses flying, and can't have or gain flying.
+{3}{W}, {T}, Sacrifice this artifact: Draw a card. => Flash
+When this artifact enters, choose one —
+• [i]Rise[/i] — Until end of turn, target creature gets +2/+0 and gains flying.
+• [i]Drop[/i] — Until end of turn, target creature gets -13/-0, loses flying, and can't have or gain flying.
+{3}{W}, {T}, Sacrifice this artifact: Draw a card.
+
+Soarin'
+rules_text: Ward {2}
+Creatures you control have flying. => Ward {2}
+Token creatures you control have flying.
+
+Space Mountain
+rules_text: {T}: If you cast a noncreature spell this turn, token creatures you control get +2/+1 until end of turn. => {T}: If you cast a noncreature spell this turn, creatures you control get +2/+1 until end of turn.
+
+Envy, Cruel Impostor
+rules_text: Flash
+You may have Envy enter as a copy of any nonland permanent card put into a graveyard from anywhere this turn, except his name is Envy, Cruel Impostor and he's a legendary 3/3 Homunculus Shapeshifter creature. [i](He's not any other card types.)[/i] => Flash
+You may have Envy enter as a copy of any nonland permanent card put into a graveyard from anywhere this turn, except his name is Envy, Cruel Impostor and he's a legendary 3/3 Homunculus Shapeshifter creature in addition to his other types.
+
+Lust, Pin-Up Girl
+flavor_text: [i]“Oh, but you misunderstand me, Fullmetal. We're not asking. We're telling.”[/i] => [i]Offers knowledge to desperate alchemists, and a swift death to anyone in the way.[/i]
+
+Too Close to the Truth
+type: Instant => Sorcery
+
+Fuhrer Bradley's Office
+rules_text: This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{3}, {T}, Pay 1 life: Target creature connives. Activate only as a sorcery. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i] => This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{2}{B}, {T}: Target creature you control connives. Activate only as a sorcery. [i](To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Bitter Departure added.
