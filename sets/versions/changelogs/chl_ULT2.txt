@@ -1,4 +1,274 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Ivy, Savior of Spanish Harlem added.
+Tezcatara, Which Feeds the Fire added.
+Louis, Rising Star added.
+Epic Aura added.
+
+TOTAL LIBERATION removed.
+Exponential Expansion removed.
+DUG TOO DEEP removed.
+CHECKMATE removed.
+LANDFALL removed.
+KIRA'S JUSTICE removed.
+TURN IT UP! removed.
+WANDER removed.
+IN ANOTHER CASTLE removed.
+LIVING METAL removed.
+BANDING removed.
+LITTLE ARMY removed.
+ARCANUM removed.
+Colony Collapse removed.
+Austere Ascension removed.
+Ivy, Savior of Harlem removed.
+WE LOVE KATAMARI removed.
+Impending DOOM removed.
+TEMPLE DIVING removed.
+IT'S HERO TIME! removed.
+FOREVER BLUE removed.
+INTO MADNESS removed.
+SURVEILLANCE removed.
+ADVENTURE! removed.
+Combine and Conquer removed.
+EXODIA removed.
+The Smoke War removed.
+VIRIDITAS removed.
+CASE CRACKING removed.
+UMBRELLA CONSPIRACY removed.
+GREAT FAIRY WARS removed.
+MAKE UP! removed.
+SUBTERRANEAN SUN removed.
+DEVIL ARMS removed.
+Heir to the Stars removed.
+MONSTROSITIES removed.
+DEAD BY DAYLIGHT removed.
+WORLD 8 removed.
+Journey to Hell removed.
+RE-CYCLING removed.
+WITHER AWAY removed.
+Ah, Dungeon Food! removed.
+NINJAS (BELIEVE IT!) removed.
+PORTALS removed.
+. . . AND STEVEN! removed.
+SABOTEURS removed.
+PARANORMAL removed.
+An Ideal World removed.
+MONSOON removed.
+STAR SIGNS removed.
+FOOD CHAIN removed.
+LIVING THOUGHTS removed.
+MONSTER DANCE removed.
+GRAND HEIST removed.
+WARRIORS removed.
+Equip() removed.
+EXPENDABLES removed.
+PURIFICATION removed.
+Archdemon's Thrall removed.
+SUPPRESSION removed.
+FREAKY, CHIC, AND FLY removed.
+Louis, Black Market Boss removed.
+WOLF AND RABBIT removed.
+GET UP THERE removed.
+GOOD CHOICES removed.
+Epic Confrontation removed.
+TALL TALES removed.
+GROWING UP removed.
+FEEL THE MAGIC removed.
+INDELIBLE SIN removed.
+SILENT BUT DEADLY removed.
+Tezcatara, It Which Feeds the Fire removed.
+
+Weapon (DN)
+type: Token Artifact — Equipment => Token Artifact — Equipment Weapon
+
+Balrog, Argosax's Second
+
+Voltaic Black Knight
+rules_text: Flash
+[i]Lightning Charge — [/i]When this creature enters, it deals 1 damage to any target. If that target has flying, this creature deals 4 damage to it instead.
+Devil Arm [i](When this creature dies, you may exile it. You may cast its other face from exile by paying {2} more.)[/i] => Flash
+[i]Lightning Charge — [/i]When this creature enters, it deals 1 damage to any target. If that target has flying, this creature deals 4 damage to it instead.
+[i]Devil Arm[/i] — When Voltaic Black Knight dies, exile him. While he's exiled, you may cast his other face, and it costs {2} more to cast this way.
+
+Weapon (DMC)
+type: Token Artifact — Equipment => Token Artifact — Equipment Weapon
+
+Weapon
+type: Token Artifact — Equipment => Token Artifact — Equipment Weapon
+
+Weapon (OFF)
+type: Token Artifact — Weapon Equipment => Token Artifact — Equipment Weapon
+
+Suppress and Neutralize
+rules_text: Choose one—
+• Destroy target artifact or enchantment.
+• Target creature gets toxic 2 until end of turn. [i](Players dealt combat damage by that creature also get two poison counters.)[/i]
+Forestcycling {2} => Choose one—
+• Destroy target artifact, enchantment, or creature with flying.
+• Target creature gets toxic 2 until end of turn. [i](Players dealt combat damage by that creature also get two poison counters.)[/i]
+Forestcycling {2}
+
+Dressing Department
+rules_text: Hexproof
+This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{1}, {T}: If you control four or fewer artifacts, create a Dress token. [i](An Equipment with “Equipped creature gets +1/+1” and equip {2}.)[/i] => Hexproof
+This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{1}, {T}: Create a Dress token. [i](An Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)[/i]
+
+Mad with Power
+rules_text: Mill four cards. Return an artifact, instant, or sorcery card from them to your hand. If your Veevotion is eight or greater, return up to two cards of any type from among them instead. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater.)[/i] => Mill five cards. Return an artifact, instant, or sorcery card from them to your hand. If your Veevotion is eight or greater, return up to two cards of any type from among them instead. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater.)[/i]
+
+Vox, the People's Voice
+rules_text: Vox can't be blocked.
+Vox gets +1/+0 as long as your Veevotion is six or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i] => Vox can't be blocked.
+Vox gets +1/+0 as long as your Veevotion is five or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+
+Shok.Wav, Protective Pet
+rules_text: Other artifacts you control have ward {2}.
+Shok.Wav can't attack or block unless your Veevotion is eight or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i] => Other artifacts you control have ward {2}.
+Prevent all combat damage Shok.Wav would deal unless your Veevotion is eight or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+
+Trust Us!
+rules_text: Return target permanent with mana value 1 or greater to its owner's hand.
+Draw a card. Discard a card unless your Veevotion is six or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i] => Return target permanent with mana value 1 or greater to its owner's hand.
+Draw a card. Discard a card unless your Veevotion is five or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+
+Valentino, Overlord of Film
+rules_text: Flying
+At the beginning of combat on your turn, create a 1/1 red Robot Clown artifact creature token named Robo-Fizz. Then if your Veevotion is six or greater, Robot tokens you control get +1/+0 and gain haste until end of turn. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i] => Flying
+At the beginning of combat on your turn, create a 1/1 red Robot Clown artifact creature token named Robo-Fizz. Then if your Veevotion is five or greater, Robot tokens you control get +1/+0 and gain haste until end of turn. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+pt: 2/3 => 3/3
+
+Vox, Declarer of War
+rules_text: When Vox enters, exile up to one target nonland permanent card from graveyard. Create a token that's a copy of it except it's artifact in addition to its other types.
+[+2]: Draw a card, then discard a card.
+[-2]: Create two 1/1 red Robot Clown artifact creature tokens named Robo-Fizz. => When Vox enters, exile up to one target permanent card from graveyard. Create a token that's a copy of it except it's artifact in addition to its other types.
+[+2]: Draw two cards, then discard two cards.
+[-2]: Create two 1/1 red Robot Clown artifact creature tokens named Robo-Fizz.
+special_text: When Vox enters, exile up to one target nonland permanent card from graveyard. Create a token that's a copy of it except it's artifact in addition to its other types.
+[+2]: Draw a card, then discard a card.
+[-2]: Create two 1/1 red Robot Clown artifact creature tokens named Robo-Fizz. => When Vox enters, exile up to one target permanent card from graveyard. Create a token that's a copy of it except it's artifact in addition to its other types.
+[+2]: Draw two cards, then discard two cards.
+[-2]: Create two 1/1 red Robot Clown artifact creature tokens named Robo-Fizz.
+
+Hornet, Red Maiden
+cost: {R} => {1}{R}
+rules_text: String — {1}{R}: If Hornet is a Warrior, she becomes a 3/2 Spider Rogue and gains menace. [i](Whenever you cast your second spell each turn, you may activate one of this creature's strings without paying its costs.)[/i]
+String — {3}{R}: If Hornet is a Rogue, she becomes a 5/4 Spider Assassin and gains “Whenever this creature deals combat damage to a player, you may discard your hand, then draw two cards.” => String — {1}{R}: If Hornet is a Warrior, she becomes a 3/3 Spider Rogue and gains menace. [i](Whenever you cast your second spell each turn, you may activate one of this creature's strings without paying its costs.)[/i]
+String — {3}{R}: If Hornet is a Rogue, she becomes a 4/4 Spider Assassin and gains “Whenever this creature deals combat damage to a player, you may discard your hand, then draw two cards.”
+pt: 2/1 => 2/2
+
+Last Judge
+
+Rosary Cannonade
+rules_text: Rosary Cannonade deals 3 damage to any target. If excess damage was dealt to a permanent this way, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Rosary Cannonade deals 3 damage to any target. If excess damage was dealt to a permanent this way, create a tapped Treasure token.
+
+Garmond and Zaza
+cost: {1}{RG} => {2}{RG}
+pt: 3/2 => 3/3
+
+Lace, White Knight
+rules_text: Lace has first strike as long as it's your turn.
+String — {3}{RW}: Target attacking creature gains double strike until end of turn. [i](Whenever you cast your second spell each turn, you may activate one of this creature's strings without paying its costs.)[/i] => First strike
+String — {3}{RW}: Target attacking creature gains double strike until end of turn. [i](Whenever you cast your second spell each turn, you may activate one of this creature's strings without paying its costs.)[/i]
+flavor_text: [i]“One needs grace to stand before the 
+divine.”[/i] => [i]“One must have grace to stand before the 
+divine.”[/i]
+pt: 2/4 => 2/3
+
+Profane Procedure
+type: Sorcery => Instant
+cost: {2}{BR} => {3}{BR}
+rules_text: Profane Procedure deals 5 damage to target creature. When that creature dies this turn, you may cast it from its owner's graveyard without paying its mana cost. Spells cast this way gain decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Profane Procedure deals 6 damage to target creature. When that creature dies this turn, you may cast it from its owner's graveyard without paying its mana cost. Spells cast this way gain decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Cogwork Core
+
+Weapon (SLK)
+type: Token Artifact — Equipment => Token Artifact — Equipment Weapon
+
+Go Our Separate Ways
+rules_text: This spell costs {1} less to cast for each nonland permanent you control.
+Put each nonland permanent you own on the bottom of your library, then reveal the top ten cards of your library. Put up to three permanent cards with total mana value 10 or less from among those cards onto the battlefield. Shuffle. => This spell costs {1} less to cast for each nonland permanent you control.
+Put each nonland permanent you own on the bottom of your library, then reveal the top ten cards of your library. Put up to three nonland permanent cards with total mana value 10 or less from among those cards onto the battlefield. Shuffle.
+
+Haru
+rules_text: {T}: Untap target land.
+[i]Ferocious[/i] — {T}: Untap two target lands. Activate only if you control a creature with power 4 or greater. => {T}: Add {G}.
+[i]Ferocious[/i] — {T}: Add {G}{G}. Activate only if you control a creature with power 4 or greater.
+
+Devouring Impulse
+type: Sorcery => Instant
+rules_text: [i]Ferocious[/i] — You mill three cards and gain 3 life. Return up to one creature card from your graveyard to your hand. Return up to two instead if you control a creature with power 4 or greater. => [i]Ferocious[/i] — Mill five cards. Return up to one creature card from your graveyard to your hand. Return up to two instead if you control a creature with power 4 or greater.
+flavor_text: [i]Legosi looked down. “Maybe a wolf can't ever be sure he'll be able to resist eating a rabbit, but I've got a good reason to try: I love her.”[/i] => [i]“Maybe a wolf can't ever be sure he'll be able to resist eating a rabbit, but I've got a good reason to try: I love her.”[/i]
+
+Gouhin, Black Market Doctor
+pt: 5/4 => 4/5
+
+Juno, Hopeless Romantic
+rules_text: Juno can't attack or block alone.
+{8}: Up to two target creatures each get +3/+0 and gain trample until end of turn. => Juno can't attack or block alone.
+{3}{RG}: Support 2. [i](Put a +1/+1 counter on up to two other target creatures.)[/i]
+flavor_text: [i]Juno began to see the value of co-existence when she fell for a certain wolf. And then a certain deer. And then a rabbit . . .[/i] => [i]Juno began to see the value of co-existence when she fell for a certain wolf. Then a certain deer. Then a rabbit . . .[/i]
+
+Legosi
+
+Savage Showdown
+rules_text: [i]Ferocious[/i] — Choose one. You may instead choose both if each mode targets a creature you control with power 4 or greater.
+• Target creature gets +3/+1 until end of turn.
+• Target creature you control fights target creature you don't control. => [i]Ferocious[/i] — Choose one. You may instead choose both if each mode targets a creature you control with power 4 or greater.
+• Target creature gets +2/+2 until end of turn.
+• Target creature you control fights target creature you don't control.
+
+Cherryton Academy
+rules_text: Cherryton Academy enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}{G}, {T}: Create a Food token.
+{1}{G}, {T}, Sacrifice a token: Put a +1/+1 counter on target creature. => Cherryton Academy enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}{G}, {T}: Create a Food token.
+{3}{G}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+
+Quiet Cityscape
+flavor_text: [i]Haru looked down. “When Legosi is around, my emotions start to overflow. I can't stand the pain. I'd rather he just eat me . . .”[/i] => [i]“When Legosi is around, my emotions start to overflow. I can't stand the pain. I'd rather he just eat me . . .”[/i]
+
+Gold Stash
+flavor_text: [i]As the Civil War broke, Confederate landowners rushed to hide their gold. Much of it is still waiting to be found . . . or so the story goes.[/i] => [i]When the Civil War broke out, Confederate landowners rushed to hide their gold. Much of it is still waiting to be found . . . or so the story goes.[/i]
+
+Horseman's Rage
+cost: {1}{BG} => {BG}
+rules_text: Target creature gets +2/+2 and your choice of deathtouch or indestructible until end of turn.
+[i]Formidable[/i] — Then if the total power of creatures you control is 8 or greater, it gains deathtouch and indestructible until end of turn. => Target creature gets +2/+2 until end of turn.
+[i]Formidable[/i] — Then if the total power of creatures you control is 8 or greater, that creature also gains deathtouch and indestructible until end of turn.
+
+Soldier (TT)
+
+Babe (TT)
+
+Fur-Bearing Trout
+cost: {2}{GU} => {1}{GU}
+rules_text: Vigilance
+[i]Formidable[/i] — When Fur-Bearing Trout enters, draw a card if the total power of creatures you control is 8 or greater. => Defender
+[i]Formidable[/i] — As long as the total power of creatures you control is 8 or greater, Fur-Bearing Trout can attack as though it didn't have defender.
+pt: 3/2 => 3/3
+
+Johnny Appleseed
+pt: 1/2 => 2/1
+
+Bigfoot
+cost: {4}{G}{G} => {4}{G}
+pt: 6/5 => 5/4
+
+Golden Plates of Mormon
+cost: {2} => {3}
+rules_text: {G}, {T}: Add two mana of any one color.
+[i]Formidable[/i] — {GW}{GU}{BG}{RG}, Sacrifice Golden Plates of Mormon: Draw two cards. Activate only if the total power of creatures you control is 8 or greater. => {G}, {T}: Add three mana of any one color.
+[i]Formidable[/i] — {GW}{GU}{BG}{RG}, Sacrifice Golden Plates of Mormon: Draw two cards. Activate only if the total power of creatures you control is 8 or greater.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Red Water Poisoning added.
