@@ -1,4 +1,86 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+On an Adventure (SLK) added.
+TALL TALES added.
+
+SPELLSTRINGER removed.
+Underworks removed.
+
+The Loader
+rules_text: Flash
+During your turn, The Loader has flying.
+When The Loader enters, exile up to one target non-Rigger creature you control. Return it to the battlefield tapped under its owner's control at the beginning of the next end step. => Flash
+Flying
+When The Loader enters, exile up to one target non-Rigger creature. Return it to the battlefield tapped under its owner's control at the beginning of the next end step.
+
+Gouhin, Black Market Doctor
+cost: {4}{GW} => {4}{G}
+rules_text: When Gouhin enters, you gain 4 life.
+{GW}, Discard Gouhin: Until end of turn, target creature you control gets +2/+0 and gains “When this creature dies, return it to its owner's hand.” => [i]Ferocious[/i] — When Gouhin enters, you gain 3 life for each creature you control with power 4 or greater.
+{G}, Discard Gouhin: Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to its owner's hand.”
+flavor_text: [i]A mysterious panda who abducts addicts and holds them for treatment. His methods are . . . unusual, but undoubtedly effective.[/i] => [i]A mysterious panda who abducts meat addicts and holds them until cured . . . or dead.[/i]
+
+Juno, Hopeless Romantic
+cost: {1}{RG} => {1}{G}
+rules_text: Juno can't attack or block alone.
+{3}{RG}: Support 2. [i](Put a +1/+1 counter on up to two other target creatures.)[/i] => Juno can't attack or block alone.
+{3}{G}: Support 2. Activate only as a sorcery. [i](Put a +1/+1 counter on up to two other target creatures.)[/i]
+
+Cherryton Academy
+rules_text: Cherryton Academy enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}{G}, {T}: Create a Food token.
+{3}{G}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery. => Cherryton Academy enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}, Sacrifice a token: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+{3}{G}, {T}: Create a Food token.
+
+Last Judge
+
+Lace, White Knight
+flavor_text: [i]“One must have grace to stand before the 
+divine.”[/i] => [i]“One needs grace to stand before the 
+divine.”[/i]
+
+Weapon (SLK)
+type: Token Artifact — Equipment Weapon => Token Artifact — Equipment
+
+Paul Revere
+rules_text: [i]Formidable[/i] — At the beginning of your end step, if you control creatures with total power 8 or greater, Paul Revere becomes prepared. => Vigilance
+[i]Formidable[/i] — At the beginning of your end step, if you control creatures with total power 8 or greater, Paul Revere becomes prepared.
+pt: 4/2 => 3/2
+
+Epic Aura
+rules_text: Enchant creature
+When this Aura enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +2/+1 and has reach and protection from creatures with flying. => Enchant creature
+When this Aura enters, enchanted creature fights up to one target creature.
+Enchanted creature gets +1/+2 and has protection from creatures with flying.
+
+Bigfoot
+pt: 5/4 => 5/5
+
+Spaceship Earth
+
+Haunted Mansion
+rules_text: {T}: If you cast a noncreature spell this turn, draw a card, then discard a card. If you discarded a nonland card this way, create a 1/1 white Spirit creature token. => {1}, {T}: If you cast a noncreature spell this turn, draw a card, then discard a card. If you discarded a nonland card this way, create a 1/1 blue Illusion creature token.
+
+Soarin'
+
+Space Mountain
+rules_text: {T}: If you cast a noncreature spell this turn, creatures you control get +2/+1 until end of turn. => {1}, {T}: If you cast a noncreature spell this turn, creatures you control get +2/+1 until end of turn.
+
+Splash Mountain
+rules_text: {T}: If you cast a noncreature spell this turn, put a +1/+1 counter on each creature you control. => {1}, {T}: If you cast a noncreature spell this turn, put a +1/+1 counter on each creature you control.
+
+It's a Small World
+cost: {1}{W} => {2}
+
+Spirit (DYW)
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Ivy, Savior of Spanish Harlem added.
