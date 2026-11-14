@@ -1,4 +1,58 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Clue (BEAST) added.
+Cat Token (007) added.
+Flying Circus Hangar added.
+Orient Express Station added.
+Reactor Room added.
+Spy Token (007) added.
+Villainous Lair added.
+Weapon Token (007) added.
+SPYCRAFT added.
+Ejector Seat added.
+I Expect You to Die added.
+Local Contact added.
+Scheming Operative added.
+M, Head of MI6 added.
+Rocket Belt added.
+Compact Autogyro added.
+James Bond, 007 added.
+Mastermind's Orders added.
+SPECTRE Fixers added.
+
+NIGHT WATCH removed.
+Escape the Matrix removed.
+SUPPRESSION removed.
+OF GOD AND VOID removed.
+
+Spaceship Earth
+
+Haunted Mansion
+
+Splash Mountain
+
+Amalgamator
+pt: 3/3 => 2/4
+
+Legosi
+rules_text: Reach
+Legosi can't block or be blocked by creatures with power 2 or less.
+[i]Ferocious[/i] — Whenever you attack, untap any number of target creatures with power 4 or greater. For each permanent targeted this way, investigate. => Reach, vigilance
+Legosi can't block or be blocked by creatures with power 2 or less.
+Whenever a player attacks, investigate X times, where X is the number of attacking creatures with power 4 or greater.
+
+Cherryton Academy
+rules_text: Cherryton Academy enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}, Sacrifice a token: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+{3}{G}, {T}: Create a Food token. => Cherryton Academy enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}, Sacrifice a token: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+{3}, {T}: Create a Food token.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
