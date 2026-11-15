@@ -1,4 +1,98 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Godless Shrine (DISC) added.
+MEN AT ARMS added.
+Godless Shrine (DISC) added.
+Dragon (DISC) added.
+Human Soldier (DISC) added.
+
+Dragon removed.
+Human Soldier removed.
+SPYCRAFT removed.
+
+Shok.Wav, Protective Pet
+rules_text: Other artifacts you control have ward {2}.
+Prevent all combat damage Shok.Wav would deal unless your Veevotion is eight or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i] => Other permanents you control have ward {1}.
+Prevent all combat damage Shok.Wav would deal unless your Veevotion is eight or greater. [i](Each artifact you control adds its mana value or one to your Veevotion, whichever is greater)[/i]
+
+American Jackalope
+cost: {1}{G} => {2}{G}
+pt: 2/2 => 3/3
+
+Golden Plates of Mormon
+cost: {3} => {4}
+rules_text: {G}, {T}: Add three mana of any one color.
+[i]Formidable[/i] — {GW}{GU}{BG}{RG}, Sacrifice Golden Plates of Mormon: Draw two cards. Activate only if the total power of creatures you control is 8 or greater. => Golden Plates of Mormon is all colors.
+{T}: Add two mana of any one color.
+[i]Formidable[/i] — {W}{U}{B}{R}{G}, Exile Golden Plates of Mormon: Draw three cards. Activate only if the total power of creatures you control is 8 or greater.
+
+John Henry
+cost: {5}{G} => {4}{G}{G}
+
+Troll Constable
+rules_text: Whenever you meddle, Troll Constable gains indestructible until end of turn. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i]
+{1}, Discard this card: Two target players each search their library for a basic land card, reveal it, put it into their hand, then shuffle. => Whenever you meddle during your turn, Troll Constable gains indestructible until end of turn. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i]
+{1}, Discard this card: Two target players each search their library for a basic land card, reveal it, put it into their hand, then shuffle.
+pt: 4/4 => 4/3
+
+Monstrous Regiment
+rules_text: Whenever you meddle in the affairs of a player you haven't meddled with this turn, put a +1/+1 counter on this creature. It gains lifelink until end of turn. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i]
+{3}{B}: Target creature gets +1/-1 until end of turn. => At the beginning of your end step, for each different player you've meddled in the affairs of this turn, you may pay 1 life. If you do, put a +1/+1 counter on this creature. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i]
+{4}{B}: Target creature gets +1/-1 until end of turn.
+pt: 1/1 => 1/2
+
+The Royal Game of Thud
+rules_text: As this enters enters, choose Trolls or Dwarves.
+• Trolls — Whenever you attack, target creature gets +2/+0 and gains menace until end of turn.
+• Dwarves — Whenever you're attacked, up to two target attacking creatures each get -1/-1 and lose all abilities until end of turn. => As this enters enters, choose Trolls or Dwarves.
+• Trolls — Whenever you attack, target creature gets +2/+0 and gains menace until end of turn.
+• Dwarves — Creatures can't attack you unless their controller pays {3} for each attacking creature with flying and {2} for each without.
+
+Ankh-Morpork, City of Cities
+type: Land => Land — Plains Swamp
+rules_text: {T}, Pay 1 life: Add {W} or {B}.
+{1}, {T}, Sacrifice Ankh-Morpork: You draw X cards and gain X life, where X is the number of players you've meddled in the affairs of this turn. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i] => [i]({T}: Add {W} or {B}.)[/i]
+This land enters tapped. When it enters, choose one —
+• Target player loses 1 life.
+• Target player gains 1 life.
+
+Lord Vetinari, the Patrician
+rules_text: When you cast Vetinari, choose one or more —
+• Choose a card type. Two target players each sacrifice two nonland permanents of that type.
+• Two target players each discard two cards.
+• Two target players each draw two cards.
+• Two target players each gain 6 life. => When you cast Vetinari, choose one or more —
+• Choose a card type. Two target players each sacrifice two nonland permanents of that type.
+• Two target players each discard three cards.
+• Two target players each draw four cards.
+• Two target players each gains 5 life.
+pt: 2/2 => 2/3
+
+Lady Sybil Ramkin-Vimes
+rules_text: Reach
+At the beginning of your end step, for each player you meddled in the affairs of this turn, create a 2/2 red Dragon creature token with flying and expendable. [i](It can't block. When it attacks, sacrifice it at end of combat. Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i] => Reach
+At the beginning of your end step, for each player you meddled in the affairs of this turn, create a 2/1 red Dragon creature token with flying and expendable. [i](It can't block. When it attacks, sacrifice it at end of combat. Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i]
+
+Moist von Lipwig, Conman
+rules_text: Exhaust — {X}{B}{B}: Target player mills four cards. Exile up to X of them. During any turn in which you've meddled, you may play the exiled cards by spending mana of any type. Activate only as a sorcery. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling. Activate each exhaust ability only once.)[/i] => Exhaust — {X}{B}{B}: Target player mills four cards. Exile up to X of them. During any turn in which you've meddled, you may play the exiled cards by spending mana of any type. Activate only as a sorcery. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling. Activate only once.)[/i]
+
+Captain Samuel Vimes
+type: Legendary Creature — Human Soldier Officer => Legendary Creature — Human Soldier Advisor
+rules_text: At the beginning of your end step, put X +1/+1 counters on target creature, where X for the number of players you meddled in the affairs of this turn. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i]
+{3}{W}: Tap or untap target creature. => At the beginning of your end step, recruit for each player you meddled in the affairs of this turn. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling. To recruit, draw, then discard. If you discard a nonland, create a 1/1 white Human Soldier creature token.)[/i]
+{4}{W}: Tap or untap target creature.
+
+Guards Guards
+type: Instant => Sorcery
+rules_text: Choose one — 
+• If you control fewer than three creatures, recruit a number of times equal to the difference. [i](To recruit, draw, then discard. If you discard a nonland, create a 1/1 white Human Soldier creature token.)[/i]
+• Creatures target player controls get +1/+2 until end of turn. => Choose one — 
+• Target player recruits twice. [i](To recruit, draw a card, then discard card. If you discard a nonland, create a 1/1 white Human Soldier creature token.)[/i]
+• Creatures target player controls get +2/+1 until end of turn.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Clue (BEAST) added.
