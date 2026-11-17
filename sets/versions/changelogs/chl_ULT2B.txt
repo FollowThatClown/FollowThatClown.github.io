@@ -1,4 +1,214 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Elemental (DFCT) 1 added.
+Elemental (DFCT) 2 added.
+Frost Orb added.
+Lightning Orb added.
+Rocket Boosters added.
+Slippery Bridge added.
+Elemental (DFCT) 2 (ULT2) added.
+Drowning Beacon added.
+Flaw added.
+Hologram added.
+Plasma Orb added.
+Rocket Fist added.
+The Defect added.
+Darv, The Hoarder added.
+Baker's House added.
+Castle Dimitrescu added.
+Death of Winter added.
+Duke's Find added.
+Ethan, Molded Father added.
+Eveline, Modified Bioweapon added.
+House Beneviento added.
+Insect (VIL) added.
+Jack Baker, Welcoming Father added.
+Lady Dimitrescu added.
+Lycan added.
+Insect (VIL) (ULT2) added.
+Molded One added.
+The Baby of House Beneviento added.
+Toy (VIL) added.
+Treasure (VIL) added.
+The Pure Vessel added.
+Abyssal Baths added.
+Doors of Light and Dark added.
+Endless Conveyor added.
+The Spire added.
+Treasure (BIND) added.
+Death March added.
+Neurosurge added.
+The Necrobinder added.
+Forbidden Grimoire added.
+Grave of the Forgotten added.
+Time's Up added.
+Legion of Bone added.
+Pael, the Melting Dragon added.
+Brain Leech added.
+Transfigure added.
+Field of Man-Sized Holes added.
+Army (BIND) added.
+Akali, The Baddest added.
+Dragon Dance added.
+Evelynn, Villianous Diva added.
+Orb of Deception added.
+Intent to Slay added.
+KDA Superfan added.
+Kai Sa, Firestarter added.
+Light it Up added.
+Ahri, Playful Popstar added.
+Seraphine, Rising Star added.
+Glamorous Stage added.
+K/DA Tower added.
+Copy added.
+Color Cafe added.
+Cyber City added.
+Queen's Mansion added.
+Robot (DR2) added.
+Sketchy Alleyway added.
+A CYBERS WORLD added.
+Spamton G Spamton added.
+Adoring Swatchlings added.
+Cool Robot Disguise added.
+Turn Your Face Into a Robot One added.
+Annoying Addisons added.
+Berdly, Light Nerd added.
+KNOCK YOU DOWN! added.
+Tasque Manager added.
+Q5U4EX7YY2E9N, Queen added.
+Watch Our Moves! added.
+
+Beating Remnant removed.
+Biting Snake removed.
+Bugslayer removed.
+Escape Route removed.
+Foglands Hunters removed.
+Poisoned Stab removed.
+Repurposed Trophies removed.
+Repurposed Trophies removed.
+Serpent Form removed.
+Suppress and Neutralize removed.
+Tezcatara, Which Feeds the Fire removed.
+The Silent removed.
+Tools of the Trade removed.
+Hornet, Sentinel at the Edge removed.
+MEN AT ARMS removed.
+
+Byrd Egg
+cost: {1} => {0}
+rules_text: {2}, {T}, Sacrifice Byrd Egg: Draw a card. You gain 3 life.
+{1}{R}, {T}: Transform Byrd Egg. => {2}, {T}, Sacrifice Byrd Egg: Draw a card. You gain 3 life.
+{2}{R}, {T}: Transform Byrd Egg.
+
+Lace, White Knight
+rules_text: First strike
+String — {3}{RW}: Target attacking creature gains double strike until end of turn. [i](Whenever you cast your second spell each turn, you may activate one of this creature's strings without paying its costs.)[/i] => First strike
+String — {3}{RW}: If it's a main phase, target creature gains double strike until end of turn. [i](Whenever you cast your second spell each turn, you may activate one of this creature's strings without paying its costs.)[/i]
+
+Brightsteel Protector
+rules_text: Flash
+This creature enters tapped if it's not your turn.
+When this creature enters, up to one target creature gains hexproof and indestructible until end of turn. => Flash
+This creature enters tapped if it's not your turn.
+When this creature enters, another target creature you control gains indestructible until end of turn.
+
+Galio, the Colossus
+pt: 7/7 => 7/6
+
+Lucian, the Purifier
+
+Cithria the Bold
+
+Garen, the Might of Demacia
+rules_text: Vigilance
+When a player casts their second spell each turn, create a 3/3 white Human Soldier creature token with vigilance. This ability triggers only once. => Vigilance
+Exhaust — {6}{W}: Create a 3/3 white Human Soldier creature token with vigilance. This ability costs {6} less to activate if a player has cast two or more spells this turn. [i](Activate each exhaust ability only once.)[/i]
+
+High Silvermere
+rules_text: High Silvermere enters tapped unless you control two or more other lands. As it enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+{3}{W}{W}, {T}, Discard High Silvermere: Put a +1/+1 counter, a flying counter, and a vigilance counter on target creature. => High Silvermere enters tapped unless you control two or more other lands. As it enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+{3}{W}{W}, Discard High Silvermere: Put a +1/+1 counter, a flying counter, and a vigilance counter on target creature.
+
+Human Soldier (DEM)
+
+The Spire
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R} or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Captain Samuel Vimes
+rules_text: At the beginning of your end step, recruit for each player you meddled in the affairs of this turn. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling. To recruit, draw, then discard. If you discard a nonland, create a 1/1 white Human Soldier creature token.)[/i]
+{4}{W}: Tap or untap target creature. => Vimes has first strike during your turn.
+At the beginning of your end step, you gain 2 life for each player you meddled in the affairs of this turn. [i](Targeting players, anything they control, and/or cards in their graveyards is meddling.)[/i]
+{4}{W}: Tap or untap target creature.
+
+Guards Guards
+
+Lady Sybil Ramkin-Vimes
+
+Lord Vetinari, the Patrician
+rules_text: When you cast Vetinari, choose one or more —
+• Choose a card type. Two target players each sacrifice two nonland permanents of that type.
+• Two target players each discard three cards.
+• Two target players each draw four cards.
+• Two target players each gains 5 life. => When Vetinari enters, if you cast him, choose one or more —
+• Choose a card type. Two target players each sacrifice two nonland permanents of that type.
+• Two target players each draw three cards.
+• Two target players each gains 6 life.
+
+Corpse Creeper
+rules_text: Reach
+When this creature enters, mill two cards.
+{3}{B}{B}, {T}, Exile Corpse Creeper: Return target creature card from your graveyard to the battlefield. => Reach
+When this creature enters, mill two cards.
+{4}, {T}, Sacrifice Corpse Creeper: Return target creature card from your graveyard to the battlefield.
+
+Dream No More
+rules_text: Choose one —
+• Mill two cards, then destroy target creature if its mana value is less than or equal to the number of cards in your graveyard. 
+• Mill six cards. => Mill a card, then destroy target creature if its mana value is less than or equal to the number of cards in your graveyard.
+flavor_text: [i]The Radiance waits within, imprisoned by the Dream. Would you supplant our birth-cursed sibling, or would you transcend it?[/i] => [i]The Radiance waits within, imprisoned by the Dream. Would you supplant our birth- cursed sibling, or would you transcend it?[/i]
+
+Insect Spirit (HK)
+
+Moth Seer
+rules_text: When this creature enters and at the beginning of your upkeep, surveil 1.
+Whenever a creature card is put into your graveyard for the first time each turn, create a 1/1 green Insect Spirit creature token.
+{2}{G}: Surveil 1. => When this creature enters and at the beginning of your upkeep, surveil 1.
+Whenever a creature card is put into your graveyard for the first time each turn, create a 1/1 green Insect Spirit creature token.
+
+The Ancient Sickness
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may destroy target nonland permanent.
+II — Mill three cards.
+III — Return target creature card from a graveyard to the battlefield tapped. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target nonland permanent.
+II — Mill three cards.
+III — Return target creature card from your graveyard to the battlefield tapped.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You may destroy target nonland permanent.
+II — Mill three cards.
+III — Return target creature card from a graveyard to the battlefield tapped. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target nonland permanent.
+II — Mill three cards.
+III — Return target creature card from your graveyard to the battlefield tapped.
+artist: Heather Anne Lee => College Artist
+
+The Hollow Knight
+rules_text: Trample, menace
+[i]Plague Vessel — [/i]When The Hollow Knight enters, put two -1/-1 counters on each other creature.
+Evoke {3}{B}{B} [i](You may cast this spell for {3}{B}{B}. If you do, he's sacrificed when he enters.)[/i] => Menace
+[i]Plague Vessel — [/i]When The Hollow Knight enters, put two -1/-1 counters on each other creature.
+Evoke {3}{B}{B} [i](You may cast this spell for {3}{B}{B}. If you do, he's sacrificed when he enters.)[/i]
+pt: 7/7 => 7/5
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Godless Shrine (DISC) added.
