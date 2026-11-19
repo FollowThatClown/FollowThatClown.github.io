@@ -1,4 +1,447 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Garnet, Stoic Fusion added.
+ADVENTURE! added.
+Ribbit added.
+WANDER added.
+Clue (ALICE) added.
+Rutlidge Asylum added.
+Alice, Young Survivor added.
+
+Princess Zelda removed.
+Royal Reflection removed.
+Garnet, Stoic Seer removed.
+
+Princess Rosalina
+rules_text: Flying
+Princess Rosalina enters prepared. => Flying
+Rosalina enters prepared.
+Rosalina can block only creatures with flying.
+flavor_text: [i]“I will watch over you from beyond the stars.”[/i] => [i][/i]
+
+Boss Fight Reminder
+
+Soul (DLK)
+type: Artifact — Soul => Token Artifact — Soul
+
+Seven, the Aspirant
+cost: {X} => {X}{W}{U}
+
+Roll Up Colossi!
+rules_text: Flash
+When this enchantment enters, destroy up to one target artifact, enchantment, or creature with flying, then roll 2. [i](Put two +1/+1 counters on your Katamari. If you don't control one, create a 0/0 Katamari creature token with trample first.)[/i]
+Your Katamari has reach. => When this enchantment enters, destroy up to one target artifact, enchantment, or creature with flying, then roll 2. [i](Put two +1/+1 counters on your Katamari. If you don't control one, create a 0/0 Katamari creature token with trample first.)[/i]
+Your Katamari has reach.
+
+Madvillainy
+rules_text: When this enchantment enters, create a 3/3 colorless Robot Villain artifact creature with flying named DOOMbot.
+{5}{B}, Sacrifice this enchantment: Creatures you control get +1/+0 and gain menace until end of turn. => When this enchantment enters, create a 3/3 colorless Robot Villain artifact creature with flying named DOOMbot.
+{5}, Sacrifice this enchantment: Creatures you control get +1/+0 and gain menace until end of turn.
+
+Epona
+rules_text: Flash
+Sagacycling {2}{W} => Whenever an enchantment you control enters, put a +1/+1 counter on Epona. This ability triggers only once each turn.
+flavor_text: [i]A spirited sorrel who allows only Malon and Link to ride her. All they need do is play her lovely song, and it carries across the wind to summon her to them.[/i] => [i]A spirited sorrel who allows only Malon and Link to ride her. All they need do is play her song, and it will carry across the wind to summon her to them.[/i]
+
+Navi
+rules_text: Flying
+Whenever you cast a noncreature spell, surveil 1. Do this only once each turn. => Flying
+Whenever an enchantment you control enters, surveil 1.
+
+The Spirit Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — For as long as you control this Shrine, target creature has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III — Surveil 1.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — For as long as you control this Shrine, target creature has base power and toughness 1/1.
+II, III — Target creature can't be blocked by creatures with greater power this turn.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — For as long as you control this Shrine, target creature has base power and toughness 1/1 and skulk. [i](It can't be blocked by creatures with greater power.)[/i]
+II, III — Surveil 1.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — For as long as you control this Shrine, target creature has base power and toughness 1/1.
+II, III — Target creature can't be blocked by creatures with greater power this turn.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+
+The Fire Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Choose one —
+• This Shrine deals 4 damage to target tapped creature.
+• Destroy target artifact.
+II, III — Target creature gets +2/+0 until end of turn.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This Shrine deals 4 damage to target tapped creature.
+II, III — Target creature gets +2/+0 until end of turn.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Choose one —
+• This Shrine deals 4 damage to target tapped creature.
+• Destroy target artifact.
+II, III — Target creature gets +2/+0 until end of turn.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — This Shrine deals 4 damage to target tapped creature.
+II, III — Target creature gets +2/+0 until end of turn.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+
+The Forest Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 green Spider creature token with reach.
+II, III — Up to one target creature explores. [i](Reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 green Spider creature token with reach.
+II, III — Up to one target creature explores. [i](Reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 green Spider creature token with reach.
+II, III — Up to one target creature explores. [i](Reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create a 1/2 green Spider creature token with reach.
+II, III — Up to one target creature explores. [i](Reveal the top of your library. Put it into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or in your graveyard.)[/i]
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+
+The Shadow Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Surveil 2.
+II, III — Exile up to one target card from a graveyard. If it's a creature card, create a 1/1 white Spirit creature token with flying.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Surveil 2.
+II, III — Exile up to one target card from a graveyard. If it's a creature, create a 1/1 white Spirit creature token with flying.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Surveil 2.
+II, III — Exile up to one target card from a graveyard. If it's a creature card, create a 1/1 white Spirit creature token with flying.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Surveil 2.
+II, III — Exile up to one target card from a graveyard. If it's a creature, create a 1/1 white Spirit creature token with flying.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+
+The Water Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap target artifact or creature. Put two stun counters on it.
+II, III — For each other permanent, you may give it an additional counter of any kind it already has.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap up to one target artifact or creature and put two stun counters on it.
+II, III — Put a stun counter on up to one target tapped artifact or creature.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap target artifact or creature. Put two stun counters on it.
+II, III — For each other permanent, you may give it an additional counter of any kind it already has.
+IV — Exile this Shrine. For as long as it remains exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap up to one target artifact or creature and put two stun counters on it.
+II, III — Put a stun counter on up to one target tapped artifact or creature.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+
+Search the Omnitrix
+rules_text: You may discard a card. If you do, target player draws two cards. If you discarded a noncreature card this way, put a +1/+1 counter on up to one target creature. => Discard a card, then target player draws two cards. If you discarded a nonland card this way, put a +1/+1 counter on up to one target creature.
+
+Four Arms
+rules_text: Going hero [i](When this enters, you may pay {1} and exile another target creature you control that hasn't gone hero until this leaves.)[/i]
+Four Arms enters with your choice of a +1/+1 counter or a menace counter on him.
+When Four Arms goes hero, put a +1/+1 counter and a menace counter on him. => Going hero [i](When this enters, you may pay {1} and exile another target creature you control that hasn't gone hero until this leaves.)[/i]
+When Four Arms enters, choose either +1/+1 or menace and put that kind of counter on him. Then also put the other kind of counter on him if he went hero.
+pt: 3/2 => 2/3
+
+Ada Wong
+pt: 3/3 => 2/3
+
+Fire Extinguisher
+rules_text: Equipped creature has flying.
+Equip {2}
+Cycling {2}
+When you cycle this card, target creature gets +1/+1 and gains flying until end of turn. => Equipped creature has flying.
+Equip {3}
+Cycling {2}
+When you cycle this card, target creature gets +1/+1 and gains flying until end of turn.
+
+Susie, Mad Drummer Girl
+rules_text: Whenever Susie attacks, choose one — 
+• Susie gains first strike until end of turn.
+• Susie deals 1 damage to each player.
+Destiny — {6}{R}{R}, {T}: Susie deals 4 damage to any target. [i](If a Destiny ability you control has resolved this game, you don't have to pay their mana costs.)[/i] => Whenever Susie attacks, choose one — 
+• Susie gains first strike until end of turn.
+• Susie deals 1 damage to each player.
+Destiny — {6}{R}{R}, {T}: Susie deals 4 damage to any target. Activate only as a sorcery. [i](This costs {6} less if you've resolved a Destiny ability this game.)[/i]
+
+ERAM, Shadow Mantle Holder
+rules_text: Flying
+Whenever you face a dilemma, put a +1/+1 counter on target creature you control. It gains menace until end of turn. [i](You face a dilemma as you choose one or more modes for a spell or ability.)[/i] => Flying
+Whenever you face a dilemma, put a +1/+1 counter on target creature. It gains menace until end of turn. [i](You face a dilemma as you choose one or more modes for a spell or ability.)[/i]
+pt: 2/2 => 1/3
+
+Squirrelflight
+pt: 2/2 => 1/3
+
+The Queen, Vader Eloha
+flavor_text: [i]“Look. . . He has your eyes. . .”[/i] => [i]“Look . . . He has your eyes . . .”[/i]
+pt: 3/3 => 2/4
+
+Jiji of the Thirteen Wishes
+rules_text: Flying
+{2}, {T}: Choose one or more —
+• You lose 1 life. Create a Treasure token.
+• You lose 2 life. Draw a card.
+• You lose 3 life. Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+• You lose 7 life. Exile all creatures. => Flying
+{2}, {T}: If it's your turn, choose one or more.
+• You lose 1 life. Create a Treasure token.
+• You lose 2 life. Draw a card.
+• You lose 3 life. Target player loses 3 life.
+• You lose 7 life. Destroy all creatures.
+pt: 1/3 => 0/3
+
+Fangtastic Fashion
+cost: {3} => {2}
+rules_text: Flash
+[i]Try On [/i]— When Fangtastic Fashion enters, attach it to target creature. Unattach it at the beginning of the next end step.
+[i]Vivid[/i] — Equipped creature gets +1/+0 for each color among permanents you control.
+Equip {4} => Flash
+[i]Try On [/i]— When Fangtastic Fashion enters, attach it to target creature. Unattach it at the beginning of the next end step.
+[i]Vivid[/i] — Equipped creature gets +1/+0 for each color among permanents you control.
+Equip {3}
+
+It's Over Isn't It
+rules_text: Exile target creature and its owner's graveyard. If you attacked with exactly two creatures this turn, draw a card. => 3Exile target creature and its owner's graveyard. If you attacked with exactly two creatures this turn, draw a card.
+
+Pearl, Loyal Renegade
+type: Legendary Enchantment Creature — Gem => Legendary Artifact Enchantment Creature
+rules_text: First strike
+Whenever you attack with exactly two creatures, another target attacking creature gains indestructible until end of turn. => First strike
+[i]Selfless Protection[/i] — Whenever you attack with exactly two creatures, another target attacking creature gains indestructible until end of turn.
+
+Steven Universe
+type: Legendary Creature — Gem Human Child => Legendary Creature — Alien Human Child
+rules_text: Whenever you attack with exactly two creatures, another target creature gets +1/+2 until end of turn.
+{4}{RW}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie. => Whenever you attack with exactly two creatures, another target creature gets +1/+2 until end of turn.
+{3}{RW}{RW}, {T}: If you both own and control Steven and a creature named Connie Maheswaran, exile them, then meld them into Stevonnie.
+
+Amethyst, Wild Shapeshifter
+type: Legendary Enchantment Creature — Gem => Legendary Artifact Enchantment Creature
+rules_text: Haste
+As Amethyst enters, until end of turn, you may have her become a copy of any creature on the battlefield, except she's a 3/3 Gem enchantment creature with haste named Amethyst, Wild Shapeshifter. => Haste
+As Amethyst enters, until end of turn, you may have her become a copy of any creature on the battlefield, except she's a 3/3 artifact enchantment creature with haste named Amethyst, Wild Shapeshifter.
+
+Connie Maheswaran
+type: Legendary Creature — Human Child Warrior => Legendary Creature — Human Child
+
+Rose Quartz
+type: Legendary Enchantment Creature — Gem => Legendary Artifact Enchantment Creature
+
+Abstract
+rules_text: Flash
+Enchant creature
+Enchanted creature loses all abilities and is a black Abstraction creature. Prevent all combat damage it would deal. => Flash
+Enchant creature
+Enchanted creature loses all abilities and is a black Abstraction enchantment creature. Prevent all combat damage it would deal.
+
+Put You Freaks In Your Place
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each creature to its owner's hand.
+II — Exile the top five cards of target opponent's library and choose one of them. This turn, you may cast that card without paying its mana cost.
+III — Tap target nonland permanent. It loses all abilities. [i](This effect doesn't end.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each creature to its owner's hand.
+II — Exile the top five cards of target opponent's library and choose one of them. You may cast that card without paying its mana cost.
+III — Tap target nonland permanent. It loses all abilities. [i](This effect doesn't end.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each creature to its owner's hand.
+II — Exile the top five cards of target opponent's library and choose one of them. This turn, you may cast that card without paying its mana cost.
+III — Tap target nonland permanent. It loses all abilities. [i](This effect doesn't end.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return each creature to its owner's hand.
+II — Exile the top five cards of target opponent's library and choose one of them. You may cast that card without paying its mana cost.
+III — Tap target nonland permanent. It loses all abilities. [i](This effect doesn't end.)[/i]
+
+Gangle
+type: Legendary Creature — Avatar => Legendary Enchantment Creature — Avatar
+
+Zooble
+type: Legendary Creature — Avatar => Legendary Artifact Enchantment Creature
+
+Pomni
+type: Legendary Creature — Avatar Clown => Legendary Enchantment Creature — Clown
+
+Kinger
+type: Legendary Creature — Avatar Noble => Legendary Enchantment Creature — Noble
+
+Jax
+type: Legendary Creature — Avatar Rabbit => Legendary Enchantment Creature — Rabbit
+
+Ragatha
+type: Legendary Creature — Avatar Toy => Legendary Enchantment Creature — Toy
+
+Lamp Effect
+rules_text: When Lamp Effect enters, surveil 3.
+{3}{R}{R}, Sacrifice Lamp Effect: Exile the top three cards of your library. You may play them until the end of your next turn. => When Lamp Effect enters, surveil 2.
+{3}{R}, Sacrifice Lamp Effect: Exile the top three cards of your library. You may play them until the end of your next turn.
+
+Knife Effect
+rules_text: Flash
+Enchant creature you control
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature has first strike. => Flash
+Enchant creature
+When Knife Effect enters, it deals 3 damage to up to one target creature.
+Enchanted creature has first strike.
+
+Takofuusen
+type: Creature — Balloon => Legendary Enchantment Creature — Dream Balloon
+
+Kyukkyu-kun
+type: Creature — Illusion => Legendary Enchantment Creature — Dream
+rules_text: Reach
+[i]Scrub [/i]— Whenever a land you control enters, you may discard a card. If you do, draw a card. => Reach
+[i]Scrub [/i]— Whenever a land you control enters, put a +1/+1 counter on Kyukkyu-kun.
+pt: 2/3 => 2/2
+
+Uboa
+type: Creature — Spirit => Enchantment Creature — Nightmate
+
+Seccom Masada-sensei
+type: Legendary Creature — Alien Performer => Legendary Enchantment Creature — Dream Alien
+rules_text: Ward—Pay 2 life.
+[i]Crash Land[/i] — Whenever a land you control enters, you may exile the top card of your library. You may cast it this turn if it's a spell by paying 2 life in addition to its other costs. => Ward—Pay 3 life.
+[i]Crash Land[/i] — Whenever a land you control enters, you may exile the top card of your library, then you may pay 2 life. If you do, you may play the exiled card this turn.
+pt: 3/3 => 2/3
+
+Monoko
+type: Legendary Creature — Human Horror => Legendary Enchantment Creature — Nightmare
+
+Card Kingdom
+rules_text: As Card Kingdom enters, you lose 2 life and choose a color other than black.
+{T}: Add {B} or one mana of the chosen color. => Card Kingdom enters tapped. 
+When Card Kingdom enters, you gain 2 life and choose a color.
+{T}: Add one mana of the chosen color.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Hysterical Outburst
+rules_text: Torment yourself. [i](You lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i]
+Target creature gets +3/+0 and gains indestructible until end of turn. => Torment yourself. [i](Lose 3 life unless you discard a card or sacrifice a nonland.)[/i]
+Target creature gets +3/+0 and gains indestructible until end of turn.
+
+Misstitched Alice
+type: Legendary Creature — Human Warrior => Legendary Enchantment Creature — Dream Human
+rules_text: Whenever you discard a card or sacrifice a nonland permanent during your turn, Alice gains lifelink until end of turn. Exile up to one target card from a graveyard. => Whenever you discard a card or sacrifice a nonland permanent, Alice gains lifelink until end of turn.
+flavor_text: [i]Alice's parents were murdered, but not — as the Asylum feared — by her. Sometimes, she understood why people might think so.[/i] => [i]Alice's parents were murdered, but not — as many suspected — by her. She was not some hysterical killer; she was a very calm and collected one.[/i]
+
+Siren Alice
+type: Legendary Creature — Human Warrior => Legendary Enchantment Creature — Dream Human
+rules_text: Flash
+When Alice attacks, you may draw a card. If you do, torment yourself. [i](You lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i] => Whenever Alice attacks, you may draw a card. If you do, torment yourself. [i](Lose 3 life unless you discard a card or sacrifice a nonland.)[/i]
+flavor_text: [i]The Wonderland in Alice's mind was made from the books she loved as a child; Twenty Thousand Leagues was always a favorite.[/i] => [i]The Wonderland in Alice's mind was made from the books she loved as a child. Carroll was, of course, her favorite, but anything by Verne was never far behind[/i]
+
+Snicker Snack
+cost: {1}{B} => {2}{B}
+rules_text: Torment yourself. [i](You lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i]
+Destroy target creature or enchantment with mana value 4 or less. => Torment yourself. [i](Lose 3 life unless you discard a card or sacrifice a nonland.)[/i]
+Exile target creature or enchantment an opponent controls.
+flavor_text: [i]Alice's Vorpal Dagger never cuts clean.[/i] => [i]The Vorpal Dagger can cut anything, but it never cuts clean.[/i]
+
+Wonderland
+flavor_text: [i][/i] => [i]Inside her mind, there were a few places even Alice herself wasn't welcome, though that never stopped her.[/i]
+
+Royal Suit Alice
+type: Legendary Creature — Giant Warrior => Legendary Enchantment Creature — Dream Giant
+rules_text: Reach, trample
+Whenever Alice attacks or blocks, torment yourself. [i](You lose 3 life unless you discard a card or sacrifice a nonland permanent.)[/i] => Reach, trample
+Whenever Alice attacks or blocks, torment yourself. [i](Lose 3 life unless you discard a card or sacrifice a nonland.)[/i]
+
+Silk Maiden Alice
+type: Legendary Creature — Human Warrior => Legendary Enchantment Creature — Dream Human
+rules_text: Deathtouch
+Whenever discard a card or sacrifice a nonland permanent during your turn, you may put a +1/+1 counter on target creature. Do this only once each turn. => Deathtouch
+Whenever you discard a card or sacrifice a nonland permanent, you may put a +1/+1 counter on target creature. Do this only once each turn.
+
+The Mad Hatter
+type: Legendary Creature — Horror => Legendary Enchantment Creature — Nightmare
+rules_text: Flying
+When The Mad Hatter enters, return a creature card with mana value 3 or less from your graveyard to the battlefield.
+Swampcycling {2} => Flying
+When The Mad Hatter enters, return a creature card with power 3 or less from your graveyard to the battlefield.
+Swampcycling {2}
+
+The Cheshire Cat
+type: Legendary Creature — Cat => Legendary Enchantment Creature — Cat Nightmare
+rules_text: Flash
+Exhaust — {5}, Discard a card: Mill five cards. An opponent separates them into two piles. Put one pile into your hand and X +1/+1 counters on The Cheshire Cat, where X is the number of cards in the other pile. => Flash
+Exhaust — {4}{B}, Discard a card: Mill five cards. An opponent separates them into two piles. Put one pile into your hand and X +1/+1 counters on The Cheshire Cat, where X is the number of cards in the other pile.
+
+Into Madness
+rules_text: Draw two cards. Torment yourself twice.
+If Into Madness would be put into a graveyard from anywhere, reveal Into Madness and shuffle it into its owner's library instead. => Draw two cards. Torment yourself twice.
+When this card is put into your graveyard, you may shuffle it into your library.
+flavor_text: [i]Alice was the sole survivor of the fire that took her family. She retreated into the Wonderland of her subconscious, looking to find the real culprit . . .[/i] => [i]Alice was the sole survivor of the fire that took her family. She'd seen the culprit's face, but trauma buried it deep in her subconscious. There was only one way to recover it . . .[/i]
+
+Cirno, Ice Fairy
+rules_text: Flying
+Cirno enters prepared. [i](While she's prepared, you may cast a copy of her spell. Doing so unprepares her.)[/i] => Flying
+Cirno enters prepared. [i](You may unprepare her to cast a copy of her spell.)[/i]
+
+Clownpiece, Star-Spangled Pierrot
+cost: {2}{U} => {1}{U}
+rules_text: Flying, prowess
+Clownpiece enters prepared. [i](While she's prepared, you may cast a copy of her spell. Doing so unprepares her.)[/i] => Flying
+Clownpiece enters prepared. [i](You may unprepare her to cast a copy of her spell.)[/i]
+flavor_text: [i]MIGHT be the second strongest fairy. Maybe.[/i] => [i][/i]
+pt: 2/2 => 2/1
+
+Daiyousei, Greater Fairy
+rules_text: Flying
+Whenever two or more creatures you control deal combat damage to a player, Daiyousei becomes prepared. [i](While prepared, you may cast a copy of her spell. Doing so unprepares her.)[/i] => Flying
+Whenever two or more creatures deal combat damage to an opponent, Daiyousei becomes prepared. [i](You may unprepare her to cast a copy of her spell.)[/i]
+
+Cirno, Fairy of the Lake
+cost: {1}{U} => {2}{U}
+rules_text: Flying
+Whenever two or more creatures you control deal combat damage to a player, put a +1/+1 counter on Cirno and she becomes prepared. => Flying
+Whenever two or more creatures deal combat damage to an opponent, put a +1/+1 counter on Cirno. She becomes prepared.
+pt: 1/1 => 2/2
+
+Eternity Larva, Scattering
+rules_text: Flying
+Other creatures you control with flying get +1/+1.
+Whenever two or more creatures you control deal combat damage to a player, Eternity becomes prepared. => Flying
+Other creatures you control with flying get +1/+0.
+Whenever two or more creatures deal combat damage to an opponent, Eternity becomes prepared.
+
+Letty Whiterock
+rules_text: Letty enters prepared.
+Creatures your opponent controls can't attack you unless their controller pays {1} for each creature they control that's attacking you. => Letty enters prepared.
+Creatures can't attack you unless their controller pays {1} for each creature that's attacking you.
+
+Minus K
+rules_text: This spell costs {2} less to cast if you control a creature with flying.
+Return target spell or creature to its owner's hand. Draw a card. => This spell costs {1} less to cast if you control a creature with flying.
+Return target spell or nonland permanent to its owner's hand. Draw a card.
+
+Cirno, The Strongest Fairy
+cost: {2}{U}{U} => {3}{U}{U}
+pt: */3 => */4
+
+Kira's Task Force
+rules_text: Reach
+[i]Seeking Justice — [/i]Whenever you draw a card, this creature gets +1/+0 until end of turn.
+When this creature enters or dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Reach
+When this creature enters or dies, you may investigate. [i](Create a Clue artifact token with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[i]Seeking Justice[/i] — Whenever you draw a card, this creature gets +1/+0 until end of turn.
+
+L, Immature Investigator
+rules_text: [i]Seeking Justice — [/i]Whenever you draw a card, L gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, he can't be blocked until end of turn.
+Whenever a creature dies, you may pay 1 life. If you do, investigate. Do this only once each turn. => [i]Seeking Justice — [/i]Whenever you draw a card, L gets +1/+0 until end of turn. If this is the second time this ability has triggered this turn, he can't be blocked this turn.
+Whenever a creature dies, you may pay 1 life. If you do, investigate. Do this only once each turn.
+flavor_text: [i]“Kira is childish and he hates losing… I'm also childish and hate losing.”[/i] => [i]“Kira is childish and he hates losing . . . I'm also childish and hate losing.”[/i]
+
+L's Endgame
+rules_text: When L's Endgame enters and at the beginning of your upkeep, you lose 1 life and investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+At the beginning of combat on your turn, up to one target Clue you control becomes an X/X artifact creature with haste until end of turn, where X is the number of artifacts you control. => At the beginning of combat on your turn, you lose 1 life and investigate. When you do, target Clue you control becomes an X/X artifact creature with haste until end of turn, where X is the number of artifacts you control. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Ryuk, Spirit of Death
+pt: 2/4 => 2/3
+
+Weapon (DN)
+type: Token Artifact — Equipment Weapon => Token Artifact — Equipment
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

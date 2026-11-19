@@ -1,4 +1,258 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Marguerite, Insectile Molded added.
+Skeleton Army added.
+SPIREBORN LICH added.
+LEARNING MACHINE added.
+Dark Orb added.
+Watch Our Moves added.
+
+Elemental (DFCT) 2 (ULT2) removed.
+Insect (VIL) (ULT2) removed.
+Endless Conveyor removed.
+Treasure (BIND) removed.
+Army (BIND) removed.
+Watch Our Moves! removed.
+
+Soarin'
+rules_text: {1}, {T}: Creatures tokens you control gain flying until end of turn. => {1}, {T}: Creatures you control gain flying until end of turn.
+
+Afterlife Judge
+rules_text: Whenever a player attacks, choose one —
+• [i]Good — [/i]Target attacking creature gets flying until end of turn.
+• [i]Bad — [/i]Put a stun counter on target attacking creature. => Whenever a player attacks, choose one —
+• [i]Good — [/i][i][/i]Target attacking creature gets flying until end of turn.
+• [i]Bad — [/i]Put a stun counter on target attacking creature.
+pt: 4/4 => 3/5
+
+Goodbye
+flavor_text: [i]“She cast her fragrance and her radiance over me. I ought never to have run away from her. . .”[/i] => [i]“She cast her fragrance and her radiance over me. I ought never to have run away from her . . .”[/i]
+
+Stranded Aviator
+rules_text: When this creature enters, create a 2/2 Vehicle artifact token with crew 2 and “{1}{W}: If that Vehicle has no +1/+1 counters on it, put a +1/+1 counter on it.”
+At the beginning of each combat, another target modified creature you control gains flying until end of turn. => When this creature enters, create a 2/2 Vehicle artifact token with crew 2 and “{1}{W}: If this Vehicle has no counters on it, put a +1/+1 counter on it.”
+At the beginning of each combat, up to one other target modified creature gains flying until end of turn.
+
+Agent Smith
+rules_text: Flash
+Squad {3} [i](As an additional cost to cast this spell, you may pay {3} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i] => Flash
+Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+pt: 3/2 => 2/1
+
+Trinity, System Intruder
+pt: 2/4 => 2/3
+
+Vakuu, the First Demon
+pt: 6/6 => 5/5
+
+Cherryton Academy
+
+Louis, Rising Star
+
+Riz, Disguised Devourer
+
+Scheming Operative
+
+High Silvermere
+rules_text: High Silvermere enters tapped unless you control two or more other lands. As it enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+{3}{W}{W}, Discard High Silvermere: Put a +1/+1 counter, a flying counter, and a vigilance counter on target creature. => High Silvermere enters tapped. As it enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+{3}{W}{W}, Discard High Silvermere: Put a +1/+1 counter, a flying counter, and a vigilance counter on target creature.
+
+Captain Samuel Vimes
+
+Guards Guards
+
+Lady Sybil Ramkin-Vimes
+
+Duke's Find
+
+House Beneviento
+
+Lycan
+rules_text: Haste
+Exhaust — {2}{B}, {T}: Mill five cards, then you may return a creature card from your graveyard to your hand. Activate only as a sorcery [i](Activate each exhaust ability only once.)[/i] => Haste
+Exhaust — {2}{B}, {T}: Mill three cards, then you may return a creature card from your graveyard to your hand. [i](Activate each exhaust ability only once.)[/i]
+
+The Hollow Knight
+rules_text: Menace
+[i]Plague Vessel — [/i]When The Hollow Knight enters, put two -1/-1 counters on each other creature.
+Evoke {3}{B}{B} [i](You may cast this spell for {3}{B}{B}. If you do, he's sacrificed when he enters.)[/i] => Menace
+[i]Plague Vessel — [/i]When The Hollow Knight dies, put two -1/-1 counters on each other creature.
+Evoke {3}{B}{B} [i](You may cast this spell for {3}{B}{B}. If you do, he's sacrificed when he enters.)[/i]
+
+KDA Superfan
+
+Kai Sa, Firestarter
+rules_text: Haste
+When Kai'Sa attacks, she deals 1 damage to target creature. If that creature has flying, she deals 1 more damage to it. If that creature is tapped, Kai'Sa deals 1 damage to its controller. => Haste
+When Kai'Sa attacks, she deals 1 damage to up to one target creature. If that creature has flying, she deals 1 more damage to it. If that creature is tapped, Kai'Sa deals 1 damage to its controller.
+
+Abyssal Baths
+rules_text: [i]({T}: Add {B}.)[/i]
+This land enters tapped unless you control a basic land.
+{4}{B}{B}, {T}, Sacrifice this land and a creature: Target player loses life equal to the sacrificed creature's power. You gain life equal to that creature's toughness. => [i]({T}: Add {B}.)[/i]
+This land enters tapped unless you control a basic land.
+{4}{B}{B}, {T}, Sacrifice this land and a creature: Target player loses life equal to the sacrificed creature's power. You gain life equal to its toughness.
+
+Brain Leech
+rules_text: Whenever another creature enters the battlefield, its controller pays 2 life or blights 2. [i](To blight 2, put two -1/-1 counters on a creature you control.)[/i] => When this creature enters, you may return up to one target creature card from your graveyard to your hand. If you don't, amass Skeletons 2. [i](Put two +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i]
+flavor_text: [i]A sharp pain is felt atop your head and a thought stabs into your mind. 
+[b][/i]“SHARE KNOWLEDGE???”[i][/b][/i] => [i]A sharp pain is felt atop your head and a thought stabs into your mind —
+[b][/i]“SHARE KNOWLEDGE???”[i][/b][/i]
+pt: 2/4 => 2/2
+
+Death March
+rules_text: Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner's control, then Amass Skeletons 2.” [i](To amass Skeletons 2, put two +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i] => Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to its owner's hand, then amass Skeletons 2.” [i](To amass Skeletons 2, put two +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i]
+
+Field of Man-Sized Holes
+rules_text: When this land enters, surveil 1.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{5}, {T}, Sacrifice this land: Put two -1/-1 counters on target creature. Activate only as a sorcery. => This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+{2}{B}, {T}: Amass Skeletons 1. If you created a token this way, you lose 1 life. [i](Put a +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i]
+
+Forbidden Grimoire
+rules_text: Flying
+When Forbidden Grimoire enters or you cast a noncreature spell, amass Skeletons 2. This ability triggers only once each turn. [i](To amass Skeletons 2, put two +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i] => Flying
+When this creature enters and whenever you cast a noncreature spell, amass Skeletons 2. This ability triggers only once each turn. [i](To amass Skeletons 2, put two +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i]
+
+Grave of the Forgotten
+rules_text: When this enchantment enters, amass Skeletons 3. [i](Put three +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i]
+Whenever you attack, target attacking creature token gains your choice of lifelink or menace until end of turn. => When this enchantment enters, amass Skeletons 3. [i](Put three +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i]
+{1}{B}: Target attacking creature token gains your choice of menace or lifelink until end of turn.
+
+Pael, the Melting Dragon
+rules_text: Pael enters with six +1/+1 counters on him.
+Remove two +1/+1 counters from among creatures you control: Choose one — 
+• Target creature you control gains indestructible until end of turn. Tap it.
+• Create a tapped Treasure token.
+• Target player gains 4 life. => Trample
+Graft 6 [i](Pael enters with six +1/+1 counters on him. Whenever a creature enters, you may move a +1/+1 counter from Pael onto that creature.)[/i]
+Whenever Pael or another creature you control dies, if it was modified, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+flavor_text: [i][/i] => [i]“Take a part of me to ease your burdens.”[/i]
+
+The Spire
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has all basic land types.
+[i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Time's Up
+rules_text: Choose one — 
+• Distribute four -1/-1 counters among up to four target creatures.
+• Target player loses life equal to the number of counters among creatures you or that player controls, whichever is greater. => Destroy target creature. If you controlled it, Time's Up deals damage equal to its power to any target and you gain that much life.
+
+Transfigure
+rules_text: Choose one. If you cast this spell during your main phase, choose both instead. 
+• [i]Bodyguard [/i]— Amass Skeletons 2.
+• [i]Blight Strike[/i] — Distribute two -1/-1 counters among one or two target creatures. => Choose one — 
+• [i]Blight Strike[/i] — Distribute two -1/-1 counters among up to two target creatures.
+• [i]Bodyguard [/i]— Amass Skeletons 2. [i](Put two +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i]
+
+Flaw
+cost: {3}{U} => {2}{U}
+rules_text: Vigilance
+Flaw can't be blocked if it's attacking with exactly one other creature.
+{1}, Exile Flaw: Exile target nonland permanent. Return it to the battlefield under its owner's control at the beginning of the next end step. => Vigilance, ward {2}
+Exile Flaw: Return any number of permanents you own to your hand.
+pt: 3/4 => 3/2
+
+Frost Orb
+rules_text: Flash
+When Frost Orb enters, tap up to one target artifact or creature and put a stun counter on it. If Frost Orb was evoked, this ability triggers an additional time.
+Evoke {4}{U} [i](You may cast this for {4}{U}. If you do, it's sacrificed when it enters.)[/i] => When Frost Orb enters, tap up to one target artifact or creature and put a stun counter on it. If Frost Orb was evoked, this ability triggers an additional time.
+Evoke {4}{U} [i](You may cast this for {4}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Hologram
+type: Artifact Creature — Illusion => Enchantment Creature — Illusion
+rules_text: Ward {4}
+{1}{U}, Discard this card: Choose one —
+• Exile target nonland permanent you control. Return it to the battlefield under its owner's control.
+• Counter target noncreature spell unless its controller pays {1}. => Ward {4}
+{1}{U}, Discard this card: Exile target nonland permanent you control. Return it to the battlefield under its owner's control.
+
+Plasma Orb
+cost: {1}{U} => {U}
+rules_text: Flash
+When Plasma Orb enters, return up to one target permanent you control to its owner's hand. Draw a card. If Plasma Orb was evoked, this ability triggers an additional time.
+If Plasma Orb would leave, put it on the bottom of its owner's library instead.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i] => When Plasma Orb enters, return up to one target permanent you control to its owner's hand. Draw a card. If Plasma Orb was evoked, this ability triggers an additional time.
+If Plasma Orb would leave the battlefield, shuffle it into its owner's library instead.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Rocket Fist
+cost: {2} => {1}
+rules_text: Flash
+When Rocket Fist enters, return up to one other target artifact, enchantment, or creature with flying to its owner's hand.
+Equipped creature gets +3/+1 and has reach.
+Equip {3}{U} => Flash
+When Rocket Fist enters, return up to one other target artifact or enchantment to its owner's hand.
+Equipped creature gets +3/+1 and has reach.
+Equip {3}{U}
+
+The Spire
+rules_text: This land enters tapped.
+When this land enters, surveil 1.
+This land has all basic land types.
+[i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Lightning Orb
+rules_text: Flash
+When Lightning Orb enters, create a 2/1 red Elemental creature token. If Lightning Orb was evoked, this ability triggers an additional time.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i] => When Lightning Orb enters, create a 2/1 red Elemental creature token. If Lightning Orb was evoked, this ability triggers an additional time.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Adoring Swatchlings
+rules_text: When this creature enters, draw a card, then discard a card.
+{3}{U}: Return this card from your graveyard to the battlefield with a finality counter. Activate only as a sorcery. => When this creature enters, draw a card, then discard a card.
+{4}{U}: Return this card from your graveyard to the battlefield with a finality counter. Activate only as a sorcery.
+
+Color Cafe
+type: Artifact Land => Land
+rules_text: Hexproof
+{T}: Add {C}.
+{T}: This land gains a basic land type of your choice. [i](This effect lasts indefinitely)[/i] => {T}: Add {C}.
+{T}: This land gains a basic land type of your choice. [i](This effect lasts indefinitely)[/i]
+
+Annoying Addisons
+rules_text: {2}{U}, Discard this card: Mill four cards and choose a noncreature, nonland card type. Return up to two cards of that type from among the milled cards to your hand. Activate only as a sorcery. => {4}{U}{U}, Exile this card from your graveyard: Mill four cards. Put up to two cards from among them to your hand. Activate only as a sorcery.
+pt: 3/3 => 2/3
+
+KNOCK YOU DOWN!
+rules_text: Improvise [i](Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Choose one or both —
+• Exile target artifact or creature. Return it to the battlefield under its owner's control.
+• Tap target artifact or creature. Put two stun counters on it. => Improvise [i](Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Choose one or both —
+• Exile target creature, then return it to the battlefield under its owner's control.
+• Tap target creature, then put two stun counters on it.
+
+Queen's Mansion
+type: Artifact Land => Land
+rules_text: Hexproof
+{T}: Add {C}.
+{T}, Pay 1 life: Add {U}.
+Exhaust — {4}{U}{U}: This land becomes a 5/5 artifact creature with hexproof and loses all other types and abilities. [i](This effect lasts indefinitely.)[/i] => {T}: Add {C}.
+{T}, Pay 1 life: Add {U}.
+Exhaust — {4}{U}{U}: This land becomes a 5/5 artifact creature with hexproof and loses all other types and abilities. [i](This effect lasts indefinitely.)[/i]
+
+Berdly, Light Nerd
+rules_text: Flying
+Berdly gets +X/+0, where X is the number of artifacts you control.
+Destiny — {6}{U}{U}, {T}: Draw four cards. [i](If a Destiny ability you control has resolved this game, you don't have to pay their mana costs.)[/i] => Flying
+Berdly gets +X/+0, where X is the number of artifacts you control.
+Destiny — {6}{U}{U}, {T}: Draw three cards. Activate only as a sorcery. [i](This costs {6} less if you've resolved a Destiny ability this game.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Elemental (DFCT) 1 added.
