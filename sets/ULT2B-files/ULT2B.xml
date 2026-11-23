@@ -5,7 +5,7 @@
 			<name>ULT2B</name>
 			<longname>ULT2B</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-19</releasedate>
+			<releasedate>2026-11-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -720,7 +720,7 @@ When this land enters, choose one —
 		<card>
 			<name>Junk ULT2B</name>
 			<text>{T}, Sacrifice this: Exile the top card of your library. You may play it this turn. Activate as a sorcery.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/39.png" num="36">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/39.png" num="37">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -736,7 +736,7 @@ When this land enters, choose one —
 			<name>Dress ULT2B</name>
 			<text>Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/40.png" num="31">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/40.png" num="32">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1321,7 +1321,7 @@ At the beginning of each combat, up to one other target modified creature gains 
 			<name>Vehicle ULT2B</name>
 			<text>{1}{W}: If this Vehicle has no +1/+1 counters on it, put a +1/+1 counter on it.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/74.png" num="40">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/74.png" num="41">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1364,8 +1364,8 @@ Squad {2} (As an additional cost to cast this spell, you may pay {2} any number 
 				<side>front</side>
 				<type>Artifact Creature — Illusion</type>
 				<maintype>Creature</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>2/1</pt>
@@ -1620,7 +1620,7 @@ This land has all basic land types.
 			<name>Cold Comfort</name>
 			<text>Look at target player&apos;s hand. Choose one—
 • Choose a nonland card in that player&apos;s hand. That player discards it.
-• That player loses 2 life and you gain 2 life. A creature connives. (Draw a card, then discard a card. If you discarded a nonland, put a +1/+1 counter on that creature.)</text>
+• That player loses 2 life and you gain 2 life. Up to one target creature connives. (Draw a card, then discard a card. If you discarded a nonland, put a +1/+1 counter on that creature.)</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/91.png" num="86">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
@@ -1637,7 +1637,7 @@ This land has all basic land types.
 		<card>
 			<name>Envy, Cruel Impostor</name>
 			<text>Flash
-You may have Envy enter as a copy of any nonland permanent card put into a graveyard from anywhere this turn, except his name is Envy, Cruel Impostor and he&apos;s a legendary 3/3 Homunculus Shapeshifter creature in addition to his other types.</text>
+You may have Envy enter as a copy of any nonland permanent card put into a graveyard from anywhere this turn, except his name is Envy, Cruel Impostor and he&apos;s a legendary 3/3 Homunculus Shapeshifter creature. (Not any other types.)</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/92.png" num="93">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
@@ -1834,7 +1834,7 @@ Cycling {1}{WB}</text>
 		<card>
 			<name>Clue (FMA2003) ULT2B</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/103.png" num="29">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/103.png" num="30">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1917,354 +1917,11 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 			<cipt>1</cipt>
 		</card>
 		<card>
-			<name>Amalgamator</name>
-			<text>Double strike
-{2}, Sacrifice two creatures: Strike 7. (At the start of your next combat, create a tapped, attacking 7/1 red Strike token. Sacrifice it after combat. Yes, you can sacrifice Strikes to this first.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/108.png" num="114">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Spirit</type>
-				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>2/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Blood Wall</name>
-			<text>As an additional cost to cast this spell, pay 2 life.
-Defender, reach</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/109.png" num="116">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Wall</type>
-				<maintype>Creature</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>0/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Burning Pact</name>
-			<text>Exile a card from your hand. Draw two cards. (If your hand is empty, just draw.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/110.png" num="117">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Byrd Egg</name>
-			<text>{2}, {T}, Sacrifice Byrd Egg: Draw a card. You gain 3 life.
-{2}{R}, {T}: Transform Byrd Egg.
----
-(Back): Byrdpip</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/111_front.png" num="185a">ULT2B</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Artifact — Food</type>
-				<maintype>Artifact</maintype>
-				<manacost>0</manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-			<related attach="transform">Byrdpip</related>
-		</card>
-		<card>
-			<name>Byrdpip</name>
-			<text>Flying
-When this creature transforms into Byrdpip, strike 3. (At the start of your next combat, create a tapped, attacking 3/1 red Strike token. Sacrifice it after combat.)
----
-(Front): Byrd Egg</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/111_back.png" num="185b">ULT2B</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Creature — Bird</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Byrd Egg</related>
-		</card>
-		<card>
-			<name>Hellraiser</name>
-			<text>When Hellraiser enters, you may exile a card from your hand. If you do, draw a card.
-Whenever you draw a card, strike 2. This ability triggers only twice each turn. (Create a tapped, attacking 2/1 red Strike token at the start of your next combat. Sacrifice it after combat.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/113.png" num="118">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Mountain</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/114.png" num="236">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Mountain</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Primal Force</name>
-			<text>Choose one —
-• Destroy target artifact.
-• Sacrifice a creature. Primal Force deals damage equal to that creature&apos;s power to any target.
-• Target creature gets +2/+2 and gains trample until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/115.png" num="127">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Ranwid the Elder</name>
-			<text>{T}, Sacrifice a creature, pay 3 life, or exile a card from your hand: Exile the top card of your library. You may play it this turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/116.png" num="128">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Elder</type>
-				<maintype>Creature</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Room Full of Cheese</name>
-			<text>Room Full of Cheese enters tapped.
-Indestructible
-{T}, Pay 1 life: Add one mana of any color.
-{T}, Sacrifice Room Full of Cheese: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/117.png" num="248">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Land — Food</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>The Ironclad</name>
-			<text>Ward—Pay 3 life.
-Strikes you control get +1/+1 for each +1/+1 counter on The Ironclad.
-When The Ironclad enters and at the beginning of your upkeep, put a +1/+1 counter on him and strike 1. (At the start of your next combat, create a tapped, attacking 1/1 red Strike token. Sacrifice it after combat.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/118.png" num="122">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Warrior</type>
-				<maintype>Creature</maintype>
-				<manacost>4R</manacost>
-				<cmc>5</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>The Spire</name>
-			<text>This land enters tapped.
-When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
-This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/119.png" num="255">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Trash Heap</name>
-			<text>As Trash Heap enters, you may pay 2 life. If you don&apos;t, it enters tapped.
-Indestructible
-({T}: Add {R}.)
-{T}, Sacrifice Trash Heap: Exile the top card of your library. You may play it this turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/120.png" num="258">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Land — Junk Mountain</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Twin Strike</name>
-			<text>Twin Strike deals 3 damage to target creature or planeswalker.
-Strike 3. (At the start of your next combat, create a tapped, attacking 3/1 red Strike token. Sacrifice it after combat.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/121.png" num="131">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Vakuu, the First Demon</name>
-			<text>Flying
-Whenever you pay life, sacrifice creatures, or exile cards from your hand, exile that many cards from the top of your library.
-At the beginning of each end step, cast a card exiled with Vakuu this turn without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/122.png" num="181">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Elder Demon</type>
-				<maintype>Creature</maintype>
-				<manacost>4B/RB/R</manacost>
-				<cmc>6</cmc>
-				<colors>BR</colors>
-				<coloridentity>BR</coloridentity>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Strike 1 ULT2B</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/123.png" num="19">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Strike</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related>The Ironclad</reverse-related>
-		</card>
-		<card>
-			<name>Strike 2 ULT2B</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/124.png" num="20">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Strike</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related>Hellraiser</reverse-related>
-		</card>
-		<card>
-			<name>Strike 3 ULT2B</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/125.png" num="21">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Strike</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>3/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related>Byrdpip</reverse-related>
-			<reverse-related>Twin Strike</reverse-related>
-		</card>
-		<card>
-			<name>Strike 7 ULT2B</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/126.png" num="22">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Strike</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>7/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related>Amalgamator</reverse-related>
-		</card>
-		<card>
 			<name>Choral Chambers</name>
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 This land has all basic land types. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/127.png" num="202">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/108.png" num="202">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2283,7 +1940,7 @@ This land has all basic land types. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text
 ---
 
 Discard a card. If you do, draw two cards. (Then shuffle this card into its owner&apos;s library.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/128.png" num="204">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/109.png" num="204">ULT2B</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2298,7 +1955,7 @@ Discard a card. If you do, draw two cards. (Then shuffle this card into its owne
 		<card>
 			<name>Garmond and Zaza</name>
 			<text>String — {3}{RG}: Create a Weapon token, then attach it to Garmond and Zaza. (Whenever you cast your second spell each turn, you may activate one of this creature&apos;s strings without paying its costs. Weapons are Equipment with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/129.png" num="162">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/110.png" num="162">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2316,7 +1973,7 @@ Discard a card. If you do, draw two cards. (Then shuffle this card into its owne
 			<name>Hornet, Red Maiden</name>
 			<text>String — {1}{R}: If Hornet is a Warrior, she becomes a 3/3 Spider Rogue and gains menace. (Whenever you cast your second spell each turn, you may activate one of this creature&apos;s strings without paying its costs.)
 String — {3}{R}: If Hornet is a Rogue, she becomes a 4/4 Spider Assassin and gains &quot;Whenever this creature deals combat damage to a player, you may discard your hand, then draw two cards.&quot;</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/130.png" num="119">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/111.png" num="118">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2334,7 +1991,7 @@ String — {3}{R}: If Hornet is a Rogue, she becomes a 4/4 Spider Assassin and g
 			<name>Lace, White Knight</name>
 			<text>First strike
 String — {3}{RW}: If it&apos;s a main phase, target creature gains double strike until end of turn. (Whenever you cast your second spell each turn, you may activate one of this creature&apos;s strings without paying its costs.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/131.png" num="166">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/112.png" num="166">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2355,7 +2012,7 @@ String — {3}{RW}: If it&apos;s a main phase, target creature gains double stri
 ---
 
 Searing Slam deals 3 damage to target player unless they sacrifice a nontoken permanent. (Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/132.png" num="125">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/113.png" num="125">ULT2B</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -2372,7 +2029,7 @@ Searing Slam deals 3 damage to target player unless they sacrifice a nontoken pe
 		<card>
 			<name>Rosary Cannonade</name>
 			<text>Rosary Cannonade deals 3 damage to any target. If excess damage was dealt to a permanent this way, create a tapped Treasure token.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/133.png" num="129">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/114.png" num="129">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2389,7 +2046,7 @@ Searing Slam deals 3 damage to target player unless they sacrifice a nontoken pe
 			<name>Second Sentinel</name>
 			<text>Menace
 String — {2}{UR}: Discard a card, then draw a card. (Whenever you cast your second spell each turn, you may activate one of this creature&apos;s strings without paying its costs.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/134.png" num="173">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/115.png" num="173">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2407,7 +2064,7 @@ String — {2}{UR}: Discard a card, then draw a card. (Whenever you cast your se
 			<name>Trobbio, Crimson Grace</name>
 			<text>Flying
 String — {3}{R}: Trobbio gets +1/+0 until end of turn. Target creature can&apos;t block this turn. (Whenever you cast your second spell each turn, you may activate one of this creature&apos;s strings without paying its costs.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/135.png" num="130">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/116.png" num="130">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2426,7 +2083,7 @@ String — {3}{R}: Trobbio gets +1/+0 until end of turn. Target creature can&apo
 			<text>This land enters tapped unless you pay 2 life.
 As this land enters, choose a color other than red.
 {T}: Add {R} or one mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/136.png" num="259">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/117.png" num="259">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2441,7 +2098,7 @@ As this land enters, choose a color other than red.
 		<card>
 			<name>Profane Procedure</name>
 			<text>Profane Procedure deals 6 damage to target creature. When that creature dies this turn, you may cast it from its owner&apos;s graveyard without paying its mana cost. Spells cast this way gain decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/137.png" num="171">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/118.png" num="171">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2457,7 +2114,7 @@ As this land enters, choose a color other than red.
 		<card>
 			<name>Bind the Beast</name>
 			<text>Target creature gains first strike and gets +X/+0 until end of turn, where X is the number of spells you&apos;ve cast this turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/138.png" num="115">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/119.png" num="115">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2474,7 +2131,7 @@ As this land enters, choose a color other than red.
 			<name>Igneous Visions (SLK)</name>
 			<text>Exile the top card of your library. You may play that card this turn.
 Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/139.png" num="120">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/120.png" num="119">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2490,7 +2147,7 @@ Flashback {R} (You may cast this card from your graveyard for its flashback cost
 		<card>
 			<name>Mountain (SLK)</name>
 			<text>({T}: Add {R}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/140.png" num="237">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/121.png" num="237">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2505,7 +2162,7 @@ Flashback {R} (You may cast this card from your graveyard for its flashback cost
 		<card>
 			<name>On an Adventure (SLK) ULT2B</name>
 			<text>(After an Adventure resolves, you can place the exiled card here. You may cast the creature later from exile.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/141.png" num="4">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/122.png" num="4">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2521,7 +2178,7 @@ Flashback {R} (You may cast this card from your graveyard for its flashback cost
 		<card>
 			<name>Treasure (SLK) ULT2B</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/142.png" num="38">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/123.png" num="39">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2538,7 +2195,7 @@ Flashback {R} (You may cast this card from your graveyard for its flashback cost
 			<name>Weapon (SLK) ULT2B</name>
 			<text>Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/143.png" num="41">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/124.png" num="42">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2554,7 +2211,7 @@ Equip {2}</text>
 		<card>
 			<name>Clue (BEAST) ULT2B</name>
 			<text>{2}, Sacrifice this token: Draw a card.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/144.png" num="28">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/125.png" num="28">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2569,7 +2226,7 @@ Equip {2}</text>
 		<card>
 			<name>Devouring Impulse</name>
 			<text>Ferocious — Mill five cards. Return up to one creature card from your graveyard to your hand. Return up to two instead if you control a creature with power 4 or greater.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/145.png" num="159">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/126.png" num="159">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2586,7 +2243,7 @@ Equip {2}</text>
 			<name>Go Our Separate Ways</name>
 			<text>This spell costs {1} less to cast for each nonland permanent you control.
 Put each nonland permanent you own on the bottom of your library, then reveal the top ten cards of your library. Put up to three nonland permanent cards with total mana value 10 or less from among those cards onto the battlefield. Shuffle.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/146.png" num="137">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/127.png" num="137">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2603,7 +2260,7 @@ Put each nonland permanent you own on the bottom of your library, then reveal th
 			<name>Gouhin, Black Market Doctor</name>
 			<text>Ferocious — When Gouhin enters, you gain 3 life for each creature you control with power 4 or greater.
 {G}, Discard Gouhin: Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to its owner&apos;s hand.&quot;</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/147.png" num="138">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/128.png" num="138">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2621,7 +2278,7 @@ Put each nonland permanent you own on the bottom of your library, then reveal th
 			<name>Haru</name>
 			<text>{T}: Add {G}.
 Ferocious — {T}: Add {G}{G}. Activate only if you control a creature with power 4 or greater.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/148.png" num="139">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/129.png" num="139">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2639,7 +2296,7 @@ Ferocious — {T}: Add {G}{G}. Activate only if you control a creature with powe
 			<name>Juno, Hopeless Romantic</name>
 			<text>Juno can&apos;t attack or block alone.
 {3}{G}: Support 2. Activate only as a sorcery. (Put a +1/+1 counter on up to two other target creatures.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/149.png" num="143">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/130.png" num="143">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2660,7 +2317,7 @@ Legosi can&apos;t block or be blocked by creatures with power 2 or less.
 Whenever a player attacks, investigate X times, where X is the number of attacking creatures with power 4 or greater.
 ---
 (Back): Undercover Rendezvous</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/150_front.png" num="167a">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/131_front.png" num="167a">ULT2B</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2680,7 +2337,7 @@ Whenever a player attacks, investigate X times, where X is the number of attacki
 			<text>Surveil 3. Return an artifact, instant, or sorcery card from your graveyard to your hand.
 ---
 (Front): Legosi</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/150_back.png" num="167b">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/131_back.png" num="167b">ULT2B</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2698,7 +2355,7 @@ Whenever a player attacks, investigate X times, where X is the number of attacki
 			<name>Melon, Cruel Crime Lord</name>
 			<text>As an additional cost to cast Melon, exile two cards from your graveyard or pay {1}.
 Spells you cast cost {1} less to cast if they&apos;re hybrid or have power 4 or greater.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/151.png" num="168">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/132.png" num="168">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2715,7 +2372,7 @@ Spells you cast cost {1} less to cast if they&apos;re hybrid or have power 4 or 
 		<card>
 			<name>Quiet Cityscape</name>
 			<text>When this land enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield, then shuffle. You lose 1 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/152.png" num="245">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/133.png" num="245">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2731,7 +2388,7 @@ Spells you cast cost {1} less to cast if they&apos;re hybrid or have power 4 or 
 			<text>Ferocious — Choose one. You may instead choose both if each mode targets a creature you control with power 4 or greater.
 • Target creature gets +2/+2 until end of turn.
 • Target creature you control fights target creature you don&apos;t control.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/153.png" num="172">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/134.png" num="172">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2747,7 +2404,7 @@ Spells you cast cost {1} less to cast if they&apos;re hybrid or have power 4 or 
 		<card>
 			<name>Food (BEAST) 2 ULT2B</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/155.png" num="32">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/136.png" num="33">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2762,7 +2419,7 @@ Spells you cast cost {1} less to cast if they&apos;re hybrid or have power 4 or 
 		<card>
 			<name>Food (BEAST) 3 ULT2B</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/156.png" num="33">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/137.png" num="34">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2777,7 +2434,7 @@ Spells you cast cost {1} less to cast if they&apos;re hybrid or have power 4 or 
 		<card>
 			<name>Food (BEAST) 4 ULT2B</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/157.png" num="34">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/138.png" num="35">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2792,7 +2449,7 @@ Spells you cast cost {1} less to cast if they&apos;re hybrid or have power 4 or 
 		<card>
 			<name>Food (BEAST) 5 ULT2B</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/158.png" num="35">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/139.png" num="36">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2810,7 +2467,7 @@ Spells you cast cost {1} less to cast if they&apos;re hybrid or have power 4 or 
 When this land enters, surveil 1.
 This land has every basic land type.
 ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/159.png" num="199">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/140.png" num="199">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2828,7 +2485,7 @@ This land has every basic land type.
 {T}: Add {G}.
 {1}, {T}, Sacrifice a token: Put a +1/+1 counter on target creature. Activate only as a sorcery.
 {3}, {T}: Create a Food token.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/160.png" num="201">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/141.png" num="201">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2845,10 +2502,10 @@ This land has every basic land type.
 			<related>Food (BEAST) 5 (ULT2B)</related>
 		</card>
 		<card>
-			<name>Louis, Rising Star</name>
+			<name>Louis, Black Market Boss</name>
 			<text>Flash
 Exhaust — {3}{G}: Put a +1/+1 counter on target creature. It gains &quot;When this creature leaves the battlefield, you may draw cards equal to its power. If you do, discard three cards and create two Food tokens.&quot; (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/161.png" num="144">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/142.png" num="144">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2871,7 +2528,7 @@ Exhaust — {3}{G}: Put a +1/+1 counter on target creature. It gains &quot;When 
 			<text>Reach
 When Riz enters, sacrifice a nontoken creature unless you pay {3}{G}.
 Ferocious — Whenever a creature you control with power 4 or greater becomes the target of a spell or ability, draw a card and create a Food token. This ability triggers only only once each turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/162.png" num="148">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/143.png" num="148">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2892,7 +2549,7 @@ Ferocious — Whenever a creature you control with power 4 or greater becomes th
 		<card>
 			<name>Cat Token (007) ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/163.png" num="5">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/144.png" num="5">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2913,7 +2570,7 @@ Ferocious — Whenever a creature you control with power 4 or greater becomes th
 			<text>This land enters tapped unless you control a basic land.
 When this land enters, target creature you control gains flying until end of turn.
 {T}: Add {U}.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/164.png" num="217">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/145.png" num="217">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2928,7 +2585,7 @@ When this land enters, target creature you control gains flying until end of tur
 		<card>
 			<name>Island (007)</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/165.png" num="270">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/146.png" num="270">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2945,7 +2602,7 @@ When this land enters, target creature you control gains flying until end of tur
 			<text>This land enters tapped. As it enters, choose a color other than blue.
 When this land enters, surveil 1.
 {T}: Add {U} or one mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/166.png" num="239">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/147.png" num="239">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2962,7 +2619,7 @@ When this land enters, surveil 1.
 			<name>Reactor Room</name>
 			<text>{T}: Add {C}.
 {T}, Tap another untapped land or artifact: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/167.png" num="246">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/148.png" num="246">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2976,7 +2633,7 @@ When this land enters, surveil 1.
 		<card>
 			<name>Spy Token (007) ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/168.png" num="12">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/149.png" num="12">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2998,7 +2655,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/169.png" num="261">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/150.png" num="261">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3014,7 +2671,7 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 			<name>Weapon Token (007) ULT2B</name>
 			<text>Equipped creature gets +1/+1.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/170.png" num="42">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/151.png" num="43">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3032,7 +2689,7 @@ Equip {2}</text>
 			<text>Flash
 When this artifact enters, target creature gets +2/+2 and gains flying until end of turn.
 {4}, {T}: Put a +1/+1 counter on target creature without a +1/+1 counter on it.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/171.png" num="47">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/152.png" num="47">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3051,7 +2708,7 @@ When this artifact enters, target creature gets +2/+2 and gains flying until end
 When this Aura enters, tap enchanted creature.
 Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
 As long as you control no artifacts, enchanted creature has &quot;{6}: Untap this creature.&quot;</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/172.png" num="53">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/153.png" num="53">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3068,7 +2725,7 @@ As long as you control no artifacts, enchanted creature has &quot;{6}: Untap thi
 			<name>Local Contact</name>
 			<text>Whenever this creature deals combat damage to a player, untap target permanent.
 {3}{U}: Target creature can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/173.png" num="57">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/154.png" num="57">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3085,7 +2742,7 @@ As long as you control no artifacts, enchanted creature has &quot;{6}: Untap thi
 		<card>
 			<name>Scheming Operative</name>
 			<text>Vice Hands — Whenever this creature deals combat damage to a player, if you control a Weapon, surveil 1. If you don&apos;t, create a Weapon token. (It&apos;s an Equipment artifact with &quot;Equipped creature gets +1/+1&quot; and equip {2}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/174.png" num="71">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/155.png" num="71">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3105,7 +2762,7 @@ As long as you control no artifacts, enchanted creature has &quot;{6}: Untap thi
 			<text>Vigilance
 M can&apos;t be blocked as long as you control no other creatures.
 Whenever M deals combat damage to a player, create a 1/1 blue Spy creature token.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/175.png" num="58">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/156.png" num="58">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3124,7 +2781,7 @@ Whenever M deals combat damage to a player, create a 1/1 blue Spy creature token
 			<text>When this Equipment enters, return target nonland permanent to its owner&apos;s hand.
 Equipped creature gets +1/+1 and has flying.
 Equip {3}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/176.png" num="70">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/157.png" num="70">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3143,7 +2800,7 @@ Equip {3}</text>
 When this Vehicle enters, create a 1/1 blue Spy creature token.
 Whenever this Vehicle deals combat damage to a player, surveil 1.
 Crew 1</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/177.png" num="186">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/158.png" num="186">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3159,7 +2816,7 @@ Crew 1</text>
 			<name>James Bond, 007</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
 Whenever Bond deals combat damage to a player, draw that many cards, then put a +1/+1 counter on him.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/178.png" num="54">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/159.png" num="54">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3178,7 +2835,7 @@ Whenever Bond deals combat damage to a player, draw that many cards, then put a 
 			<text>Tap all artifacts and creatures you don&apos;t control. Put a stun counter on each of them. 
 Cycling {2}{U}
 When you cycle this card, create a 1/1 white Cat creature token.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/179.png" num="60">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/160.png" num="60">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3195,7 +2852,7 @@ When you cycle this card, create a 1/1 white Cat creature token.</text>
 			<name>SPECTRE Fixers</name>
 			<text>Whenever this creature enters or deals combat damage to a player, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)
 {2}: Put target card from a graveyard on the bottom of its owner&apos;s library.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/180.png" num="74">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/161.png" num="74">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3212,7 +2869,7 @@ When you cycle this card, create a 1/1 white Cat creature token.</text>
 		<card>
 			<name>Babe (TT) ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/181.png" num="10">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/162.png" num="10">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3230,7 +2887,7 @@ When you cycle this card, create a 1/1 white Cat creature token.</text>
 		<card>
 			<name>Clue token (TT) ULT2B</name>
 			<text>{2}, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/182.png" num="30">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/163.png" num="31">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3245,7 +2902,7 @@ When you cycle this card, create a 1/1 white Cat creature token.</text>
 		<card>
 			<name>Forest (TT)</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/183.png" num="281">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/164.png" num="281">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3262,7 +2919,7 @@ When you cycle this card, create a 1/1 white Cat creature token.</text>
 			<text>{T}: Add {C}.
 {1}, {T}: Add one mana of any color.
 Formidable — {2}, {T}: Create a Treasure token. Activate only if the total power of creatures you control is 8 or greater.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/184.png" num="222">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/165.png" num="222">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3279,7 +2936,7 @@ Formidable — {2}, {T}: Create a Treasure token. Activate only if the total pow
 			<text>This land enters tapped unless you control a basic land.
 {T}: Add {G}.
 Formidable — {4}, {T}, Sacrifice this land: Create two Clue tokens. This ability costs {4} less to activate if you control creatures with total power 8 or greater.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/185.png" num="232">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/166.png" num="232">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3295,7 +2952,7 @@ Formidable — {4}, {T}, Sacrifice this land: Create two Clue tokens. This abili
 		<card>
 			<name>Soldier (TT) ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/186.png" num="9">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/167.png" num="9">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3315,7 +2972,7 @@ Formidable — {4}, {T}, Sacrifice this land: Create two Clue tokens. This abili
 			<text>The Alamo enters the battlefield tapped unless you control a basic land. As it enters, choose a color other than green.
 {T}: Add {G} or one mana of the chosen color.
 {3}: Return The Alamo from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/187.png" num="193">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/168.png" num="193">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3332,7 +2989,7 @@ Formidable — {4}, {T}, Sacrifice this land: Create two Clue tokens. This abili
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 This land is every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/188.png" num="194">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/169.png" num="194">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3347,7 +3004,7 @@ This land is every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text
 			<name>Horseman&apos;s Rage</name>
 			<text>Target creature gets +2/+2 until end of turn.
 Formidable — Then if the total power of creatures you control is 8 or greater, that creature also gains deathtouch and indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/189.png" num="164">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/170.png" num="164">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3365,7 +3022,7 @@ Formidable — Then if the total power of creatures you control is 8 or greater,
 			<text>Enchant creature
 When this Aura enters, enchanted creature fights up to one target creature.
 Enchanted creature gets +1/+2 and has protection from creatures with flying.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/190.png" num="135">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/171.png" num="135">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3382,7 +3039,7 @@ Enchanted creature gets +1/+2 and has protection from creatures with flying.</te
 			<name>Fur-Bearing Trout</name>
 			<text>Defender
 Formidable — As long as the total power of creatures you control is 8 or greater, Fur-Bearing Trout can attack as though it didn&apos;t have defender.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/191.png" num="161">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/172.png" num="161">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3401,7 +3058,7 @@ Formidable — As long as the total power of creatures you control is 8 or great
 			<text>When Johnny Appleseed enters, choose one—
 • Mill three cards. You may return a land card from among them to your hand.
 • Put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/192.png" num="142">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/173.png" num="142">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3418,7 +3075,7 @@ Formidable — As long as the total power of creatures you control is 8 or great
 		<card>
 			<name>American Jackalope</name>
 			<text>Formidable — {8}: American Jackalope gets +3/+3 and gains reach until end of turn. This ability costs {5} less to activate if the total power of creatures you control is 8 or greater. Activate only once each turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/193.png" num="132">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/174.png" num="132">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3440,7 +3097,7 @@ Formidable — At the beginning of your end step, if you control creatures with 
 ---
 
 Create two 1/1 white Soldier creature tokens.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/194.png" num="146">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/175.png" num="146">ULT2B</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3461,7 +3118,7 @@ Create two 1/1 white Soldier creature tokens.</text>
 • Destroy target artifact, enchantment, or creature with flying.
 • Search your library for a land card, put it onto the battlefield tapped, then shuffle.
 • Create Babe, a 3/3 legendary blue Ox creature token.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/195.png" num="136">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/176.png" num="136">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3480,7 +3137,7 @@ Create two 1/1 white Soldier creature tokens.</text>
 			<text>Golden Plates of Mormon is all colors.
 {T}: Add two mana of any one color.
 Formidable — {W}{U}{B}{R}{G}, Exile Golden Plates of Mormon: Draw three cards. Activate only if the total power of creatures you control is 8 or greater.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/196.png" num="188">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/177.png" num="188">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3496,7 +3153,7 @@ Formidable — {W}{U}{B}{R}{G}, Exile Golden Plates of Mormon: Draw three cards.
 			<name>Bigfoot</name>
 			<text>Reach, hexproof
 Forestcycling {2}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/197.png" num="133">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/178.png" num="133">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3513,7 +3170,7 @@ Forestcycling {2}</text>
 		<card>
 			<name>John Henry</name>
 			<text>Formidable — When John Henry enters or dies, if the total power of creatures you control is 8 or greater, destroy target noncreature permanent.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/198.png" num="141">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/179.png" num="141">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3531,7 +3188,7 @@ Forestcycling {2}</text>
 			<name>Godless Shrine (DISC)</name>
 			<text>({T}: Add {W} or {B}.)
 This land enters tapped unless you pay 2 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/199.png" num="221">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/180.png" num="220">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3544,324 +3201,9 @@ This land enters tapped unless you pay 2 life.</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>On An Adventure (DEM) ULT2B</name>
-			<text>​</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/200.png" num="1">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-			<reverse-related count="1">Cithria the Bold</reverse-related>
-			<reverse-related count="1">Lucian, the Purifier</reverse-related>
-			<reverse-related count="1">Lux, the Light of Demacia</reverse-related>
-		</card>
-		<card>
-			<name>Stony Suppressor</name>
-			<text>Creatures your opponents control enter tapped.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/201.png" num="35">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Sculpture</type>
-				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>3/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Plains (DEM)</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/202.png" num="267">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Plains</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Mageseeker Investigator</name>
-			<text>Vigilance
-Whenever an opponent casts their first noncreature spell each turn, investigate unless they pay {2}. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/203.png" num="28">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Detective</type>
-				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Brightsteel Protector</name>
-			<text>Flash
-This creature enters tapped if it&apos;s not your turn.
-When this creature enters, another target creature you control gains indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/204.png" num="9">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Soldier</type>
-				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Citadel of Dawn</name>
-			<text>This land enters tapped.
-When this land enters, surveil 1.
-This land has all basic land types.
-({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/205.png" num="203">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Grand Plaza</name>
-			<text>This land enters tapped unless you control two or more other lands. As it enters, choose a color other than white.
-{T}: Add {W} or one mana of the chosen color.
-{3}{W}{W}, {T}, Sacrifice this land: Create a 3/3 white Human Soldier creature token with vigilance. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/206.png" num="223">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Petricite Grove</name>
-			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control three or fewer lands, untap it. Otherwise, put a vigilance counter on target creature you control.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/207.png" num="265">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Galio, the Colossus</name>
-			<text>Flash
-Flying
-Galio costs {1} less to cast for each tapped creature your opponents control.
-During your turn, Galio isn&apos;t a creature.
-Other creatures you control get +1/+1 and have hexproof.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/208.png" num="16">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Creature — Sculpture</type>
-				<maintype>Creature</maintype>
-				<manacost>6WW</manacost>
-				<cmc>8</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>7/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Lord Eldred, Master Mageseeker</name>
-			<text>Vigilance
-When Lord Eldred enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
-Your opponents can&apos;t cast spells during your turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/209.png" num="25">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Detective</type>
-				<maintype>Creature</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Lucian, the Purifier // The Culling</name>
-			<text>Lucian has first strike during your turn.
-Whenever Lucian attacks, you may pay {2}. If you do, tap target creature.
-
----
-
-The Culling deals 3 damage to each tapped creature. (Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/210.png" num="26">ULT2B</set>
-			<prop>
-				<layout>adventure</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Scout // Sorcery — Adventure</type>
-				<maintype>Creature</maintype>
-				<manacost>1W // 3WW</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Cithria the Bold // Soldiers, to Me!</name>
-			<text>When Cithria enters, creatures you control get +1/+1 and gain vigilance until end of turn.
-
----
-
-Create a 3/3 white Human Soldier creature token with vigilance. (Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/211.png" num="12">ULT2B</set>
-			<prop>
-				<layout>adventure</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Soldier // Sorcery — Adventure</type>
-				<maintype>Creature</maintype>
-				<manacost>4WW // 3W</manacost>
-				<cmc>6</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Garen, the Might of Demacia</name>
-			<text>Vigilance
-Exhaust — {6}{W}: Create a 3/3 white Human Soldier creature token with vigilance. This ability costs {6} less to activate if a player has cast two or more spells this turn. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/212.png" num="17">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Soldier</type>
-				<maintype>Creature</maintype>
-				<manacost>4W</manacost>
-				<cmc>5</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Lux, the Light of Demacia // Final Spark</name>
-			<text>Whenever a player casts their second spell each turn, put a +1/+1 counter on Lux.
-
----
-
-Destroy target tapped creature with power 4 or greater. (Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/213.png" num="27">ULT2B</set>
-			<prop>
-				<layout>adventure</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Wizard // Instant — Adventure</type>
-				<maintype>Creature</maintype>
-				<manacost>2W // 2W</manacost>
-				<cmc>3</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>High Silvermere</name>
-			<text>High Silvermere enters tapped. As it enters, choose a color.
-{T}: Add {W} or one mana of the chosen color.
-{3}{W}{W}, Discard High Silvermere: Put a +1/+1 counter, a flying counter, and a vigilance counter on target creature.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/214.png" num="224">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Kayle, Daughter of Justice</name>
-			<text>Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
-[0]: Until end of turn, Kayle becomes a 3/4 Avatar creature with flying and indestructible.
-[-3]: Destroy target artifact, enchantment, or tapped creature.
-[-8]: Creatures you control get +2/+2 and gain flying and indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/215.png" num="21">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Planeswalker — Kayle</type>
-				<maintype>Planeswalker</maintype>
-				<manacost>2WW</manacost>
-				<cmc>4</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<loyalty>4</loyalty>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Human Soldier (DEM) ULT2B</name>
-			<text>Vigilance</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/216.png" num="7">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Human Soldier</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related count="1">Cithria the Bold</reverse-related>
-			<reverse-related count="1">Garen, the Might of Demacia</reverse-related>
-			<reverse-related count="1">Grand Plaza</reverse-related>
-		</card>
-		<card>
 			<name>A Game with Death</name>
 			<text>Destroy target creature. If a creature you control is destroyed this way, draw three cards. Otherwise, you lose 3 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/217.png" num="83">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/181.png" num="83">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3879,7 +3221,7 @@ Destroy target tapped creature with power 4 or greater. (Then exile this card. Y
 			<text>Choose one —
 • Face the Danger — Exile target creature if it has flying or mana value 4 or greater.
 • Run Away! — Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to its owner&apos;s hand.&quot;</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/218.png" num="156">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/182.png" num="156">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3898,7 +3240,7 @@ Destroy target tapped creature with power 4 or greater. (Then exile this card. Y
 This land enters tapped. When it enters, choose one —
 • Target player loses 1 life.
 • Target player gains 1 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/219.png" num="196">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/183.png" num="196">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3916,7 +3258,7 @@ This land enters tapped. When it enters, choose one —
 When this land enters, surveil 1.
 This land has all basic land types.
 ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/220.png" num="208">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/184.png" num="208">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3931,7 +3273,7 @@ This land has all basic land types.
 			<name>Dragon (DISC) ULT2B</name>
 			<text>Flying
 Expendable (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/221.png" num="23">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/185.png" num="23">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3950,7 +3292,7 @@ Expendable (This creature can&apos;t block. When it attacks, sacrifice it at end
 			<name>Godless Shrine (DISC)</name>
 			<text>({T}: Add {W} or {B}.)
 This land enters tapped unless you pay 2 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/222.png" num="220">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/186.png" num="221">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3965,7 +3307,7 @@ This land enters tapped unless you pay 2 life.</text>
 		<card>
 			<name>Human Soldier (DISC) ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/223.png" num="8">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/187.png" num="8">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3984,7 +3326,7 @@ This land enters tapped unless you pay 2 life.</text>
 			<name>Troll Constable</name>
 			<text>Whenever you meddle during your turn, Troll Constable gains indestructible until end of turn. (Targeting players, anything they control, and/or cards in their graveyards is meddling.)
 {1}, Discard this card: Two target players each search their library for a basic land card, reveal it, put it into their hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/224.png" num="179">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/188.png" num="179">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4003,7 +3345,7 @@ This land enters tapped unless you pay 2 life.</text>
 			<text>Vimes has first strike during your turn.
 At the beginning of your end step, you gain 2 life for each player you meddled in the affairs of this turn. (Targeting players, anything they control, and/or cards in their graveyards is meddling.)
 {4}{W}: Tap or untap target creature.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/225.png" num="10">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/189.png" num="10">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4023,7 +3365,7 @@ At the beginning of your end step, you gain 2 life for each player you meddled i
 			<text>Choose one — 
 • Target player recruits twice. (To recruit, draw a card, then discard card. If you discard a nonland, create a 1/1 white Human Soldier creature token.)
 • Creatures target player controls get +2/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/226.png" num="152">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/190.png" num="152">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4041,7 +3383,7 @@ At the beginning of your end step, you gain 2 life for each player you meddled i
 			<name>Lady Sybil Ramkin-Vimes</name>
 			<text>Reach
 At the beginning of your end step, for each player you meddled in the affairs of this turn, create a 2/1 red Dragon creature token with flying and expendable. (It can&apos;t block. When it attacks, sacrifice it at end of combat. Targeting players, anything they control, and/or cards in their graveyards is meddling.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/227.png" num="22">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/191.png" num="22">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4059,7 +3401,7 @@ At the beginning of your end step, for each player you meddled in the affairs of
 		<card>
 			<name>Moist von Lipwig, Conman</name>
 			<text>Exhaust — {X}{B}{B}: Target player mills four cards. Exile up to X of them. During any turn in which you&apos;ve meddled, you may play the exiled cards by spending mana of any type. Activate only as a sorcery. (Targeting players, anything they control, and/or cards in their graveyards is meddling. Activate only once.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/228.png" num="29">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/192.png" num="29">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4077,7 +3419,7 @@ At the beginning of your end step, for each player you meddled in the affairs of
 			<name>Monstrous Regiment</name>
 			<text>At the beginning of your end step, for each different player you&apos;ve meddled in the affairs of this turn, you may pay 1 life. If you do, put a +1/+1 counter on this creature. (Targeting players, anything they control, and/or cards in their graveyards is meddling.)
 {4}{B}: Target creature gets +1/-1 until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/229.png" num="106">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/193.png" num="106">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4096,7 +3438,7 @@ At the beginning of your end step, for each player you meddled in the affairs of
 			<text>As this enters enters, choose Trolls or Dwarves.
 • Trolls — Whenever you attack, target creature gets +2/+0 and gains menace until end of turn.
 • Dwarves — Creatures can&apos;t attack you unless their controller pays {3} for each attacking creature with flying and {2} for each without.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/230.png" num="154">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/194.png" num="154">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4115,7 +3457,7 @@ At the beginning of your end step, for each player you meddled in the affairs of
 • Choose a card type. Two target players each sacrifice two nonland permanents of that type.
 • Two target players each draw three cards.
 • Two target players each gains 6 life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/231.png" num="153">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/195.png" num="153">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4130,324 +3472,10 @@ At the beginning of your end step, for each player you meddled in the affairs of
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Baker&apos;s House</name>
-			<text>When this land enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
-Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/232.png" num="198">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Castle Dimitrescu</name>
-			<text>This land enters tapped.
-When this land enters, surveil 1. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
-This land has every basic land type ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/233.png" num="200">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Death of Winter</name>
-			<text>Destroy target creature.
-Undergrowth — You gain X life, where X is the number of creature cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/234.png" num="89">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2BB</manacost>
-				<cmc>4</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Duke&apos;s Find</name>
-			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
-Draw two cards and create a Treasure token.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/236.png" num="91">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-			<related count="2">Treasure (VIL) (ULT2B)</related>
-		</card>
-		<card>
-			<name>Ethan, Molded Father</name>
-			<text>Whenever Ethan attacks, mill a card, then put a +1/+1 counter on him if you have three or more creature cards in your graveyard.
-Sacrifice Ethan: Move Ethan&apos;s counters onto target creature you control. Tap it. It gains indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/237.png" num="160">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Fungus Mutant Survivor</type>
-				<maintype>Creature</maintype>
-				<manacost>1W/B</manacost>
-				<cmc>2</cmc>
-				<colors>WB</colors>
-				<coloridentity>WB</coloridentity>
-				<pt>1/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Eveline, Modified Bioweapon</name>
-			<text>Flash
-When Eveline dies, mill two cards.
-{B}, Discard Eveline: Target creature gains deathtouch until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/238.png" num="94">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Fungus Mutant</type>
-				<maintype>Creature</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>House Beneviento</name>
-			<text>This land enters tapped.
-When this land enters, choose a color, then create a 0/1 colorless Toy artifact creature token with &quot;When this creature dies, mill a card.&quot;
-{T}: Add {B} or one mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/239.png" num="225">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-			<related>Toy (VIL) (ULT2B)</related>
-		</card>
-		<card>
-			<name>Insect (VIL) ULT2B</name>
-			<text>Flying</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/240.png" num="14">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Insect</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Jack Baker, Welcoming Father</name>
-			<text>Menace
-Undergrowth — {2}{BR}, {T}: Jack Baker deals X damage to target creature, where X is the number of creature cards in your graveyard. Activate only once and as a sorcery.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/241.png" num="165">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Fungus Mutant</type>
-				<maintype>Creature</maintype>
-				<manacost>2B/R</manacost>
-				<cmc>3</cmc>
-				<colors>BR</colors>
-				<coloridentity>BR</coloridentity>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Lady Dimitrescu</name>
-			<text>Menace
-Undergrowth — {10}{B}{B}: Exile Lady Dimitrescu then return her to the battlefield transformed. This costs {1} less to activate for each creature card in your graveyard. Activate only as a sorcery.
----
-(Back): Dimitrescu, Draconic Mutant</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/242_front.png" num="100a">ULT2B</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Legendary Creature — Mutant Noble</type>
-				<maintype>Creature</maintype>
-				<manacost>3B</manacost>
-				<cmc>4</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>4/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Dimitrescu, Draconic Mutant</related>
-		</card>
-		<card>
-			<name>Dimitrescu, Draconic Mutant</name>
-			<text>Flying, menace
----
-(Front): Lady Dimitrescu</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/242_back.png" num="100b">ULT2B</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Creature — Mutant Dragon</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>7/7</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Lady Dimitrescu</related>
-		</card>
-		<card>
-			<name>Lycan</name>
-			<text>Haste
-Exhaust — {2}{B}, {T}: Mill three cards, then you may return a creature card from your graveyard to your hand. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/243.png" num="103">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Zombie</type>
-				<maintype>Creature</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Marguerite, Insectile Molded</name>
-			<text>Undergrowth — {4}{B}{B}, {T}: Create X 1/1 black Insect creature tokens with flying, where X is the number of creature cards in your graveyard. Activate only once and as a sorcery.
-Swampcycling {2}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/244.png" num="104">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Mutant Horror</type>
-				<maintype>Creature</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>4/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related>Insect (VIL) (ULT2B)</related>
-		</card>
-		<card>
-			<name>Molded One</name>
-			<text>When this creature enters or dies, mill two cards.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/245.png" num="105">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Fungus Mutant Horror</type>
-				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>3/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Swamp</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/246.png" num="283">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>The Baby of House Beneviento</name>
-			<text>Undergrowth — When this creature enters, you may pay 2 life. If you do, up to one target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/247.png" num="84">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Mutant Child Horror</type>
-				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>1/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Toy (VIL) ULT2B</name>
-			<text>When this creature dies, mill a card.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/248.png" num="37">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact Creature — Toy</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<pt>0/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Treasure (VIL) ULT2B</name>
-			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/249.png" num="39">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Artifact — Treasure</type>
-				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Climb from the Abyss</name>
 			<text>Mill two cards. When you do, return target creature card from your graveyard to the battlefield with a finality counter on it.
 Flashback {2}{B}{B}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/250.png" num="151">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/196.png" num="151">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4463,7 +3491,7 @@ Flashback {2}{B}{B}{G}{G} (You may cast this card from your graveyard for its fl
 		<card>
 			<name>Cornifer, Cartographer</name>
 			<text>When Cornifer enters, mill four cards. You may return a land card from your graveyard to your hand. If you don&apos;t, put a +1/+1 counter on him.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/251.png" num="134">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/197.png" num="134">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4482,7 +3510,7 @@ Flashback {2}{B}{B}{G}{G} (You may cast this card from your graveyard for its fl
 			<text>Reach
 When this creature enters, mill two cards.
 {4}, {T}, Sacrifice Corpse Creeper: Return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/252.png" num="87">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/198.png" num="87">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4499,7 +3527,7 @@ When this creature enters, mill two cards.
 		<card>
 			<name>Dream No More</name>
 			<text>Mill a card, then destroy target creature if its mana value is less than or equal to the number of cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/253.png" num="90">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/199.png" num="90">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4516,7 +3544,7 @@ When this creature enters, mill two cards.
 			<name>Empty One, Returned Traveler</name>
 			<text>{2B}: Empty One gets +1/+1 until end of turn. 
 Escape— {2}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for {2}{B}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/254.png" num="92">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/200.png" num="92">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4533,7 +3561,7 @@ Escape— {2}{B}, Exile three other cards from your graveyard. (You may cast thi
 		<card>
 			<name>Forest (HK)</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/255.png" num="280">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/201.png" num="280">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4549,7 +3577,7 @@ Escape— {2}{B}, Exile three other cards from your graveyard. (You may cast thi
 			<name>Infected Hopper</name>
 			<text>Reach, deathtouch
 When this creature enters, surveil 1.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/256.png" num="140">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/202.png" num="140">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4566,7 +3594,7 @@ When this creature enters, surveil 1.</text>
 		<card>
 			<name>Insect Spirit (HK) ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/257.png" num="24">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/203.png" num="24">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4587,7 +3615,7 @@ When this creature enters, surveil 1.</text>
 			<text>This land enters tapped.
 {T}: Add {B} or {G}.
 {2}{B}{G}, {T}, Sacrifice this land: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/258.png" num="229">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/204.png" num="229">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4604,7 +3632,7 @@ When this creature enters, surveil 1.</text>
 			<name>Monument to the Void</name>
 			<text>This land enters tapped, As it does, choose a color other than black or green.
 {T}: Add {B}, {G}, or one mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/259.png" num="235">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/205.png" num="235">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4621,7 +3649,7 @@ When this creature enters, surveil 1.</text>
 			<name>Moth Seer</name>
 			<text>When this creature enters and at the beginning of your upkeep, surveil 1.
 Whenever a creature card is put into your graveyard for the first time each turn, create a 1/1 green Insect Spirit creature token.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/260.png" num="145">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/206.png" num="145">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4639,7 +3667,7 @@ Whenever a creature card is put into your graveyard for the first time each turn
 			<name>Overgrown Tomb (HK)</name>
 			<text>({T}: Add {B} or {G}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/261.png" num="240">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/207.png" num="240">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4654,7 +3682,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		<card>
 			<name>Swamp (HK)</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/262.png" num="277">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/208.png" num="277">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4672,7 +3700,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 I — Destroy target nonland permanent.
 II — Mill three cards.
 III — Return target creature card from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/263.png" num="150">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/209.png" num="150">ULT2B</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4690,7 +3718,7 @@ III — Return target creature card from your graveyard to the battlefield tappe
 			<text>Menace
 Plague Vessel — When The Hollow Knight dies, put two -1/-1 counters on each other creature.
 Evoke {3}{B}{B} (You may cast this spell for {3}{B}{B}. If you do, he&apos;s sacrificed when he enters.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/264.png" num="99">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/210.png" num="99">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4709,7 +3737,7 @@ Evoke {3}{B}{B} (You may cast this spell for {3}{B}{B}. If you do, he&apos;s sac
 			<text>Reach, vigilance, trample
 When The Pure Vessel dies, return up to one target non-Avatar permanent card from your graveyard to your hand.
 Evoke {2}{G} (You may cast this spell for {2}{G}. If you do, he&apos;s sacrificed when he enters.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/265.png" num="147">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/211.png" num="147">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4728,7 +3756,7 @@ Evoke {2}{G} (You may cast this spell for {2}{G}. If you do, he&apos;s sacrifice
 			<text>This land enters tapped.
 When this land enters, surveil 1.
 This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/266.png" num="262">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/212.png" num="262">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4744,7 +3772,7 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 			<name>Akali, The Baddest</name>
 			<text>Sneak {2}{U} (You may cast this spell for {2}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
 Akali gets +1/+0 for each tapped creature you don&apos;t control.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/267.png" num="41">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/213.png" num="41">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4763,7 +3791,7 @@ Akali gets +1/+0 for each tapped creature you don&apos;t control.</text>
 			<text>This spell costs {2} less to cast if it targets a permanent with flying.
 Sneak {3}{U} (You may cast this spell for {3}{U} if you also return an unblocked attacker you control to hand during the declare blockers step.)
 Return up to two target nonland permanents to their owners&apos; hands.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/268.png" num="46">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/214.png" num="46">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4780,7 +3808,7 @@ Return up to two target nonland permanents to their owners&apos; hands.</text>
 			<name>Evelynn, Villianous Diva</name>
 			<text>Charm (Whenever Evelynn attacks, tap up to one target untapped creature.)
 Whenever Evelynn becomes the target of a spell or ability, tap up to one target artifact or creature.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/269.png" num="48">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/215.png" num="48">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4799,7 +3827,7 @@ Whenever Evelynn becomes the target of a spell or ability, tap up to one target 
 			<text>Choose one —
 • Tap target artifact or creature. Put a stun counter on it.
 • Put two stun counters on target tapped artifact or creature.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/270.png" num="65">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/216.png" num="65">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4817,7 +3845,7 @@ Whenever Evelynn becomes the target of a spell or ability, tap up to one target 
 			<text>Choose one —
 • Intent to Slay deals 4 damage to target creature.
 • Destroy target artifact.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/271.png" num="121">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/217.png" num="121">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4834,7 +3862,7 @@ Whenever Evelynn becomes the target of a spell or ability, tap up to one target 
 			<name>KDA Superfan</name>
 			<text>When this creature enters, target creature can&apos;t block this turn.
 {4}{R}: Create a token that&apos;s a copy of this creature, except it has haste. Sacrifice it at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/272.png" num="123">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/218.png" num="123">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4852,8 +3880,8 @@ Whenever Evelynn becomes the target of a spell or ability, tap up to one target 
 		<card>
 			<name>Kai Sa, Firestarter</name>
 			<text>Haste
-When Kai&apos;Sa attacks, she deals 1 damage to up to one target creature. If that creature has flying, she deals 1 more damage to it. If that creature is tapped, Kai&apos;Sa deals 1 damage to its controller.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/273.png" num="124">ULT2B</set>
+When Kai&apos;Sa attacks, she deals 1 damage to up to one target creature. If that creature is tapped, Kai&apos;Sa deals 1 damage to its controller.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/219.png" num="124">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4871,7 +3899,7 @@ When Kai&apos;Sa attacks, she deals 1 damage to up to one target creature. If th
 			<name>Light it Up</name>
 			<text>Exile the top four cards of your library and choose two of them. You may play the chosen cards this turn.
 Add {R}{R}.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/274.png" num="126">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/220.png" num="126">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4887,8 +3915,8 @@ Add {R}{R}.</text>
 		<card>
 			<name>Ahri, Playful Popstar</name>
 			<text>Haste, charm (When Ahri attacks, tap up to one target untapped creature.)
-Whenever a creature you don&apos;t control becomes tapped, put a stun counter on it.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/275.png" num="149">ULT2B</set>
+Whenever a creature an opponent controls becomes tapped, put a stun counter on it unless that opponent has Ahri deal 3 damage to them.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/221.png" num="149">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4906,7 +3934,7 @@ Whenever a creature you don&apos;t control becomes tapped, put a stun counter on
 			<name>Seraphine, Rising Star</name>
 			<text>Vigilance, charm (Whenever Seraphine attacks, tap up to one target untapped creature.)
 Whenever Seraphine attacks, put a +1/+1 counter on up to one other target creature.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/276.png" num="155">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/222.png" num="155">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4924,7 +3952,7 @@ Whenever Seraphine attacks, put a +1/+1 counter on up to one other target creatu
 			<name>Glamorous Stage</name>
 			<text>This land enters tapped. As it enters, choose a color other than red or blue.
 {T}: Add {U}, {R}, or one mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/277.png" num="219">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/223.png" num="219">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4942,7 +3970,7 @@ Whenever Seraphine attacks, put a +1/+1 counter on up to one other target creatu
 When this land enters, surveil 1.
 This land has all basic land types.
 ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/278.png" num="228">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/224.png" num="228">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4956,7 +3984,7 @@ This land has all basic land types.
 		<card>
 			<name>Island (K/DA)</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/279.png" num="272">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/225.png" num="272">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4971,7 +3999,7 @@ This land has all basic land types.
 		<card>
 			<name>Mountain (K/DA)</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/280.png" num="279">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/226.png" num="279">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4986,7 +4014,7 @@ This land has all basic land types.
 		<card>
 			<name>Copy ULT2B</name>
 			<text>This token can be used to represent a copy of something else.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/281.png" num="1">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/227.png" num="1">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5001,7 +4029,7 @@ This land has all basic land types.
 		<card>
 			<name>Skeleton Army ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/282.png" num="15">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/228.png" num="15">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5029,7 +4057,7 @@ This land has all basic land types.
 			<text>({T}: Add {B}.)
 This land enters tapped unless you control a basic land.
 {4}{B}{B}, {T}, Sacrifice this land and a creature: Target player loses life equal to the sacrificed creature&apos;s power. You gain life equal to its toughness.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/283.png" num="192">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/229.png" num="192">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5044,7 +4072,7 @@ This land enters tapped unless you control a basic land.
 		<card>
 			<name>Brain Leech</name>
 			<text>When this creature enters, you may return up to one target creature card from your graveyard to your hand. If you don&apos;t, amass Skeletons 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Skeleton. If you don&apos;t control an Army, create a 0/0 black Skeleton Army creature token first.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/284.png" num="85">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/230.png" num="85">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5061,7 +4089,7 @@ This land enters tapped unless you control a basic land.
 		<card>
 			<name>Death March</name>
 			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to its owner&apos;s hand, then amass Skeletons 2.&quot; (To amass Skeletons 2, put two +1/+1 counters on an Army you control. It&apos;s also a Skeleton. If you don&apos;t control an Army, create a 0/0 black Skeleton Army creature token first.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/285.png" num="88">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/231.png" num="88">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5079,7 +4107,7 @@ This land enters tapped unless you control a basic land.
 			<text>This land enters tapped. As this land enters, choose a color other than black.
 When this land enters, surveil 1.
 {T}: Add {B} or one mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/286.png" num="211">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/232.png" num="211">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5096,7 +4124,7 @@ When this land enters, surveil 1.
 			<text>This land enters tapped unless you control a basic land.
 {T}: Add {B}.
 {2}{B}, {T}: Amass Skeletons 1. If you created a token this way, you lose 1 life. (Put a +1/+1 counters on an Army you control. It&apos;s also a Skeleton. If you don&apos;t control an Army, create a 0/0 black Skeleton Army creature token first.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/287.png" num="214">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/233.png" num="214">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5112,7 +4140,7 @@ When this land enters, surveil 1.
 			<name>Forbidden Grimoire</name>
 			<text>Flying
 When this creature enters and whenever you cast a noncreature spell, amass Skeletons 2. This ability triggers only once each turn. (To amass Skeletons 2, put two +1/+1 counters on an Army you control. It&apos;s also a Skeleton. If you don&apos;t control an Army, create a 0/0 black Skeleton Army creature token first.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/288.png" num="95">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/234.png" num="95">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5130,7 +4158,7 @@ When this creature enters and whenever you cast a noncreature spell, amass Skele
 			<name>Grave of the Forgotten</name>
 			<text>When this enchantment enters, amass Skeletons 3. (Put three +1/+1 counters on an Army you control. It&apos;s also a Skeleton. If you don&apos;t control an Army, create a 0/0 black Skeleton Army creature token first.)
 {1}{B}: Target attacking creature token gains your choice of menace or lifelink until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/289.png" num="97">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/235.png" num="97">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5147,7 +4175,7 @@ When this creature enters and whenever you cast a noncreature spell, amass Skele
 			<name>Legion of Bone</name>
 			<text>Amass Skeletons 6. (Put six +1/+1 counters on an Army you control. It&apos;s also a Skeleton. If you don&apos;t control an Army, create a 0/0 black Skeleton Army creature token first.)
 Swampcycling {2}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/290.png" num="101">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/236.png" num="101">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5164,7 +4192,7 @@ Swampcycling {2}</text>
 			<name>Neurosurge</name>
 			<text>As an additional cost to cast this spell, blight 1. (Put a -1/-1 counter on a creature you control.)
 Draw two cards.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/291.png" num="169">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/237.png" num="169">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5182,7 +4210,7 @@ Draw two cards.</text>
 			<text>Trample
 Graft 6 (Pael enters with six +1/+1 counters on him. Whenever a creature enters, you may move a +1/+1 counter from Pael onto that creature.)
 Whenever Pael or another creature you control dies, if it was modified, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/292.png" num="170">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/238.png" num="170">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5197,26 +4225,10 @@ Whenever Pael or another creature you control dies, if it was modified, draw a c
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>SPIREBORN LICH</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/293.png" num="2">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>The Necrobinder</name>
 			<text>Flying, deathtouch
 At the beginning of your upkeep, you lose 1 life and amass Skeletons 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Skeleton. If you don&apos;t control an Army, create a 0/0 black Skeleton Army creature token first.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/294.png" num="107">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/239.png" num="107">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5236,7 +4248,7 @@ At the beginning of your upkeep, you lose 1 life and amass Skeletons 1. (Put a +
 When this land enters, surveil 1.
 This land has all basic land types.
 ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/295.png" num="253">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/240.png" num="255">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5250,7 +4262,7 @@ This land has all basic land types.
 		<card>
 			<name>Time&apos;s Up</name>
 			<text>Destroy target creature. If you controlled it, Time&apos;s Up deals damage equal to its power to any target and you gain that much life.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/296.png" num="111">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/241.png" num="111">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5268,7 +4280,7 @@ This land has all basic land types.
 			<text>Choose one — 
 • Blight Strike — Distribute two -1/-1 counters among up to two target creatures.
 • Bodyguard — Amass Skeletons 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Skeleton. If you don&apos;t control an Army, create a 0/0 black Skeleton Army creature token first.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/297.png" num="113">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/242.png" num="113">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5284,7 +4296,7 @@ This land has all basic land types.
 		<card>
 			<name>Swamp (STS2)</name>
 			<text>Making your way through a hollow of dead trees you happen upon a single bone-white tree. Clay baubles hang off its branches, which curve inward like protective ribs. Such a creepy tree.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/298.png" num="278">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/243.png" num="278">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5301,7 +4313,7 @@ This land has all basic land types.
 			<text>This land enters tapped unless you pay 2 life.
 {T}: Add {U}.
 Exhaust — {1}, {T}, Discard a card: Look at the top five cards of your library. You may reveal a noncreature, nonland card from among them. Put it into your hand and the rest on the bottom of your library in a random order. (Activate each exhaust ability only once.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/299.png" num="212">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/244.png" num="212">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5317,7 +4329,7 @@ Exhaust — {1}, {T}, Discard a card: Look at the top five cards of your library
 			<name>Flaw</name>
 			<text>Vigilance, ward {2}
 Exile Flaw: Return any number of permanents you own to your hand.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/300.png" num="49">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/245.png" num="49">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5335,7 +4347,7 @@ Exile Flaw: Return any number of permanents you own to your hand.</text>
 			<name>Frost Orb</name>
 			<text>When Frost Orb enters, tap up to one target artifact or creature and put a stun counter on it. If Frost Orb was evoked, this ability triggers an additional time.
 Evoke {4}{U} (You may cast this for {4}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/301.png" num="50">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/246.png" num="50">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5352,7 +4364,7 @@ Evoke {4}{U} (You may cast this for {4}{U}. If you do, it&apos;s sacrificed when
 			<name>Hologram</name>
 			<text>Ward {4}
 {1}{U}, Discard this card: Exile target nonland permanent you control. Return it to the battlefield under its owner&apos;s control.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/302.png" num="52">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/247.png" num="52">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5367,27 +4379,11 @@ Evoke {4}{U} (You may cast this for {4}{U}. If you do, it&apos;s sacrificed when
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>LEARNING MACHINE</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/303.png" num="1">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Plasma Orb</name>
 			<text>When Plasma Orb enters, return up to one target permanent you control to its owner&apos;s hand. Draw a card. If Plasma Orb was evoked, this ability triggers an additional time.
 If Plasma Orb would leave the battlefield, shuffle it into its owner&apos;s library instead.
 Evoke {3}{U} (You may cast this for {3}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/304.png" num="66">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/248.png" num="66">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5406,7 +4402,7 @@ Evoke {3}{U} (You may cast this for {3}{U}. If you do, it&apos;s sacrificed when
 When Rocket Boosters enters, attach it to up to one target creature.
 Equipped creature gets +1/+3 and has flying.
 Equip {4}{U}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/305.png" num="189">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/249.png" num="189">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5425,7 +4421,7 @@ Equip {4}{U}</text>
 When Rocket Fist enters, return up to one other target artifact or enchantment to its owner&apos;s hand.
 Equipped creature gets +3/+1 and has reach.
 Equip {3}{U}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/306.png" num="190">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/250.png" num="190">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5444,7 +4440,7 @@ Equip {3}{U}</text>
 When this land enters, you gain 2 life and choose a color.
 {T}: Add one mana of the chosen color.
 {3}, {T}, Sacrifice this land: Return target permanent you own to your hand.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/307.png" num="251">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/251.png" num="251">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5456,30 +4452,11 @@ When this land enters, you gain 2 life and choose a color.
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>The Defect</name>
-			<text>Vigilance
-When Defect enters, mill three cards. You may return a noncreature, nonland card from among them to your hand.
-{T}: Add {C}. You can&apos;t spend this mana to cast creature spells.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/308.png" num="45">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Artifact Creature — Construct</type>
-				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<pt>1/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>The Spire</name>
 			<text>This land enters tapped.
 When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/309.png" num="254">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/252.png" num="253">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5493,7 +4470,7 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 		<card>
 			<name>Elemental (DFCT) 1 ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/310.png" num="16">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/253.png" num="16">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5511,7 +4488,7 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 		<card>
 			<name>Elemental (DFCT) 2 ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/311.png" num="13">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/254.png" num="13">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5529,7 +4506,7 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 		<card>
 			<name>Island (DFCT)</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/312.png" num="271">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/255.png" num="271">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5545,7 +4522,7 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 			<name>Lightning Orb</name>
 			<text>When Lightning Orb enters, create a 2/1 red Elemental creature token. If Lightning Orb was evoked, this ability triggers an additional time.
 Evoke {3}{U} (You may cast this for {3}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/313.png" num="56">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/256.png" num="56">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5563,7 +4540,7 @@ Evoke {3}{U} (You may cast this for {3}{U}. If you do, it&apos;s sacrificed when
 			<name>Dark Orb</name>
 			<text>When Dark Orb enters, create a 2/2 black Elemental creature token. Put a +1/+1 counter on it if there are four or more card types among cards in your graveyard. If Dark Orb was evoked, this ability triggers an additional time.
 Evoke {5}{U} (You may cast this for {5}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/314.png" num="44">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/257.png" num="44">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5580,7 +4557,7 @@ Evoke {5}{U} (You may cast this for {5}{U}. If you do, it&apos;s sacrificed when
 		<card>
 			<name>Darv, The Hoarder</name>
 			<text>When Darv enters, create three tapped Treasure tokens, then exile the top three cards of target opponent&apos;s library face down. For as long as they&apos;re exiled, you may look at them, and may play them by sacrificing a nontoken, nonland permanent in addition to their other costs.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/315.png" num="158">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/258.png" num="158">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5596,26 +4573,10 @@ Evoke {5}{U} (You may cast this for {5}{U}. If you do, it&apos;s sacrificed when
 			<related>Treasure (ULT2)</related>
 		</card>
 		<card>
-			<name>A CYBERS WORLD</name>
-			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/316.png" num="0">ULT2B</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Adoring Swatchlings</name>
 			<text>When this creature enters, draw a card, then discard a card.
 {4}{U}: Return this card from your graveyard to the battlefield with a finality counter. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/317.png" num="39">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/259.png" num="39">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5633,7 +4594,7 @@ Evoke {5}{U} (You may cast this for {5}{U}. If you do, it&apos;s sacrificed when
 			<name>Color Cafe</name>
 			<text>{T}: Add {C}.
 {T}: This land gains a basic land type of your choice. (This effect lasts indefinitely)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/318.png" num="205">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/260.png" num="205">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5649,7 +4610,7 @@ Evoke {5}{U} (You may cast this for {5}{U}. If you do, it&apos;s sacrificed when
 			<text>Equipped creature is an artifact in addition to its types and can&apos;t be blocked.
 Whenever equipped creature deals combat damage to a player, surveil 2.
 Equip {4}</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/319.png" num="187">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/261.png" num="187">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5665,7 +4626,7 @@ Equip {4}</text>
 			<text>This land enters tapped.
 When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 This land has all basic land types. ({T}: Add {W}, {U}, {B}, {R} or {G}.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/320.png" num="206">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/262.png" num="206">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5679,7 +4640,7 @@ This land has all basic land types. ({T}: Add {W}, {U}, {B}, {R} or {G}.)</text>
 		<card>
 			<name>Island (DR2)</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/321.png" num="226">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/263.png" num="226">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5694,7 +4655,7 @@ This land has all basic land types. ({T}: Add {W}, {U}, {B}, {R} or {G}.)</text>
 		<card>
 			<name>Robot (DR2) ULT2B</name>
 			<text></text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/322.png" num="11">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/264.png" num="11">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5712,7 +4673,7 @@ This land has all basic land types. ({T}: Add {W}, {U}, {B}, {R} or {G}.)</text>
 		<card>
 			<name>Sketchy Alleyway</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Put a hexproof counter on it. It&apos;s an artifact in addition to its types. (This effect lasts indefinitely.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/323.png" num="250">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/265.png" num="250">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5726,7 +4687,7 @@ This land has all basic land types. ({T}: Add {W}, {U}, {B}, {R} or {G}.)</text>
 		<card>
 			<name>Annoying Addisons</name>
 			<text>{4}{U}{U}, Exile this card from your graveyard: Mill four cards. Put up to two cards from among them to your hand. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/324.png" num="42">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/266.png" num="42">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5746,7 +4707,7 @@ This land has all basic land types. ({T}: Add {W}, {U}, {B}, {R} or {G}.)</text>
 Choose one or both —
 • Exile target creature, then return it to the battlefield under its owner&apos;s control.
 • Tap target creature, then put two stun counters on it.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/325.png" num="55">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/267.png" num="55">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5764,7 +4725,7 @@ Choose one or both —
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {U}.
 Exhaust — {4}{U}{U}: This land becomes a 5/5 artifact creature with hexproof and loses all other types and abilities. (This effect lasts indefinitely.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/326.png" num="244">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/268.png" num="244">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5782,7 +4743,7 @@ Exhaust — {4}{U}{U}: This land becomes a 5/5 artifact creature with hexproof a
 {2}{U}, Exile Spamton from your graveyard: Return target artifact card from your graveyard to your hand.
 ---
 (Back): Spamton NEO</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/327_front.png" num="73a">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/269_front.png" num="73a">ULT2B</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5803,7 +4764,7 @@ Exhaust — {4}{U}{U}: This land becomes a 5/5 artifact creature with hexproof a
 If Spamton NEO would leave the battlefield, exile him instead.
 ---
 (Front): Spamton G Spamton</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/327_back.png" num="73b">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/269_back.png" num="73b">ULT2B</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5824,7 +4785,7 @@ If Spamton NEO would leave the battlefield, exile him instead.
 When Tasque enters, choose one —
 • Counter target spell with mana value 3 or less.
 • Create a 1/1 blue Robot artifact creature token.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/329.png" num="75">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/271.png" num="75">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5844,7 +4805,7 @@ When Tasque enters, choose one —
 			<text>Choose one — 
 • Target artifact or creature becomes an artifact creature with base power and toughness 1/1 until end of turn.
 • Target artifact or creature becomes an artifact creature with base power and toughness 4/4 until end of turn.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/330.png" num="78">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/272.png" num="78">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5863,7 +4824,7 @@ When Tasque enters, choose one —
 • Sweet — Target player draws two cards, then discards a card.
 • Cap&apos;n — Tap up to two target artifacts and/or creatures.
 • Cakes — Return target creature to its owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/331.png" num="81">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/273.png" num="81">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5881,7 +4842,7 @@ When Tasque enters, choose one —
 			<name>Q5U4EX7YY2E9N, Queen</name>
 			<text>Flying
 When Queen enters, target artifact or creature becomes an artifact creature with base power and toughness 5/5. (This effect lasts indefinitely.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/332.png" num="67">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/274.png" num="67">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5900,7 +4861,7 @@ When Queen enters, target artifact or creature becomes an artifact creature with
 			<text>Flying
 Berdly gets +X/+0, where X is the number of artifacts you control.
 Destiny — {6}{U}{U}, {T}: Draw three cards. Activate only as a sorcery. (This costs {6} less if you&apos;ve resolved a Destiny ability this game.)</text>
-			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/333.png" num="43">ULT2B</set>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/275.png" num="43">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5911,6 +4872,1022 @@ Destiny — {6}{U}{U}, {T}: Draw three cards. Activate only as a sorcery. (This 
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>On An Adventure (DEM) ULT2B</name>
+			<text>​</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/276.png" num="1">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related count="1">Cithria the Bold</reverse-related>
+			<reverse-related count="1">Lucian, the Purifier</reverse-related>
+			<reverse-related count="1">Lux, the Light of Demacia</reverse-related>
+		</card>
+		<card>
+			<name>Stony Suppressor</name>
+			<text>Creatures your opponents control enter tapped.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/277.png" num="35">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Sculpture</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clue (DEM) ULT2B</name>
+			<text>{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/278.png" num="29">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related count="1">Lord Eldred, Master Mageseeker</reverse-related>
+			<reverse-related count="1">Mageseeker Investigator</reverse-related>
+		</card>
+		<card>
+			<name>Plains (DEM)</name>
+			<text></text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/279.png" num="267">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mageseeker Investigator</name>
+			<text>Vigilance
+Whenever an opponent casts their first noncreature spell each turn, investigate unless they pay {2}. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/280.png" num="28">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brightsteel Protector</name>
+			<text>Flash
+This creature enters tapped if it&apos;s not your turn.
+When this creature enters, another target creature you control gains hexproof and indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/281.png" num="9">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Citadel of Dawn</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1.
+This land has all basic land types.
+({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/282.png" num="203">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Grand Plaza</name>
+			<text>This land enters tapped unless you pay 2 life or you control two or more creatures. As it enters, choose a color other than white.
+{T}: Add {W} or one mana of the chosen color.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/283.png" num="223">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Petricite Grove</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Target player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control two or fewer lands, untap that land. Otherwise, put a vigilance counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/284.png" num="265">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Galio, the Colossus</name>
+			<text>Flash
+Flying
+Galio costs {1} less to cast for each tapped creature your opponents control.
+During your turn, Galio isn&apos;t a creature.
+Other creatures you control get +1/+1 and have hexproof.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/285.png" num="16">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Sculpture</type>
+				<maintype>Creature</maintype>
+				<manacost>6WW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lord Eldred, Master Mageseeker</name>
+			<text>Vigilance
+When Lord Eldred Enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Your opponents can&apos;t cast spells during your turn.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/286.png" num="25">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lucian, the Purifier // The Culling</name>
+			<text>Lucian has first strike during your turn.
+Whenever Lucian attacks, you may pay {2}. If you do, tap target creature an opponent controls.
+
+---
+
+The Culling deals 3 damage to each tapped creature. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/287.png" num="26">ULT2B</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scout // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2W // 4WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cithria the Bold</name>
+			<text>When Cithria enters, other creatures you control get +1/+1 and gain vigilance until end of turn.
+Basic landcycling {2}</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/288.png" num="12">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Garen, the Might of Demacia</name>
+			<text>Vigilance
+Exhaust — {6}{W}: Create a 3/3 white Human Soldier creature token with vigilance. This ability costs {5} less to activate if a player has cast two or more spells this turn. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/289.png" num="17">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lux, the Light of Demacia // Final Spark</name>
+			<text>Whenever a player casts their second spell each turn, put a +1/+1 counter on Lux.
+
+---
+
+Destroy target creature with power 4 or greater. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/290.png" num="27">ULT2B</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2W // 2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>High Silvermere</name>
+			<text>High Silvermere enters tapped. As it enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+{3}{W}{W}, Discard this card: Put a +1/+1 counter, a flying counter, and a vigilance counter on target creature.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/291.png" num="224">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kayle, Daughter of Justice</name>
+			<text>Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/4 Avatar creature with flying and indestructible.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying, vigilance, and indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/292.png" num="21">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kayle</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Human Soldier (DEM) ULT2B</name>
+			<text>Vigilance</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/293.png" num="7">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related count="1">Garen, the Might of Demacia</reverse-related>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/294.png" num="283">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Molded One</name>
+			<text>When this creature enters or dies, mill two cards.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/295.png" num="105">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Mutant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Baby of House Beneviento</name>
+			<text>Undergrowth — When this creature enters, you may pay 2 life. If you do, up to one target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/296.png" num="84">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Child Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lycan</name>
+			<text>Haste
+Exhaust — {2}{B}, {T}: Mill five cards, then you may return a creature card from your graveyard to your hand. Activate only as a sorcery (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/297.png" num="103">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death of Winter</name>
+			<text>Destroy target creature.
+Undergrowth — You gain X life, where X is the number of creature cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/298.png" num="89">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duke&apos;s Find</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/299.png" num="91">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related count="2">Treasure (VIL) (ULT2B)</related>
+		</card>
+		<card>
+			<name>Baker&apos;s House</name>
+			<text>When this land enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/300.png" num="198">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Castle Dimitrescu</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+This land has every basic land type ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/301.png" num="200">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>House Beneviento</name>
+			<text>This land enters tapped.
+When this land enters, choose a color, then create a 0/1 colorless Toy artifact creature token with &quot;When this creature dies, mill a card.&quot;
+{T}: Add {B} or one mana of the chosen color.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/302.png" num="225">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related>Toy (VIL) (ULT2B)</related>
+		</card>
+		<card>
+			<name>Ethan, Molded Father</name>
+			<text>Whenever Ethan attacks, mill a card, then put a +1/+1 counter on him if you have three or more creature cards in your graveyard.
+Sacrifice Ethan: Move Ethan&apos;s counters onto target creature you control. Tap it. It gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/303.png" num="160">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fungus Mutant Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jack Baker, Welcoming Father</name>
+			<text>Menace
+Undergrowth — {2}{BR}, {T}: Jack Baker deals X damage to target creature, where X is the number of creature cards in your graveyard. Activate only once and as a sorcery.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/304.png" num="165">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Fungus Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eveline, Modified Bioweapon</name>
+			<text>Flash
+When Eveline dies, mill two cards.
+{B}, Discard Eveline: Target creature gains deathtouch until end of turn.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/305.png" num="94">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Fungus Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Insect (VIL) (ULT2B)</name>
+			<text>Undergrowth — {4}{B}{B}, {T}: Create X 1/1 black Insect creature tokens with flying, where X is the number of creature cards in your graveyard. Activate only once and as a sorcery.
+Swampcycling {2}</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/307.png" num="104">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lady Dimitrescu</name>
+			<text>Menace
+Undergrowth — {10}{B}{B}: Exile Lady Dimitrescu then return her to the battlefield transformed. This costs {1} less to activate for each creature card in your graveyard. Activate only as a sorcery.
+---
+(Back): Dimitrescu, Draconic Mutant</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/308_front.png" num="100a">ULT2B</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Dimitrescu, Draconic Mutant</related>
+		</card>
+		<card>
+			<name>Dimitrescu, Draconic Mutant</name>
+			<text>Flying, menace
+---
+(Front): Lady Dimitrescu</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/308_back.png" num="100b">ULT2B</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Mutant Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lady Dimitrescu</related>
+		</card>
+		<card>
+			<name>Toy (VIL) ULT2B</name>
+			<text>When this creature dies, mill a card.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/309.png" num="38">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Toy</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure (VIL) ULT2B</name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/310.png" num="40">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect (VIL) ULT2B</name>
+			<text>Flying</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/311.png" num="14">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Archdemon&apos;s Thrall</name>
+			<text></text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/312.png" num="0">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Room Full of Cheese</name>
+			<text>Indestructible
+This land enters tapped unless you pay 3 life. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{2}, {T}, Sacrifice this land: You gain 6 life.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/313.png" num="248">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land — Food</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Trash Heap</name>
+			<text>As Trash Heap enters, you may pay 2 life. If you don&apos;t, it enters tapped.
+Indestructible
+({T}: Add {R}.)
+{T}, Sacrifice Trash Heap: Exile the top card of your library. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/314.png" num="258">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land — Junk Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Infernal Blade</name>
+			<text>When Infernal Blade enters, strike 5. (Create a tapped and attacking 5/1 red Strike during your next combat. Exile it after combat.)
+Equipped creature gets +1/+0 and has trample.
+Whenever a creature enters, you may attach Infernal Blade to it.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/315.png" num="120">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Byrd Egg</name>
+			<text>{2}, {T}, Sacrifice Byrd Egg: Draw a card. You gain 3 life.
+{2}{R}, {T}: Transform Byrd Egg.
+---
+(Back): Byrdpip</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/316_front.png" num="185a">ULT2B</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Byrdpip</related>
+		</card>
+		<card>
+			<name>Byrdpip</name>
+			<text>Flying
+When this creature transforms into Byrdpip, strike 3. (At the start of your next combat, create a tapped, attacking 3/1 red Strike token. Sacrifice it after combat.)
+---
+(Front): Byrd Egg</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/316_back.png" num="185b">ULT2B</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Byrd Egg</related>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/317.png" num="236">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Amalgamator</name>
+			<text>Strikes you control have trample.
+{2}, Sacrifice two creatures: Strike 7. (Create a tapped and attacking 7/1 red Strike during your next combat. Sacrifice it after combat. Yes, you can sacrifice Strikes to this first.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/319.png" num="114">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strike 1 ULT2B</name>
+			<text></text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/320.png" num="19">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Strike</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>The Ironclad</reverse-related>
+		</card>
+		<card>
+			<name>Strike 2 ULT2B</name>
+			<text></text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/321.png" num="20">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Strike</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Hellraiser</reverse-related>
+		</card>
+		<card>
+			<name>Strike 3 ULT2B</name>
+			<text></text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/322.png" num="21">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Strike</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Byrdpip</reverse-related>
+			<reverse-related>Twin Strike</reverse-related>
+		</card>
+		<card>
+			<name>Strike 7 ULT2B</name>
+			<text></text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/323.png" num="22">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Strike</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Amalgamator</reverse-related>
+		</card>
+		<card>
+			<name>Blood Wall</name>
+			<text>As an additional cost to cast this spell, pay 2 life.
+Defender, reach</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/324.png" num="116">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Force</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Sacrifice a creature. Primal Force deals damage equal to that creature&apos;s power to any target.
+• Target creature gets +2/+2 and gains trample until end of turn.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/325.png" num="127">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twin Strike</name>
+			<text>Twin Strike deals 3 damage to any target.
+Strike 3. (At the start of your next combat, create a tapped, attacking 3/1 red Strike token. Sacrifice it after combat.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/326.png" num="131">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Spire</name>
+			<text>This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/327.png" num="254">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Vakuu, the First Demon</name>
+			<text>Flying
+Whenever you pay life, sacrifice creatures, or exile cards from your hand, exile that many cards from the top of your library.
+At the beginning of each end step, cast a card exiled with Vakuu this turn without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/328.png" num="181">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4B/RB/R</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ranwid the Elder</name>
+			<text>As an additional cost to cast this spell, pay 3 life, exile a card from your hand, or pay {2}.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/329.png" num="128">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Elder</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Ironclad</name>
+			<text>Strikes you control get +1/+0 for each +1/+1 counter on The Ironclad.
+Whenever The Ironclad attacks, you may pay 2 life. If you do, put a +1/+1 counter on him and create a tapped and attacking 1/1 red Strike. Sacrifice that token after combat.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/330.png" num="122">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burning Pact</name>
+			<text>Exile a card from your hand. Draw two cards. (If your hand is empty, just draw.)</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/331.png" num="117">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Defect</name>
+			<text>When The Defect enters, look at the top five cards of your library. You may reveal an an artifact or enchantment card from among them. Put it into your hand and the rest on the bottom of your library in a random order.
+{T}: Add {C}. You can&apos;t spend this mana to cast spells, except artifact or enchantment spells.</text>
+			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/332.png" num="45">ULT2B</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

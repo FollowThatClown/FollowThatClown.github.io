@@ -395,7 +395,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Junk",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/40.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Artifact — Vehicle",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/74.png"
 			}
@@ -763,7 +763,7 @@
 		{
 			"name": "Agent Smith",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Illusion",
 			"collector_number": "40",
 			"image_uris": {
@@ -1035,7 +1035,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/103.png"
 			}
@@ -1081,200 +1081,13 @@
 			}
 		},
 		{
-			"name": "Amalgamator",
-			"rarity": "special",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Spirit",
-			"collector_number": "114",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/108.png"
-			}
-		},
-		{
-			"name": "Blood Wall",
-			"rarity": "special",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Wall",
-			"collector_number": "116",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/109.png"
-			}
-		},
-		{
-			"name": "Burning Pact",
-			"rarity": "special",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "117",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/110.png"
-			}
-		},
-		{
-			"name": "Byrd Egg",
-			"rarity": "special",
-			"mana_cost": "{0}",
-			"type": "Artifact — Food",
-			"collector_number": "185",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://followthatclown.github.io/sets/ULT2B-files/img/111_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/111_front.png"
-			}
-		},
-		{
-			"name": "Hellraiser",
-			"rarity": "special",
-			"mana_cost": "{3}{R}",
-			"type": "Enchantment",
-			"collector_number": "118",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/113.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "236",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/114.png"
-			}
-		},
-		{
-			"name": "Primal Force",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Instant",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/115.png"
-			}
-		},
-		{
-			"name": "Ranwid the Elder",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Human Elder",
-			"collector_number": "128",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/116.png"
-			}
-		},
-		{
-			"name": "Room Full of Cheese",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Artifact Land — Food",
-			"collector_number": "248",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/117.png"
-			}
-		},
-		{
-			"name": "The Ironclad",
-			"rarity": "special",
-			"mana_cost": "{4}{R}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "122",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/118.png"
-			}
-		},
-		{
-			"name": "The Spire",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/119.png"
-			}
-		},
-		{
-			"name": "Trash Heap",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Artifact Land — Junk Mountain",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/120.png"
-			}
-		},
-		{
-			"name": "Twin Strike",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Instant",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/121.png"
-			}
-		},
-		{
-			"name": "Vakuu, the First Demon",
-			"rarity": "special",
-			"mana_cost": "{4}{B/R}{B/R}",
-			"type": "Legendary Creature — Elder Demon",
-			"collector_number": "181",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/122.png"
-			}
-		},
-		{
-			"name": "Strike 1",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Creature — Strike",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/123.png"
-			}
-		},
-		{
-			"name": "Strike 2",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Creature — Strike",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/124.png"
-			}
-		},
-		{
-			"name": "Strike 3",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Creature — Strike",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/125.png"
-			}
-		},
-		{
-			"name": "Strike 7",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Creature — Strike",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/126.png"
-			}
-		},
-		{
 			"name": "Choral Chambers",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/127.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/108.png"
 			}
 		},
 		{
@@ -1284,7 +1097,7 @@
 			"type": "Land",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/128.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/109.png"
 			}
 		},
 		{
@@ -1294,7 +1107,7 @@
 			"type": "Legendary Creature — Insect Knight",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/129.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/110.png"
 			}
 		},
 		{
@@ -1302,9 +1115,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Spider Warrior",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/130.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/111.png"
 			}
 		},
 		{
@@ -1314,7 +1127,7 @@
 			"type": "Legendary Artifact Creature — Knight",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/131.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/112.png"
 			}
 		},
 		{
@@ -1324,7 +1137,7 @@
 			"type": "Legendary Creature — Insect Inquisitor",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/132.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/113.png"
 			}
 		},
 		{
@@ -1334,7 +1147,7 @@
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/133.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/114.png"
 			}
 		},
 		{
@@ -1344,7 +1157,7 @@
 			"type": "Legendary Artifact Creature — Construct",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/134.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/115.png"
 			}
 		},
 		{
@@ -1354,7 +1167,7 @@
 			"type": "Legendary Creature — Insect Performer",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/135.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/116.png"
 			}
 		},
 		{
@@ -1364,7 +1177,7 @@
 			"type": "Land",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/136.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/117.png"
 			}
 		},
 		{
@@ -1374,7 +1187,7 @@
 			"type": "Instant",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/137.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/118.png"
 			}
 		},
 		{
@@ -1384,7 +1197,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/138.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/119.png"
 			}
 		},
 		{
@@ -1392,9 +1205,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/139.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/120.png"
 			}
 		},
 		{
@@ -1404,7 +1217,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/140.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/121.png"
 			}
 		},
 		{
@@ -1414,7 +1227,7 @@
 			"type": "Reminder",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/141.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/122.png"
 			}
 		},
 		{
@@ -1422,9 +1235,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/142.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/123.png"
 			}
 		},
 		{
@@ -1432,9 +1245,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/143.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/124.png"
 			}
 		},
 		{
@@ -1444,7 +1257,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/144.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/125.png"
 			}
 		},
 		{
@@ -1454,7 +1267,7 @@
 			"type": "Instant",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/145.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/126.png"
 			}
 		},
 		{
@@ -1464,7 +1277,7 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/146.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/127.png"
 			}
 		},
 		{
@@ -1474,7 +1287,7 @@
 			"type": "Legendary Creature — Bear Warrior Doctor",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/147.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/128.png"
 			}
 		},
 		{
@@ -1484,7 +1297,7 @@
 			"type": "Legendary Creature — Rabbit Citizen",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/148.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/129.png"
 			}
 		},
 		{
@@ -1494,7 +1307,7 @@
 			"type": "Legendary Creature — Wolf Citizen",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/149.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/130.png"
 			}
 		},
 		{
@@ -1507,11 +1320,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://followthatclown.github.io/sets/ULT2B-files/img/150_back.png"
+					"en": "https://followthatclown.github.io/sets/ULT2B-files/img/131_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/150_front.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/131_front.png"
 			}
 		},
 		{
@@ -1521,7 +1334,7 @@
 			"type": "Legendary Creature — Elk Cat Rogue",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/151.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/132.png"
 			}
 		},
 		{
@@ -1531,7 +1344,7 @@
 			"type": "Land",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/152.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/133.png"
 			}
 		},
 		{
@@ -1541,7 +1354,7 @@
 			"type": "Instant",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/153.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/134.png"
 			}
 		},
 		{
@@ -1549,9 +1362,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/155.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/136.png"
 			}
 		},
 		{
@@ -1559,9 +1372,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/156.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/137.png"
 			}
 		},
 		{
@@ -1569,9 +1382,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/157.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/138.png"
 			}
 		},
 		{
@@ -1579,9 +1392,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/158.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/139.png"
 			}
 		},
 		{
@@ -1591,7 +1404,7 @@
 			"type": "Land",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/159.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/140.png"
 			}
 		},
 		{
@@ -1601,17 +1414,17 @@
 			"type": "Land",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/160.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/141.png"
 			}
 		},
 		{
-			"name": "Louis, Rising Star",
+			"name": "Louis, Black Market Boss",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Elk Performer",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/161.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/142.png"
 			}
 		},
 		{
@@ -1621,7 +1434,7 @@
 			"type": "Legendary Creature — Bear Rogue",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/162.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/143.png"
 			}
 		},
 		{
@@ -1631,7 +1444,7 @@
 			"type": "Token Creature — Cat",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/163.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/144.png"
 			}
 		},
 		{
@@ -1641,7 +1454,7 @@
 			"type": "Land",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/164.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/145.png"
 			}
 		},
 		{
@@ -1651,7 +1464,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/165.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/146.png"
 			}
 		},
 		{
@@ -1661,7 +1474,7 @@
 			"type": "Land",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/166.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/147.png"
 			}
 		},
 		{
@@ -1671,7 +1484,7 @@
 			"type": "Land",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/167.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/148.png"
 			}
 		},
 		{
@@ -1681,7 +1494,7 @@
 			"type": "Token Creature — Spy",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/168.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/149.png"
 			}
 		},
 		{
@@ -1691,7 +1504,7 @@
 			"type": "Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/169.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/150.png"
 			}
 		},
 		{
@@ -1699,9 +1512,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment Weapon",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/170.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/151.png"
 			}
 		},
 		{
@@ -1711,7 +1524,7 @@
 			"type": "Artifact",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/171.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/152.png"
 			}
 		},
 		{
@@ -1721,7 +1534,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/172.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/153.png"
 			}
 		},
 		{
@@ -1731,7 +1544,7 @@
 			"type": "Creature — Human Spy",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/173.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/154.png"
 			}
 		},
 		{
@@ -1741,7 +1554,7 @@
 			"type": "Creature — Human Scientist Rogue",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/174.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/155.png"
 			}
 		},
 		{
@@ -1751,7 +1564,7 @@
 			"type": "Legendary Creature — Human Spy Advisor",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/175.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/156.png"
 			}
 		},
 		{
@@ -1761,7 +1574,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/176.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/157.png"
 			}
 		},
 		{
@@ -1771,7 +1584,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/177.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/158.png"
 			}
 		},
 		{
@@ -1781,7 +1594,7 @@
 			"type": "Legendary Creature — Human Spy",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/178.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/159.png"
 			}
 		},
 		{
@@ -1791,7 +1604,7 @@
 			"type": "Sorcery",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/179.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/160.png"
 			}
 		},
 		{
@@ -1801,7 +1614,7 @@
 			"type": "Creature — Human Assassin",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/180.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/161.png"
 			}
 		},
 		{
@@ -1811,7 +1624,7 @@
 			"type": "Token Legendary Creature — Ox",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/181.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/162.png"
 			}
 		},
 		{
@@ -1819,9 +1632,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/182.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/163.png"
 			}
 		},
 		{
@@ -1831,7 +1644,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/183.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/164.png"
 			}
 		},
 		{
@@ -1841,7 +1654,7 @@
 			"type": "Land",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/184.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/165.png"
 			}
 		},
 		{
@@ -1851,7 +1664,7 @@
 			"type": "Land — Town",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/185.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/166.png"
 			}
 		},
 		{
@@ -1861,7 +1674,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/186.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/167.png"
 			}
 		},
 		{
@@ -1871,7 +1684,7 @@
 			"type": "Legendary Land",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/187.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/168.png"
 			}
 		},
 		{
@@ -1881,7 +1694,7 @@
 			"type": "Land",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/188.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/169.png"
 			}
 		},
 		{
@@ -1891,7 +1704,7 @@
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/189.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/170.png"
 			}
 		},
 		{
@@ -1901,7 +1714,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/190.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/171.png"
 			}
 		},
 		{
@@ -1911,7 +1724,7 @@
 			"type": "Snow Creature — Fish Mutant",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/191.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/172.png"
 			}
 		},
 		{
@@ -1921,7 +1734,7 @@
 			"type": "Legendary Creature — Human Ranger",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/192.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/173.png"
 			}
 		},
 		{
@@ -1931,7 +1744,7 @@
 			"type": "Creature — Rabbit Beast",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/193.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/174.png"
 			}
 		},
 		{
@@ -1941,7 +1754,7 @@
 			"type": "Legendary Creature — Human Rebel",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/194.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/175.png"
 			}
 		},
 		{
@@ -1951,7 +1764,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/195.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/176.png"
 			}
 		},
 		{
@@ -1961,7 +1774,7 @@
 			"type": "Legendary Artifact — Book",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/196.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/177.png"
 			}
 		},
 		{
@@ -1971,7 +1784,7 @@
 			"type": "Creature — Yeti",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/197.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/178.png"
 			}
 		},
 		{
@@ -1981,237 +1794,7 @@
 			"type": "Legendary Creature — Human Peasant",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/198.png"
-			}
-		},
-		{
-			"name": "Godless Shrine (DISC)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "221",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/199.png"
-			}
-		},
-		{
-			"name": "On An Adventure (DEM)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/200.png"
-			}
-		},
-		{
-			"name": "Stony Suppressor",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Sculpture",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/201.png"
-			}
-		},
-		{
-			"name": "Plains (DEM)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/202.png"
-			}
-		},
-		{
-			"name": "Mageseeker Investigator",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Detective",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/203.png"
-			}
-		},
-		{
-			"name": "Brightsteel Protector",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/204.png"
-			}
-		},
-		{
-			"name": "Citadel of Dawn",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "203",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/205.png"
-			}
-		},
-		{
-			"name": "Grand Plaza",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "223",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/206.png"
-			}
-		},
-		{
-			"name": "Petricite Grove",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "265",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/207.png"
-			}
-		},
-		{
-			"name": "Galio, the Colossus",
-			"rarity": "special",
-			"mana_cost": "{6}{W}{W}",
-			"type": "Legendary Artifact Creature — Sculpture",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/208.png"
-			}
-		},
-		{
-			"name": "Lord Eldred, Master Mageseeker",
-			"rarity": "special",
-			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Human Detective",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/209.png"
-			}
-		},
-		{
-			"name": "Lucian, the Purifier",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Human Scout",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/210.png"
-			}
-		},
-		{
-			"name": "Cithria the Bold",
-			"rarity": "special",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/211.png"
-			}
-		},
-		{
-			"name": "Garen, the Might of Demacia",
-			"rarity": "special",
-			"mana_cost": "{4}{W}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/212.png"
-			}
-		},
-		{
-			"name": "Lux, the Light of Demacia",
-			"rarity": "special",
-			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/213.png"
-			}
-		},
-		{
-			"name": "High Silvermere",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "224",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/214.png"
-			}
-		},
-		{
-			"name": "Kayle, Daughter of Justice",
-			"rarity": "special",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Planeswalker — Kayle",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/215.png"
-			}
-		},
-		{
-			"name": "Human Soldier (DEM)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Human Soldier",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/216.png"
-			}
-		},
-		{
-			"name": "A Game with Death",
-			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Instant",
-			"collector_number": "83",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/217.png"
-			}
-		},
-		{
-			"name": "Ankh-Morpork Besieged",
-			"rarity": "special",
-			"mana_cost": "{1}{W/B}",
-			"type": "Instant",
-			"collector_number": "156",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/218.png"
-			}
-		},
-		{
-			"name": "Ankh-Morpork, City of Cities",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "196",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/219.png"
-			}
-		},
-		{
-			"name": "Discworld",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "208",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/220.png"
-			}
-		},
-		{
-			"name": "Dragon (DISC)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Dragon",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/221.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/179.png"
 			}
 		},
 		{
@@ -2221,7 +1804,67 @@
 			"type": "Land — Plains Swamp",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/222.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/180.png"
+			}
+		},
+		{
+			"name": "A Game with Death",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/181.png"
+			}
+		},
+		{
+			"name": "Ankh-Morpork Besieged",
+			"rarity": "special",
+			"mana_cost": "{1}{W/B}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/182.png"
+			}
+		},
+		{
+			"name": "Ankh-Morpork, City of Cities",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/183.png"
+			}
+		},
+		{
+			"name": "Discworld",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/184.png"
+			}
+		},
+		{
+			"name": "Dragon (DISC)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/185.png"
+			}
+		},
+		{
+			"name": "Godless Shrine (DISC)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/186.png"
 			}
 		},
 		{
@@ -2231,7 +1874,7 @@
 			"type": "Token Creature — Human Soldier",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/223.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/187.png"
 			}
 		},
 		{
@@ -2241,7 +1884,7 @@
 			"type": "Creature — Elemental Troll Soldier",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/224.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/188.png"
 			}
 		},
 		{
@@ -2251,7 +1894,7 @@
 			"type": "Legendary Creature — Human Soldier Advisor",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/225.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/189.png"
 			}
 		},
 		{
@@ -2261,7 +1904,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/226.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/190.png"
 			}
 		},
 		{
@@ -2271,7 +1914,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/227.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/191.png"
 			}
 		},
 		{
@@ -2281,7 +1924,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/228.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/192.png"
 			}
 		},
 		{
@@ -2291,7 +1934,7 @@
 			"type": "Creature — Human Troll Vampire Minion Soldier",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/229.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/193.png"
 			}
 		},
 		{
@@ -2301,7 +1944,7 @@
 			"type": "Enchantment",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/230.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/194.png"
 			}
 		},
 		{
@@ -2311,184 +1954,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/231.png"
-			}
-		},
-		{
-			"name": "Baker's House",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "198",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/232.png"
-			}
-		},
-		{
-			"name": "Castle Dimitrescu",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "200",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/233.png"
-			}
-		},
-		{
-			"name": "Death of Winter",
-			"rarity": "special",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Instant",
-			"collector_number": "89",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/234.png"
-			}
-		},
-		{
-			"name": "Duke's Find",
-			"rarity": "special",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/236.png"
-			}
-		},
-		{
-			"name": "Ethan, Molded Father",
-			"rarity": "special",
-			"mana_cost": "{1}{W/B}",
-			"type": "Legendary Creature — Fungus Mutant Survivor",
-			"collector_number": "160",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/237.png"
-			}
-		},
-		{
-			"name": "Eveline, Modified Bioweapon",
-			"rarity": "special",
-			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Human Fungus Mutant",
-			"collector_number": "94",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/238.png"
-			}
-		},
-		{
-			"name": "House Beneviento",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "225",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/239.png"
-			}
-		},
-		{
-			"name": "Insect (VIL)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Insect",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/240.png"
-			}
-		},
-		{
-			"name": "Jack Baker, Welcoming Father",
-			"rarity": "special",
-			"mana_cost": "{2}{B/R}",
-			"type": "Legendary Creature — Human Fungus Mutant",
-			"collector_number": "165",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/241.png"
-			}
-		},
-		{
-			"name": "Lady Dimitrescu",
-			"rarity": "special",
-			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature — Mutant Noble",
-			"collector_number": "100",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://followthatclown.github.io/sets/ULT2B-files/img/242_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/242_front.png"
-			}
-		},
-		{
-			"name": "Lycan",
-			"rarity": "special",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Zombie",
-			"collector_number": "103",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/243.png"
-			}
-		},
-		{
-			"name": "Marguerite, Insectile Molded",
-			"rarity": "special",
-			"mana_cost": "{4}{B}",
-			"type": "Legendary Creature — Mutant Horror",
-			"collector_number": "104",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/244.png"
-			}
-		},
-		{
-			"name": "Molded One",
-			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Fungus Mutant Horror",
-			"collector_number": "105",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/245.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "283",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/246.png"
-			}
-		},
-		{
-			"name": "The Baby of House Beneviento",
-			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Mutant Child Horror",
-			"collector_number": "84",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/247.png"
-			}
-		},
-		{
-			"name": "Toy (VIL)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Toy",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/248.png"
-			}
-		},
-		{
-			"name": "Treasure (VIL)",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/249.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/195.png"
 			}
 		},
 		{
@@ -2498,7 +1964,7 @@
 			"type": "Sorcery",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/250.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/196.png"
 			}
 		},
 		{
@@ -2508,7 +1974,7 @@
 			"type": "Legendary Creature — Insect Scout",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/251.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/197.png"
 			}
 		},
 		{
@@ -2518,7 +1984,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/252.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/198.png"
 			}
 		},
 		{
@@ -2528,7 +1994,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/253.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/199.png"
 			}
 		},
 		{
@@ -2538,7 +2004,7 @@
 			"type": "Legendary Creature — Insect Shade Knight",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/254.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/200.png"
 			}
 		},
 		{
@@ -2548,7 +2014,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/255.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/201.png"
 			}
 		},
 		{
@@ -2558,7 +2024,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/256.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/202.png"
 			}
 		},
 		{
@@ -2568,7 +2034,7 @@
 			"type": "Token Creature — Insect Spirit",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/257.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/203.png"
 			}
 		},
 		{
@@ -2578,7 +2044,7 @@
 			"type": "Land",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/258.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/204.png"
 			}
 		},
 		{
@@ -2588,7 +2054,7 @@
 			"type": "Land",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/259.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/205.png"
 			}
 		},
 		{
@@ -2598,7 +2064,7 @@
 			"type": "Creature — Insect Shaman",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/260.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/206.png"
 			}
 		},
 		{
@@ -2608,7 +2074,7 @@
 			"type": "Land — Swamp Forest",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/261.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/207.png"
 			}
 		},
 		{
@@ -2618,7 +2084,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/262.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/208.png"
 			}
 		},
 		{
@@ -2628,7 +2094,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/263.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/209.png"
 			}
 		},
 		{
@@ -2638,7 +2104,7 @@
 			"type": "Legendary Creature — Insect Shade Knight",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/264.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/210.png"
 			}
 		},
 		{
@@ -2648,7 +2114,7 @@
 			"type": "Legendary Creature — Insect Shade Avatar",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/265.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/211.png"
 			}
 		},
 		{
@@ -2658,7 +2124,7 @@
 			"type": "Land",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/266.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/212.png"
 			}
 		},
 		{
@@ -2668,7 +2134,7 @@
 			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/267.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/213.png"
 			}
 		},
 		{
@@ -2678,7 +2144,7 @@
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/268.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/214.png"
 			}
 		},
 		{
@@ -2688,7 +2154,7 @@
 			"type": "Legendary Creature — Demon Avatar",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/269.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/215.png"
 			}
 		},
 		{
@@ -2698,7 +2164,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/270.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/216.png"
 			}
 		},
 		{
@@ -2708,7 +2174,7 @@
 			"type": "Instant",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/271.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/217.png"
 			}
 		},
 		{
@@ -2718,7 +2184,7 @@
 			"type": "Creature — Spirit Citizen",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/272.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/218.png"
 			}
 		},
 		{
@@ -2728,7 +2194,7 @@
 			"type": "Legendary Creature — Human Horror Performer",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/273.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/219.png"
 			}
 		},
 		{
@@ -2738,7 +2204,7 @@
 			"type": "Instant",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/274.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/220.png"
 			}
 		},
 		{
@@ -2748,7 +2214,7 @@
 			"type": "Legendary Creature — Fox Spirit Sorceror",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/275.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/221.png"
 			}
 		},
 		{
@@ -2758,7 +2224,7 @@
 			"type": "Legendary Creature — Human Performer",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/276.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/222.png"
 			}
 		},
 		{
@@ -2768,7 +2234,7 @@
 			"type": "Land",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/277.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/223.png"
 			}
 		},
 		{
@@ -2778,7 +2244,7 @@
 			"type": "Land",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/278.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/224.png"
 			}
 		},
 		{
@@ -2788,7 +2254,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/279.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/225.png"
 			}
 		},
 		{
@@ -2798,7 +2264,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/280.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/226.png"
 			}
 		},
 		{
@@ -2808,7 +2274,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/281.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/227.png"
 			}
 		},
 		{
@@ -2818,7 +2284,7 @@
 			"type": "Token Creature — Skeleton Army",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/282.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/228.png"
 			}
 		},
 		{
@@ -2828,7 +2294,7 @@
 			"type": "Land — Swamp",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/283.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/229.png"
 			}
 		},
 		{
@@ -2838,7 +2304,7 @@
 			"type": "Creature — Leech Horror",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/284.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/230.png"
 			}
 		},
 		{
@@ -2848,7 +2314,7 @@
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/285.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/231.png"
 			}
 		},
 		{
@@ -2858,7 +2324,7 @@
 			"type": "Land",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/286.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/232.png"
 			}
 		},
 		{
@@ -2868,7 +2334,7 @@
 			"type": "Land",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/287.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/233.png"
 			}
 		},
 		{
@@ -2878,7 +2344,7 @@
 			"type": "Artifact Creature — Book",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/288.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/234.png"
 			}
 		},
 		{
@@ -2888,7 +2354,7 @@
 			"type": "Enchantment",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/289.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/235.png"
 			}
 		},
 		{
@@ -2898,7 +2364,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/290.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/236.png"
 			}
 		},
 		{
@@ -2908,7 +2374,7 @@
 			"type": "Instant",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/291.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/237.png"
 			}
 		},
 		{
@@ -2918,17 +2384,7 @@
 			"type": "Legendary Creature — Elder Dragon",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/292.png"
-			}
-		},
-		{
-			"name": "SPIREBORN LICH",
-			"rarity": "special",
-			"mana_cost": "{B}",
-			"type": "",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/293.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/238.png"
 			}
 		},
 		{
@@ -2938,7 +2394,7 @@
 			"type": "Legendary Creature — Skeleton Warlock",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/294.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/239.png"
 			}
 		},
 		{
@@ -2946,9 +2402,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/295.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/240.png"
 			}
 		},
 		{
@@ -2958,7 +2414,7 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/296.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/241.png"
 			}
 		},
 		{
@@ -2968,7 +2424,7 @@
 			"type": "Instant",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/297.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/242.png"
 			}
 		},
 		{
@@ -2978,7 +2434,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/298.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/243.png"
 			}
 		},
 		{
@@ -2988,7 +2444,7 @@
 			"type": "Land",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/299.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/244.png"
 			}
 		},
 		{
@@ -2998,7 +2454,7 @@
 			"type": "Legendary Artifact Creature — Construct",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/300.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/245.png"
 			}
 		},
 		{
@@ -3008,7 +2464,7 @@
 			"type": "Enchantment",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/301.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/246.png"
 			}
 		},
 		{
@@ -3018,17 +2474,7 @@
 			"type": "Enchantment Creature — Illusion",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/302.png"
-			}
-		},
-		{
-			"name": "LEARNING MACHINE",
-			"rarity": "special",
-			"mana_cost": "{U}",
-			"type": "",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/303.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/247.png"
 			}
 		},
 		{
@@ -3038,7 +2484,7 @@
 			"type": "Enchantment",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/304.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/248.png"
 			}
 		},
 		{
@@ -3048,7 +2494,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/305.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/249.png"
 			}
 		},
 		{
@@ -3058,7 +2504,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/306.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/250.png"
 			}
 		},
 		{
@@ -3068,17 +2514,7 @@
 			"type": "Land",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/307.png"
-			}
-		},
-		{
-			"name": "The Defect",
-			"rarity": "special",
-			"mana_cost": "{1}{U}",
-			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/308.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/251.png"
 			}
 		},
 		{
@@ -3086,9 +2522,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/309.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/252.png"
 			}
 		},
 		{
@@ -3098,7 +2534,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/310.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/253.png"
 			}
 		},
 		{
@@ -3108,7 +2544,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/311.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/254.png"
 			}
 		},
 		{
@@ -3118,7 +2554,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/312.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/255.png"
 			}
 		},
 		{
@@ -3128,7 +2564,7 @@
 			"type": "Enchantment",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/313.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/256.png"
 			}
 		},
 		{
@@ -3138,7 +2574,7 @@
 			"type": "Enchantment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/314.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/257.png"
 			}
 		},
 		{
@@ -3148,17 +2584,7 @@
 			"type": "Legendary Creature — Elder Beast",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/315.png"
-			}
-		},
-		{
-			"name": "A CYBERS WORLD",
-			"rarity": "special",
-			"mana_cost": "{U}",
-			"type": "",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/316.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/258.png"
 			}
 		},
 		{
@@ -3168,7 +2594,7 @@
 			"type": "Artifact Creature — Glimmer",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/317.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/259.png"
 			}
 		},
 		{
@@ -3178,7 +2604,7 @@
 			"type": "Land",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/318.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/260.png"
 			}
 		},
 		{
@@ -3188,7 +2614,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/319.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/261.png"
 			}
 		},
 		{
@@ -3198,7 +2624,7 @@
 			"type": "Land",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/320.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/262.png"
 			}
 		},
 		{
@@ -3208,7 +2634,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/321.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/263.png"
 			}
 		},
 		{
@@ -3218,7 +2644,7 @@
 			"type": "Token Artifact Creature — Robot",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/322.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/264.png"
 			}
 		},
 		{
@@ -3228,7 +2654,7 @@
 			"type": "Artifact Land",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/323.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/265.png"
 			}
 		},
 		{
@@ -3238,7 +2664,7 @@
 			"type": "Artifact Creature — Glimmer Monger",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/324.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/266.png"
 			}
 		},
 		{
@@ -3248,7 +2674,7 @@
 			"type": "Instant",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/325.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/267.png"
 			}
 		},
 		{
@@ -3258,7 +2684,7 @@
 			"type": "Land",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/326.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/268.png"
 			}
 		},
 		{
@@ -3271,11 +2697,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://followthatclown.github.io/sets/ULT2B-files/img/327_back.png"
+					"en": "https://followthatclown.github.io/sets/ULT2B-files/img/269_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/327_front.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/269_front.png"
 			}
 		},
 		{
@@ -3285,7 +2711,7 @@
 			"type": "Legendary Artifact Creature — Cat Robot Advisor",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/329.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/271.png"
 			}
 		},
 		{
@@ -3295,7 +2721,7 @@
 			"type": "Instant",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/330.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/272.png"
 			}
 		},
 		{
@@ -3305,7 +2731,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/331.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/273.png"
 			}
 		},
 		{
@@ -3315,7 +2741,7 @@
 			"type": "Legendary Artifact Creature — Robot Noble",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/332.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/274.png"
 			}
 		},
 		{
@@ -3325,7 +2751,571 @@
 			"type": "Legendary Creature — Bird Gamer Hero",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/333.png"
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/275.png"
+			}
+		},
+		{
+			"name": "On An Adventure (DEM)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/276.png"
+			}
+		},
+		{
+			"name": "Stony Suppressor",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Sculpture",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/277.png"
+			}
+		},
+		{
+			"name": "Clue (DEM)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact — Clue",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/278.png"
+			}
+		},
+		{
+			"name": "Plains (DEM)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/279.png"
+			}
+		},
+		{
+			"name": "Mageseeker Investigator",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Detective",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/280.png"
+			}
+		},
+		{
+			"name": "Brightsteel Protector",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/281.png"
+			}
+		},
+		{
+			"name": "Citadel of Dawn",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/282.png"
+			}
+		},
+		{
+			"name": "Grand Plaza",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/283.png"
+			}
+		},
+		{
+			"name": "Petricite Grove",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/284.png"
+			}
+		},
+		{
+			"name": "Galio, the Colossus",
+			"rarity": "special",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Legendary Artifact Creature — Sculpture",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/285.png"
+			}
+		},
+		{
+			"name": "Lord Eldred, Master Mageseeker",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/286.png"
+			}
+		},
+		{
+			"name": "Lucian, the Purifier",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/287.png"
+			}
+		},
+		{
+			"name": "Cithria the Bold",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/288.png"
+			}
+		},
+		{
+			"name": "Garen, the Might of Demacia",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/289.png"
+			}
+		},
+		{
+			"name": "Lux, the Light of Demacia",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/290.png"
+			}
+		},
+		{
+			"name": "High Silvermere",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/291.png"
+			}
+		},
+		{
+			"name": "Kayle, Daughter of Justice",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Kayle",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/292.png"
+			}
+		},
+		{
+			"name": "Human Soldier (DEM)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/293.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/294.png"
+			}
+		},
+		{
+			"name": "Molded One",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Fungus Mutant Horror",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/295.png"
+			}
+		},
+		{
+			"name": "The Baby of House Beneviento",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Mutant Child Horror",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/296.png"
+			}
+		},
+		{
+			"name": "Lycan",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/297.png"
+			}
+		},
+		{
+			"name": "Death of Winter",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/298.png"
+			}
+		},
+		{
+			"name": "Duke's Find",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/299.png"
+			}
+		},
+		{
+			"name": "Baker's House",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/300.png"
+			}
+		},
+		{
+			"name": "Castle Dimitrescu",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/301.png"
+			}
+		},
+		{
+			"name": "House Beneviento",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/302.png"
+			}
+		},
+		{
+			"name": "Ethan, Molded Father",
+			"rarity": "special",
+			"mana_cost": "{1}{W/B}",
+			"type": "Legendary Creature — Fungus Mutant Survivor",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/303.png"
+			}
+		},
+		{
+			"name": "Jack Baker, Welcoming Father",
+			"rarity": "special",
+			"mana_cost": "{2}{B/R}",
+			"type": "Legendary Creature — Human Fungus Mutant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/304.png"
+			}
+		},
+		{
+			"name": "Eveline, Modified Bioweapon",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Fungus Mutant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/305.png"
+			}
+		},
+		{
+			"name": "Insect (VIL) (ULT2B)",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Mutant Horror",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/307.png"
+			}
+		},
+		{
+			"name": "Lady Dimitrescu",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Mutant Noble",
+			"collector_number": "100",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://followthatclown.github.io/sets/ULT2B-files/img/308_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/308_front.png"
+			}
+		},
+		{
+			"name": "Toy (VIL)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Toy",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/309.png"
+			}
+		},
+		{
+			"name": "Treasure (VIL)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/310.png"
+			}
+		},
+		{
+			"name": "Insect (VIL)",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/311.png"
+			}
+		},
+		{
+			"name": "Archdemon's Thrall",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/312.png"
+			}
+		},
+		{
+			"name": "Room Full of Cheese",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land — Food",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/313.png"
+			}
+		},
+		{
+			"name": "Trash Heap",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land — Junk Mountain",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/314.png"
+			}
+		},
+		{
+			"name": "Infernal Blade",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/315.png"
+			}
+		},
+		{
+			"name": "Byrd Egg",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Food",
+			"collector_number": "185",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://followthatclown.github.io/sets/ULT2B-files/img/316_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/316_front.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/317.png"
+			}
+		},
+		{
+			"name": "Amalgamator",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/319.png"
+			}
+		},
+		{
+			"name": "Strike 1",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Strike",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/320.png"
+			}
+		},
+		{
+			"name": "Strike 2",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Strike",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/321.png"
+			}
+		},
+		{
+			"name": "Strike 3",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Strike",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/322.png"
+			}
+		},
+		{
+			"name": "Strike 7",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Strike",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/323.png"
+			}
+		},
+		{
+			"name": "Blood Wall",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Wall",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/324.png"
+			}
+		},
+		{
+			"name": "Primal Force",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/325.png"
+			}
+		},
+		{
+			"name": "Twin Strike",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/326.png"
+			}
+		},
+		{
+			"name": "The Spire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/327.png"
+			}
+		},
+		{
+			"name": "Vakuu, the First Demon",
+			"rarity": "special",
+			"mana_cost": "{4}{B/R}{B/R}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/328.png"
+			}
+		},
+		{
+			"name": "Ranwid the Elder",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Elder",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/329.png"
+			}
+		},
+		{
+			"name": "The Ironclad",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/330.png"
+			}
+		},
+		{
+			"name": "Burning Pact",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/331.png"
+			}
+		},
+		{
+			"name": "The Defect",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://followthatclown.github.io/sets/ULT2B-files/img/332.png"
 			}
 		}
 	]
@@ -3417,19 +3407,6 @@
 	1 Wrath, Innocent Sin
 	1 Fifth Laboratory
 	1 Resembool Grave
-	1 Amalgamator
-	1 Blood Wall
-	1 Burning Pact
-	1 Byrd Egg
-	1 Hellraiser
-	1 Primal Force
-	1 Ranwid the Elder
-	1 Room Full of Cheese
-	1 The Ironclad
-	1 The Spire
-	1 Trash Heap
-	1 Twin Strike
-	1 Vakuu, the First Demon
 	1 Choral Chambers
 	1 Cogwork Core
 	1 Garmond and Zaza
@@ -3454,7 +3431,7 @@
 	1 Savage Showdown
 	1 The Black Market
 	1 Cherryton Academy
-	1 Louis, Rising Star
+	1 Louis, Black Market Boss
 	1 Riz, Disguised Devourer
 	1 Flying Circus Hangar
 	1 Orient Express Station
@@ -3485,20 +3462,6 @@
 	1 Bigfoot
 	1 John Henry
 	1 Godless Shrine (DISC)
-	1 Stony Suppressor
-	1 Mageseeker Investigator
-	1 Brightsteel Protector
-	1 Citadel of Dawn
-	1 Grand Plaza
-	1 Petricite Grove
-	1 Galio, the Colossus
-	1 Lord Eldred, Master Mageseeker
-	1 Lucian, the Purifier
-	1 Cithria the Bold
-	1 Garen, the Might of Demacia
-	1 Lux, the Light of Demacia
-	1 High Silvermere
-	1 Kayle, Daughter of Justice
 	1 A Game with Death
 	1 Ankh-Morpork Besieged
 	1 Ankh-Morpork, City of Cities
@@ -3512,19 +3475,6 @@
 	1 Monstrous Regiment
 	1 The Royal Game of Thud
 	1 Lord Vetinari, the Patrician
-	1 Baker's House
-	1 Castle Dimitrescu
-	1 Death of Winter
-	1 Duke's Find
-	1 Ethan, Molded Father
-	1 Eveline, Modified Bioweapon
-	1 House Beneviento
-	1 Jack Baker, Welcoming Father
-	1 Lady Dimitrescu
-	1 Lycan
-	1 Marguerite, Insectile Molded
-	1 Molded One
-	1 The Baby of House Beneviento
 	1 Climb from the Abyss
 	1 Cornifer, Cartographer
 	1 Corpse Creeper
@@ -3561,7 +3511,6 @@
 	1 Legion of Bone
 	1 Neurosurge
 	1 Pael, the Melting Dragon
-	1 SPIREBORN LICH
 	1 The Necrobinder
 	1 The Spire
 	1 Time's Up
@@ -3570,17 +3519,14 @@
 	1 Flaw
 	1 Frost Orb
 	1 Hologram
-	1 LEARNING MACHINE
 	1 Plasma Orb
 	1 Rocket Boosters
 	1 Rocket Fist
 	1 Slippery Bridge
-	1 The Defect
 	1 The Spire
 	1 Lightning Orb
 	1 Dark Orb
 	1 Darv, The Hoarder
-	1 A CYBERS WORLD
 	1 Adoring Swatchlings
 	1 Color Cafe
 	1 Cool Robot Disguise
@@ -3595,3 +3541,45 @@
 	1 Watch Our Moves
 	1 Q5U4EX7YY2E9N, Queen
 	1 Berdly, Light Nerd
+	1 Stony Suppressor
+	1 Mageseeker Investigator
+	1 Brightsteel Protector
+	1 Citadel of Dawn
+	1 Grand Plaza
+	1 Petricite Grove
+	1 Galio, the Colossus
+	1 Lord Eldred, Master Mageseeker
+	1 Lucian, the Purifier
+	1 Cithria the Bold
+	1 Garen, the Might of Demacia
+	1 Lux, the Light of Demacia
+	1 High Silvermere
+	1 Kayle, Daughter of Justice
+	1 Molded One
+	1 The Baby of House Beneviento
+	1 Lycan
+	1 Death of Winter
+	1 Duke's Find
+	1 Baker's House
+	1 Castle Dimitrescu
+	1 House Beneviento
+	1 Ethan, Molded Father
+	1 Jack Baker, Welcoming Father
+	1 Eveline, Modified Bioweapon
+	1 Insect (VIL) (ULT2B)
+	1 Lady Dimitrescu
+	1 Archdemon's Thrall
+	1 Room Full of Cheese
+	1 Trash Heap
+	1 Infernal Blade
+	1 Byrd Egg
+	1 Amalgamator
+	1 Blood Wall
+	1 Primal Force
+	1 Twin Strike
+	1 The Spire
+	1 Vakuu, the First Demon
+	1 Ranwid the Elder
+	1 The Ironclad
+	1 Burning Pact
+	1 The Defect

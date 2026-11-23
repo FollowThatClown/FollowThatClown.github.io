@@ -1,4 +1,190 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Louis, Black Market Boss added.
+Clue (DEM) added.
+Insect (VIL) (ULT2B) added.
+Archdemon's Thrall added.
+Infernal Blade added.
+
+Hellraiser removed.
+Louis, Rising Star removed.
+Marguerite, Insectile Molded removed.
+SPIREBORN LICH removed.
+LEARNING MACHINE removed.
+A CYBERS WORLD removed.
+
+Agent Smith
+cost: {2}{U} => {1}{U}
+
+Cold Comfort
+rules_text: Look at target player's hand. Choose one—
+• Choose a nonland card in that player's hand. That player discards it.
+• That player loses 2 life and you gain 2 life. A creature connives. [i](Draw a card, then discard a card. If you discarded a nonland, put a +1/+1 counter on that creature.)[/i] => Look at target player's hand. Choose one—
+• Choose a nonland card in that player's hand. That player discards it.
+• That player loses 2 life and you gain 2 life. Up to one target creature connives. [i](Draw a card, then discard a card. If you discarded a nonland, put a +1/+1 counter on that creature.)[/i]
+
+Envy, Cruel Impostor
+rules_text: Flash
+You may have Envy enter as a copy of any nonland permanent card put into a graveyard from anywhere this turn, except his name is Envy, Cruel Impostor and he's a legendary 3/3 Homunculus Shapeshifter creature in addition to his other types. => Flash
+You may have Envy enter as a copy of any nonland permanent card put into a graveyard from anywhere this turn, except his name is Envy, Cruel Impostor and he's a legendary 3/3 Homunculus Shapeshifter creature. [i](Not any other types.)[/i]
+
+Kai Sa, Firestarter
+rules_text: Haste
+When Kai'Sa attacks, she deals 1 damage to up to one target creature. If that creature has flying, she deals 1 more damage to it. If that creature is tapped, Kai'Sa deals 1 damage to its controller. => Haste
+When Kai'Sa attacks, she deals 1 damage to up to one target creature. If that creature is tapped, Kai'Sa deals 1 damage to its controller.
+
+Ahri, Playful Popstar
+rules_text: Haste, charm [i](When Ahri attacks, tap up to one target untapped creature.)[/i]
+Whenever a creature you don't control becomes tapped, put a stun counter on it. => Haste, charm [i](When Ahri attacks, tap up to one target untapped creature.)[/i]
+Whenever a creature an opponent controls becomes tapped, put a stun counter on it unless that opponent has Ahri deal 3 damage to them.
+
+The Spire
+rules_text: This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1.
+This land has all basic land types.
+[i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+The Spire
+rules_text: This land enters tapped.
+When this land enters, surveil 1.
+This land has all basic land types.
+[i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i] => This land enters tapped.
+When this land enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+This land has every basic land type. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]
+
+Stony Suppressor
+flavor_text: [i]What begins as a shapeless, rough-hewn block of petricite quickly becomes something more under the clever hands of its sculptor. That is when a piece truly starts to come to life.[/i] => [i]A shapeless, rough-hewn block of petricite becomes something more under the hands of its sculptor.[/i]
+
+Brightsteel Protector
+rules_text: Flash
+This creature enters tapped if it's not your turn.
+When this creature enters, another target creature you control gains indestructible until end of turn. => Flash
+This creature enters tapped if it's not your turn.
+When this creature enters, another target creature you control gains hexproof and indestructible until end of turn.
+
+Grand Plaza
+rules_text: This land enters tapped unless you control two or more other lands. As it enters, choose a color other than white.
+{T}: Add {W} or one mana of the chosen color.
+{3}{W}{W}, {T}, Sacrifice this land: Create a 3/3 white Human Soldier creature token with vigilance. Activate only as a sorcery. => This land enters tapped unless you pay 2 life or you control two or more creatures. As it enters, choose a color other than white.
+{T}: Add {W} or one mana of the chosen color.
+flavor_text: [i][/i] => [i]“Demacia, now and forever.”
+—King Jarvan IV[/i]
+
+Petricite Grove
+rules_text: {T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control three or fewer lands, untap it. Otherwise, put a vigilance counter on target creature you control. => {T}, Pay 1 life, Sacrifice this land: Target player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control two or fewer lands, untap that land. Otherwise, put a vigilance counter on target creature you control.
+
+Galio, the Colossus
+pt: 7/6 => 7/7
+
+Lord Eldred, Master Mageseeker
+rules_text: Vigilance
+When Lord Eldred enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Your opponents can't cast spells during your turn. => Vigilance
+When Lord Eldred Enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Your opponents can't cast spells during your turn.
+
+Lucian, the Purifier
+cost: {1}{W} => {2}{W}
+rules_text: Lucian has first strike during your turn.
+Whenever Lucian attacks, you may pay {2}. If you do, tap target creature. => Lucian has first strike during your turn.
+Whenever Lucian attacks, you may pay {2}. If you do, tap target creature an opponent controls.
+flavor_text: [i]“I'll sleep when they're dead.”[/i] => [i][/i]
+pt: 2/1 => 3/1
+
+Cithria the Bold
+cost: {4}{W}{W} => {3}{W}{W}
+rules_text: When Cithria enters, creatures you control get +1/+1 and gain vigilance until end of turn. => When Cithria enters, other creatures you control get +1/+1 and gain vigilance until end of turn.
+Basic landcycling {2}
+
+Garen, the Might of Demacia
+rules_text: Vigilance
+Exhaust — {6}{W}: Create a 3/3 white Human Soldier creature token with vigilance. This ability costs {6} less to activate if a player has cast two or more spells this turn. [i](Activate each exhaust ability only once.)[/i] => Vigilance
+Exhaust — {6}{W}: Create a 3/3 white Human Soldier creature token with vigilance. This ability costs {5} less to activate if a player has cast two or more spells this turn. [i](Activate each exhaust ability only once.)[/i]
+
+Lux, the Light of Demacia
+
+High Silvermere
+rules_text: High Silvermere enters tapped. As it enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+{3}{W}{W}, Discard High Silvermere: Put a +1/+1 counter, a flying counter, and a vigilance counter on target creature. => High Silvermere enters tapped. As it enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+{3}{W}{W}, Discard this card: Put a +1/+1 counter, a flying counter, and a vigilance counter on target creature.
+
+Kayle, Daughter of Justice
+rules_text: Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/4 Avatar creature with flying and indestructible.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying and indestructible until end of turn. => Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/4 Avatar creature with flying and indestructible.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying, vigilance, and indestructible until end of turn.
+special_text: Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/4 Avatar creature with flying and indestructible.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying and indestructible until end of turn. => Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/4 Avatar creature with flying and indestructible.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying, vigilance, and indestructible until end of turn.
+
+Human Soldier (DEM)
+
+Lycan
+rules_text: Haste
+Exhaust — {2}{B}, {T}: Mill three cards, then you may return a creature card from your graveyard to your hand. [i](Activate each exhaust ability only once.)[/i] => Haste
+Exhaust — {2}{B}, {T}: Mill five cards, then you may return a creature card from your graveyard to your hand. Activate only as a sorcery [i](Activate each exhaust ability only once.)[/i]
+
+Room Full of Cheese
+rules_text: Room Full of Cheese enters tapped.
+Indestructible
+{T}, Pay 1 life: Add one mana of any color.
+{T}, Sacrifice Room Full of Cheese: You gain 3 life. => Indestructible
+This land enters tapped unless you pay 3 life. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{2}, {T}, Sacrifice this land: You gain 6 life.
+
+Byrd Egg
+cost: {0} => {1}
+
+Amalgamator
+cost: {3}{R} => {2}{R}
+rules_text: Double strike
+{2}, Sacrifice two creatures: Strike 7. [i](At the start of your next combat, create a tapped, attacking 7/1 red Strike token. Sacrifice it after combat. Yes, you can sacrifice Strikes to this first.)[/i] => Strikes you control have trample.
+{2}, Sacrifice two creatures: Strike 7. [i](Create a tapped and attacking 7/1 red Strike during your next combat. Sacrifice it after combat. Yes, you can sacrifice Strikes to this first.)[/i]
+pt: 2/4 => 3/3
+
+Twin Strike
+rules_text: Twin Strike deals 3 damage to target creature or planeswalker.
+Strike 3. [i](At the start of your next combat, create a tapped, attacking 3/1 red Strike token. Sacrifice it after combat.)[/i] => Twin Strike deals 3 damage to any target.
+Strike 3. [i](At the start of your next combat, create a tapped, attacking 3/1 red Strike token. Sacrifice it after combat.)[/i]
+
+The Spire
+
+Vakuu, the First Demon
+pt: 5/5 => 6/6
+
+Ranwid the Elder
+cost: {2}{R} => {R}
+rules_text: {T}, Sacrifice a creature, pay 3 life, or exile a card from your hand: Exile the top card of your library. You may play it this turn. => As an additional cost to cast this spell, pay 3 life, exile a card from your hand, or pay {2}.
+
+The Ironclad
+cost: {4}{R} => {1}{R}
+rules_text: Ward—Pay 3 life.
+Strikes you control get +1/+1 for each +1/+1 counter on The Ironclad.
+When The Ironclad enters and at the beginning of your upkeep, put a +1/+1 counter on him and strike 1. [i](At the start of your next combat, create a tapped, attacking 1/1 red Strike token. Sacrifice it after combat.)[/i] => Strikes you control get +1/+0 for each +1/+1 counter on The Ironclad.
+Whenever The Ironclad attacks, you may pay 2 life. If you do, put a +1/+1 counter on him and create a tapped and attacking 1/1 red Strike. Sacrifice that token after combat.
+pt: 3/3 => 0/2
+
+The Defect
+rules_text: Vigilance
+When Defect enters, mill three cards. You may return a noncreature, nonland card from among them to your hand.
+{T}: Add {C}. You can't spend this mana to cast creature spells. => When The Defect enters, look at the top five cards of your library. You may reveal an an artifact or enchantment card from among them. Put it into your hand and the rest on the bottom of your library in a random order.
+{T}: Add {C}. You can't spend this mana to cast spells, except artifact or enchantment spells.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Marguerite, Insectile Molded added.
