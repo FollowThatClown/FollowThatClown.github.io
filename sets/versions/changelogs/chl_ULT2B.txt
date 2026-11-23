@@ -1,4 +1,35 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Frost Orb
+rules_text: When Frost Orb enters, tap up to one target artifact or creature and put a stun counter on it. If Frost Orb was evoked, this ability triggers an additional time.
+Evoke {4}{U} [i](You may cast this for {4}{U}. If you do, it's sacrificed when it enters.)[/i] => When Frost Orb enters, tap up to one target artifact or creature and put a stun counter on it. If Frost Orb was evoked, this ability triggers an additional time.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Plasma Orb
+rules_text: When Plasma Orb enters, return up to one target permanent you control to its owner's hand. Draw a card. If Plasma Orb was evoked, this ability triggers an additional time.
+If Plasma Orb would leave the battlefield, shuffle it into its owner's library instead.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i] => When Plasma Orb enters, return up to one target permanent you control to its owner's hand. Draw a card. If Plasma Orb was evoked, this ability triggers an additional time.
+If Plasma Orb would leave the battlefield, shuffle it into its owner's library instead.
+Evoke {2}{U} [i](You may cast this for {2}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Elemental (DFCT) 1
+pt: 2/1 => 2/2
+
+Lightning Orb
+rules_text: When Lightning Orb enters, create a 2/1 red Elemental creature token. If Lightning Orb was evoked, this ability triggers an additional time.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i] => When Lightning Orb enters, create a 2/2 red Elemental creature token. If Lightning Orb was evoked, this ability triggers an additional time.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Dark Orb
+rules_text: When Dark Orb enters, create a 2/2 black Elemental creature token. Put a +1/+1 counter on it if there are four or more card types among cards in your graveyard. If Dark Orb was evoked, this ability triggers an additional time.
+Evoke {5}{U} [i](You may cast this for {5}{U}. If you do, it's sacrificed when it enters.)[/i] => When Dark Orb enters, create a 2/2 black Elemental creature token. Put a +1/+1 counter on it if there are four or more card types among cards in your graveyard. If Dark Orb was evoked, this ability triggers an additional time.
+Evoke {4}{U} [i](You may cast this for {4}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Louis, Black Market Boss added.

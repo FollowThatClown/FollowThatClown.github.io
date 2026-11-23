@@ -4346,7 +4346,7 @@ Exile Flaw: Return any number of permanents you own to your hand.</text>
 		<card>
 			<name>Frost Orb</name>
 			<text>When Frost Orb enters, tap up to one target artifact or creature and put a stun counter on it. If Frost Orb was evoked, this ability triggers an additional time.
-Evoke {4}{U} (You may cast this for {4}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
+Evoke {3}{U} (You may cast this for {3}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/246.png" num="50">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
@@ -4382,7 +4382,7 @@ Evoke {4}{U} (You may cast this for {4}{U}. If you do, it&apos;s sacrificed when
 			<name>Plasma Orb</name>
 			<text>When Plasma Orb enters, return up to one target permanent you control to its owner&apos;s hand. Draw a card. If Plasma Orb was evoked, this ability triggers an additional time.
 If Plasma Orb would leave the battlefield, shuffle it into its owner&apos;s library instead.
-Evoke {3}{U} (You may cast this for {3}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
+Evoke {2}{U} (You may cast this for {2}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/248.png" num="66">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
@@ -4480,7 +4480,7 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 				<cmc>0</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
@@ -4520,7 +4520,7 @@ This land has every basic land type. ({T}: Add {W}, {U}, {B}, {R}, or {G}.)</tex
 		</card>
 		<card>
 			<name>Lightning Orb</name>
-			<text>When Lightning Orb enters, create a 2/1 red Elemental creature token. If Lightning Orb was evoked, this ability triggers an additional time.
+			<text>When Lightning Orb enters, create a 2/2 red Elemental creature token. If Lightning Orb was evoked, this ability triggers an additional time.
 Evoke {3}{U} (You may cast this for {3}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/256.png" num="56">ULT2B</set>
 			<prop>
@@ -4539,7 +4539,7 @@ Evoke {3}{U} (You may cast this for {3}{U}. If you do, it&apos;s sacrificed when
 		<card>
 			<name>Dark Orb</name>
 			<text>When Dark Orb enters, create a 2/2 black Elemental creature token. Put a +1/+1 counter on it if there are four or more card types among cards in your graveyard. If Dark Orb was evoked, this ability triggers an additional time.
-Evoke {5}{U} (You may cast this for {5}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
+Evoke {4}{U} (You may cast this for {4}{U}. If you do, it&apos;s sacrificed when it enters.)</text>
 			<set rarity="rare" picurl="https://followthatclown.github.io/sets/ULT2B-files/img/257.png" num="44">ULT2B</set>
 			<prop>
 				<layout>normal</layout>
