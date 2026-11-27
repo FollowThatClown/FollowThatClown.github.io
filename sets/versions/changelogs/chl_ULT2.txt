@@ -1,4 +1,309 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Clue added.
+Food (OFF) added.
+Food (ALICE) added.
+Treasure (MH) added.
+Spectra Vundergeist added.
+Wardrobe added.
+Meowledy and Purrsephone added.
+The Smoke War added.
+
+Clue (RE) removed.
+Food (DNM) removed.
+Food removed.
+Spectra, Gossip Ghost removed.
+ADVENTURE! removed.
+WANDER removed.
+
+Assembly Line
+rules_text: Hexproof
+This land enters tapped.
+{T}: Add {U}.
+{3}, {T}: Put a +1/+1 counter on target artifact you control. Activate only as a sorcery.
+{6}, {T}: Draw a card. => Hexproof
+This land enters tapped.
+{T}: Add {U}.
+{3}, {T}: Put a +1/+1 counter on target artifact. Activate only as a sorcery.
+{6}, {T}: Draw a card.
+
+The Grand Line
+
+Essence of the Week
+
+Glowsquid Galaxy
+
+Wuhu Island
+
+Freddy Fazbear's Pizza
+
+Dreadbear
+rules_text: Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+When Dreadbear enters, you gain 6 life. => Living metal [i](Dreadbear is an artifact creature during your turn.)[/i]
+When Dreadbear enters, you gain 5 life.
+
+Lefty
+rules_text: Living metal [i](Lefty is an artifact creature during your turn.)[/i]
+[i]Capture Mechanism[/i] — When Lefty enters, exile target creature with mana value 3 or less an opponent controls. That opponent draws a card. => Living metal [i](Lefty is an artifact creature during your turn.)[/i]
+[i]Capture Mechanism[/i] — When Lefty enters, exile up to one other target creature with power 2 or less. Its controller draws a card.
+
+The Mimic
+rules_text: Flash
+Living metal [i](The Mimic is an artifact creature during your turn.)[/i]
+As The Mimic enters, exile the top five cards of an opponent's library. You may have The Mimic enter as a copy of any artifact or creature card among the exiled cards, except it's a 3/3 artifact with living metal. => Flash
+Living metal [i](The Mimic is an artifact creature during your turn.)[/i]
+As The Mimic enters, exile the top five cards of an opponent's library. You may have The Mimic enter as a copy of any artifact or creature among them, except it's a 3/3 artifact with living metal.
+
+William Afton
+
+Abbey Road
+
+PNF-404
+
+Spirit Token (FNAF)
+artist: Yu => DG
+
+Rec Room
+
+The Cursed Apple
+
+Sonic Switchboard
+
+New York
+
+The Water Temple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap up to one target artifact or creature and put two stun counters on it.
+II, III — Put a stun counter on up to one target tapped artifact or creature.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap up to one target creature and put two stun counters on it.
+II, III — Put a stun counter on up to one target tapped creature.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap up to one target artifact or creature and put two stun counters on it.
+II, III — Put a stun counter on up to one target tapped artifact or creature.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Tap up to one target creature and put two stun counters on it.
+II, III — Put a stun counter on up to one target tapped creature.
+IV — Exile this Shrine. For as long as it's exiled, you may cast its other face.
+
+Dark Dungeon
+
+Meteor Crashsite
+
+Plumber Investigation Site
+
+The Veiled Sea
+
+Lebeau Ranch
+
+The Primal Wilds
+
+KaibaCorp Battle Box
+
+Portal to the Shadow Realm
+
+Red Mars
+
+Jill Valentine, BSAA
+
+Crystal Tokyo
+
+The Moon Kingdom
+
+The Spire
+
+The Rooftops
+
+Teeth Hell
+
+Killer's Basement
+
+Killer's Shack
+
+Level Select
+
+The Depths of Hell
+
+Black Rose Antechamber
+
+The Crimson Banquet Hall
+
+Farmed Golem
+
+The First Floor
+
+The Island Dungeon
+
+Ichiraku Ramen
+
+Caroline, Faithful Assistant
+rules_text: When Caroline enters, draw a card, then discard a card.
+{5}{UB}{UB}, Exile Caroline from your graveyard: Create a transformed token copy of her. => When Caroline enters, draw a card, then discard a card.
+{5}{U}{U}, Exile Caroline from your graveyard: Create a transformed token copy of her.
+
+Fatal Charm
+rules_text: Choose one —
+• Tap or untap up to two target creatures.
+• Creatures target player controls get -1/-1 until end of turn.
+• Whenever a creature deals combat damage to an opponent this turn, draw a card. => Choose one —
+• Tap or untap up to two target creatures.
+• Creatures target player controls get -1/-1 until end of turn.
+• Whenever a creature deals combat damage to target player this turn, draw a card.
+
+Food
+artist:  => calibrateall
+
+Nimbasa City
+
+Snack Time
+
+Commencement
+
+The Green Room
+
+Dracula, Lord of Darkness
+
+Castle Clocktower
+
+Castle Keep Stairway
+rules_text: This land enters tapped.
+{T}: Add {B}.
+[i]Morbid[/i] — {1}{B}, {T}: Surveil 2. Activate only if a creature died this turn. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => This land enters tapped unless you control a basic land.
+{T}: Add {B}.
+[i]Morbid[/i] — {2}, {T}: Surveil 2. Activate only if a creature died this turn.
+
+Castlevania
+
+The Moonpool
+
+Anywhere (Transistor)
+
+The Amazing Digital Circus
+
+The Dream World
+
+Alice, Young Survivor
+rules_text: When Alice enters, you lose 1 life and investigate.
+{4}{B}, Exile Alice from your graveyard: Create a token that's a copy of target creature card in your graveyard, except it's an enchantment in addition to its other types. Activate only as a sorcery. => When Alice enters, you lose 1 life and investigate.
+{4}{B}{B}, Exile Alice from your graveyard: Create a token that's a copy of target creature card in your graveyard, except it's an enchantment in addition to its other types. Activate only as a sorcery.
+pt: 1/1 => 2/1
+
+The Mad Hatter
+rules_text: Flying
+When The Mad Hatter enters, return a creature card with power 3 or less from your graveyard to the battlefield.
+Swampcycling {2} => Flying
+[i]Invite to Tea[/i] — {1}{B}, Discard The Mad Hatter: Mill three cards, then return a creature card from among them to your hand. Two target players each create a Food token. Activate only as a sorcery.
+flavor_text: [i]“Everything's a nail, Miss Hammerhead? Never time for tea!”[/i] => [i][/i]
+pt: 5/5 => 4/5
+
+Snicker Snack
+type: Instant => Sorcery
+
+Misstitched Alice
+type: Legendary Enchantment Creature — Dream Human => Legendary Enchantment Creature — Dream
+
+Royal Suit Alice
+type: Legendary Enchantment Creature — Dream Giant => Legendary Enchantment Creature — Dream
+
+Silk Maiden Alice
+type: Legendary Enchantment Creature — Dream Human => Legendary Enchantment Creature — Dream
+
+Siren Alice
+type: Legendary Enchantment Creature — Dream Human => Legendary Enchantment Creature — Dream
+rules_text: Whenever Alice attacks, you may draw a card. If you do, torment yourself. [i](Lose 3 life unless you discard a card or sacrifice a nonland.)[/i] => Whenever Alice attacks, draw a card, then torment yourself. [i](Lose 3 life unless you discard a card or sacrifice a nonland.)[/i]
+
+Rutlidge Asylum
+rules_text: This land enters tapped unless you pay 2 life.
+{T}: Add {B}.
+{3}{B}, {T}: Draw a card. Torment yourself. [i](Lose 3 life unless you discard a card or sacrifice a nonland.)[/i] => This land enters tapped unless you pay 2 life.
+{T}: Add {B}.
+{4}, {T}: Draw a card. Torment yourself. [i](You lose 3 life unless you discard a card or sacrifice a nonland.)[/i]
+
+Wonderland
+
+Clue (ALICE)
+artist: Spicy Horse => 
+
+Ghoulia Yelps
+rules_text: Fearlead — {2}: You gain X life and surveil X, where X is the number of colors among permanents you control. [i](Activate only if Ghoulia entered or attacked this turn and only once.)[/i] => {T}: Add {C}. Spend it only to fearlead.
+Fearlead — {2}: You gain X life and surveil X, where X is the number of colors among permanents you control. [i](Activate only if Ghoulia entered or attacked this turn and only once.)[/i]
+flavor_text: [i]Though slow to act, she's undoubtedly the braaaiiiinnnss of the group.[/i] => [i]The braaaiiiinnnss of the group.[/i]
+
+Clawdeen Wolf
+rules_text: Flash
+Fearlead[i] — [/i]{3}, Pay 3 life: Put X +1/+1 counters on Clawdeen, where X is the number of colors among permanents you control. [i](Activate only if Clawdeen entered or attacked this turn and only once.)[/i] => Clawdeen enters tapped.
+Fearlead[i] — [/i]{3}: Put X +1/+1 counters on Clawdeen, where X is the number of colors among permanents you control. [i](Activate only if Clawdeen entered or attacked this turn and only once.)[/i]
+pt: 2/2 => 3/2
+
+Robecca Steam
+rules_text: When Robecca enters, draw a card.
+{UB}, Discard a card: Return Robecca from your graveyard to the battlefield with a finality counter on her. She's an artifact. [i](She's not a creature. She likely never will be again. Sorry.)[/i] => When Robecca enters, draw a card, then discard a card.
+[i]Break Down[/i] — {UB}: Return Robecca from your graveyard to the battlefield with a finality counter on her. She's an artifact. [i](She's not a creature. She likely never will be again. Sorry.)[/i]
+pt: 4/2 => 5/3
+
+Draculaura
+rules_text: When Draculaura enters, for each color other than black, you may behold a creature of that color. If you do, you lose 1 life and create a tapped Treasure token. [i](To behold, choose a matching permanent you control or reveal one from your hand.)[/i]
+Fearlead — {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}: Mill five cards. Put each creature card from among them onto the battlefield. => When Draculaura enters, if you control a white permanent, you may create a tapped Treasure token and lose 1 life. Repeat this process for blue, red, and green.
+Fearlead — {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}: Mill six cards. Put each creature card from among them onto the battlefield. [i](Activate only if Draculaura entered or attacked this turn and only once.)[/i]
+
+Jiji of the Thirteen Wishes
+rules_text: Flying
+{2}, {T}: If it's your turn, choose one or more.
+• You lose 1 life. Create a Treasure token.
+• You lose 2 life. Draw a card.
+• You lose 3 life. Target player loses 3 life.
+• You lose 7 life. Destroy all creatures. => Flying
+{1}, {T}: Choose one you haven't chosen yet.
+• You lose 1 life. Create a Treasure token.
+• You lose 2 life. Draw a card.
+• You lose 3 life. Return target creature card from your graveyard to your hand.
+• You lose 7 life. Each player sacrifices two creatures.
+pt: 0/3 => 1/3
+
+Graze the Grass
+rules_text: Target creature gets +3/+0 and gains first strike until end of turn. => Until end of turn, target creature you control gets +3/+0 and gains “When this creature dies, exile the top card of your library. You may play it until the end of your next turn.”
+
+Liu Assoc. Footsoldier
+pt: 2/1 => 1/1
+
+Old G. Corp Footsoldier
+rules_text: Haste
+When this creature dies, create a 1/1 red Soldier creature token. => Haste
+{1}{R}, Exile this card from your graveyard: Create a tapped 1/1 red Soldier creature token.
+
+Front of the Smoke War
+rules_text: When this enchantment enters, create two 1/1 red Soldier creature tokens.
+Whenever a creature you control dies, this enchantment deals 2 damage to each opponent. This ability triggers only once each turn. => When this enchantment enters, create two 1/1 red Soldier creature tokens.
+At the beginning of combat on your turn, you may sacrifice a creature. If you do, this enchantment deals 2 damage to target player.
+
+Liu Skirmish
+cost: {X}{R} => {2}{R}
+rules_text: Create X 1/1 red Soldier creature tokens. => As an additional cost to cast this spell, sacrifice a creature or pay {2}.
+Create three 1/1 red Soldier creature tokens.
+flavor_text: [i]Always deployed to the battlefield blazing hot.[/i] => [i]Always deployed to the field blazing hot.[/i]
+
+R. Corp 4th Pack Rabbit
+rules_text: During your turn, this creature has first strike.
+Whenever a creature you control dies, you may exile the top card of your library. You may play that card until the end of your next turn. Do this only once each turn. => During your turn, this creature has first strike.
+Whenever another creature you control dies, you may exile the top card of your library. You may play that card until the end of your next turn. Do this only once each turn.
+
+Valiant Thumb Sodalto
+rules_text: Haste
+Whenever a creature you control dies, this creature gets +1/+0 and gains trample until end of turn.
+Mountaincycling {2} => Trample, haste
+Whenever a creature you control dies, this creature gets +1/+0 until end of turn.
+Mountaincycling {2}
+
+Discipline
+cost: {2}{R} => {6}{R}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Creatures you control get +3/+0 until end of turn. => As an additional cost to cast this spell, sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
+Creatures you control get +3/+0 and gain trample and haste until end of turn.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Garnet, Stoic Fusion added.

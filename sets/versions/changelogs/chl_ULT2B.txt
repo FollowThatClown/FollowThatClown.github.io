@@ -1,4 +1,339 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Strike 5 added.
+
+Cat Token (007) removed.
+Flying Circus Hangar removed.
+Orient Express Station removed.
+Reactor Room removed.
+Spy Token (007) removed.
+Villainous Lair removed.
+Weapon Token (007) removed.
+Ejector Seat removed.
+I Expect You to Die removed.
+Local Contact removed.
+Scheming Operative removed.
+M, Head of MI6 removed.
+Rocket Belt removed.
+Compact Autogyro removed.
+James Bond, 007 removed.
+Mastermind's Orders removed.
+SPECTRE Fixers removed.
+Godless Shrine (DISC) removed.
+Archdemon's Thrall removed.
+
+Disney World
+
+On An Adventure (DYW)
+type: Token => Reminder
+
+Neighborhood 12358W
+
+V Tower
+
+Coy Fox
+rules_text: Lifelink
+[i]Tamed [/i]— At the beginning of combat on your turn, another target modified creature gains first strike until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Lifelink
+[i]Tamed [/i]— At the beginning of combat on your turn, up to one other target modified creature gains first strike until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Goodbye
+flavor_text: [i]“She cast her fragrance and her radiance over me. I ought never to have run away from her . . .”[/i] => [i]“She cast her fragrance and her radiance over me. I ought never to have run away from her.”[/i]
+
+Serious Businessman
+rules_text: Ward {1}
+When this creature enters, put a +1/+1 counter on target creature.
+Other modified creatures you control get +1/+1. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Plainscycling {2} => Ward {2}
+When this creature enters, put a +1/+1 counter on target creature.
+Other modified creatures you control get +1/+1. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Plainscycling {2}
+
+Anywhere (MTX)
+
+Envy, Cruel Impostor
+
+Fifth Laboratory
+
+Choral Chambers
+
+Gold Stash
+
+The American Frontier
+
+Ankh-Morpork Besieged
+flavor_text: [i]It takes a very specific kind of person to grow old working the Night Watch.[/i] => [i][/i]
+
+Discworld
+
+Lord Vetinari, the Patrician
+pt: 2/3 => 3/3
+
+K/DA Tower
+
+Abyssal Baths
+rules_text: [i]({T}: Add {B}.)[/i]
+This land enters tapped unless you control a basic land.
+{4}{B}{B}, {T}, Sacrifice this land and a creature: Target player loses life equal to the sacrificed creature's power. You gain life equal to its toughness. => [i]({T}: Add {B}.)[/i]
+This land enters tapped unless you control a basic land.
+{3}{B}{B}, {T}, Sacrifice this land and a creature: Target player loses life equal to the sacrificed creature's power.
+
+Brain Leech
+rules_text: When this creature enters, you may return up to one target creature card from your graveyard to your hand. If you don't, amass Skeletons 2. [i](Put two +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i] => Deathtouch
+When this creature enters, choose one —
+• Return target creature card from your graveyard to your hand. 
+• Amass Skeletons 2. [i](Put two +1/+1 counters on an Army you control. It's also a Skeleton. If you don't control an Army, create a 0/0 black Skeleton Army creature token first.)[/i]
+flavor_text: [i]A sharp pain is felt atop your head and a thought stabs into your mind —
+[b][/i]“SHARE KNOWLEDGE???”[i][/b][/i] => [i][/i]
+
+Pael, the Melting Dragon
+rules_text: Trample
+Graft 6 [i](Pael enters with six +1/+1 counters on him. Whenever a creature enters, you may move a +1/+1 counter from Pael onto that creature.)[/i]
+Whenever Pael or another creature you control dies, if it was modified, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Trample
+Graft 6 [i](Pael enters with six +1/+1 counters on him. Whenever a creature enters, you may move a +1/+1 counter from Pael onto that creature.)[/i]
+Whenever Pael or another creature you control dies, if it was modified, you gain 1 life and draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+flavor_text: [i]“Take a part of me to ease your burdens.”[/i] => [i][/i]
+
+The Spire
+
+Time's Up
+cost: {3}{B} => {2}{B}
+rules_text: Destroy target creature. If you controlled it, Time's Up deals damage equal to its power to any target and you gain that much life. => Destroy target creature. If a creature you control is destroyed this way, Time's Up deals damage equal to its power to any target. Otherwise, you lose 3 life.
+
+Adoring Swatchlings
+rules_text: When this creature enters, draw a card, then discard a card.
+{4}{U}: Return this card from your graveyard to the battlefield with a finality counter. Activate only as a sorcery. => When this creature enters, draw a card, then discard a card.
+{4}{U}: Return this card from your graveyard to the battlefield with a finality counter on it.
+
+Cool Robot Disguise
+cost: {2} => {1}
+
+Cyber City
+
+Annoying Addisons
+pt: 2/3 => 3/3
+
+Watch Our Moves
+rules_text: Choose one —
+• [i]Sweet — [/i]Target player draws two cards, then discards a card.
+• [i]Cap'n — [/i]Tap up to two target artifacts and/or creatures.
+• [i]Cakes —[/i] Return target creature to its owner's hand. => Choose one —
+• [i]Sweet — [/i]Target player draws two cards, then discards a card.
+• [i]Cap'n — [/i]Tap up to two target artifacts and/or creatures.
+• [i]Cakes —[/i] Return target permanent with mana value 1, 2, or 3 to its owner's hand.
+
+Berdly, Light Nerd
+rules_text: Flying
+Berdly gets +X/+0, where X is the number of artifacts you control.
+Destiny — {6}{U}{U}, {T}: Draw three cards. Activate only as a sorcery. [i](This costs {6} less if you've resolved a Destiny ability this game.)[/i] => Flying
+As long as you control three or more artifacts, Berdly has base power 5.
+Destiny — {6}{U}{U}, {T}: Draw three cards. Activate only as a sorcery. [i](This costs {6}{U}{U} less if you've resolved a Destiny ability this game.)[/i]
+
+Castle Dimitrescu
+
+Byrd Egg
+rules_text: {2}, {T}, Sacrifice Byrd Egg: Draw a card. You gain 3 life.
+{2}{R}, {T}: Transform Byrd Egg. => {2}, {T}, Sacrifice Byrd Egg: Draw a card. You gain 3 life.
+{1}{R}, {T}: Transform Byrd Egg.
+
+Amalgamator
+rules_text: Strikes you control have trample.
+{2}, Sacrifice two creatures: Strike 7. [i](Create a tapped and attacking 7/1 red Strike during your next combat. Sacrifice it after combat. Yes, you can sacrifice Strikes to this first.)[/i] => Strikes you control have trample.
+Sacrifice two creatures: Strike 7. Activate only during your turn. [i](Create a tapped and attacking 7/1 red Strike during your next combat. Sacrifice it after combat. Yes, you can sacrifice Strikes to this first.)[/i]
+
+The Spire
+
+Brightsteel Protector
+rules_text: Flash
+This creature enters tapped if it's not your turn.
+When this creature enters, another target creature you control gains hexproof and indestructible until end of turn. => Flash
+This creature enters tapped.
+When this creature enters, up to one target creature gains hexproof and +0/+2 until end of turn.
+
+Cithria the Bold
+rules_text: When Cithria enters, other creatures you control get +1/+1 and gain vigilance until end of turn.
+Basic landcycling {2} => When Cithria enters, other creatures you control get +1/+1 and gain vigilance until end of turn.
+Plainscycling {2}
+
+Galio, the Colossus
+cost: {6}{W}{W} => {5}{W}{W}
+pt: 7/7 => 6/6
+
+Garen, the Might of Demacia
+rules_text: Vigilance
+Exhaust — {6}{W}: Create a 3/3 white Human Soldier creature token with vigilance. This ability costs {5} less to activate if a player has cast two or more spells this turn. [i](Activate each exhaust ability only once.)[/i] => Double strike
+Plainscycling {2}
+pt: 4/4 => 3/3
+
+Kayle, Daughter of Justice
+rules_text: Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/4 Avatar creature with flying and indestructible.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying, vigilance, and indestructible until end of turn. => Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/3 Avatar creature with flying. Prevent all damage that would be dealt to her this turn.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying, vigilance, and indestructible until end of turn.
+special_text: Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/4 Avatar creature with flying and indestructible.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying, vigilance, and indestructible until end of turn. => Whenever a creature an opponent controls enters, put a loyalty counter on Kayle.
+[0]: Until end of turn, Kayle becomes a 3/3 Avatar creature with flying. Prevent all damage that would be dealt to her this turn.
+[-3]: Destroy target artifact, enchantment, or tapped creature.
+[-8]: Creatures you control get +2/+2 and gain flying, vigilance, and indestructible until end of turn.
+
+Lucian, the Purifier
+cost: {2}{W} => {1}{W}
+rules_text: Lucian has first strike during your turn.
+Whenever Lucian attacks, you may pay {2}. If you do, tap target creature an opponent controls. => Lucian has first strike during your turn.
+Whenever Lucian attacks, you may pay {2}. When you do, tap target creature.
+[i]The Culling[/i] — {3}{W}{W}, Discard Lucian: Lucian deals 3 damage to each tapped creature. Activate only as a sorcery.
+pt: 3/1 => 2/1
+
+Lux, the Light of Demacia
+
+Citadel of Dawn
+
+Grand Plaza
+rules_text: This land enters tapped unless you pay 2 life or you control two or more creatures. As it enters, choose a color other than white.
+{T}: Add {W} or one mana of the chosen color. => This land enters tapped unless you control two or more creatures. As it enters, choose two colors.
+{T}: Add one mana of a chosen color.
+
+Petricite Grove
+rules_text: {T}, Pay 1 life, Sacrifice this land: Target player may search their library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control two or fewer lands, untap that land. Otherwise, put a vigilance counter on target creature you control. => {T}, Sacrifice Petricite Grove: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. When that land enters, untap it if you control two or fewer lands.
+
+On An Adventure (DEM)
+rules_text: ​ => 
+
+Slippery Bridge
+rules_text: This land enters tapped. 
+When this land enters, you gain 2 life and choose a color.
+{T}: Add one mana of the chosen color.
+{3}, {T}, Sacrifice this land: Return target permanent you own to your hand. => When this land enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Cycling {2}
+
+Dark Orb
+rules_text: When Dark Orb enters, create a 2/2 black Elemental creature token. Put a +1/+1 counter on it if there are four or more card types among cards in your graveyard. If Dark Orb was evoked, this ability triggers an additional time.
+Evoke {4}{U} [i](You may cast this for {4}{U}. If you do, it's sacrificed when it enters.)[/i] => When Dark Orb enters or is put into a graveyard from the battlefield, create a 3/2 black Elemental creature token. Put a +1/+1 counter on it if there are four or more card types among cards in your graveyard.
+{5}: Sacrifice Dark Orb.
+Evoke {5}{U} [i](You may cast this for {4}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+The Defect
+rules_text: When The Defect enters, look at the top five cards of your library. You may reveal an an artifact or enchantment card from among them. Put it into your hand and the rest on the bottom of your library in a random order.
+{T}: Add {C}. You can't spend this mana to cast spells, except artifact or enchantment spells. => When The Defect enters, reveal the top five cards of your library. Put an artifact or enchantment card from among them into your hand and the rest on the bottom of your library in a random order.
+{T}: Add {C}. You can't spend this mana to cast spells, except artifact or enchantment spells.
+
+Flaw
+rules_text: Vigilance, ward {2}
+Exile Flaw: Return any number of permanents you own to your hand. => Vigilance
+Exile Flaw: Until end of turn, target artifact or enchantment gains “When this permanent is put into a graveyard from the battlefield, return it to the battlefield under its owner's control.”
+flavor_text: [i][/i] => [i]Emerging from the same scrapheap, it and The Defect were an unmatched pair . . . but the Spire would never allow it to last.[/i]
+pt: 3/2 => 3/3
+
+Frost Orb
+cost: {U} => {1}{U}
+rules_text: When Frost Orb enters, tap up to one target artifact or creature and put a stun counter on it. If Frost Orb was evoked, this ability triggers an additional time.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i] => When Frost Orb enters or is put into a graveyard from the battlefield, tap up to one target artifact or creature and put two stun counters on it.
+{5}: Sacrifice Frost Orb.
+Evoke {5}{U} [i](You may cast this for {5}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Hologram
+pt: 4/2 => 4/3
+
+Lightning Orb
+rules_text: When Lightning Orb enters, create a 2/2 red Elemental creature token. If Lightning Orb was evoked, this ability triggers an additional time.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i] => When Lightning Orb enters or is put into a graveyard from the battlefield, create a 2/2 red Elemental creature token.
+{5}: Sacrifice Lightning Orb.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Plasma Orb
+cost: {U} => {1}{U}
+rules_text: When Plasma Orb enters, return up to one target permanent you control to its owner's hand. Draw a card. If Plasma Orb was evoked, this ability triggers an additional time.
+If Plasma Orb would leave the battlefield, shuffle it into its owner's library instead.
+Evoke {2}{U} [i](You may cast this for {2}{U}. If you do, it's sacrificed when it enters.)[/i] => When Plasma Orb enters or is put into a graveyard from the battlefield, mill two cards. Put one of them into your hand.
+{5}: Sacrifice Plasma Orb.
+Evoke {3}{U} [i](You may cast this for {3}{U}. If you do, it's sacrificed when it enters.)[/i]
+
+Rocket Boosters
+cost: {3} => {2}{U}
+rules_text: Flash
+When Rocket Boosters enters, attach it to up to one target creature.
+Equipped creature gets +1/+3 and has flying.
+Equip {4}{U} => Flash
+When Rocket Boosters enters, attach it to up to one target creature.
+Equipped creature gets +1/+3 and has flying.
+Equip {5}
+
+Rocket Fist
+cost: {1} => {1}{U}
+rules_text: Flash
+When Rocket Fist enters, return up to one other target artifact or enchantment to its owner's hand.
+Equipped creature gets +3/+1 and has reach.
+Equip {3}{U} => Flash
+When Rocket Fist enters, return up to one other target nonland permanent with mana value 3 or less to its owner's hand.
+Equipped creature gets +3/+1 and has reach.
+Equip {4}
+
+Darv, The Hoarder
+rules_text: When Darv enters, create three tapped Treasure tokens, then exile the top three cards of target opponent's library face down. For as long as they're exiled, you may look at them, and may play them by sacrificing a nontoken, nonland permanent in addition to their other costs. => When Darv enters, create three Treasure tokens, then exile the top three cards of target opponent's library face down. For as long as they're exiled, you may look at them, and may play them by sacrificing a nonland permanent in addition to their other costs.
+
+Drowning Beacon
+rules_text: This land enters tapped unless you pay 2 life.
+{T}: Add {U}.
+Exhaust — {1}, {T}, Discard a card: Look at the top five cards of your library. You may reveal a noncreature, nonland card from among them. Put it into your hand and the rest on the bottom of your library in a random order. [i](Activate each exhaust ability only once.)[/i] => This land enters tapped unless you pay 2 life.
+{T}: Add {U}.
+Exhaust — {1}, {T}, Discard a card: Look at the top five cards of your library. You may reveal an artifact or enchantment card from among them. Put it into your hand and the rest on the bottom of your library in a random order. [i](Activate each exhaust ability only once.)[/i]
+
+The Spire
+
+Elemental (DFCT) 2
+pt: 2/2 => 3/2
+
+Go Our Separate Ways
+rules_text: This spell costs {1} less to cast for each nonland permanent you control.
+Put each nonland permanent you own on the bottom of your library, then reveal the top ten cards of your library. Put up to three nonland permanent cards with total mana value 10 or less from among those cards onto the battlefield. Shuffle. => Affinity for creatures [i](This spell costs {1} less to cast for each creature you control.)[/i]
+Put each creature you control on the bottom of their owners' library, then reveal the top eight cards of your library. Put up to three nonland permanent cards with total mana value 8 or less from among those cards onto the battlefield. Shuffle.
+
+Haru
+flavor_text: [i]“A wolf like you wouldn't get it, but us weak animals need to work together. It's the only way we can survive.”[/i] => [i]“The world is always going to see him as a wolf before a male, and me as a rabbit before a female. Forever. That's how it is.”[/i]
+
+Louis, Black Market Boss
+type: Legendary Creature — Elk Performer => Legendary Creature — Elk Performer Rogue
+rules_text: Flash
+Exhaust — {3}{G}: Put a +1/+1 counter on target creature. It gains “When this creature leaves the battlefield, you may draw cards equal to its power. If you do, discard three cards and create two Food tokens.” [i](Activate each exhaust ability only once.)[/i] => Flash
+Exhaust — {3}{G}: Put a +1/+1 counter on target creature. It gains “When this leaves the battlefield, draw a card and create a Food token. If it had power 4 or greater, instead draw two cards and create two Food tokens .” [i](Activate each exhaust ability only once.)[/i]
+
+Riz, Disguised Devourer
+rules_text: Reach
+When Riz enters, sacrifice a nontoken creature unless you pay {3}{G}.
+[i]Ferocious[/i] — Whenever a creature you control with power 4 or greater becomes the target of a spell or ability, draw a card and create a Food token. This ability triggers only only once each turn. => Reach
+When Riz enters, sacrifice a nontoken creature unless you pay {3}{G}.
+[i]Ferocious[/i] — Whenever a creature you control with power 4 or greater becomes the target of a spell or ability an opponent controls, you may draw a card and create a Food token.
+pt: 7/7 => 7/6
+
+Legosi
+rules_text: Reach, vigilance
+Legosi can't block or be blocked by creatures with power 2 or less.
+Whenever a player attacks, investigate X times, where X is the number of attacking creatures with power 4 or greater. => Reach, vigilance
+Legosi can't block or be blocked by creatures with power 2 or less.
+Whenever you attack, investigate X times, where X is the number of creatures you control with power 4 or greater.
+
+Melon, Cruel Crime Lord
+pt: 3/4 => 3/3
+
+Cherryton Academy
+rules_text: Cherryton Academy enters tapped unless you control a basic land.
+{T}: Add {G}.
+{1}, {T}, Sacrifice a token: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+{3}, {T}: Create a Food token. => Cherryton Academy enters tapped unless you control a basic land.
+{T}: Add {G}.
+{3}, {T}: Put a +1/+1 counter on target creature. Create a Food token. Activate only as a sorcery.
+
+Food (BEAST) 2
+flavor_text: [i]“There are [/i]so many[i] rabbits. We die, no one cares. Then one day, a wolf appears saying ‘You're the one. My life is about you.' How am I supposed to react?”
+—Haru[/i] => [i]“There are so many rabbits. We die and no-one cares. Then one day, a wolf appears saying ‘You're the one. My life is about you from now on.' How am I supposed to react?”[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
